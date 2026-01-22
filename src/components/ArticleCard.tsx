@@ -24,11 +24,6 @@ const ArticleCard = ({ article }: ArticleCardProps) => {
         <p className="text-sm text-muted-foreground leading-relaxed line-clamp-2">
           {article.excerpt}
         </p>
-        <div className="flex items-center gap-2 text-xs text-muted-foreground pt-2">
-          <span>{article.author}</span>
-          <span>·</span>
-          <span>{article.readTime}</span>
-        </div>
       </div>
     </article>
   );
