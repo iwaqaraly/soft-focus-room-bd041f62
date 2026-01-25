@@ -179,7 +179,8 @@ export const articles: Article[] = [
       },
       {
         title: "21. Family-Friendly King Bed",
-        content: "Family-friendly king beds are designed for shared sleeping with kids or pets. They emphasize durability and space.\n\nThis bed supports modern family lifestyles where flexibility matters. If co-sleeping is common, this king size offers peace of mind and comfort."
+        content: "Family-friendly king beds are designed for shared sleeping with kids or pets. They emphasize durability and space.\n\nThis bed supports modern family lifestyles where flexibility matters. If co-sleeping is common, this king size offers peace of mind and comfort.",
+        image: "/assets/king-bed-21.webp"
       }
     ],
     faqs: [
