@@ -405,5 +405,102 @@ export const articles: Article[] = [
         answer: "Jacuzzis can be made from acrylic, wood, stone, or composite materials. Acrylic is durable and low-maintenance, wood provides a rustic, natural feel, and stone or tiled finishes add luxury and elegance. Choose materials based on aesthetics, durability, and climate considerations for your backyard."
       }
     ]
+  },
+  {
+    id: "14",
+    title: "Bedroom Earth Tones: 22 Cozy Neutral Ideas",
+    excerpt: "Discover warm, grounding color palettes that transform your bedroom into a peaceful retreat with timeless earth-inspired neutrals.",
+    category: "Bedroom",
+    image: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80",
+    sections: [
+      {
+        title: "1. Warm Beige Sanctuary",
+        content: "Warm beige tones create a calming foundation that instantly makes a bedroom feel cozy and inviting. This neutral shade reflects natural light beautifully, making it ideal for both small and large bedrooms. Beige walls paired with soft textures bring warmth without overwhelming the space.\n\nLayer beige with linen bedding, wool throws, and subtle wood accents for depth. The result is a peaceful retreat that feels timeless and effortlessly stylish, perfect for everyday relaxation."
+      },
+      {
+        title: "2. Soft Taupe Elegance",
+        content: "Taupe blends gray and brown, offering a refined and soothing earth tone for bedrooms. It creates a balanced backdrop that feels sophisticated yet warm, making it ideal for modern or transitional interiors.\n\nPair taupe walls with cream bedding, wooden furniture, and matte metal accents. This combination adds subtle contrast while maintaining a cozy, grounded atmosphere that promotes rest and relaxation."
+      },
+      {
+        title: "3. Cream and Sand Layers",
+        content: "Cream and sand tones create a light, airy bedroom that still feels warm and grounded. These shades work beautifully together, reflecting natural light while maintaining a cozy, neutral palette.\n\nLayer different fabrics like cotton, linen, and knit throws to avoid a flat look. This approach adds dimension and softness, making the bedroom feel serene and welcoming."
+      },
+      {
+        title: "4. Earthy Brown Accents",
+        content: "Earthy brown tones add depth and richness to neutral bedrooms. When used in accents like headboards, throw pillows, or rugs, brown grounds the space and adds warmth.\n\nCombine brown with lighter neutrals like beige or cream to maintain balance. Wooden furniture and leather textures enhance the natural, cozy feel, creating a comforting bedroom atmosphere."
+      },
+      {
+        title: "5. Clay and Terracotta Touches",
+        content: "Clay and terracotta tones bring warmth and personality to a neutral bedroom. These earthy hues add subtle color while staying true to a natural palette.\n\nUse them in accent walls, cushions, or pottery. Paired with soft whites and natural wood, clay tones create a cozy, Mediterranean-inspired bedroom that feels both relaxed and stylish."
+      },
+      {
+        title: "6. Olive Green Calm",
+        content: "Olive green is a grounding earth tone that connects the bedroom to nature. It's soothing, cozy, and ideal for creating a restful sleeping environment.\n\nPair olive walls or textiles with beige, cream, or light wood. Add plants for a layered, organic look that enhances the calming, natural feel of the space."
+      },
+      {
+        title: "7. Greige Modern Comfort",
+        content: "Greige combines gray and beige, offering a modern yet warm neutral option. It's versatile and works well in contemporary or minimalist bedrooms.\n\nLayer greige walls with soft textiles and warm wood tones to prevent the room from feeling cold. This balance creates a cozy, polished look that feels effortlessly modern."
+      },
+      {
+        title: "8. Natural Wood Focus",
+        content: "Natural wood tones instantly warm up a bedroom and add organic texture. Whether used in furniture, flooring, or decor, wood grounds the space beautifully.\n\nCombine light or medium wood with neutral walls and bedding. This approach creates a cozy, nature-inspired bedroom that feels timeless and calming."
+      },
+      {
+        title: "9. Linen and Cotton Neutrals",
+        content: "Linen and cotton fabrics enhance the cozy feel of earth-toned bedrooms. Their natural texture adds softness and visual interest without overpowering the space.\n\nUse neutral-colored bedding, curtains, and cushions to maintain a calm palette. These breathable fabrics make the bedroom feel relaxed, comfortable, and effortlessly stylish."
+      },
+      {
+        title: "10. Stone-Inspired Tones",
+        content: "Stone-inspired shades like warm gray, pebble, and soft taupe bring an organic, spa-like feel to bedrooms. These tones feel grounded and soothing.\n\nPair stone hues with textured walls, layered bedding, and subtle lighting. The result is a cozy, minimalist bedroom that promotes calm and balance."
+      },
+      {
+        title: "11. Earth Tone Accent Wall",
+        content: "An earth-tone accent wall adds depth without overwhelming the bedroom. Shades like clay, olive, or warm brown create a focal point while maintaining coziness.\n\nBalance the accent wall with lighter neutrals in bedding and decor. This keeps the space visually calm and cohesive, perfect for a restful bedroom design."
+      },
+      {
+        title: "12. Beige and Black Contrast",
+        content: "Beige paired with subtle black accents creates a cozy yet modern bedroom. The contrast adds definition while maintaining a neutral, grounded feel.\n\nUse black sparingly in lighting, frames, or furniture. This combination adds sophistication without sacrificing warmth or comfort."
+      },
+      {
+        title: "13. Textured Neutral Rugs",
+        content: "Neutral rugs with texture add warmth and comfort underfoot. They anchor the bedroom while enhancing the cozy atmosphere.\n\nChoose wool, jute, or woven rugs in earth tones. These materials add natural texture and help tie together the neutral color palette seamlessly."
+      },
+      {
+        title: "14. Soft Mocha Palette",
+        content: "Mocha tones create a rich yet calming bedroom environment. This warm neutral adds depth while still feeling cozy and inviting.\n\nPair mocha with cream bedding and light wood furniture. The result is a balanced, elegant bedroom that feels warm and comforting."
+      },
+      {
+        title: "15. Neutral Boho Style",
+        content: "Earth tones are a perfect match for boho-inspired bedrooms. Beige, sand, and clay tones layered with textures create a relaxed, cozy look.\n\nAdd woven decor, macramé, and natural fibers. This approach creates warmth and personality while staying grounded in neutral earth tones."
+      },
+      {
+        title: "16. Minimal Earth Tones",
+        content: "Minimalist bedrooms benefit from earth tones that soften clean lines. Warm neutrals prevent the space from feeling cold or sterile.\n\nUse a limited palette of beige, taupe, and wood. Focus on quality textures to maintain a cozy yet uncluttered bedroom aesthetic."
+      },
+      {
+        title: "17. Warm Gray Comfort",
+        content: "Warm gray tones strike a balance between modern and cozy. Unlike cool grays, warm gray feels inviting and restful.\n\nPair with cream accents and wooden furniture to enhance warmth. This palette works well in contemporary bedrooms that still prioritize comfort."
+      },
+      {
+        title: "18. Earth Tone Bedding Layers",
+        content: "Layering bedding in earth tones adds visual interest and comfort. Mix shades like sand, taupe, and soft brown for depth.\n\nUse different textures to enhance coziness. This approach creates a luxurious, inviting bed that becomes the focal point of the bedroom."
+      },
+      {
+        title: "19. Matte Neutral Finishes",
+        content: "Matte finishes in neutral tones create a soft, understated bedroom look. They absorb light gently, adding warmth to the space.\n\nUse matte paint, ceramics, and decor for a cohesive aesthetic. This subtle approach enhances coziness while keeping the design modern and refined."
+      },
+      {
+        title: "20. Earth Tones with Soft Lighting",
+        content: "Lighting plays a major role in enhancing earth tones. Warm, soft lighting makes neutral colors feel richer and more inviting.\n\nUse table lamps, wall sconces, or warm LEDs. This setup creates a cozy, relaxing environment perfect for winding down."
+      },
+      {
+        title: "21. Neutral Scandinavian Style",
+        content: "Scandinavian bedrooms often use earth tones to create warmth and simplicity. Beige, warm gray, and light wood are key elements.\n\nKeep decor minimal but focus on texture and comfort. This creates a cozy, functional bedroom that feels calm and inviting."
+      },
+      {
+        title: "22. Earth Tones with Greenery",
+        content: "Adding greenery to an earth-tone bedroom enhances the natural feel. Plants add life, color, and freshness without disrupting the neutral palette.\n\nUse potted plants or hanging greenery sparingly. This final touch creates a balanced, cozy bedroom that feels connected to nature."
+      }
+    ]
   }
 ];
