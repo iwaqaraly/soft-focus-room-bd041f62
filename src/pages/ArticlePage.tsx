@@ -48,13 +48,6 @@ const ArticlePage = () => {
           </p>
         </header>
 
-        <div className="aspect-[16/9] overflow-hidden mb-12">
-          <img
-            src={article.image}
-            alt={article.title}
-            className="w-full h-full object-cover"
-          />
-        </div>
 
         {article.sections && article.sections.length > 0 && (
           <div className="space-y-12">
