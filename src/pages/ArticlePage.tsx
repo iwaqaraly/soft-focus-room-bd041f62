@@ -2,7 +2,12 @@ import { useParams, Link } from "react-router-dom";
 import PageLayout from "@/components/PageLayout";
 import { articles } from "@/data/articles";
 import { ArrowLeft } from "lucide-react";
-
+import {
+  Accordion,
+  AccordionContent,
+  AccordionItem,
+  AccordionTrigger,
+} from "@/components/ui/accordion";
 const ArticlePage = () => {
   const { id } = useParams<{ id: string }>();
   const article = articles.find((a) => a.id === id);
@@ -63,6 +68,26 @@ const ArticlePage = () => {
                 </div>
               </section>
             ))}
+          </div>
+        )}
+
+        {article.faqs && article.faqs.length > 0 && (
+          <div className="mt-16">
+            <h2 className="text-2xl md:text-3xl font-medium text-foreground mb-8">
+              Frequently Asked Questions About King Size Beds
+            </h2>
+            <Accordion type="single" collapsible className="w-full">
+              {article.faqs.map((faq, index) => (
+                <AccordionItem key={index} value={`faq-${index}`}>
+                  <AccordionTrigger className="text-left text-base md:text-lg font-medium">
+                    {faq.question}
+                  </AccordionTrigger>
+                  <AccordionContent className="text-muted-foreground leading-relaxed">
+                    {faq.answer}
+                  </AccordionContent>
+                </AccordionItem>
+              ))}
+            </Accordion>
           </div>
         )}
       </article>
