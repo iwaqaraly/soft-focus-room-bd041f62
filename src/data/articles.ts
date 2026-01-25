@@ -1,6 +1,7 @@
 export interface ArticleSection {
   title: string;
   content: string;
+  image?: string;
 }
 
 export interface FAQ {
@@ -78,43 +79,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Standard King Bed (US King)",
-        content: "The Standard King bed is one of the most popular luxury bed sizes, offering generous sleeping space for couples. It's ideal for master bedrooms where comfort is a priority. With ample width, it allows both sleepers to stretch freely without disturbing each other, making it perfect for light sleepers.\n\nThis size works best in medium-to-large bedrooms and pairs beautifully with statement headboards. It's also great for parents who occasionally co-sleep with kids. If you value personal space and a premium bedroom feel, this king size is a reliable and timeless choice."
+        content: "The Standard King bed is one of the most popular luxury bed sizes, offering generous sleeping space for couples. It's ideal for master bedrooms where comfort is a priority. With ample width, it allows both sleepers to stretch freely without disturbing each other, making it perfect for light sleepers.\n\nThis size works best in medium-to-large bedrooms and pairs beautifully with statement headboards. It's also great for parents who occasionally co-sleep with kids. If you value personal space and a premium bedroom feel, this king size is a reliable and timeless choice.",
+        image: "/assets/king-bed-01.webp"
       },
       {
         title: "2. California King Bed",
-        content: "The California King bed is designed for people who need extra length rather than extra width. Taller sleepers often prefer this option because it provides better legroom without compromising comfort. It's a smart choice for narrow but long bedrooms.\n\nThis bed size adds a sleek, upscale look to the room and is commonly seen in luxury homes and hotels. While slightly narrower than a standard king, it still feels spacious. If height is your main concern, the California King offers both comfort and refined aesthetics."
+        content: "The California King bed is designed for people who need extra length rather than extra width. Taller sleepers often prefer this option because it provides better legroom without compromising comfort. It's a smart choice for narrow but long bedrooms.\n\nThis bed size adds a sleek, upscale look to the room and is commonly seen in luxury homes and hotels. While slightly narrower than a standard king, it still feels spacious. If height is your main concern, the California King offers both comfort and refined aesthetics.",
+        image: "/assets/king-bed-02.webp"
       },
       {
         title: "3. Split King Bed",
-        content: "A Split King bed is essentially two twin XL mattresses placed side by side. This design allows couples to customize firmness on each side, making it ideal for different sleep preferences. It's especially popular with adjustable bed frames.\n\nThis option is excellent for people with back pain or differing sleep schedules. Motion isolation is a major benefit, as movement on one side doesn't affect the other. If flexibility and personalized comfort matter most, a split king setup is worth considering."
+        content: "A Split King bed is essentially two twin XL mattresses placed side by side. This design allows couples to customize firmness on each side, making it ideal for different sleep preferences. It's especially popular with adjustable bed frames.\n\nThis option is excellent for people with back pain or differing sleep schedules. Motion isolation is a major benefit, as movement on one side doesn't affect the other. If flexibility and personalized comfort matter most, a split king setup is worth considering.",
+        image: "/assets/king-bed-03.webp"
       },
       {
         title: "4. European King Bed",
-        content: "European King beds are slightly different in proportions compared to US kings, offering a balanced mix of width and comfort. They're commonly used in upscale apartments and contemporary homes across Europe and Asia.\n\nThis size fits well in modern interiors where space planning matters. It provides enough room for couples while maintaining a sleek, minimalist look. If you prefer international design standards or imported furniture, a European King bed can be a stylish and practical option."
+        content: "European King beds are slightly different in proportions compared to US kings, offering a balanced mix of width and comfort. They're commonly used in upscale apartments and contemporary homes across Europe and Asia.\n\nThis size fits well in modern interiors where space planning matters. It provides enough room for couples while maintaining a sleek, minimalist look. If you prefer international design standards or imported furniture, a European King bed can be a stylish and practical option.",
+        image: "/assets/king-bed-04.webp"
       },
       {
         title: "5. UK Super King Bed",
-        content: "The UK Super King is larger than a standard UK king, making it one of the most spacious options available. It's perfect for those who want maximum sleeping space without compromise.\n\nThis bed size is ideal for large master bedrooms and luxury homes. It creates a hotel-like experience and allows complete freedom of movement during sleep. If you prioritize comfort, space, and a premium lifestyle, the Super King is an excellent upgrade."
+        content: "The UK Super King is larger than a standard UK king, making it one of the most spacious options available. It's perfect for those who want maximum sleeping space without compromise.\n\nThis bed size is ideal for large master bedrooms and luxury homes. It creates a hotel-like experience and allows complete freedom of movement during sleep. If you prioritize comfort, space, and a premium lifestyle, the Super King is an excellent upgrade.",
+        image: "/assets/king-bed-05.webp"
       },
       {
         title: "6. Texas King Bed",
-        content: "The Texas King bed is designed for extra-large bedrooms and tall individuals. It offers impressive length, making it suitable for people over six feet tall who want unrestricted comfort.\n\nThis bed size is often custom-made and adds a bold, statement feel to any bedroom. It's not ideal for smaller spaces but shines in large homes. If you want a unique, oversized bed that stands out, the Texas King delivers both comfort and wow factor."
+        content: "The Texas King bed is designed for extra-large bedrooms and tall individuals. It offers impressive length, making it suitable for people over six feet tall who want unrestricted comfort.\n\nThis bed size is often custom-made and adds a bold, statement feel to any bedroom. It's not ideal for smaller spaces but shines in large homes. If you want a unique, oversized bed that stands out, the Texas King delivers both comfort and wow factor.",
+        image: "/assets/king-bed-06.webp"
       },
       {
         title: "7. Wyoming King Bed",
-        content: "The Wyoming King bed provides equal emphasis on width and length, making it perfect for families who co-sleep or pet owners. It offers a square-like sleeping surface that feels expansive.\n\nThis bed is best suited for very large rooms and custom interiors. It delivers unmatched comfort and freedom of movement. If you want a bed that truly feels unlimited in space, the Wyoming King is one of the most generous options available."
+        content: "The Wyoming King bed provides equal emphasis on width and length, making it perfect for families who co-sleep or pet owners. It offers a square-like sleeping surface that feels expansive.\n\nThis bed is best suited for very large rooms and custom interiors. It delivers unmatched comfort and freedom of movement. If you want a bed that truly feels unlimited in space, the Wyoming King is one of the most generous options available.",
+        image: "/assets/king-bed-07.webp"
       },
       {
         title: "8. Alaska King Bed",
-        content: "The Alaska King bed is one of the largest mattress sizes in the world. It's designed for people who want absolute maximum space, whether for family sleeping or luxury comfort.\n\nThis size requires a custom bedroom layout and special bedding. It's not practical for most homes but perfect for villas or luxury retreats. If space is not a limitation and comfort is non-negotiable, the Alaska King is unmatched."
+        content: "The Alaska King bed is one of the largest mattress sizes in the world. It's designed for people who want absolute maximum space, whether for family sleeping or luxury comfort.\n\nThis size requires a custom bedroom layout and special bedding. It's not practical for most homes but perfect for villas or luxury retreats. If space is not a limitation and comfort is non-negotiable, the Alaska King is unmatched.",
+        image: "/assets/king-bed-08.webp"
       },
       {
         title: "9. Asian King Bed",
-        content: "Asian King beds are often slightly more compact than Western kings, making them suitable for apartments and urban homes. They balance comfort with space efficiency.\n\nThis size works well in modern Asian interiors where room sizes are optimized. It still offers enough space for couples while fitting neatly into smaller layouts. If you want king-level comfort without overwhelming the room, this is a smart choice."
+        content: "Asian King beds are often slightly more compact than Western kings, making them suitable for apartments and urban homes. They balance comfort with space efficiency.\n\nThis size works well in modern Asian interiors where room sizes are optimized. It still offers enough space for couples while fitting neatly into smaller layouts. If you want king-level comfort without overwhelming the room, this is a smart choice.",
+        image: "/assets/king-bed-09.webp"
       },
       {
         title: "10. Custom King Bed",
-        content: "A custom king bed allows you to define your own dimensions based on room size and personal needs. It's perfect for unique layouts or non-standard bedrooms.\n\nThis option offers complete freedom in design, materials, and comfort. While it may cost more, the result is a bed tailored exactly to your lifestyle. If standard sizes don't work for you, custom is the ultimate solution."
+        content: "A custom king bed allows you to define your own dimensions based on room size and personal needs. It's perfect for unique layouts or non-standard bedrooms.\n\nThis option offers complete freedom in design, materials, and comfort. While it may cost more, the result is a bed tailored exactly to your lifestyle. If standard sizes don't work for you, custom is the ultimate solution.",
+        image: "/assets/king-bed-10.webp"
       },
       {
         title: "11. Adjustable King Bed",

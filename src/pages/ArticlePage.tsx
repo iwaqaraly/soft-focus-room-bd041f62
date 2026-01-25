@@ -60,6 +60,15 @@ const ArticlePage = () => {
           <div className="space-y-12">
             {article.sections.map((section, index) => (
               <section key={index} className="space-y-4">
+                {section.image && (
+                  <div className="aspect-[16/9] overflow-hidden rounded-lg mb-6">
+                    <img
+                      src={section.image}
+                      alt={section.title}
+                      className="w-full h-full object-cover"
+                    />
+                  </div>
+                )}
                 <h2 className="text-xl md:text-2xl font-medium text-foreground">
                   {section.title}
                 </h2>
