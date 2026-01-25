@@ -22,14 +22,6 @@ export interface Article {
 
 export const articles: Article[] = [
   {
-    id: "1",
-    slug: "minimalist-bedroom-design",
-    title: "The Art of Minimalist Bedroom Design",
-    excerpt: "Discover how less can truly be more when creating a serene sleeping space that promotes rest and relaxation.",
-    category: "Bedroom",
-    image: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80"
-  },
-  {
     id: "2",
     slug: "scandinavian-living-room-ideas",
     title: "Scandinavian Living Room Ideas",
@@ -38,28 +30,12 @@ export const articles: Article[] = [
     image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80"
   },
   {
-    id: "3",
-    slug: "perfect-sleep-sanctuary",
-    title: "Creating the Perfect Sleep Sanctuary",
-    excerpt: "Transform your bedroom into a haven of tranquility with these expert tips on color, lighting, and textiles.",
-    category: "Bedroom",
-    image: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&q=80"
-  },
-  {
     id: "4",
     slug: "modern-kitchen-essentials",
     title: "Modern Kitchen Essentials",
     excerpt: "The must-have elements for a contemporary kitchen that balances beauty with functionality.",
     category: "Kitchen",
     image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80"
-  },
-  {
-    id: "5",
-    slug: "bedroom-lighting-mood",
-    title: "Bedroom Lighting That Sets the Mood",
-    excerpt: "From ambient to task lighting, learn how to layer light sources for a bedroom that adapts to your needs.",
-    category: "Bedroom",
-    image: "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&q=80"
   },
   {
     id: "6",
