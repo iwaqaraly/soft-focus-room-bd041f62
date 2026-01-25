@@ -13,7 +13,7 @@ const Index = () => {
           <p className="text-muted-foreground">Curated inspiration for every room</p>
         </header>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12">
-          {articles.slice(0, 5).map((article) => (
+          {articles.slice(-5).reverse().map((article) => (
             <ArticleCard key={article.id} article={article} />
           ))}
         </div>
