@@ -64,7 +64,7 @@ const ArticlePage = () => {
                   {section.title}
                 </h2>
                 {section.image && (
-                  <div className="w-[80%] aspect-[16/9] overflow-hidden rounded-lg">
+                  <div className="aspect-[16/9] overflow-hidden rounded-lg">
                     <img
                       src={section.image}
                       alt={section.title}
