@@ -501,6 +501,48 @@ export const articles: Article[] = [
         title: "22. Earth Tones with Greenery",
         content: "Adding greenery to an earth-tone bedroom enhances the natural feel. Plants add life, color, and freshness without disrupting the neutral palette.\n\nUse potted plants or hanging greenery sparingly. This final touch creates a balanced, cozy bedroom that feels connected to nature."
       }
+    ],
+    faqs: [
+      {
+        question: "What are earth tones in bedroom design?",
+        answer: "Earth tones are colors inspired by nature, such as beige, taupe, brown, clay, sand, olive, and warm gray. In bedroom design, these tones create a calming and cozy atmosphere. They help the space feel grounded and balanced, making them ideal for restful environments where relaxation and comfort are priorities."
+      },
+      {
+        question: "Are earth tones good for small bedrooms?",
+        answer: "Yes, earth tones work very well in small bedrooms, especially lighter shades like cream, sand, and warm beige. These colors reflect light and make the room feel more open while maintaining warmth. Using layered textures instead of dark colors helps add depth without making the space feel cramped."
+      },
+      {
+        question: "How do I make an earth-tone bedroom feel cozy and not boring?",
+        answer: "The key is layering textures and materials. Combine linen bedding, wool throws, wooden furniture, and soft rugs. Mixing slightly different shades of the same neutral color also adds visual interest. Proper lighting and natural elements like plants can further enhance warmth and personality."
+      },
+      {
+        question: "What colors pair best with earth tones in a bedroom?",
+        answer: "Earth tones pair beautifully with cream, off-white, soft black accents, muted greens, and natural wood finishes. These combinations keep the palette cohesive and calming. Avoid overly bright or neon colors, as they disrupt the natural and cozy feel of an earth-tone bedroom."
+      },
+      {
+        question: "Can earth tones work in modern bedroom designs?",
+        answer: "Absolutely. Earth tones are widely used in modern, minimalist, and Scandinavian interiors. Shades like greige, warm gray, and taupe blend perfectly with clean lines and simple furniture. When paired with matte finishes and subtle contrasts, earth tones create a modern yet inviting bedroom."
+      },
+      {
+        question: "What materials enhance an earth-tone bedroom?",
+        answer: "Natural materials work best, including wood, linen, cotton, wool, jute, clay, and stone. These materials complement earth tones and add texture and warmth. Using organic finishes helps create a cohesive, grounded look that feels both cozy and timeless."
+      },
+      {
+        question: "Is an earth-tone bedroom suitable for all seasons?",
+        answer: "Yes, earth-tone bedrooms are season-neutral and timeless. In winter, layered textiles enhance warmth, while in summer, lighter fabrics like cotton and linen keep the room airy. This flexibility makes earth tones a long-lasting design choice that doesn't feel outdated or seasonal."
+      },
+      {
+        question: "How can lighting affect earth tones in a bedroom?",
+        answer: "Lighting greatly influences how earth tones appear. Warm lighting enhances coziness, while harsh white light can make neutrals feel flat. Use warm LED bulbs, table lamps, or wall sconces to highlight textures and bring out the richness of earth-tone colors."
+      },
+      {
+        question: "Are earth-tone bedrooms good for sleep?",
+        answer: "Yes, earth tones are considered excellent for sleep because they create a calm, grounded, and stress-free environment. These natural hues reduce visual stimulation, helping the mind relax. That's why earth tones are commonly recommended for bedrooms and wellness-focused interiors."
+      },
+      {
+        question: "How do I start transitioning my bedroom to earth tones?",
+        answer: "Start with small changes, such as neutral bedding, earth-tone cushions, or a textured rug. Gradually introduce wall colors, wooden furniture, and natural decor. This step-by-step approach makes the transition affordable and allows you to build a cozy, balanced look over time."
+      }
     ]
   }
 ];
