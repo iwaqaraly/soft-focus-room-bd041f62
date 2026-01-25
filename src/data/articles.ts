@@ -10,6 +10,7 @@ export interface FAQ {
 
 export interface Article {
   id: string;
+  slug: string;
   title: string;
   excerpt: string;
   category: string;
@@ -21,6 +22,7 @@ export interface Article {
 export const articles: Article[] = [
   {
     id: "1",
+    slug: "minimalist-bedroom-design",
     title: "The Art of Minimalist Bedroom Design",
     excerpt: "Discover how less can truly be more when creating a serene sleeping space that promotes rest and relaxation.",
     category: "Bedroom",
@@ -28,6 +30,7 @@ export const articles: Article[] = [
   },
   {
     id: "2",
+    slug: "scandinavian-living-room-ideas",
     title: "Scandinavian Living Room Ideas",
     excerpt: "Embrace the hygge lifestyle with these cozy yet functional Scandinavian-inspired living room concepts.",
     category: "Living Room",
@@ -35,6 +38,7 @@ export const articles: Article[] = [
   },
   {
     id: "3",
+    slug: "perfect-sleep-sanctuary",
     title: "Creating the Perfect Sleep Sanctuary",
     excerpt: "Transform your bedroom into a haven of tranquility with these expert tips on color, lighting, and textiles.",
     category: "Bedroom",
@@ -42,6 +46,7 @@ export const articles: Article[] = [
   },
   {
     id: "4",
+    slug: "modern-kitchen-essentials",
     title: "Modern Kitchen Essentials",
     excerpt: "The must-have elements for a contemporary kitchen that balances beauty with functionality.",
     category: "Kitchen",
@@ -49,6 +54,7 @@ export const articles: Article[] = [
   },
   {
     id: "5",
+    slug: "bedroom-lighting-mood",
     title: "Bedroom Lighting That Sets the Mood",
     excerpt: "From ambient to task lighting, learn how to layer light sources for a bedroom that adapts to your needs.",
     category: "Bedroom",
@@ -56,6 +62,7 @@ export const articles: Article[] = [
   },
   {
     id: "6",
+    slug: "small-space-living-solutions",
     title: "Small Space Living Solutions",
     excerpt: "Clever design strategies to maximize every square foot of your compact living space.",
     category: "Living Room",
@@ -63,6 +70,7 @@ export const articles: Article[] = [
   },
   {
     id: "7",
+    slug: "king-size-bed-guide-dimensions",
     title: "King Size Bed Guide: 21 Dimensions & Benefits",
     excerpt: "Explore the complete guide to king size beds including standard, California, split, European, and custom options for every bedroom.",
     category: "Bedroom",
@@ -198,6 +206,7 @@ export const articles: Article[] = [
   },
   {
     id: "8",
+    slug: "small-garden-design-urban-spaces",
     title: "Small Garden Design Ideas for Urban Spaces",
     excerpt: "Transform your compact outdoor area into a stunning garden retreat with these clever design strategies and plant selections.",
     category: "Garden",
@@ -219,6 +228,7 @@ export const articles: Article[] = [
   },
   {
     id: "9",
+    slug: "relaxing-patio-retreat",
     title: "Creating a Relaxing Patio Retreat",
     excerpt: "Design an outdoor living space that extends your home and provides the perfect setting for relaxation and entertainment.",
     category: "Garden",
@@ -240,6 +250,7 @@ export const articles: Article[] = [
   },
   {
     id: "10",
+    slug: "low-maintenance-garden-plants",
     title: "Low-Maintenance Garden Plants for Busy Homeowners",
     excerpt: "Discover beautiful, resilient plants that thrive with minimal care, perfect for creating a stunning garden without constant attention.",
     category: "Garden",
@@ -247,6 +258,7 @@ export const articles: Article[] = [
   },
   {
     id: "11",
+    slug: "garden-pathway-ideas",
     title: "Garden Pathway Ideas: From Rustic to Modern",
     excerpt: "Explore creative pathway designs that add structure, beauty, and functionality to your garden landscape.",
     category: "Garden",
@@ -254,6 +266,7 @@ export const articles: Article[] = [
   },
   {
     id: "12",
+    slug: "raised-garden-beds-guide",
     title: "The Complete Guide to Raised Garden Beds",
     excerpt: "Learn how to plan, build, and maintain raised beds for a more productive and accessible vegetable garden.",
     category: "Garden",
@@ -261,6 +274,7 @@ export const articles: Article[] = [
   },
   {
     id: "13",
+    slug: "best-jacuzzi-ideas-backyard",
     title: "Best Jacuzzi Ideas for Your Backyard: 24 Ways",
     excerpt: "Transform your outdoor space into a luxurious retreat with these inspiring jacuzzi designs, from modern minimalist to tropical paradise.",
     category: "Garden",
@@ -408,6 +422,7 @@ export const articles: Article[] = [
   },
   {
     id: "14",
+    slug: "bedroom-earth-tones-neutral-ideas",
     title: "Bedroom Earth Tones: 22 Cozy Neutral Ideas",
     excerpt: "Discover warm, grounding color palettes that transform your bedroom into a peaceful retreat with timeless earth-inspired neutrals.",
     category: "Bedroom",

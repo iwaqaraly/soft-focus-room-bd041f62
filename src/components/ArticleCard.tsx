@@ -7,7 +7,7 @@ interface ArticleCardProps {
 
 const ArticleCard = ({ article }: ArticleCardProps) => {
   return (
-    <Link to={`/article/${article.id}`}>
+    <Link to={`/article/${article.slug}`}>
       <article className="group cursor-pointer">
         <div className="aspect-[4/3] overflow-hidden mb-4">
           <img
