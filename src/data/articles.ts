@@ -362,6 +362,48 @@ export const articles: Article[] = [
         title: "24. Jacuzzi with Tropical Vibes",
         content: "Create a tropical backyard spa by surrounding your jacuzzi with palm trees, bamboo, and vibrant flowers. It evokes a resort-like atmosphere at home.\n\nAdd tiki torches, woven furniture, and colorful cushions for a vacation feel. This setup transports you to a tropical paradise without leaving your backyard."
       }
+    ],
+    faqs: [
+      {
+        question: "What is the best type of jacuzzi for a backyard?",
+        answer: "The best type of backyard jacuzzi depends on your space, style, and budget. Options include modern minimalist, rustic wooden, sunken, or Japanese Zen jacuzzis. For small yards, compact or rooftop jacuzzis work well, while larger spaces can accommodate luxury models with pergolas, waterfalls, or infinity edges. Choose based on comfort, aesthetics, and how you plan to use it."
+      },
+      {
+        question: "How much space do I need for a backyard jacuzzi?",
+        answer: "Most jacuzzis require at least 8x8 feet of space, though larger models like Wyoming or Alaska King-style jacuzzis need more room. Ensure there's enough clearance for decking, seating, and maintenance access. Plan pathways and privacy areas to create a comfortable, relaxing backyard oasis without crowding your garden."
+      },
+      {
+        question: "Should I build a sunken or above-ground jacuzzi?",
+        answer: "Sunken jacuzzis provide a seamless, integrated look and feel luxurious, but require excavation and proper drainage. Above-ground jacuzzis are easier to install, more portable, and often cheaper. The choice depends on your backyard size, budget, and the style you want to achieve. Sunken jacuzzis are best for a permanent spa feel, while above-ground models are versatile."
+      },
+      {
+        question: "Can I install a jacuzzi on a rooftop or small patio?",
+        answer: "Yes! Rooftop or small patio jacuzzis maximize unused space while offering views and privacy. Make sure the structure supports the weight of a filled jacuzzi and follow safety guidelines. Lightweight, compact models or inflatable jacuzzis are ideal for small spaces, while custom builds can turn rooftops into luxurious outdoor spas."
+      },
+      {
+        question: "How do I maintain a backyard jacuzzi?",
+        answer: "Maintaining a backyard jacuzzi involves regular cleaning, water treatment, and filter maintenance. Test pH and chlorine/bromine levels weekly, clean filters every few weeks, and cover the jacuzzi when not in use. Proper maintenance ensures clean water, prevents damage, and prolongs the life of your investment."
+      },
+      {
+        question: "What are some design ideas to enhance a backyard jacuzzi?",
+        answer: "Enhance your jacuzzi area with pergolas, fire pits, lighting, waterfalls, greenery, or stone pathways. Combining textures like wood, stone, and plants creates a spa-like retreat. Lighting and ambient decor make the jacuzzi usable day or night, turning your backyard into a relaxing and visually appealing space."
+      },
+      {
+        question: "Is it worth installing a jacuzzi for family use?",
+        answer: "Yes, jacuzzis are great for families who want fun, relaxation, and bonding time. Larger models can accommodate multiple people, pets, or even children with supervision. Combining safety features like non-slip steps and a secure cover ensures that everyone can enjoy a spa-like experience safely."
+      },
+      {
+        question: "How much does it cost to install a backyard jacuzzi?",
+        answer: "Costs vary widely depending on size, materials, features, and installation. A basic above-ground jacuzzi may cost $3,000–$6,000, while high-end sunken models with decking, waterfalls, or lighting can exceed $15,000–$30,000. Consider long-term maintenance, electricity, and water costs when budgeting for your backyard spa."
+      },
+      {
+        question: "Can I use my jacuzzi year-round?",
+        answer: "Yes, jacuzzis can be used year-round with proper insulation, heating, and covers. Heated jacuzzis are especially enjoyable during colder months. Ensure your backyard has adequate drainage and that the jacuzzi is winter-ready to prevent freezing or damage in cold climates."
+      },
+      {
+        question: "What materials are best for a backyard jacuzzi?",
+        answer: "Jacuzzis can be made from acrylic, wood, stone, or composite materials. Acrylic is durable and low-maintenance, wood provides a rustic, natural feel, and stone or tiled finishes add luxury and elegance. Choose materials based on aesthetics, durability, and climate considerations for your backyard."
+      }
     ]
   }
 ];
