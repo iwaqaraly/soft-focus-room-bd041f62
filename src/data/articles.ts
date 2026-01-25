@@ -63,7 +63,7 @@ export const articles: Article[] = [
   },
   {
     id: "7",
-    title: "King Size Bed Guide: 24 Dimensions & Benefits",
+    title: "King Size Bed Guide: 21 Dimensions & Benefits",
     excerpt: "Explore the complete guide to king size beds including standard, California, split, European, and custom options for every bedroom.",
     category: "Bedroom",
     image: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
