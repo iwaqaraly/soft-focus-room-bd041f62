@@ -195,5 +195,68 @@ export const articles: Article[] = [
         answer: "To choose the right king size bed, consider room size, sleeper height, sleeping habits, budget, and design preferences. Measure your space carefully, account for walkways, and think about long-term comfort. The best king bed balances functionality, comfort, and aesthetics."
       }
     ]
+  },
+  {
+    id: "8",
+    title: "Small Garden Design Ideas for Urban Spaces",
+    excerpt: "Transform your compact outdoor area into a stunning garden retreat with these clever design strategies and plant selections.",
+    category: "Garden",
+    image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&q=80",
+    sections: [
+      {
+        title: "1. Maximizing Vertical Space",
+        content: "When ground space is limited, look up. Vertical gardening is a game-changer for small urban gardens. Use trellises, wall-mounted planters, and hanging baskets to create layers of greenery that draw the eye upward and make your space feel larger.\n\nClimbing plants like jasmine, clematis, and ivy can transform bare walls into living art. Consider installing a living wall system for herbs and small flowering plants. This approach not only maximizes your growing area but also adds privacy and reduces noise from the street."
+      },
+      {
+        title: "2. Container Gardening Essentials",
+        content: "Containers are the backbone of small garden design. They offer flexibility, allowing you to rearrange your garden seasonally and experiment with different plant combinations. Choose pots in varying heights and sizes to create visual interest.\n\nSelect containers with adequate drainage and consider self-watering options for low-maintenance care. Group containers in odd numbers for a more natural look, and use pot feet to ensure proper airflow. Materials like terracotta, concrete, and weathered metal add character to your space."
+      },
+      {
+        title: "3. Choosing the Right Plants",
+        content: "For small gardens, every plant must earn its place. Focus on varieties that offer multiple seasons of interest—spring blooms, summer foliage, autumn color, and winter structure. Dwarf and compact cultivars are ideal for limited spaces.\n\nConsider ornamental grasses for movement, evergreen shrubs for year-round structure, and seasonal bulbs for pops of color. Herbs and edible plants serve double duty, providing both beauty and fresh ingredients for your kitchen."
+      }
+    ]
+  },
+  {
+    id: "9",
+    title: "Creating a Relaxing Patio Retreat",
+    excerpt: "Design an outdoor living space that extends your home and provides the perfect setting for relaxation and entertainment.",
+    category: "Garden",
+    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+    sections: [
+      {
+        title: "1. Defining Your Outdoor Rooms",
+        content: "Just like interior spaces, patios benefit from defined zones. Create distinct areas for dining, lounging, and gardening using outdoor rugs, planters, and furniture arrangement. This approach makes even small patios feel more spacious and functional.\n\nConsider the flow between indoor and outdoor spaces. Large sliding doors or French doors can blur the boundary, making your patio feel like a natural extension of your living room."
+      },
+      {
+        title: "2. Comfortable Outdoor Furniture",
+        content: "Invest in quality outdoor furniture that can withstand the elements while providing genuine comfort. Look for pieces with weather-resistant cushions and durable frames made from teak, aluminum, or high-quality synthetic wicker.\n\nConsider multipurpose furniture like storage benches or extendable tables that adapt to different needs. Don't forget side tables for drinks and accessories—they're essential for a truly functional outdoor living space."
+      },
+      {
+        title: "3. Ambient Lighting Design",
+        content: "The right lighting transforms your patio from a daytime space to an evening sanctuary. Layer your lighting with a mix of overhead fixtures, table lamps, string lights, and landscape lighting for depth and atmosphere.\n\nSolar-powered options are eco-friendly and easy to install. Candles and lanterns add warmth and romance, while LED path lights ensure safety after dark. Consider dimmable options to adjust the mood for different occasions."
+      }
+    ]
+  },
+  {
+    id: "10",
+    title: "Low-Maintenance Garden Plants for Busy Homeowners",
+    excerpt: "Discover beautiful, resilient plants that thrive with minimal care, perfect for creating a stunning garden without constant attention.",
+    category: "Garden",
+    image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
+  },
+  {
+    id: "11",
+    title: "Garden Pathway Ideas: From Rustic to Modern",
+    excerpt: "Explore creative pathway designs that add structure, beauty, and functionality to your garden landscape.",
+    category: "Garden",
+    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+  },
+  {
+    id: "12",
+    title: "The Complete Guide to Raised Garden Beds",
+    excerpt: "Learn how to plan, build, and maintain raised beds for a more productive and accessible vegetable garden.",
+    category: "Garden",
+    image: "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?w=800&q=80"
   }
 ];
