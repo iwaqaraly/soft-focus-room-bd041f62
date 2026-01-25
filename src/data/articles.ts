@@ -129,43 +129,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Adjustable King Bed",
-        content: "An adjustable king bed focuses on ergonomic support and lifestyle comfort. It allows you to raise or lower different sections for sleeping, reading, or relaxation.\n\nThis type is ideal for people with health concerns, back pain, or those who enjoy multifunctional furniture. It combines luxury with practicality. If comfort and functionality are priorities, an adjustable king bed is a modern must-have."
+        content: "An adjustable king bed focuses on ergonomic support and lifestyle comfort. It allows you to raise or lower different sections for sleeping, reading, or relaxation.\n\nThis type is ideal for people with health concerns, back pain, or those who enjoy multifunctional furniture. It combines luxury with practicality. If comfort and functionality are priorities, an adjustable king bed is a modern must-have.",
+        image: "/assets/king-bed-11.webp"
       },
       {
         title: "12. Hotel King Bed",
-        content: "Hotel king beds are designed for universal comfort and durability. They focus on medium firmness, plush layering, and long-term support.\n\nThis style brings a five-star sleeping experience into your home. It's ideal for guest rooms or master bedrooms where comfort matters most. If you love hotel-style sleep, this king bed type is worth replicating."
+        content: "Hotel king beds are designed for universal comfort and durability. They focus on medium firmness, plush layering, and long-term support.\n\nThis style brings a five-star sleeping experience into your home. It's ideal for guest rooms or master bedrooms where comfort matters most. If you love hotel-style sleep, this king bed type is worth replicating.",
+        image: "/assets/king-bed-12.webp"
       },
       {
         title: "13. Storage King Bed",
-        content: "A storage king bed combines spacious sleeping with practical under-bed storage. It's perfect for homes where maximizing space is important.\n\nThis design is especially useful in apartments or smaller houses. You can store bedding, clothes, or seasonal items discreetly. If functionality matters as much as comfort, a storage king bed is a smart investment."
+        content: "A storage king bed combines spacious sleeping with practical under-bed storage. It's perfect for homes where maximizing space is important.\n\nThis design is especially useful in apartments or smaller houses. You can store bedding, clothes, or seasonal items discreetly. If functionality matters as much as comfort, a storage king bed is a smart investment.",
+        image: "/assets/king-bed-13.webp"
       },
       {
         title: "14. Platform King Bed",
-        content: "Platform king beds feature a low-profile design and modern aesthetics. They don't require box springs, making them sleek and minimal.\n\nThis style suits contemporary homes and minimalist interiors. It provides strong support while enhancing the room's visual appeal. If you prefer clean lines and modern design, a platform king bed fits perfectly."
+        content: "Platform king beds feature a low-profile design and modern aesthetics. They don't require box springs, making them sleek and minimal.\n\nThis style suits contemporary homes and minimalist interiors. It provides strong support while enhancing the room's visual appeal. If you prefer clean lines and modern design, a platform king bed fits perfectly.",
+        image: "/assets/king-bed-14.webp"
       },
       {
         title: "15. Canopy King Bed",
-        content: "Canopy king beds add drama and elegance to a bedroom. With tall posts and optional drapes, they create a luxurious atmosphere.\n\nThis style works best in rooms with high ceilings. It's perfect for classic or romantic interiors. If you want your bed to be a statement piece, a canopy king delivers timeless charm."
+        content: "Canopy king beds add drama and elegance to a bedroom. With tall posts and optional drapes, they create a luxurious atmosphere.\n\nThis style works best in rooms with high ceilings. It's perfect for classic or romantic interiors. If you want your bed to be a statement piece, a canopy king delivers timeless charm.",
+        image: "/assets/king-bed-15.webp"
       },
       {
         title: "16. Upholstered King Bed",
-        content: "Upholstered king beds focus on comfort and softness, especially around the headboard. They add warmth and texture to the room.\n\nThis style is great for cozy interiors and modern homes alike. It offers both visual appeal and practical comfort for sitting up in bed. If softness and style matter, upholstered kings are a popular choice."
+        content: "Upholstered king beds focus on comfort and softness, especially around the headboard. They add warmth and texture to the room.\n\nThis style is great for cozy interiors and modern homes alike. It offers both visual appeal and practical comfort for sitting up in bed. If softness and style matter, upholstered kings are a popular choice.",
+        image: "/assets/king-bed-16.webp"
       },
       {
         title: "17. Wooden King Bed",
-        content: "Wooden king beds are durable, timeless, and versatile. They suit both traditional and modern interiors depending on the finish.\n\nThis option offers strong structural support and long-term reliability. If you value natural materials and classic design, a wooden king bed is always a safe choice."
+        content: "Wooden king beds are durable, timeless, and versatile. They suit both traditional and modern interiors depending on the finish.\n\nThis option offers strong structural support and long-term reliability. If you value natural materials and classic design, a wooden king bed is always a safe choice.",
+        image: "/assets/king-bed-17.webp"
       },
       {
         title: "18. Metal Frame King Bed",
-        content: "Metal king beds are lightweight, durable, and stylish. They often feature sleek or vintage-inspired designs.\n\nThis type is easy to maintain and fits well in industrial or minimalist spaces. If you want a sturdy yet visually light bed frame, metal king beds are a great option."
+        content: "Metal king beds are lightweight, durable, and stylish. They often feature sleek or vintage-inspired designs.\n\nThis type is easy to maintain and fits well in industrial or minimalist spaces. If you want a sturdy yet visually light bed frame, metal king beds are a great option.",
+        image: "/assets/king-bed-18.webp"
       },
       {
         title: "19. Minimalist King Bed",
-        content: "Minimalist king beds focus on simplicity, clean lines, and clutter-free design. They emphasize function over decoration.\n\nThis style works perfectly in modern homes and small spaces. It creates a calm and organized sleeping environment. If you love simplicity and visual balance, minimalist kings are ideal."
+        content: "Minimalist king beds focus on simplicity, clean lines, and clutter-free design. They emphasize function over decoration.\n\nThis style works perfectly in modern homes and small spaces. It creates a calm and organized sleeping environment. If you love simplicity and visual balance, minimalist kings are ideal.",
+        image: "/assets/king-bed-19.webp"
       },
       {
         title: "20. Budget-Friendly King Bed",
-        content: "Budget king beds provide essential comfort without extra cost. They focus on value and practicality.\n\nThis option is ideal for first homes or guest rooms. If affordability matters, you can still enjoy king-size comfort without overspending."
+        content: "Budget king beds provide essential comfort without extra cost. They focus on value and practicality.\n\nThis option is ideal for first homes or guest rooms. If affordability matters, you can still enjoy king-size comfort without overspending.",
+        image: "/assets/king-bed-20.webp"
       },
       {
         title: "21. Family-Friendly King Bed",
