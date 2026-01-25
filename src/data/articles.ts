@@ -3,6 +3,11 @@ export interface ArticleSection {
   content: string;
 }
 
+export interface FAQ {
+  question: string;
+  answer: string;
+}
+
 export interface Article {
   id: string;
   title: string;
@@ -10,6 +15,7 @@ export interface Article {
   category: string;
   image: string;
   sections?: ArticleSection[];
+  faqs?: FAQ[];
 }
 
 export const articles: Article[] = [
@@ -145,6 +151,48 @@ export const articles: Article[] = [
       {
         title: "21. Family-Friendly King Bed",
         content: "Family-friendly king beds are designed for shared sleeping with kids or pets. They emphasize durability and space.\n\nThis bed supports modern family lifestyles where flexibility matters. If co-sleeping is common, this king size offers peace of mind and comfort."
+      }
+    ],
+    faqs: [
+      {
+        question: "What are the standard dimensions of a king size bed?",
+        answer: "A standard US king size bed typically measures 76 inches wide by 80 inches long. It is wider than it is long, making it ideal for couples who want more personal sleeping space. However, dimensions can vary slightly depending on country, manufacturer, and bed frame style, so it's always recommended to double-check exact measurements before purchasing."
+      },
+      {
+        question: "What is the difference between a King and a California King bed?",
+        answer: "The main difference lies in width and length. A standard King bed is wider, while a California King is longer but slightly narrower. California Kings are especially suitable for taller individuals, whereas standard Kings are better for couples who prefer extra width and side-to-side space while sleeping."
+      },
+      {
+        question: "Is a king size bed suitable for small bedrooms?",
+        answer: "A king size bed generally requires a medium to large bedroom to maintain comfortable walking space around it. While it can fit in smaller rooms, it may make the space feel cramped. Minimalist furniture, wall-mounted storage, and lighter color schemes can help make a king bed work in tighter layouts."
+      },
+      {
+        question: "What is the best king size bed for couples?",
+        answer: "For couples, the best king size bed depends on sleep preferences. Standard King beds offer balanced width and comfort, while Split King beds are ideal for partners with different firmness or adjustable needs. Couples who value motion isolation often prefer split or hybrid king mattress setups."
+      },
+      {
+        question: "Are king size beds good for families and co-sleeping?",
+        answer: "Yes, king size beds are excellent for families who co-sleep or households with pets. Larger options like Wyoming King or Alaska King provide even more space. A standard King already offers enough room for occasional co-sleeping, making it a popular family-friendly choice."
+      },
+      {
+        question: "What type of mattress works best with a king size bed?",
+        answer: "King size beds support various mattress types, including memory foam, hybrid, latex, and innerspring. Memory foam is popular for motion isolation, while hybrids offer better airflow and support. The best choice depends on body weight, sleeping position, and temperature preferences."
+      },
+      {
+        question: "Do king size beds require special bedding?",
+        answer: "Yes, king size beds require king-specific sheets, comforters, and mattress protectors. Oversized or custom king beds may need specialty bedding. Always check mattress depth and exact dimensions to ensure a proper fit, especially for deep-pocket sheets or adjustable beds."
+      },
+      {
+        question: "Are custom king size beds worth it?",
+        answer: "Custom king beds are worth considering if your bedroom has non-standard dimensions or if you want a unique design. They allow flexibility in size, materials, and features like storage or upholstery. While they cost more, they offer tailored comfort and better space utilization."
+      },
+      {
+        question: "What is the largest king size bed available?",
+        answer: "The Alaska King bed is among the largest commonly known mattress sizes, offering exceptional width and length. It's ideal for very large rooms, families, or luxury homes. However, it requires custom bedding and significant floor space, making it unsuitable for average-sized bedrooms."
+      },
+      {
+        question: "How do I choose the right king size bed for my home?",
+        answer: "To choose the right king size bed, consider room size, sleeper height, sleeping habits, budget, and design preferences. Measure your space carefully, account for walkways, and think about long-term comfort. The best king bed balances functionality, comfort, and aesthetics."
       }
     ]
   }
