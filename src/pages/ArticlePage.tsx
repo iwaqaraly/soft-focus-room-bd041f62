@@ -9,8 +9,8 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 const ArticlePage = () => {
-  const { id } = useParams<{ id: string }>();
-  const article = articles.find((a) => a.id === id);
+  const { slug } = useParams<{ slug: string }>();
+  const article = articles.find((a) => a.slug === slug);
 
   if (!article) {
     return (
