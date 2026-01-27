@@ -434,43 +434,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Warm Greige Bedroom Style",
-        content: "Greige blends gray and beige, offering warmth with a modern edge. This color creates a neutral foundation that feels contemporary yet comfortable. Greige adapts easily to different decor styles, making it a versatile choice for bedrooms.\n\nIt pairs well with wood accents, soft whites, and earth-toned textiles. Greige maintains calm while adding subtle sophistication. This option is ideal for homeowners who want a neutral bedroom that feels current without sacrificing coziness."
+        content: "Greige blends gray and beige, offering warmth with a modern edge. This color creates a neutral foundation that feels contemporary yet comfortable. Greige adapts easily to different decor styles, making it a versatile choice for bedrooms.\n\nIt pairs well with wood accents, soft whites, and earth-toned textiles. Greige maintains calm while adding subtle sophistication. This option is ideal for homeowners who want a neutral bedroom that feels current without sacrificing coziness.",
+        image: "/assets/earth-tone-11.webp"
       },
       {
         title: "12. Earth-Toned Minimalist Bedroom",
-        content: "An earth-toned minimalist bedroom focuses on simplicity and intentional design. Neutral colors reduce visual distractions, helping the space feel calm and open. This approach emphasizes quality materials and thoughtful placement rather than excess decor.\n\nEarth tones soften the minimalist aesthetic, preventing it from feeling cold. The result is a peaceful bedroom designed for rest and mental clarity. This style works well for those seeking calm, order, and warmth in their sleeping space."
+        content: "An earth-toned minimalist bedroom focuses on simplicity and intentional design. Neutral colors reduce visual distractions, helping the space feel calm and open. This approach emphasizes quality materials and thoughtful placement rather than excess decor.\n\nEarth tones soften the minimalist aesthetic, preventing it from feeling cold. The result is a peaceful bedroom designed for rest and mental clarity. This style works well for those seeking calm, order, and warmth in their sleeping space.",
+        image: "/assets/earth-tone-12.webp"
       },
       {
         title: "13. Beige and Brown Combination",
-        content: "Combining beige and brown creates a classic, cozy bedroom palette. Beige softens the space, while brown adds depth and structure. Together, they form a balanced environment that feels warm and familiar.\n\nThis combination works across many design styles. It's timeless, easy to maintain, and naturally calming. The result is a bedroom that feels comfortable, inviting, and perfect for everyday relaxation."
+        content: "Combining beige and brown creates a classic, cozy bedroom palette. Beige softens the space, while brown adds depth and structure. Together, they form a balanced environment that feels warm and familiar.\n\nThis combination works across many design styles. It's timeless, easy to maintain, and naturally calming. The result is a bedroom that feels comfortable, inviting, and perfect for everyday relaxation.",
+        image: "/assets/earth-tone-13.webp"
       },
       {
         title: "14. Earth Tones with Soft Textures",
-        content: "Soft textures enhance the warmth of earth-toned bedrooms. Fabrics like cotton, wool, and linen add comfort and visual interest without cluttering the space. Texture brings life to neutral palettes.\n\nWhen combined with earth tones, these materials create a cozy, layered environment. This approach focuses on comfort and sensory balance, making the bedroom feel inviting and restful without relying on bold colors."
+        content: "Soft textures enhance the warmth of earth-toned bedrooms. Fabrics like cotton, wool, and linen add comfort and visual interest without cluttering the space. Texture brings life to neutral palettes.\n\nWhen combined with earth tones, these materials create a cozy, layered environment. This approach focuses on comfort and sensory balance, making the bedroom feel inviting and restful without relying on bold colors.",
+        image: "/assets/earth-tone-14.webp"
       },
       {
         title: "15. Warm Neutral Bedroom Lighting",
-        content: "Warm lighting plays a key role in enhancing earth tones. It highlights natural hues and creates a relaxing atmosphere, especially during evenings. Proper lighting prevents neutral colors from appearing flat.\n\nSoft, warm light adds depth and comfort to the bedroom. It supports relaxation and improves the overall mood. This idea is essential for creating a cozy, sleep-friendly environment."
+        content: "Warm lighting plays a key role in enhancing earth tones. It highlights natural hues and creates a relaxing atmosphere, especially during evenings. Proper lighting prevents neutral colors from appearing flat.\n\nSoft, warm light adds depth and comfort to the bedroom. It supports relaxation and improves the overall mood. This idea is essential for creating a cozy, sleep-friendly environment.",
+        image: "/assets/earth-tone-15.webp"
       },
       {
         title: "16. Simple Decor with Earth Tones",
-        content: "Simple decor allows earth tones to take center stage. Minimal accents keep the bedroom calm and uncluttered, promoting relaxation. This approach focuses on balance rather than decoration.\n\nEarth tones paired with simplicity create a serene environment. The result is a bedroom that feels intentional, cozy, and easy to maintain, perfect for restful sleep."
+        content: "Simple decor allows earth tones to take center stage. Minimal accents keep the bedroom calm and uncluttered, promoting relaxation. This approach focuses on balance rather than decoration.\n\nEarth tones paired with simplicity create a serene environment. The result is a bedroom that feels intentional, cozy, and easy to maintain, perfect for restful sleep.",
+        image: "/assets/earth-tone-16.webp"
       },
       {
         title: "17. Natural Fabric Neutral Bedroom",
-        content: "Natural fabrics enhance the authenticity of earth-toned bedrooms. They add softness and breathability, improving comfort and overall atmosphere. These materials support a calm, grounded aesthetic.\n\nUsing natural fabrics creates a bedroom that feels organic and soothing. It's ideal for those who value comfort, simplicity, and connection to natural elements in their living spaces."
+        content: "Natural fabrics enhance the authenticity of earth-toned bedrooms. They add softness and breathability, improving comfort and overall atmosphere. These materials support a calm, grounded aesthetic.\n\nUsing natural fabrics creates a bedroom that feels organic and soothing. It's ideal for those who value comfort, simplicity, and connection to natural elements in their living spaces.",
+        image: "/assets/earth-tone-17.webp"
       },
       {
         title: "18. Soft Brown Bedroom Walls",
-        content: "Soft brown walls add warmth and intimacy without feeling heavy. This shade creates a cozy atmosphere while remaining neutral and versatile. It works well in bedrooms meant for relaxation.\n\nPaired with lighter accents, soft brown walls feel balanced and inviting. This option is perfect for creating a comforting sleeping environment that feels secure and restful."
+        content: "Soft brown walls add warmth and intimacy without feeling heavy. This shade creates a cozy atmosphere while remaining neutral and versatile. It works well in bedrooms meant for relaxation.\n\nPaired with lighter accents, soft brown walls feel balanced and inviting. This option is perfect for creating a comforting sleeping environment that feels secure and restful.",
+        image: "/assets/earth-tone-18.webp"
       },
       {
         title: "19. Layered Earth-Tone Bedding",
-        content: "Layered bedding adds depth and comfort to neutral bedrooms. Earth tones help unify layers, creating a cohesive and calming look. This approach enhances both style and functionality.\n\nLayering improves comfort while adding visual interest. It's an effective way to make the bed feel inviting and cozy without overwhelming the space with color."
+        content: "Layered bedding adds depth and comfort to neutral bedrooms. Earth tones help unify layers, creating a cohesive and calming look. This approach enhances both style and functionality.\n\nLayering improves comfort while adding visual interest. It's an effective way to make the bed feel inviting and cozy without overwhelming the space with color.",
+        image: "/assets/earth-tone-19.webp"
       },
       {
         title: "20. Subtle Contrast in Neutral Bedrooms",
-        content: "Subtle contrast keeps neutral bedrooms visually engaging. Small variations in earth tones add depth without disturbing the calm atmosphere. This technique avoids monotony.\n\nThe bedroom remains peaceful while feeling thoughtfully designed. Subtle contrast is ideal for those who want gentle visual interest without bold statements."
+        content: "Subtle contrast keeps neutral bedrooms visually engaging. Small variations in earth tones add depth without disturbing the calm atmosphere. This technique avoids monotony.\n\nThe bedroom remains peaceful while feeling thoughtfully designed. Subtle contrast is ideal for those who want gentle visual interest without bold statements.",
+        image: "/assets/earth-tone-20.webp"
       },
       {
         title: "21. Cozy Neutral Bedroom Retreat",
