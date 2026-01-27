@@ -330,43 +330,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Luxury Tiled Jacuzzi",
-        content: "A tiled jacuzzi adds elegance and durability to the backyard. Tiles offer endless design possibilities, from subtle neutrals to bold patterns. This makes the jacuzzi visually appealing while remaining practical.\n\nTiled finishes are also easy to clean and maintain. When paired with soft lighting, they enhance the spa-like atmosphere. This option suits homeowners who want a refined, polished backyard feature."
+        content: "A tiled jacuzzi adds elegance and durability to the backyard. Tiles offer endless design possibilities, from subtle neutrals to bold patterns. This makes the jacuzzi visually appealing while remaining practical.\n\nTiled finishes are also easy to clean and maintain. When paired with soft lighting, they enhance the spa-like atmosphere. This option suits homeowners who want a refined, polished backyard feature.",
+        image: "/assets/jacuzzi-11.webp"
       },
       {
         title: "12. Jacuzzi with Outdoor Seating Area",
-        content: "Adding seating around the jacuzzi creates a complete relaxation zone. Benches, lounge chairs, or built-in seating allow guests to relax before or after soaking. This layout works well for entertaining.\n\nThe seating area helps integrate the jacuzzi into the overall backyard design. It transforms the space into a social and functional outdoor retreat. This idea is ideal for families or those who host gatherings often."
+        content: "Adding seating around the jacuzzi creates a complete relaxation zone. Benches, lounge chairs, or built-in seating allow guests to relax before or after soaking. This layout works well for entertaining.\n\nThe seating area helps integrate the jacuzzi into the overall backyard design. It transforms the space into a social and functional outdoor retreat. This idea is ideal for families or those who host gatherings often.",
+        image: "/assets/jacuzzi-12.webp"
       },
       {
         title: "13. Covered Gazebo Jacuzzi",
-        content: "A gazebo provides full coverage for a jacuzzi, allowing year-round use. It protects against sun and light rain while adding structure to the backyard. This setup enhances both comfort and visual appeal.\n\nGazebos also create a sense of enclosure, making the jacuzzi feel more private. With proper lighting and decor, this idea turns the backyard into a luxurious outdoor spa space."
+        content: "A gazebo provides full coverage for a jacuzzi, allowing year-round use. It protects against sun and light rain while adding structure to the backyard. This setup enhances both comfort and visual appeal.\n\nGazebos also create a sense of enclosure, making the jacuzzi feel more private. With proper lighting and decor, this idea turns the backyard into a luxurious outdoor spa space.",
+        image: "/assets/jacuzzi-13.webp"
       },
       {
         title: "14. Jacuzzi with Stone Surround",
-        content: "Stone surrounds add texture and a natural feel to a jacuzzi. They help the feature blend seamlessly into outdoor landscapes. This design works well in both modern and rustic settings.\n\nStone also adds durability and visual weight, grounding the jacuzzi in the space. It enhances the overall spa-like atmosphere. This idea is perfect for homeowners who appreciate natural materials and timeless design."
+        content: "Stone surrounds add texture and a natural feel to a jacuzzi. They help the feature blend seamlessly into outdoor landscapes. This design works well in both modern and rustic settings.\n\nStone also adds durability and visual weight, grounding the jacuzzi in the space. It enhances the overall spa-like atmosphere. This idea is perfect for homeowners who appreciate natural materials and timeless design.",
+        image: "/assets/jacuzzi-14.webp"
       },
       {
         title: "15. Compact Jacuzzi for Small Backyards",
-        content: "Compact jacuzzis are designed for smaller outdoor spaces without sacrificing comfort. They allow homeowners with limited space to enjoy spa-like relaxation at home. This option is ideal for patios or narrow yards.\n\nWith smart placement and minimal decor, compact jacuzzis feel cozy rather than cramped. They prove that luxury doesn't require large spaces. This idea is perfect for urban homes or townhouses."
+        content: "Compact jacuzzis are designed for smaller outdoor spaces without sacrificing comfort. They allow homeowners with limited space to enjoy spa-like relaxation at home. This option is ideal for patios or narrow yards.\n\nWith smart placement and minimal decor, compact jacuzzis feel cozy rather than cramped. They prove that luxury doesn't require large spaces. This idea is perfect for urban homes or townhouses.",
+        image: "/assets/jacuzzi-15.webp"
       },
       {
         title: "16. Jacuzzi with Outdoor Shower",
-        content: "An outdoor shower near the jacuzzi adds convenience and enhances the spa experience. It allows users to rinse off before or after soaking, improving hygiene and comfort.\n\nThis combination creates a resort-style setup at home. It also adds functional value to the backyard. Homeowners who enjoy spa routines will appreciate this thoughtful addition."
+        content: "An outdoor shower near the jacuzzi adds convenience and enhances the spa experience. It allows users to rinse off before or after soaking, improving hygiene and comfort.\n\nThis combination creates a resort-style setup at home. It also adds functional value to the backyard. Homeowners who enjoy spa routines will appreciate this thoughtful addition.",
+        image: "/assets/jacuzzi-16.webp"
       },
       {
         title: "17. Jacuzzi with Soft Ambient Lighting",
-        content: "Lighting transforms how a jacuzzi feels at night. Soft, warm lighting creates a relaxing and inviting atmosphere. It extends usability into the evening hours.\n\nAmbient lighting enhances safety while highlighting textures and landscaping. This idea is ideal for those who enjoy nighttime relaxation. Proper lighting turns the jacuzzi into a peaceful focal point."
+        content: "Lighting transforms how a jacuzzi feels at night. Soft, warm lighting creates a relaxing and inviting atmosphere. It extends usability into the evening hours.\n\nAmbient lighting enhances safety while highlighting textures and landscaping. This idea is ideal for those who enjoy nighttime relaxation. Proper lighting turns the jacuzzi into a peaceful focal point.",
+        image: "/assets/jacuzzi-17.webp"
       },
       {
         title: "18. Jacuzzi with Natural Rock Features",
-        content: "Natural rock features give the jacuzzi a rugged, organic appearance. This design mimics natural hot springs and blends beautifully with outdoor landscapes.\n\nThe rocks add texture and visual interest while enhancing privacy. This idea suits homeowners who want an immersive, nature-inspired backyard experience that feels unique and calming."
+        content: "Natural rock features give the jacuzzi a rugged, organic appearance. This design mimics natural hot springs and blends beautifully with outdoor landscapes.\n\nThe rocks add texture and visual interest while enhancing privacy. This idea suits homeowners who want an immersive, nature-inspired backyard experience that feels unique and calming.",
+        image: "/assets/jacuzzi-18.webp"
       },
       {
         title: "19. Floating Deck Jacuzzi",
-        content: "A floating deck creates the illusion that the jacuzzi is hovering above the ground. This modern design adds visual interest and architectural flair.\n\nIt works well in contemporary backyards and pairs nicely with minimal decor. The floating effect makes the space feel lighter and more dynamic. This idea is perfect for modern outdoor designs."
+        content: "A floating deck creates the illusion that the jacuzzi is hovering above the ground. This modern design adds visual interest and architectural flair.\n\nIt works well in contemporary backyards and pairs nicely with minimal decor. The floating effect makes the space feel lighter and more dynamic. This idea is perfect for modern outdoor designs.",
+        image: "/assets/jacuzzi-19.webp"
       },
       {
         title: "20. Family-Friendly Jacuzzi Setup",
-        content: "A family-friendly jacuzzi focuses on durability, accessibility, and space. It allows families to enjoy relaxation together while maintaining comfort and safety.\n\nThis setup often includes steps, sturdy materials, and enough room for multiple users. It's ideal for households that want shared relaxation without sacrificing practicality."
+        content: "A family-friendly jacuzzi focuses on durability, accessibility, and space. It allows families to enjoy relaxation together while maintaining comfort and safety.\n\nThis setup often includes steps, sturdy materials, and enough room for multiple users. It's ideal for households that want shared relaxation without sacrificing practicality.",
+        image: "/assets/jacuzzi-20.webp"
       },
       {
         title: "21. Eco-Friendly Backyard Jacuzzi",
