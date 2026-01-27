@@ -280,43 +280,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Modern Minimalist Jacuzzi",
-        content: "A modern minimalist jacuzzi focuses on simplicity, clean lines, and uncluttered design. It works especially well in contemporary backyards where space and visual balance matter. Neutral colors, smooth finishes, and sleek materials help the jacuzzi blend seamlessly into the surroundings while still feeling luxurious and intentional.\n\nThis style emphasizes relaxation without distraction. By keeping decor minimal and textures subtle, the jacuzzi becomes a calming retreat rather than a visual centerpiece. It's ideal for homeowners who value modern aesthetics, easy maintenance, and a spa-like atmosphere that feels peaceful and refined."
+        content: "A modern minimalist jacuzzi focuses on simplicity, clean lines, and uncluttered design. It works especially well in contemporary backyards where space and visual balance matter. Neutral colors, smooth finishes, and sleek materials help the jacuzzi blend seamlessly into the surroundings while still feeling luxurious and intentional.\n\nThis style emphasizes relaxation without distraction. By keeping decor minimal and textures subtle, the jacuzzi becomes a calming retreat rather than a visual centerpiece. It's ideal for homeowners who value modern aesthetics, easy maintenance, and a spa-like atmosphere that feels peaceful and refined.",
+        image: "/assets/jacuzzi-01.webp"
       },
       {
         title: "2. Sunken Backyard Jacuzzi",
-        content: "A sunken jacuzzi is built partially or fully into the ground, creating a seamless and high-end look. This design makes the jacuzzi feel like a natural extension of the backyard rather than a separate feature. It works especially well in larger outdoor spaces with thoughtful landscaping.\n\nBeyond aesthetics, sunken jacuzzis provide a more immersive soaking experience. They often feel more private and luxurious, especially when paired with stone, wood, or greenery. This option is ideal for homeowners seeking a permanent, spa-inspired backyard upgrade."
+        content: "A sunken jacuzzi is built partially or fully into the ground, creating a seamless and high-end look. This design makes the jacuzzi feel like a natural extension of the backyard rather than a separate feature. It works especially well in larger outdoor spaces with thoughtful landscaping.\n\nBeyond aesthetics, sunken jacuzzis provide a more immersive soaking experience. They often feel more private and luxurious, especially when paired with stone, wood, or greenery. This option is ideal for homeowners seeking a permanent, spa-inspired backyard upgrade.",
+        image: "/assets/jacuzzi-02.webp"
       },
       {
         title: "3. Jacuzzi with Wooden Deck Surround",
-        content: "A jacuzzi surrounded by a wooden deck creates warmth and visual harmony in the backyard. Wood adds natural texture and helps soften the look of the jacuzzi, making it feel more inviting. This setup works well for both modern and rustic outdoor designs.\n\nThe deck also adds functional space for seating, lounging, or placing towels and accessories. When properly treated, wood is durable and long-lasting outdoors. This idea is perfect for creating a cozy, resort-style atmosphere at home."
+        content: "A jacuzzi surrounded by a wooden deck creates warmth and visual harmony in the backyard. Wood adds natural texture and helps soften the look of the jacuzzi, making it feel more inviting. This setup works well for both modern and rustic outdoor designs.\n\nThe deck also adds functional space for seating, lounging, or placing towels and accessories. When properly treated, wood is durable and long-lasting outdoors. This idea is perfect for creating a cozy, resort-style atmosphere at home.",
+        image: "/assets/jacuzzi-03.webp"
       },
       {
         title: "4. Rustic Outdoor Jacuzzi",
-        content: "A rustic jacuzzi design embraces natural materials and organic textures. Wood, stone, and earthy colors help the jacuzzi blend beautifully into garden or countryside settings. This style is ideal for homes surrounded by greenery or natural landscapes.\n\nThe rustic approach creates a cozy and comforting atmosphere that feels grounded and timeless. It encourages relaxation and connection with nature. For homeowners who prefer warmth over modern polish, a rustic jacuzzi offers charm and authenticity."
+        content: "A rustic jacuzzi design embraces natural materials and organic textures. Wood, stone, and earthy colors help the jacuzzi blend beautifully into garden or countryside settings. This style is ideal for homes surrounded by greenery or natural landscapes.\n\nThe rustic approach creates a cozy and comforting atmosphere that feels grounded and timeless. It encourages relaxation and connection with nature. For homeowners who prefer warmth over modern polish, a rustic jacuzzi offers charm and authenticity.",
+        image: "/assets/jacuzzi-04.webp"
       },
       {
         title: "5. Jacuzzi with Pergola Cover",
-        content: "Adding a pergola over your jacuzzi provides partial shade while enhancing architectural appeal. It helps define the jacuzzi area as a distinct relaxation zone within the backyard. Pergolas work well in both small and large outdoor spaces.\n\nThis structure also allows for customization with lighting, curtains, or climbing plants. It improves comfort during sunny days while maintaining an open-air feel. A pergola-covered jacuzzi is perfect for those who want style, function, and versatility."
+        content: "Adding a pergola over your jacuzzi provides partial shade while enhancing architectural appeal. It helps define the jacuzzi area as a distinct relaxation zone within the backyard. Pergolas work well in both small and large outdoor spaces.\n\nThis structure also allows for customization with lighting, curtains, or climbing plants. It improves comfort during sunny days while maintaining an open-air feel. A pergola-covered jacuzzi is perfect for those who want style, function, and versatility.",
+        image: "/assets/jacuzzi-05.webp"
       },
       {
         title: "6. Infinity Edge Jacuzzi",
-        content: "An infinity edge jacuzzi creates a visually striking effect where water appears to flow endlessly. This design works best in backyards with scenic views or elevated landscapes. It instantly adds a luxury resort feel to the space.\n\nBeyond its visual appeal, an infinity jacuzzi enhances relaxation by creating a sense of openness. It's ideal for homeowners who want their backyard to feel exclusive and high-end. This option is best suited for carefully planned outdoor designs."
+        content: "An infinity edge jacuzzi creates a visually striking effect where water appears to flow endlessly. This design works best in backyards with scenic views or elevated landscapes. It instantly adds a luxury resort feel to the space.\n\nBeyond its visual appeal, an infinity jacuzzi enhances relaxation by creating a sense of openness. It's ideal for homeowners who want their backyard to feel exclusive and high-end. This option is best suited for carefully planned outdoor designs.",
+        image: "/assets/jacuzzi-06.webp"
       },
       {
         title: "7. Jacuzzi with Fire Feature",
-        content: "Combining a jacuzzi with a fire feature creates a dramatic and cozy atmosphere. The contrast between warm water and fire enhances relaxation, especially during evenings or cooler seasons. This setup encourages social gatherings and extended outdoor use.\n\nFire pits or fire bowls placed nearby add visual warmth without overpowering the jacuzzi. This idea blends comfort with ambiance, making the backyard feel inviting and luxurious. It's perfect for homeowners who enjoy entertaining or unwinding outdoors."
+        content: "Combining a jacuzzi with a fire feature creates a dramatic and cozy atmosphere. The contrast between warm water and fire enhances relaxation, especially during evenings or cooler seasons. This setup encourages social gatherings and extended outdoor use.\n\nFire pits or fire bowls placed nearby add visual warmth without overpowering the jacuzzi. This idea blends comfort with ambiance, making the backyard feel inviting and luxurious. It's perfect for homeowners who enjoy entertaining or unwinding outdoors.",
+        image: "/assets/jacuzzi-07.webp"
       },
       {
         title: "8. Jacuzzi Surrounded by Greenery",
-        content: "Placing a jacuzzi among plants and greenery creates a natural, private retreat. Tall plants or shrubs help block views while enhancing the sense of seclusion. This design works well in both small gardens and larger yards.\n\nThe greenery softens hard surfaces and adds calming visual layers. It also improves the overall atmosphere by connecting the space to nature. This idea is ideal for homeowners seeking tranquility and a spa-like garden experience."
+        content: "Placing a jacuzzi among plants and greenery creates a natural, private retreat. Tall plants or shrubs help block views while enhancing the sense of seclusion. This design works well in both small gardens and larger yards.\n\nThe greenery softens hard surfaces and adds calming visual layers. It also improves the overall atmosphere by connecting the space to nature. This idea is ideal for homeowners seeking tranquility and a spa-like garden experience.",
+        image: "/assets/jacuzzi-08.webp"
       },
       {
         title: "9. Japanese-Inspired Jacuzzi",
-        content: "A Japanese-inspired jacuzzi emphasizes balance, simplicity, and calm. Natural materials like wood and stone are commonly used to create a peaceful, meditative environment. This style focuses on relaxation rather than decoration.\n\nThe design encourages mindfulness and quiet moments. Clean lines and minimal elements help reduce visual noise. This jacuzzi idea is perfect for those who want their backyard to feel like a serene retreat from daily stress."
+        content: "A Japanese-inspired jacuzzi emphasizes balance, simplicity, and calm. Natural materials like wood and stone are commonly used to create a peaceful, meditative environment. This style focuses on relaxation rather than decoration.\n\nThe design encourages mindfulness and quiet moments. Clean lines and minimal elements help reduce visual noise. This jacuzzi idea is perfect for those who want their backyard to feel like a serene retreat from daily stress.",
+        image: "/assets/jacuzzi-09.webp"
       },
       {
         title: "10. Jacuzzi with Privacy Screens",
-        content: "Privacy screens help create a secluded jacuzzi area without fully enclosing the space. They are ideal for urban backyards or homes with nearby neighbors. Screens can be made from wood, metal, or natural materials.\n\nThis design enhances comfort by allowing users to relax without feeling exposed. It also adds a decorative element that complements the overall backyard design. Privacy-focused jacuzzis balance openness with personal comfort."
+        content: "Privacy screens help create a secluded jacuzzi area without fully enclosing the space. They are ideal for urban backyards or homes with nearby neighbors. Screens can be made from wood, metal, or natural materials.\n\nThis design enhances comfort by allowing users to relax without feeling exposed. It also adds a decorative element that complements the overall backyard design. Privacy-focused jacuzzis balance openness with personal comfort.",
+        image: "/assets/jacuzzi-10.webp"
       },
       {
         title: "11. Luxury Tiled Jacuzzi",
