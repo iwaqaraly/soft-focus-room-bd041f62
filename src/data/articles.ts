@@ -484,11 +484,13 @@ export const articles: Article[] = [
       },
       {
         title: "21. Cozy Neutral Bedroom Retreat",
-        content: "A cozy neutral bedroom retreat focuses on comfort and calm. Earth tones help establish a soothing environment that promotes rest and relaxation.\n\nThis approach emphasizes softness, balance, and simplicity. The result is a bedroom that feels like a personal sanctuary from daily stress."
+        content: "A cozy neutral bedroom retreat focuses on comfort and calm. Earth tones help establish a soothing environment that promotes rest and relaxation.\n\nThis approach emphasizes softness, balance, and simplicity. The result is a bedroom that feels like a personal sanctuary from daily stress.",
+        image: "/assets/earth-tone-21.webp"
       },
       {
         title: "22. Timeless Earth-Tone Bedroom Design",
-        content: "Timeless earth tones create a stable and calming bedroom environment. These colors never feel outdated and adapt easily to changing decor styles.\n\nThis palette offers long-term comfort and visual harmony. It's ideal for homeowners seeking a peaceful bedroom that remains stylish and relaxing over time."
+        content: "Timeless earth tones create a stable and calming bedroom environment. These colors never feel outdated and adapt easily to changing decor styles.\n\nThis palette offers long-term comfort and visual harmony. It's ideal for homeowners seeking a peaceful bedroom that remains stylish and relaxing over time.",
+        image: "/assets/earth-tone-22.webp"
       }
     ],
     faqs: [
