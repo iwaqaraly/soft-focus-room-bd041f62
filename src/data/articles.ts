@@ -530,43 +530,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Deep Charcoal Wall Color",
-        content: "Deep charcoal walls instantly create a dramatic and intimate bedroom atmosphere. This shade absorbs light in a way that feels cozy rather than dark, making the space feel enclosed and romantic. Charcoal works beautifully as a backdrop for soft lighting, textured fabrics, and layered bedding, allowing each element to stand out while maintaining a moody aesthetic.\n\nWhen paired with warm accents like wood or brass, charcoal becomes inviting instead of cold. It encourages relaxation by reducing visual stimulation. This color choice is ideal for bedrooms designed for comfort, intimacy, and a calm retreat from bright, busy spaces."
+        content: "Deep charcoal walls instantly create a dramatic and intimate bedroom atmosphere. This shade absorbs light in a way that feels cozy rather than dark, making the space feel enclosed and romantic. Charcoal works beautifully as a backdrop for soft lighting, textured fabrics, and layered bedding, allowing each element to stand out while maintaining a moody aesthetic.\n\nWhen paired with warm accents like wood or brass, charcoal becomes inviting instead of cold. It encourages relaxation by reducing visual stimulation. This color choice is ideal for bedrooms designed for comfort, intimacy, and a calm retreat from bright, busy spaces.",
+        image: "/assets/moody-bedroom-01.webp"
       },
       {
         title: "2. Moody Neutral Color Palette",
-        content: "Moody neutral palettes rely on deep taupes, warm browns, and muted greiges to create romance without bold color. These tones feel grounded and elegant, offering depth while remaining soft and calming. They help establish a serene environment that feels intimate and cozy rather than dramatic or overwhelming.\n\nUsing moody neutrals allows layering through textures instead of color contrast. When combined with plush bedding, dim lighting, and natural materials, the bedroom feels warm and inviting. This palette is perfect for creating a timeless romantic mood that works year-round."
+        content: "Moody neutral palettes rely on deep taupes, warm browns, and muted greiges to create romance without bold color. These tones feel grounded and elegant, offering depth while remaining soft and calming. They help establish a serene environment that feels intimate and cozy rather than dramatic or overwhelming.\n\nUsing moody neutrals allows layering through textures instead of color contrast. When combined with plush bedding, dim lighting, and natural materials, the bedroom feels warm and inviting. This palette is perfect for creating a timeless romantic mood that works year-round.",
+        image: "/assets/moody-bedroom-02.webp"
       },
       {
         title: "3. Low Warm Lighting",
-        content: "Low warm lighting is essential for a romantic moody bedroom. Soft light creates shadows and depth, instantly changing how the room feels. Instead of bright overhead lighting, warm lamps and subtle light sources create intimacy and comfort, encouraging relaxation at the end of the day.\n\nThis lighting approach enhances textures and darker colors. It helps the bedroom feel cozy and emotionally calming. Warm lighting also supports better sleep, making it both beautiful and functional for romantic bedroom design."
+        content: "Low warm lighting is essential for a romantic moody bedroom. Soft light creates shadows and depth, instantly changing how the room feels. Instead of bright overhead lighting, warm lamps and subtle light sources create intimacy and comfort, encouraging relaxation at the end of the day.\n\nThis lighting approach enhances textures and darker colors. It helps the bedroom feel cozy and emotionally calming. Warm lighting also supports better sleep, making it both beautiful and functional for romantic bedroom design.",
+        image: "/assets/moody-bedroom-03.webp"
       },
       {
         title: "4. Dark Accent Wall Behind the Bed",
-        content: "A dark accent wall behind the bed draws focus while creating depth and intimacy. This design anchors the room and makes the bed feel like a cozy centerpiece. Dark shades help visually enclose the space, which adds warmth and romance.\n\nThis idea works well when balanced with lighter bedding or soft textures. The contrast keeps the bedroom from feeling heavy while maintaining a moody tone. It's ideal for bedrooms that need visual interest without clutter."
+        content: "A dark accent wall behind the bed draws focus while creating depth and intimacy. This design anchors the room and makes the bed feel like a cozy centerpiece. Dark shades help visually enclose the space, which adds warmth and romance.\n\nThis idea works well when balanced with lighter bedding or soft textures. The contrast keeps the bedroom from feeling heavy while maintaining a moody tone. It's ideal for bedrooms that need visual interest without clutter.",
+        image: "/assets/moody-bedroom-04.webp"
       },
       {
         title: "5. Layered Bedding in Deep Tones",
-        content: "Layered bedding in deep tones instantly enhances a romantic atmosphere. Rich colors like deep gray, espresso, or muted plum create warmth and visual depth. Layers make the bed feel inviting and luxurious, encouraging rest and comfort.\n\nThis approach focuses on softness and texture. Mixing materials like cotton, linen, and velvet adds tactile appeal. Layered bedding transforms the bedroom into a cozy retreat without relying on excessive decor."
+        content: "Layered bedding in deep tones instantly enhances a romantic atmosphere. Rich colors like deep gray, espresso, or muted plum create warmth and visual depth. Layers make the bed feel inviting and luxurious, encouraging rest and comfort.\n\nThis approach focuses on softness and texture. Mixing materials like cotton, linen, and velvet adds tactile appeal. Layered bedding transforms the bedroom into a cozy retreat without relying on excessive decor.",
+        image: "/assets/moody-bedroom-05.webp"
       },
       {
         title: "6. Velvet or Plush Textiles",
-        content: "Velvet and plush textiles elevate the romantic mood of a bedroom. These materials absorb light and add softness, making the space feel luxurious and intimate. They work beautifully in moody color palettes where texture becomes the focal point.\n\nUsing plush fabrics on pillows, throws, or upholstery enhances comfort. It encourages relaxation and creates a sensory experience. Velvet textures are perfect for adding romance without adding visual clutter."
+        content: "Velvet and plush textiles elevate the romantic mood of a bedroom. These materials absorb light and add softness, making the space feel luxurious and intimate. They work beautifully in moody color palettes where texture becomes the focal point.\n\nUsing plush fabrics on pillows, throws, or upholstery enhances comfort. It encourages relaxation and creates a sensory experience. Velvet textures are perfect for adding romance without adding visual clutter.",
+        image: "/assets/moody-bedroom-06.webp"
       },
       {
         title: "7. Romantic Neutral Curtains",
-        content: "Neutral curtains in heavier fabrics help soften light and add intimacy. They frame the room while enhancing the moody aesthetic. Curtains also help control brightness, making the bedroom feel more private and enclosed.\n\nWhen chosen in warm neutral shades, they complement dark walls and bedding. This design choice adds elegance and softness, contributing to a calm, romantic environment ideal for rest and quiet moments."
+        content: "Neutral curtains in heavier fabrics help soften light and add intimacy. They frame the room while enhancing the moody aesthetic. Curtains also help control brightness, making the bedroom feel more private and enclosed.\n\nWhen chosen in warm neutral shades, they complement dark walls and bedding. This design choice adds elegance and softness, contributing to a calm, romantic environment ideal for rest and quiet moments.",
+        image: "/assets/moody-bedroom-07.webp"
       },
       {
         title: "8. Dark Wood Furniture",
-        content: "Dark wood furniture adds richness and warmth to a moody bedroom. It grounds the space and complements darker color palettes beautifully. Wood tones bring natural warmth, preventing the room from feeling cold or overly dramatic.\n\nThis furniture style works well in romantic settings because it feels timeless and comforting. Dark wood pairs effortlessly with soft lighting and textured fabrics, enhancing the overall cozy atmosphere."
+        content: "Dark wood furniture adds richness and warmth to a moody bedroom. It grounds the space and complements darker color palettes beautifully. Wood tones bring natural warmth, preventing the room from feeling cold or overly dramatic.\n\nThis furniture style works well in romantic settings because it feels timeless and comforting. Dark wood pairs effortlessly with soft lighting and textured fabrics, enhancing the overall cozy atmosphere.",
+        image: "/assets/moody-bedroom-08.webp"
       },
       {
         title: "9. Moody Minimal Decor",
-        content: "Minimal decor allows the moody atmosphere to shine without distraction. Fewer items create a sense of calm and intentional design. This approach makes the bedroom feel more intimate and peaceful.\n\nMoody minimalism focuses on quality rather than quantity. Carefully chosen decor enhances romance while keeping the space uncluttered. This style is ideal for those seeking emotional calm and visual balance."
+        content: "Minimal decor allows the moody atmosphere to shine without distraction. Fewer items create a sense of calm and intentional design. This approach makes the bedroom feel more intimate and peaceful.\n\nMoody minimalism focuses on quality rather than quantity. Carefully chosen decor enhances romance while keeping the space uncluttered. This style is ideal for those seeking emotional calm and visual balance.",
+        image: "/assets/moody-bedroom-09.webp"
       },
       {
         title: "10. Soft Neutral Rugs",
-        content: "Soft neutral rugs add warmth underfoot and soften the overall look of a moody bedroom. They balance darker floors or furniture while adding comfort and texture. Rugs help anchor the space and make it feel inviting.\n\nNeutral rugs keep the room cohesive while enhancing coziness. They also reduce echo and noise, contributing to a quieter, more relaxing environment ideal for romance."
+        content: "Soft neutral rugs add warmth underfoot and soften the overall look of a moody bedroom. They balance darker floors or furniture while adding comfort and texture. Rugs help anchor the space and make it feel inviting.\n\nNeutral rugs keep the room cohesive while enhancing coziness. They also reduce echo and noise, contributing to a quieter, more relaxing environment ideal for romance.",
+        image: "/assets/moody-bedroom-10.webp"
       },
       {
         title: "11. Candle-Inspired Ambiance",
