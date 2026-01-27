@@ -580,43 +580,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Candle-Inspired Ambiance",
-        content: "Candle-inspired lighting creates an instantly romantic atmosphere. Even without real candles, warm flickering light adds softness and emotional warmth. This effect works beautifully in moody bedrooms.\n\nThe gentle glow enhances intimacy and relaxation. It transforms the bedroom into a calm retreat perfect for unwinding. Candle-style lighting supports both romance and rest."
+        content: "Candle-inspired lighting creates an instantly romantic atmosphere. Even without real candles, warm flickering light adds softness and emotional warmth. This effect works beautifully in moody bedrooms.\n\nThe gentle glow enhances intimacy and relaxation. It transforms the bedroom into a calm retreat perfect for unwinding. Candle-style lighting supports both romance and rest.",
+        image: "/assets/moody-bedroom-11.webp"
       },
       {
         title: "12. Muted Earth Tone Accents",
-        content: "Muted earth tones add subtle warmth to moody bedrooms. Shades like clay, olive, or warm brown blend seamlessly with dark neutrals. These colors feel grounding and romantic without overpowering the space.\n\nEarth tones introduce nature-inspired calm. They soften darker palettes and create balance. This approach keeps the bedroom feeling cozy and emotionally soothing."
+        content: "Muted earth tones add subtle warmth to moody bedrooms. Shades like clay, olive, or warm brown blend seamlessly with dark neutrals. These colors feel grounding and romantic without overpowering the space.\n\nEarth tones introduce nature-inspired calm. They soften darker palettes and create balance. This approach keeps the bedroom feeling cozy and emotionally soothing.",
+        image: "/assets/moody-bedroom-12.webp"
       },
       {
         title: "13. Soft Headboard Design",
-        content: "A soft headboard adds comfort and visual softness. Upholstered designs enhance the romantic feel while supporting relaxation. They help the bed feel inviting and luxurious.\n\nSoft headboards also reduce harsh lines in the room. They complement moody palettes and textured bedding beautifully, enhancing the overall cozy atmosphere."
+        content: "A soft headboard adds comfort and visual softness. Upholstered designs enhance the romantic feel while supporting relaxation. They help the bed feel inviting and luxurious.\n\nSoft headboards also reduce harsh lines in the room. They complement moody palettes and textured bedding beautifully, enhancing the overall cozy atmosphere.",
+        image: "/assets/moody-bedroom-13.webp"
       },
       {
         title: "14. Romantic Wall Art in Dark Frames",
-        content: "Dark-framed wall art adds character without disrupting the moody tone. It enhances depth and complements darker walls. Art should feel intentional and minimal.\n\nThis approach keeps the bedroom visually calm. Romantic or abstract pieces add emotion without clutter, supporting a serene environment."
+        content: "Dark-framed wall art adds character without disrupting the moody tone. It enhances depth and complements darker walls. Art should feel intentional and minimal.\n\nThis approach keeps the bedroom visually calm. Romantic or abstract pieces add emotion without clutter, supporting a serene environment.",
+        image: "/assets/moody-bedroom-14.webp"
       },
       {
         title: "15. Matte Finishes Over Glossy",
-        content: "Matte finishes absorb light, making the bedroom feel softer and more intimate. They reduce glare and enhance moody colors. Matte walls and furniture feel calm and refined.\n\nThis choice supports a cozy atmosphere. Matte textures help maintain romance by keeping the space visually gentle and warm."
+        content: "Matte finishes absorb light, making the bedroom feel softer and more intimate. They reduce glare and enhance moody colors. Matte walls and furniture feel calm and refined.\n\nThis choice supports a cozy atmosphere. Matte textures help maintain romance by keeping the space visually gentle and warm.",
+        image: "/assets/moody-bedroom-15.webp"
       },
       {
         title: "16. Layered Window Treatments",
-        content: "Layered window treatments enhance privacy and light control. Combining sheers with heavier curtains allows flexibility while maintaining romance.\n\nThis design adds texture and softness. It helps the bedroom feel enclosed and intimate, ideal for moody aesthetics."
+        content: "Layered window treatments enhance privacy and light control. Combining sheers with heavier curtains allows flexibility while maintaining romance.\n\nThis design adds texture and softness. It helps the bedroom feel enclosed and intimate, ideal for moody aesthetics.",
+        image: "/assets/moody-bedroom-16.webp"
       },
       {
         title: "17. Neutral Canopy or Draping",
-        content: "Subtle canopy elements add romance without overpowering the space. Light draping creates softness and visual interest.\n\nThis idea frames the bed beautifully. It enhances intimacy and comfort while maintaining a moody tone."
+        content: "Subtle canopy elements add romance without overpowering the space. Light draping creates softness and visual interest.\n\nThis idea frames the bed beautifully. It enhances intimacy and comfort while maintaining a moody tone.",
+        image: "/assets/moody-bedroom-17.webp"
       },
       {
         title: "18. Soft Scented Atmosphere",
-        content: "A gentle scent enhances the emotional feel of a romantic bedroom. Warm, subtle fragrances support relaxation.\n\nScent adds a sensory layer that complements moody visuals. It deepens the cozy experience."
+        content: "A gentle scent enhances the emotional feel of a romantic bedroom. Warm, subtle fragrances support relaxation.\n\nScent adds a sensory layer that complements moody visuals. It deepens the cozy experience.",
+        image: "/assets/moody-bedroom-18.webp"
       },
       {
         title: "19. Symmetrical Bed Styling",
-        content: "Symmetry creates balance and calm. Matching bedside elements enhance visual harmony.\n\nThis approach feels intentional and comforting. It supports a peaceful, romantic environment."
+        content: "Symmetry creates balance and calm. Matching bedside elements enhance visual harmony.\n\nThis approach feels intentional and comforting. It supports a peaceful, romantic environment.",
+        image: "/assets/moody-bedroom-19.webp"
       },
       {
         title: "20. Dark Bedding with Light Accents",
-        content: "Dark bedding sets a moody base, while light accents add balance. This contrast keeps the bedroom visually interesting.\n\nThe combination feels cozy and refined. It's ideal for romantic styling."
+        content: "Dark bedding sets a moody base, while light accents add balance. This contrast keeps the bedroom visually interesting.\n\nThe combination feels cozy and refined. It's ideal for romantic styling.",
+        image: "/assets/moody-bedroom-20.webp"
       },
       {
         title: "21. Soft Metallic Accents",
