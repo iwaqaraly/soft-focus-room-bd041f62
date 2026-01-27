@@ -22,28 +22,12 @@ export interface Article {
 
 export const articles: Article[] = [
   {
-    id: "2",
-    slug: "scandinavian-living-room-ideas",
-    title: "Scandinavian Living Room Ideas",
-    excerpt: "Embrace the hygge lifestyle with these cozy yet functional Scandinavian-inspired living room concepts.",
-    category: "Living Room",
-    image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80"
-  },
-  {
     id: "4",
     slug: "modern-kitchen-essentials",
     title: "Modern Kitchen Essentials",
     excerpt: "The must-have elements for a contemporary kitchen that balances beauty with functionality.",
     category: "Kitchen",
     image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80"
-  },
-  {
-    id: "6",
-    slug: "small-space-living-solutions",
-    title: "Small Space Living Solutions",
-    excerpt: "Clever design strategies to maximize every square foot of your compact living space.",
-    category: "Living Room",
-    image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80"
   },
   {
     id: "7",
