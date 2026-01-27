@@ -38,6 +38,16 @@ const Navbar = () => {
           >
             Garden
           </NavLink>
+          <NavLink
+            to="/living-room"
+            className={({ isActive }) =>
+              `text-sm font-medium transition-colors hover:text-foreground ${
+                isActive ? "text-foreground" : "text-muted-foreground"
+              }`
+            }
+          >
+            Living Room
+          </NavLink>
         </div>
       </div>
     </nav>
