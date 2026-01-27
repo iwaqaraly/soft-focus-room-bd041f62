@@ -6,12 +6,15 @@ interface ArticleCardProps {
 }
 
 const ArticleCard = ({ article }: ArticleCardProps) => {
+  // Use the first section image if available, otherwise fall back to the main article image
+  const coverImage = article.sections?.[0]?.image || article.image;
+
   return (
     <Link to={`/article/${article.slug}`}>
       <article className="group cursor-pointer">
         <div className="aspect-[4/3] overflow-hidden mb-4">
           <img
-            src={article.image}
+            src={coverImage}
             alt={article.title}
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
           />
