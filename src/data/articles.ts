@@ -647,36 +647,44 @@ export const articles: Article[] = [
     ],
     faqs: [
       {
-        question: "What colors work best for a romantic moody bedroom?",
-        answer: "Deep charcoal, warm browns, muted taupes, and dark greiges create the best romantic moody atmosphere. These colors absorb light softly, making the space feel intimate and cozy. Avoid stark blacks or cold grays—opt for warmer undertones that feel inviting rather than harsh."
+        question: "What is a romantic moody bedroom style?",
+        answer: "A romantic moody bedroom style focuses on deep, rich colors, soft lighting, and cozy textures to create an intimate and calming atmosphere. It avoids bright whites and harsh lighting, instead using darker neutrals, layered fabrics, and warm tones. The goal is to make the bedroom feel emotionally comforting, private, and relaxing, while still appearing elegant and visually balanced rather than dark or overwhelming."
       },
       {
-        question: "How do I make a dark bedroom feel cozy and not gloomy?",
-        answer: "Balance dark walls with warm lighting, soft textures, and layered bedding. Use velvet, plush rugs, and natural wood to add warmth. Incorporate lighter accents strategically to create contrast. The key is layering—multiple soft elements prevent the room from feeling cold or heavy."
+        question: "What colors work best for a moody romantic bedroom?",
+        answer: "The best colors for a romantic moody bedroom include charcoal, deep taupe, warm brown, muted greige, soft black, and dark earth tones. These shades absorb light gently, creating depth and warmth. Pairing them with warm neutrals like cream or beige helps maintain balance. Avoid overly cool grays, as they can feel cold instead of romantic."
       },
       {
-        question: "What type of lighting is best for a romantic bedroom?",
-        answer: "Warm, low lighting works best. Use table lamps with warm bulbs, candle-style sconces, or dimmable fixtures. Avoid bright overhead lights. The goal is to create soft shadows and a gentle glow that enhances intimacy and relaxation."
+        question: "How do you make a dark bedroom feel cozy and not gloomy?",
+        answer: "To keep a dark bedroom cozy rather than gloomy, focus on warm lighting, soft textures, and layered materials. Use warm lamps instead of bright overhead lights, add plush bedding, and include natural elements like wood or linen. Limiting clutter and using matte finishes also helps soften the space, ensuring the room feels intimate and welcoming instead of heavy."
       },
       {
-        question: "Can a moody bedroom work in a small space?",
-        answer: "Yes, moody colors can actually make small bedrooms feel cozier and more intentional. Dark walls create depth and intimacy. Use mirrors strategically, keep decor minimal, and ensure adequate warm lighting to prevent the space from feeling cramped."
+        question: "Is moody bedroom design good for sleep?",
+        answer: "Yes, moody bedroom design can be excellent for sleep. Darker colors and low lighting reduce visual stimulation, which helps the brain relax. Warm tones and soft textures promote comfort and emotional calm. When paired with proper lighting and a clutter-free layout, a moody bedroom can support better rest and deeper sleep."
       },
       {
-        question: "What fabrics are best for a romantic bedroom?",
-        answer: "Velvet, linen, cotton, and soft wool create the best romantic atmosphere. These fabrics add texture and softness while absorbing light beautifully. Layer different textures on the bed and throughout the room for maximum cozy effect."
+        question: "What lighting is best for a romantic moody bedroom?",
+        answer: "The best lighting for a romantic moody bedroom is warm, low-level, and layered. Table lamps, wall sconces, and soft ambient lighting create depth and intimacy. Avoid bright white bulbs or harsh ceiling lights. Warm lighting enhances darker colors, softens shadows, and helps establish a cozy, emotionally soothing environment perfect for relaxation."
       },
       {
-        question: "How do I add romance without making the room feel cluttered?",
-        answer: "Focus on quality over quantity. Choose a few meaningful decor pieces, prioritize soft textures, and maintain clean surfaces. Moody minimalism—intentional, carefully chosen elements—creates romance without visual chaos."
+        question: "Can small bedrooms have a moody romantic look?",
+        answer: "Yes, small bedrooms can absolutely have a moody romantic look. Dark tones can actually make a small space feel more intimate and cozy when used thoughtfully. The key is balance—use dark walls with lighter bedding, soft lighting, and minimal decor. Keeping the layout simple prevents the room from feeling cramped or overwhelming."
       },
       {
-        question: "Is a romantic moody bedroom suitable for year-round use?",
-        answer: "Absolutely. Moody bedrooms feel cozy in winter and cool in summer. The key is using breathable fabrics like linen and cotton while maintaining the dark color palette. The atmosphere remains inviting regardless of season."
+        question: "What textures make a bedroom feel more romantic?",
+        answer: "Romantic bedrooms benefit from soft, touchable textures like velvet, linen, cotton, wool, and plush rugs. These materials absorb light and add warmth, making the space feel more inviting. Layering different textures adds depth without adding clutter. Texture is especially important in moody bedrooms where color contrast is intentionally subtle."
       },
       {
-        question: "How can I add warmth to a dark bedroom?",
-        answer: "Incorporate warm wood tones, brass or gold accents, warm-toned lighting, and natural textures like jute or wool. These elements add warmth and prevent dark colors from feeling cold. Layered bedding in deep but warm tones also helps."
+        question: "How do I style a bed for a romantic moody bedroom?",
+        answer: "To style a bed for a romantic moody bedroom, use layered bedding in deep neutral tones, soft throws, and textured pillows. Choose materials that feel luxurious and comfortable. Keep the color palette cohesive and avoid busy patterns. A well-layered bed becomes the focal point and enhances both comfort and visual romance."
+      },
+      {
+        question: "Are moody bedrooms still timeless or just a trend?",
+        answer: "Moody bedrooms can be very timeless when designed with neutral tones and quality materials. Avoid overly trendy colors and focus on classic shades like charcoal, brown, and warm greige. Pairing moody colors with natural textures and simple decor ensures the bedroom remains stylish, calming, and relevant for years rather than feeling dated."
+      },
+      {
+        question: "What decor should be avoided in a romantic moody bedroom?",
+        answer: "Avoid overly bright colors, glossy finishes, cluttered decor, and harsh lighting in a romantic moody bedroom. These elements disrupt the calm and intimate atmosphere. Instead, focus on minimal, meaningful decor that enhances warmth and softness. Less visual noise helps maintain the relaxing, romantic mood."
       }
     ]
   }
