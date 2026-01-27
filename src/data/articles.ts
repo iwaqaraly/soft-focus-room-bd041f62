@@ -630,23 +630,28 @@ export const articles: Article[] = [
       },
       {
         title: "21. Soft Metallic Accents",
-        content: "Soft metallics like brass add warmth without shine. They enhance romance subtly.\n\nUsed sparingly, metals elevate the mood while keeping the room cozy."
+        content: "Soft metallics like brass add warmth without shine. They enhance romance subtly.\n\nUsed sparingly, metals elevate the mood while keeping the room cozy.",
+        image: "/assets/moody-bedroom-21.webp"
       },
       {
         title: "22. Cozy Seating Corner",
-        content: "A small seating area adds intimacy and functionality. It makes the bedroom feel lived-in and warm.\n\nThis space supports relaxation and quiet moments."
+        content: "A small seating area adds intimacy and functionality. It makes the bedroom feel lived-in and warm.\n\nThis space supports relaxation and quiet moments.",
+        image: "/assets/moody-bedroom-22.webp"
       },
       {
         title: "23. Natural Textures in Dark Shades",
-        content: "Natural textures add warmth and authenticity. Dark tones keep the mood romantic.\n\nThis combination feels grounding and cozy."
+        content: "Natural textures add warmth and authenticity. Dark tones keep the mood romantic.\n\nThis combination feels grounding and cozy.",
+        image: "/assets/moody-bedroom-23.webp"
       },
       {
         title: "24. Quiet, Clutter-Free Layout",
-        content: "Reducing clutter enhances calm and intimacy. A clean layout supports relaxation.\n\nThis approach keeps the bedroom emotionally soothing."
+        content: "Reducing clutter enhances calm and intimacy. A clean layout supports relaxation.\n\nThis approach keeps the bedroom emotionally soothing.",
+        image: "/assets/moody-bedroom-24.webp"
       },
       {
         title: "25. Timeless Romantic Mood",
-        content: "Timeless moody design avoids trends. It focuses on comfort and emotion.\n\nThis creates a bedroom that feels romantic for years."
+        content: "Timeless moody design avoids trends. It focuses on comfort and emotion.\n\nThis creates a bedroom that feels romantic for years.",
+        image: "/assets/moody-bedroom-25.webp"
       }
     ],
     faqs: [
