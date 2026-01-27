@@ -380,19 +380,23 @@ export const articles: Article[] = [
       },
       {
         title: "21. Eco-Friendly Backyard Jacuzzi",
-        content: "Eco-friendly jacuzzis focus on energy efficiency and sustainable materials. They reduce environmental impact while still offering comfort and luxury.\n\nThis idea appeals to environmentally conscious homeowners. It balances relaxation with responsibility, making the backyard spa both enjoyable and thoughtful."
+        content: "Eco-friendly jacuzzis focus on energy efficiency and sustainable materials. They reduce environmental impact while still offering comfort and luxury.\n\nThis idea appeals to environmentally conscious homeowners. It balances relaxation with responsibility, making the backyard spa both enjoyable and thoughtful.",
+        image: "/assets/jacuzzi-21.webp"
       },
       {
         title: "22. Jacuzzi with Minimal Landscaping",
-        content: "Minimal landscaping around a jacuzzi creates a clean and uncluttered look. This design emphasizes simplicity and ease of maintenance.\n\nBy limiting plants and decor, the jacuzzi becomes the main feature. This approach works well for modern backyards and homeowners who prefer low upkeep."
+        content: "Minimal landscaping around a jacuzzi creates a clean and uncluttered look. This design emphasizes simplicity and ease of maintenance.\n\nBy limiting plants and decor, the jacuzzi becomes the main feature. This approach works well for modern backyards and homeowners who prefer low upkeep.",
+        image: "/assets/jacuzzi-22.webp"
       },
       {
         title: "23. Jacuzzi with Tropical Feel",
-        content: "A tropical-style jacuzzi brings vacation vibes into the backyard. Warm tones and natural elements create a relaxed, resort-inspired atmosphere.\n\nThis idea focuses on comfort and escape. It's perfect for homeowners who want their backyard to feel like a permanent getaway."
+        content: "A tropical-style jacuzzi brings vacation vibes into the backyard. Warm tones and natural elements create a relaxed, resort-inspired atmosphere.\n\nThis idea focuses on comfort and escape. It's perfect for homeowners who want their backyard to feel like a permanent getaway.",
+        image: "/assets/jacuzzi-23.webp"
       },
       {
         title: "24. Private Spa-Style Jacuzzi Retreat",
-        content: "A spa-style jacuzzi retreat focuses on calm, comfort, and privacy. It transforms the backyard into a personal wellness space.\n\nWith thoughtful layout and subtle design choices, this setup encourages relaxation and stress relief. It's ideal for those who want a peaceful escape at home."
+        content: "A spa-style jacuzzi retreat focuses on calm, comfort, and privacy. It transforms the backyard into a personal wellness space.\n\nWith thoughtful layout and subtle design choices, this setup encourages relaxation and stress relief. It's ideal for those who want a peaceful escape at home.",
+        image: "/assets/jacuzzi-24.webp"
       }
     ],
     faqs: [
