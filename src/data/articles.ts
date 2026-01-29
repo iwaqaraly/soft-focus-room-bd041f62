@@ -699,43 +699,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Warm Modern Neutrals",
-        content: "Modern living rooms in 2026 are moving away from cold whites and leaning into warm neutrals. Shades like soft beige, warm taupe, greige, and muted sand create inviting spaces that still feel clean and modern. These tones make living rooms feel more comfortable and livable while maintaining a refined aesthetic that works well with natural light.\n\nWarm neutrals also provide flexibility for styling. They allow furniture, art, and textures to stand out without overwhelming the space. This trend focuses on emotional comfort, making the living room feel welcoming rather than overly minimal or sterile."
+        content: "Modern living rooms in 2026 are moving away from cold whites and leaning into warm neutrals. Shades like soft beige, warm taupe, greige, and muted sand create inviting spaces that still feel clean and modern. These tones make living rooms feel more comfortable and livable while maintaining a refined aesthetic that works well with natural light.\n\nWarm neutrals also provide flexibility for styling. They allow furniture, art, and textures to stand out without overwhelming the space. This trend focuses on emotional comfort, making the living room feel welcoming rather than overly minimal or sterile.",
+        image: "/assets/living-room-2026-01.webp"
       },
       {
         title: "2. Curved Furniture Silhouettes",
-        content: "Curved furniture is becoming a defining feature of modern living rooms in 2026. Sofas, chairs, and tables with rounded edges soften the overall look of the space. These shapes create visual flow and make rooms feel more relaxed and inviting compared to sharp, angular designs.\n\nBeyond aesthetics, curved furniture improves movement and comfort. It encourages conversation and creates a more organic layout. This trend blends modern design with emotional warmth, making living rooms feel stylish yet approachable."
+        content: "Curved furniture is becoming a defining feature of modern living rooms in 2026. Sofas, chairs, and tables with rounded edges soften the overall look of the space. These shapes create visual flow and make rooms feel more relaxed and inviting compared to sharp, angular designs.\n\nBeyond aesthetics, curved furniture improves movement and comfort. It encourages conversation and creates a more organic layout. This trend blends modern design with emotional warmth, making living rooms feel stylish yet approachable.",
+        image: "/assets/living-room-2026-02.webp"
       },
       {
         title: "3. Layered Textures Over Bold Colors",
-        content: "Instead of bold colors, modern living rooms are embracing layered textures. Materials like bouclé, linen, wool, wood, and stone add depth without overwhelming the space. This approach keeps the room visually interesting while maintaining a calm, neutral palette.\n\nLayering textures makes the living room feel rich and cozy. It adds personality without relying on trends that quickly feel outdated. This design choice supports longevity and comfort, two priorities shaping interiors in 2026."
+        content: "Instead of bold colors, modern living rooms are embracing layered textures. Materials like bouclé, linen, wool, wood, and stone add depth without overwhelming the space. This approach keeps the room visually interesting while maintaining a calm, neutral palette.\n\nLayering textures makes the living room feel rich and cozy. It adds personality without relying on trends that quickly feel outdated. This design choice supports longevity and comfort, two priorities shaping interiors in 2026.",
+        image: "/assets/living-room-2026-03.webp"
       },
       {
         title: "4. Statement Sofas as Focal Points",
-        content: "In 2026, the sofa becomes the centerpiece of the modern living room. Oversized designs, unique shapes, and plush materials draw attention without loud colors. The focus is on comfort, scale, and visual presence rather than decoration.\n\nA statement sofa anchors the room and simplifies styling decisions. When the sofa stands out, the rest of the decor can remain minimal. This trend balances luxury and practicality, making the living room both stylish and functional."
+        content: "In 2026, the sofa becomes the centerpiece of the modern living room. Oversized designs, unique shapes, and plush materials draw attention without loud colors. The focus is on comfort, scale, and visual presence rather than decoration.\n\nA statement sofa anchors the room and simplifies styling decisions. When the sofa stands out, the rest of the decor can remain minimal. This trend balances luxury and practicality, making the living room both stylish and functional.",
+        image: "/assets/living-room-2026-04.webp"
       },
       {
         title: "5. Earth-Inspired Color Accents",
-        content: "Earth-inspired accents like clay, olive, rust, and warm brown are shaping modern living rooms. These colors add warmth and emotional grounding without overpowering the neutral base. They reflect a growing desire for nature-connected interiors.\n\nUsed in pillows, art, or accent chairs, these tones add subtle richness. They help modern living rooms feel calm and human rather than overly polished or cold. This trend emphasizes balance and harmony."
+        content: "Earth-inspired accents like clay, olive, rust, and warm brown are shaping modern living rooms. These colors add warmth and emotional grounding without overpowering the neutral base. They reflect a growing desire for nature-connected interiors.\n\nUsed in pillows, art, or accent chairs, these tones add subtle richness. They help modern living rooms feel calm and human rather than overly polished or cold. This trend emphasizes balance and harmony.",
+        image: "/assets/living-room-2026-05.webp"
       },
       {
         title: "6. Minimalist but Cozy Styling",
-        content: "Modern living rooms are embracing a softer version of minimalism. Instead of stark spaces, 2026 interiors focus on fewer items with more comfort. Clean lines remain important, but warmth is introduced through fabrics and lighting.\n\nThis approach prioritizes quality over quantity. Each piece serves a purpose while contributing to a calm atmosphere. The result is a living room that feels open, organized, and emotionally inviting rather than empty."
+        content: "Modern living rooms are embracing a softer version of minimalism. Instead of stark spaces, 2026 interiors focus on fewer items with more comfort. Clean lines remain important, but warmth is introduced through fabrics and lighting.\n\nThis approach prioritizes quality over quantity. Each piece serves a purpose while contributing to a calm atmosphere. The result is a living room that feels open, organized, and emotionally inviting rather than empty.",
+        image: "/assets/living-room-2026-06.webp"
       },
       {
         title: "7. Low-Profile Furniture",
-        content: "Low-profile furniture continues to define modern living rooms in 2026. Sofas, tables, and seating closer to the ground create a relaxed, grounded feeling. This style visually opens the space and enhances a contemporary aesthetic.\n\nLow furniture also improves flow and comfort. It encourages lounging and casual living. This trend works especially well in open-plan homes and spaces with large windows or natural light."
+        content: "Low-profile furniture continues to define modern living rooms in 2026. Sofas, tables, and seating closer to the ground create a relaxed, grounded feeling. This style visually opens the space and enhances a contemporary aesthetic.\n\nLow furniture also improves flow and comfort. It encourages lounging and casual living. This trend works especially well in open-plan homes and spaces with large windows or natural light.",
+        image: "/assets/living-room-2026-07.webp"
       },
       {
         title: "8. Soft Ambient Lighting",
-        content: "Lighting in modern living rooms is shifting toward soft, layered solutions. Floor lamps, wall sconces, and indirect lighting replace harsh overhead fixtures. This creates depth and a calming mood throughout the space.\n\nSoft lighting enhances textures and warm tones. It makes the living room feel cozy during evenings while remaining functional. Lighting becomes part of the decor rather than a purely practical element."
+        content: "Lighting in modern living rooms is shifting toward soft, layered solutions. Floor lamps, wall sconces, and indirect lighting replace harsh overhead fixtures. This creates depth and a calming mood throughout the space.\n\nSoft lighting enhances textures and warm tones. It makes the living room feel cozy during evenings while remaining functional. Lighting becomes part of the decor rather than a purely practical element.",
+        image: "/assets/living-room-2026-08.webp"
       },
       {
         title: "9. Mixed Natural Materials",
-        content: "Mixing natural materials is a major trend for 2026 living rooms. Wood, stone, leather, and natural fabrics work together to create warmth and authenticity. The focus is on organic textures rather than perfect finishes.\n\nThis mix adds visual interest while keeping the space grounded. It supports a timeless look that ages well. Natural materials also connect the living room to sustainability and comfort."
+        content: "Mixing natural materials is a major trend for 2026 living rooms. Wood, stone, leather, and natural fabrics work together to create warmth and authenticity. The focus is on organic textures rather than perfect finishes.\n\nThis mix adds visual interest while keeping the space grounded. It supports a timeless look that ages well. Natural materials also connect the living room to sustainability and comfort.",
+        image: "/assets/living-room-2026-09.webp"
       },
       {
         title: "10. Statement Area Rugs",
-        content: "Area rugs are becoming bolder in texture rather than color. Thick weaves, natural fibers, and subtle patterns add depth to modern living rooms. Rugs help define seating areas and anchor furniture layouts.\n\nA well-chosen rug enhances comfort and warmth. It softens hard flooring and improves acoustics. In 2026, rugs are functional design elements rather than afterthoughts."
+        content: "Area rugs are becoming bolder in texture rather than color. Thick weaves, natural fibers, and subtle patterns add depth to modern living rooms. Rugs help define seating areas and anchor furniture layouts.\n\nA well-chosen rug enhances comfort and warmth. It softens hard flooring and improves acoustics. In 2026, rugs are functional design elements rather than afterthoughts.",
+        image: "/assets/living-room-2026-10.webp"
       },
       {
         title: "11. Built-In Storage Solutions",
