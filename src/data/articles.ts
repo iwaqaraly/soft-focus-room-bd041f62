@@ -799,7 +799,8 @@ export const articles: Article[] = [
       },
       {
         title: "21. Timeless Modern Comfort",
-        content: "The defining trend of 2026 is timeless comfort. Modern living rooms focus on emotional well-being, warmth, and longevity rather than fast trends.\n\nThis approach creates spaces that feel personal and relaxing. Comfort becomes the ultimate luxury in modern living room design."
+        content: "The defining trend of 2026 is timeless comfort. Modern living rooms focus on emotional well-being, warmth, and longevity rather than fast trends.\n\nThis approach creates spaces that feel personal and relaxing. Comfort becomes the ultimate luxury in modern living room design.",
+        image: "/assets/living-room-2026-21.webp"
       }
     ],
     faqs: [
