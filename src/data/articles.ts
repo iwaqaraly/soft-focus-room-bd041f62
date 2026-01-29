@@ -749,43 +749,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Built-In Storage Solutions",
-        content: "Built-in storage is gaining popularity in modern living rooms. Custom shelving and concealed storage keep spaces clutter-free while maintaining a sleek look. This supports a clean, organized aesthetic.\n\nBuilt-ins also add architectural interest. They allow personalization without visual noise. This trend reflects the growing need for functional living spaces that still feel modern and elegant."
+        content: "Built-in storage is gaining popularity in modern living rooms. Custom shelving and concealed storage keep spaces clutter-free while maintaining a sleek look. This supports a clean, organized aesthetic.\n\nBuilt-ins also add architectural interest. They allow personalization without visual noise. This trend reflects the growing need for functional living spaces that still feel modern and elegant.",
+        image: "/assets/living-room-2026-11.webp"
       },
       {
         title: "12. Subtle Contrast Instead of High Contrast",
-        content: "High contrast designs are giving way to softer transitions. Modern living rooms now favor subtle shifts between tones and materials. This keeps the space visually calm and cohesive.\n\nSubtle contrast enhances longevity. It prevents rooms from feeling trendy or overwhelming. This approach supports a more relaxing environment, ideal for everyday living."
+        content: "High contrast designs are giving way to softer transitions. Modern living rooms now favor subtle shifts between tones and materials. This keeps the space visually calm and cohesive.\n\nSubtle contrast enhances longevity. It prevents rooms from feeling trendy or overwhelming. This approach supports a more relaxing environment, ideal for everyday living.",
+        image: "/assets/living-room-2026-12.webp"
       },
       {
         title: "13. Sculptural Coffee Tables",
-        content: "Coffee tables are becoming sculptural statement pieces. Unique shapes and solid materials turn functional furniture into art. These designs add character without requiring additional decor.\n\nA sculptural coffee table elevates the living room instantly. It becomes a conversation piece while remaining practical. This trend blends art and utility seamlessly."
+        content: "Coffee tables are becoming sculptural statement pieces. Unique shapes and solid materials turn functional furniture into art. These designs add character without requiring additional decor.\n\nA sculptural coffee table elevates the living room instantly. It becomes a conversation piece while remaining practical. This trend blends art and utility seamlessly.",
+        image: "/assets/living-room-2026-13.webp"
       },
       {
         title: "14. Neutral Walls with Texture",
-        content: "Walls are no longer just painted flat. Textured finishes like plaster, limewash, or subtle paneling add depth to modern living rooms. These finishes enhance light and shadow.\n\nTextured walls keep neutral spaces interesting. They add sophistication without clutter. This trend supports calm interiors that still feel rich and layered."
+        content: "Walls are no longer just painted flat. Textured finishes like plaster, limewash, or subtle paneling add depth to modern living rooms. These finishes enhance light and shadow.\n\nTextured walls keep neutral spaces interesting. They add sophistication without clutter. This trend supports calm interiors that still feel rich and layered.",
+        image: "/assets/living-room-2026-14.webp"
       },
       {
         title: "15. Indoor Plants as Design Elements",
-        content: "Indoor plants remain essential in modern living rooms. In 2026, they're treated as intentional design elements rather than accessories. Plants add life, softness, and balance.\n\nThey improve air quality and emotional well-being. Used thoughtfully, plants enhance modern aesthetics while maintaining simplicity and calm."
+        content: "Indoor plants remain essential in modern living rooms. In 2026, they're treated as intentional design elements rather than accessories. Plants add life, softness, and balance.\n\nThey improve air quality and emotional well-being. Used thoughtfully, plants enhance modern aesthetics while maintaining simplicity and calm.",
+        image: "/assets/living-room-2026-15.webp"
       },
       {
         title: "16. Open and Flexible Layouts",
-        content: "Flexible layouts are shaping modern living rooms. Furniture is arranged to support multiple uses, from relaxation to socializing. This reflects evolving lifestyles.\n\nOpen layouts feel spacious and adaptable. They allow living rooms to change with needs. This trend prioritizes functionality without sacrificing style."
+        content: "Flexible layouts are shaping modern living rooms. Furniture is arranged to support multiple uses, from relaxation to socializing. This reflects evolving lifestyles.\n\nOpen layouts feel spacious and adaptable. They allow living rooms to change with needs. This trend prioritizes functionality without sacrificing style.",
+        image: "/assets/living-room-2026-16.webp"
       },
       {
         title: "17. Muted Metallic Accents",
-        content: "Metallic accents are becoming softer and warmer. Brushed brass, muted bronze, and matte finishes replace shiny chrome. These metals add elegance without glare.\n\nUsed sparingly, metallics enhance warmth. They elevate modern living rooms while keeping the atmosphere calm and refined."
+        content: "Metallic accents are becoming softer and warmer. Brushed brass, muted bronze, and matte finishes replace shiny chrome. These metals add elegance without glare.\n\nUsed sparingly, metallics enhance warmth. They elevate modern living rooms while keeping the atmosphere calm and refined.",
+        image: "/assets/living-room-2026-17.webp"
       },
       {
         title: "18. Art as a Single Statement",
-        content: "Instead of gallery walls, modern living rooms feature one strong art piece. This creates focus and reduces visual clutter. Art becomes intentional rather than decorative.\n\nA single statement artwork adds personality and emotion. It supports minimal styling while making a bold impact."
+        content: "Instead of gallery walls, modern living rooms feature one strong art piece. This creates focus and reduces visual clutter. Art becomes intentional rather than decorative.\n\nA single statement artwork adds personality and emotion. It supports minimal styling while making a bold impact.",
+        image: "/assets/living-room-2026-18.webp"
       },
       {
         title: "19. Sustainable Furniture Choices",
-        content: "Sustainability influences modern living room design in 2026. Furniture made from responsible materials is increasingly prioritized. This reflects conscious living.\n\nSustainable pieces also emphasize durability and timeless design. They align with long-term comfort and environmental awareness."
+        content: "Sustainability influences modern living room design in 2026. Furniture made from responsible materials is increasingly prioritized. This reflects conscious living.\n\nSustainable pieces also emphasize durability and timeless design. They align with long-term comfort and environmental awareness.",
+        image: "/assets/living-room-2026-19.webp"
       },
       {
         title: "20. Soft Technology Integration",
-        content: "Technology is blending seamlessly into living rooms. Hidden wiring and minimal screens maintain a clean aesthetic. Tech supports comfort without dominating design.\n\nThis approach keeps living rooms feeling human. It balances modern convenience with visual calm."
+        content: "Technology is blending seamlessly into living rooms. Hidden wiring and minimal screens maintain a clean aesthetic. Tech supports comfort without dominating design.\n\nThis approach keeps living rooms feeling human. It balances modern convenience with visual calm.",
+        image: "/assets/living-room-2026-20.webp"
       },
       {
         title: "21. Timeless Modern Comfort",
