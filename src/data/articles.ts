@@ -22,14 +22,6 @@ export interface Article {
 
 export const articles: Article[] = [
   {
-    id: "4",
-    slug: "modern-kitchen-essentials",
-    title: "Modern Kitchen Essentials",
-    excerpt: "The must-have elements for a contemporary kitchen that balances beauty with functionality.",
-    category: "Kitchen",
-    image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80"
-  },
-  {
     id: "7",
     slug: "king-size-bed-guide-dimensions",
     title: "King Size Bed Guide: 21 Dimensions & Benefits",
