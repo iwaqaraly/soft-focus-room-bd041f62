@@ -1728,5 +1728,129 @@ export const articles: Article[] = [
         answer: "Update seasonally or whenever you feel inspired. The beauty of DIY is flexibility—washi tape and removable projects make changes easy. Rotate pieces to keep the space fresh without spending more money."
       }
     ]
+  },
+  {
+    id: "24",
+    slug: "kitchen-counter-decor-ideas-transform-space",
+    title: "Kitchen Counter Decor: 22 Ideas to Transform Your Space",
+    excerpt: "Discover 22 stylish and functional ideas to elevate your kitchen countertops with décor that balances beauty and practicality.",
+    category: "Kitchen",
+    image: "/assets/placeholder.svg",
+    sections: [
+      {
+        title: "1. Fresh Herb Pots",
+        content: "Place small pots of fresh herbs like basil, rosemary, or mint on your counter. They add greenery, aroma, and easy access for cooking.\n\nHerb pots are both functional and decorative. Using colorful or minimalist pots can tie your kitchen's theme together, adding life to otherwise bare countertops."
+      },
+      {
+        title: "2. Wooden Cutting Boards Display",
+        content: "Lean assorted wooden cutting boards against the backsplash. Mix shapes and sizes for texture and visual interest.\n\nThis adds warmth and natural elements. It also makes frequently used tools easily accessible while doubling as décor that complements rustic or modern kitchens."
+      },
+      {
+        title: "3. Stylish Fruit Bowl",
+        content: "Display fresh fruit in a decorative bowl. Choose vibrant colors like oranges, lemons, or apples to add a pop to your countertop.\n\nA fruit bowl is simple, functional, and adds life to your kitchen. It can also act as a centerpiece for casual dining areas."
+      },
+      {
+        title: "4. Glass Canisters",
+        content: "Use glass canisters to store dry ingredients like pasta, rice, or flour. Group them in varying heights for visual balance.\n\nGlass canisters are practical and stylish. Clear containers highlight contents and add a clean, organized aesthetic to your kitchen space."
+      },
+      {
+        title: "5. Floating Spice Rack",
+        content: "Install a small spice rack or display spices in uniform jars. Organize by color, size, or label style for a polished look.\n\nSpice racks keep cooking essentials handy while enhancing décor. It's a simple way to combine functionality and style in one corner of the counter."
+      },
+      {
+        title: "6. Vintage Decor Accents",
+        content: "Add vintage elements like antique scales, trays, or jars. These pieces add character and charm to modern or rustic kitchens.\n\nVintage décor creates focal points and gives personality to your counter space. It's a subtle yet impactful way to elevate the kitchen's aesthetic."
+      },
+      {
+        title: "7. Decorative Cutting Board Tray",
+        content: "Use a large cutting board as a base for grouping small items like oils, utensils, or condiments.\n\nThis creates an organized and cohesive display. It's functional, keeps essentials accessible, and visually transforms the counter with minimal effort."
+      },
+      {
+        title: "8. Potted Indoor Plants",
+        content: "Add low-maintenance plants like succulents or snake plants. Greenery softens hard surfaces and enhances air quality.\n\nPlants add texture, color, and a natural feel. Strategically placed, they create a fresh, inviting countertop environment."
+      },
+      {
+        title: "9. Minimalist Utensil Holder",
+        content: "Use sleek containers for frequently used utensils. Choose ceramic, stainless steel, or copper for style.\n\nA tidy utensil holder keeps the counter clutter-free. It's practical for cooking while subtly enhancing your décor theme."
+      },
+      {
+        title: "10. Seasonal Decor",
+        content: "Switch out small décor items for seasonal touches like mini pumpkins in fall or fresh flowers in spring.\n\nSeasonal décor keeps your kitchen lively and visually appealing. Changing accents is inexpensive and brings freshness to everyday counter space."
+      },
+      {
+        title: "11. Decorative Tray Organizer",
+        content: "Use trays to group items like oils, soaps, and small plants. This defines spaces and adds order.\n\nA tray acts as a base for décor, keeping counters organized while visually appealing. It's versatile for any kitchen style."
+      },
+      {
+        title: "12. Stylish Soap Dispensers",
+        content: "Upgrade your soap and lotion dispensers. Choose glass, metal, or matte finishes that match your kitchen's design.\n\nFunctional and decorative, premium dispensers enhance the sink area. They're a subtle detail that elevates the overall aesthetic."
+      },
+      {
+        title: "13. Cookbook Stand",
+        content: "Display your favorite cookbook on a stand. Add decorative props like small jars or candles around it.\n\nA cookbook stand is both practical for cooking and visually appealing. It adds height, interest, and personality to your countertop."
+      },
+      {
+        title: "14. Statement Bowl or Vase",
+        content: "Use a large bowl or vase as a centerpiece. Fill it with fruit, flowers, or decorative objects.\n\nStatement pieces draw attention and anchor the countertop design. It's a simple way to add elegance without cluttering."
+      },
+      {
+        title: "15. Chalkboard or Menu Board",
+        content: "Place a small chalkboard for notes, grocery lists, or menu ideas. It adds a playful yet functional touch.\n\nChalkboards personalize your kitchen space. They're practical, budget-friendly, and make your countertop interactive and engaging."
+      },
+      {
+        title: "16. Wine Rack or Stand",
+        content: "Display a compact wine rack or a few bottles on the counter. Choose one that matches the kitchen's style.\n\nIt adds sophistication and is practical for casual entertaining. A small wine display elevates the aesthetic without overcrowding the space."
+      },
+      {
+        title: "17. Decorative Bowls for Snacks",
+        content: "Use small decorative bowls for nuts, candy, or snacks. Arrange them strategically to balance form and function.\n\nSnack bowls add color and texture to the counter. They make essentials accessible while contributing to the overall décor theme."
+      },
+      {
+        title: "18. Ceramic or Stoneware Jars",
+        content: "Group ceramic or stoneware jars for utensils or pantry items. Choose natural tones or muted colors for a cohesive look.\n\nThese jars add texture and a cozy, artisanal feel. They're durable, functional, and enhance kitchen décor without cluttering surfaces."
+      },
+      {
+        title: "19. Tiered Counter Organizer",
+        content: "Use a small tiered stand for spices, condiments, or fruit. It adds height and layers to the countertop.\n\nTiered organizers maximize vertical space while keeping essentials organized. They create a dynamic and visually interesting display without overcrowding."
+      },
+      {
+        title: "20. Tea or Coffee Station",
+        content: "Dedicate a corner for a coffee machine, mugs, and teas. Add small decorative elements like a jar of sugar or mini plants.\n\nA coffee station is functional and visually appealing. It transforms a countertop area into a cozy, inviting spot for daily rituals."
+      },
+      {
+        title: "21. Floating Shelf Above Counter",
+        content: "Install a small shelf above the counter to display plants, art, or kitchen essentials. It adds décor without occupying counter space.\n\nFloating shelves expand storage vertically. They're perfect for decorative accents and small items, keeping countertops clutter-free while enhancing style."
+      },
+      {
+        title: "22. Glass Jar Herb Display",
+        content: "Grow herbs like parsley, thyme, or mint in glass jars lined along the counter. They bring greenery, freshness, and culinary functionality.\n\nGlass jar herb displays are visually appealing and practical. They create a fresh and vibrant countertop décor while keeping herbs accessible for cooking."
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I keep kitchen counters clutter-free while decorating?",
+        answer: "Use trays and organizers to group items together, choose multi-functional décor like utensil holders or herb pots, and limit the number of decorative pieces. Focus on items that are both beautiful and practical."
+      },
+      {
+        question: "What are the best plants for kitchen counter décor?",
+        answer: "Herbs like basil, rosemary, and mint are ideal because they're functional for cooking. Low-maintenance options like succulents, pothos, or snake plants also thrive in kitchen environments and add greenery."
+      },
+      {
+        question: "How can I make a small kitchen counter look stylish?",
+        answer: "Focus on vertical solutions like tiered organizers and floating shelves. Choose a few statement pieces rather than many small items. Use trays to corral essentials and keep the overall look minimal and organized."
+      },
+      {
+        question: "What colors work best for kitchen counter décor?",
+        answer: "Neutral tones like white, cream, wood, and muted greens create a cohesive look. Add pops of color through fruit, plants, or seasonal accents. Match décor colors to your kitchen's overall palette for harmony."
+      },
+      {
+        question: "How do I balance functionality and style on kitchen counters?",
+        answer: "Choose items that serve dual purposes, like attractive canisters for storage or decorative cutting boards. Keep frequently used items accessible and store less-used items elsewhere. Style around function, not instead of it."
+      },
+      {
+        question: "What should I avoid when decorating kitchen counters?",
+        answer: "Avoid overcrowding, which makes counters feel cluttered and hard to use. Skip items that don't serve a purpose and avoid mismatched styles. Keep décor practical, cohesive, and proportionate to your counter space."
+      }
+    ]
   }
 ];
