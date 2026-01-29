@@ -1612,5 +1612,121 @@ export const articles: Article[] = [
         answer: "Absolutely. Focus on quiet equipment like resistance bands, yoga, and adjustable dumbbells. Use foldable machines and wall-mounted solutions. Consider noise-reducing mats and workout during appropriate hours."
       }
     ]
+  },
+  {
+    id: "23",
+    slug: "room-decor-diy-easy-project-ideas",
+    title: "Room Decor DIY: 20 Easy Project Ideas",
+    excerpt: "Discover 20 creative and budget-friendly DIY décor projects to personalize any room with style and charm.",
+    category: "Living Room",
+    image: "/assets/placeholder.svg",
+    sections: [
+      {
+        title: "1. Washi Tape Wall Art",
+        content: "Washi tape can instantly transform blank walls into artistic canvases. Create geometric patterns, stripes, or abstract designs that match your color scheme.\n\nThis budget-friendly solution is removable and renter-friendly. It's perfect for adding personality and modern style to any bedroom, living room, or office without expensive materials."
+      },
+      {
+        title: "2. DIY Floating Shelves",
+        content: "Floating shelves offer both style and storage. Use inexpensive plywood or reclaimed wood to mount on walls and display decor, plants, or books.\n\nThey save floor space and make the room feel organized. DIY shelves allow customization of length, color, and arrangement to fit your style and room size."
+      },
+      {
+        title: "3. Mason Jar Vases",
+        content: "Transform mason jars into vases with paint, ribbons, or twine. Display fresh or dried flowers for a charming, rustic vibe.\n\nThis simple project adds color, texture, and personality to any room. Mason jars are affordable and versatile, ideal for budget-conscious décor enthusiasts."
+      },
+      {
+        title: "4. String Light Photo Display",
+        content: "Hang string lights along a wall and attach photos with mini clothespins. The soft glow creates ambiance and highlights memories.\n\nThis DIY adds warmth and personalization. It's perfect for bedrooms or dorms, offering a cozy, budget-friendly, and visually appealing décor solution."
+      },
+      {
+        title: "5. Painted Planters",
+        content: "Use paint or patterns to refresh plain terracotta or ceramic pots. Add plants to bring greenery and life to your space.\n\nPainted planters allow for creative expression while elevating natural elements in the room. They're inexpensive and can be tailored to match your interior palette."
+      },
+      {
+        title: "6. Decorative Wall Hangings",
+        content: "Create wall hangings using yarn, rope, or fabric scraps. Macrame or fringe designs add texture and a boho-chic vibe.\n\nThese pieces are easy to make and customize. Wall hangings fill empty spaces and provide cozy, handmade charm to any room without costing much."
+      },
+      {
+        title: "7. Framed Fabric Art",
+        content: "Frame leftover fabric pieces or scarves to create unique wall art. Mix patterns, textures, and colors for a gallery-style display.\n\nThis project turns affordable materials into stylish décor. It allows personalization and makes blank walls interesting, perfect for any room style."
+      },
+      {
+        title: "8. DIY Bulletin Board",
+        content: "Create a bulletin board using cork, fabric, or foam boards. Pin notes, photos, or inspirational quotes for function and flair.\n\nBulletin boards add structure and organization while contributing to the décor. They are practical and visually appealing, ideal for workspaces or bedrooms."
+      },
+      {
+        title: "9. Painted Accent Wall",
+        content: "Use painter's tape and bold colors to create geometric shapes or stripes on a wall. This adds dimension without wallpaper.\n\nDIY accent walls refresh the space at low cost. They allow flexibility to change designs or colors as trends and preferences evolve."
+      },
+      {
+        title: "10. Hanging Rope Shelf",
+        content: "Hang a shelf from the ceiling using rope or macrame cords. It's stylish, functional, and a great way to display plants or décor.\n\nThe hanging shelf adds vertical interest and keeps surfaces free. It works well in living rooms, bedrooms, or small spaces, maximizing design impact."
+      },
+      {
+        title: "11. Upcycled Frame Gallery",
+        content: "Repurpose old frames by painting or embellishing them. Create a gallery wall with prints, photos, or fabric inserts.\n\nUpcycled frames are sustainable and cost-effective. They add personality and make blank walls visually engaging while staying budget-friendly."
+      },
+      {
+        title: "12. DIY Wall Decals",
+        content: "Create wall decals using contact paper, vinyl, or stencils. Designs can include shapes, quotes, or patterns for a personalized touch.\n\nWall decals are removable and renter-friendly. They allow for seasonal or style updates without investing in permanent changes."
+      },
+      {
+        title: "13. Decorative Jars and Bottles",
+        content: "Paint or wrap jars and bottles in twine, lace, or metallic accents. Use them as vases, candle holders, or storage containers.\n\nThis project adds charm and functionality. Upcycling everyday items into décor elements is inexpensive, creative, and versatile for any room."
+      },
+      {
+        title: "14. DIY Cork Map",
+        content: "Create a map using corkboard pieces. Pin travel memories, notes, or photos for an interactive wall display.\n\nThis project is both decorative and functional. It personalizes the space while inspiring travel or creativity and remains affordable to make."
+      },
+      {
+        title: "15. Rope Wall Letters",
+        content: "Form letters, initials, or words using rope glued onto wooden boards. Hang them as statement pieces in bedrooms or living areas.\n\nRope wall letters add texture and a rustic touch. They're easy to craft, customizable, and budget-friendly while enhancing room personality."
+      },
+      {
+        title: "16. Washi Tape Picture Frames",
+        content: "Decorate photo frames with washi tape in patterns or colors that complement your décor. Create a cohesive gallery wall.\n\nThis inexpensive DIY refreshes old frames. It adds personality and ties together room themes without costly replacements."
+      },
+      {
+        title: "17. Floating Book Ledge",
+        content: "Install a narrow floating ledge to display books or decorative objects. Paint or stain it to match the room décor.\n\nFloating ledges save floor space and add visual interest. They're simple to DIY and perfect for creating organized, stylish displays."
+      },
+      {
+        title: "18. Hanging Paper Lanterns",
+        content: "Create paper lanterns from craft paper or repurpose store-bought ones. Hang them at varying heights for dimension.\n\nLanterns provide soft, ambient lighting and playful décor. They're affordable, lightweight, and easy to customize with paint or patterns."
+      },
+      {
+        title: "19. DIY Chalkboard Wall",
+        content: "Paint a section of a wall with chalkboard paint. Use it for notes, quotes, or seasonal art that changes anytime.\n\nChalkboard walls add interactive functionality. They're perfect for kids' rooms, kitchens, or offices and are easy to update without additional costs."
+      },
+      {
+        title: "20. Fabric-Covered Bulletin Boards",
+        content: "Cover cork boards with fabric for a stylish, textured wall display. Pin photos, notes, or small art pieces.\n\nFabric-covered boards blend utility with décor. They allow personalization through fabric choice, pattern, and color, making them budget-friendly statement pieces."
+      }
+    ],
+    faqs: [
+      {
+        question: "What are the easiest DIY room décor projects for beginners?",
+        answer: "Washi tape wall art, string light photo displays, and painted planters are perfect for beginners. They require minimal tools, no special skills, and can be completed in under an hour with affordable materials."
+      },
+      {
+        question: "How can I decorate my room on a tight budget?",
+        answer: "Focus on upcycling items you already have, like jars, frames, and fabric scraps. Use washi tape, paint, and string lights for affordable transformations. Dollar stores and thrift shops are great sources for inexpensive materials."
+      },
+      {
+        question: "What DIY projects work best for renters?",
+        answer: "Removable options like washi tape, command strip shelves, leaning frames, and hanging decorations work best. Avoid permanent wall damage by using temporary adhesives and freestanding décor pieces."
+      },
+      {
+        question: "How do I make my DIY décor look professional?",
+        answer: "Focus on clean lines, consistent color schemes, and quality finishing. Take time with measurements, use proper tools, and choose materials that complement each other. Framing even simple projects elevates the look."
+      },
+      {
+        question: "What materials should I keep on hand for DIY room décor?",
+        answer: "Stock up on washi tape, acrylic paint, brushes, twine, fabric scraps, mason jars, command strips, and basic craft tools. These versatile materials can be used for countless projects throughout the year."
+      },
+      {
+        question: "How often should I update my DIY room décor?",
+        answer: "Update seasonally or whenever you feel inspired. The beauty of DIY is flexibility—washi tape and removable projects make changes easy. Rotate pieces to keep the space fresh without spending more money."
+      }
+    ]
   }
 ];
