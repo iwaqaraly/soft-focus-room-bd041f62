@@ -1092,5 +1092,129 @@ export const articles: Article[] = [
         answer: "Yes, minimalist decor is ideal for small bedrooms. By limiting furniture and accessories, you create a clean, open space that feels calm and spacious. Prioritize essential pieces that combine function with style."
       }
     ]
+  },
+  {
+    id: "19",
+    slug: "moody-romance-wreath-dark-valentine-ideas",
+    title: "Moody Romance Wreath: 22 Dark Valentine Ideas",
+    excerpt: "Discover 22 gothic-inspired wreath designs blending Victorian elegance, dark florals, and romantic textures for a dramatic Valentine display.",
+    category: "Garden",
+    image: "/assets/placeholder.svg",
+    sections: [
+      {
+        title: "1. Black Lace Heart Wreath",
+        content: "A black lace heart wreath embodies gothic romance with Victorian charm. Hung on a dark-painted front door, the delicate lace adds texture and intrigue while keeping the Valentine theme moody. Its intricate design blends elegance with drama, perfect for lovers of vintage-inspired décor.\n\nPair the wreath with candle lanterns or brass accents for a striking entry. The contrast between the lace's softness and the dark door creates a visual focal point, evoking intimacy, mystery, and old-world romance."
+      },
+      {
+        title: "2. Dark Red Rose Circle Wreath",
+        content: "A circular wreath of deep crimson roses makes a dramatic Valentine statement. The lush blooms symbolize passion and romance while maintaining a dark, sophisticated tone. It's perfect for gothic or Victorian-inspired home décor.\n\nThe full-bodied wreath pairs beautifully with black doors or dark greenery accents. Subtle hints of black or burgundy ribbons enhance the moody aesthetic, making the entryway feel both romantic and refined."
+      },
+      {
+        title: "3. Velvet Ribbon Accents",
+        content: "Adding velvet ribbons in deep burgundy, wine, or black elevates any Valentine wreath. The soft sheen of velvet enhances texture and luxury, keeping the décor romantic yet dark.\n\nRibbons can cascade naturally from the wreath, adding movement and drama. Paired with florals or minimal greenery, velvet emphasizes Victorian-inspired opulence while maintaining a cozy, moody feel."
+      },
+      {
+        title: "4. Gothic Heart Wreath",
+        content: "A gothic heart-shaped wreath made of black twigs or aged wood creates bold Valentine décor. Its edgy design balances romance with moody elegance.\n\nThe dark silhouette contrasts beautifully with subtle florals or metallic accents. It's ideal for door décor, evoking mystery and drama while celebrating love in a non-traditional, gothic style."
+      },
+      {
+        title: "5. Dried Floral Wreath",
+        content: "Dried flowers in deep reds, purples, and muted pinks evoke old-world romance. A dried floral wreath maintains a natural, antique aesthetic, perfect for a Victorian-inspired Valentine display.\n\nThe texture of dried blooms adds depth and richness. When paired with moss, berries, or twine, the wreath feels organic and nostalgic, blending romance with a moody, timeless vibe."
+      },
+      {
+        title: "6. Black Feather Wreath",
+        content: "Incorporating black feathers into a wreath adds softness and drama. Feathers create visual movement while enhancing gothic romance for Valentine décor.\n\nCombined with dark florals or lace, a feather wreath becomes both theatrical and intimate. This bold, moody statement is ideal for dark doors or lantern-lit entryways."
+      },
+      {
+        title: "7. Antique Key Heart Wreath",
+        content: "A heart-shaped wreath accented with antique keys symbolizes love and mystery. The metallic sheen of aged brass or bronze adds subtle Victorian charm.\n\nKeys can be woven into florals or tied with velvet ribbons. This décor element blends storytelling with moody elegance, making the wreath both romantic and meaningful."
+      },
+      {
+        title: "8. Black and Red Contrast Wreath",
+        content: "Black base materials paired with deep red roses create striking Valentine décor. The high-contrast palette feels bold yet refined, perfect for moody gothic aesthetics.\n\nThis style works well on dark wood doors or paired with dim ambient lighting. The balance of color enhances depth while keeping romance central to the design."
+      },
+      {
+        title: "9. Candle-Inspired Hanging Wreath",
+        content: "A wreath accented with battery-operated candle lights adds ambient glow. Soft flickering light creates intimacy, enhancing Victorian-inspired moody romance.\n\nPlaced above a door or porch, the illuminated wreath becomes a focal point. The combination of dark flowers and warm light creates a dramatic Valentine entrance."
+      },
+      {
+        title: "10. Gothic Lace and Rose Combo",
+        content: "Mixing black lace with deep red roses balances softness with darkness. This design draws inspiration from Victorian fashion and gothic romance traditions.\n\nLayering lace and roses adds depth and texture. Hanging it on a black or deep wood door enhances drama while maintaining a romantic aesthetic."
+      },
+      {
+        title: "11. Monogram Heart Wreath",
+        content: "Add personalization with a monogram wreath in dark florals. A couple's initial or family initial framed with moody blooms reflects gothic elegance.\n\nThis design combines intimacy and history. Paired with subtle metallic or velvet accents, it makes a statement while staying elegant and romantic."
+      },
+      {
+        title: "12. Moss and Berry Wreath",
+        content: "A wreath made with dark moss and berries creates earthy moody Valentine décor. It evokes old-world gardens and Victorian nostalgia.\n\nThe mix of textures adds dimension while keeping colors muted. This wreath works well with black doors, deep wood tones, or stone entryways for a romantic, grounded look."
+      },
+      {
+        title: "13. Victorian Frame Wreath",
+        content: "An ornate Victorian-style frame as a base adds structure and elegance. Fill it with dark florals, ribbons, or lace to enhance gothic romance.\n\nThe frame draws attention to the wreath while providing historic context. This design is perfect for lovers of vintage décor who want a dramatic Valentine statement."
+      },
+      {
+        title: "14. Metallic Accent Wreath",
+        content: "Incorporate bronze, copper, or gold highlights in a dark wreath for subtle shine. Metallic touches contrast with black, burgundy, or deep red elements, elevating elegance.\n\nUse metallic leaves, berries, or small charms sparingly. The effect adds luxury and sophistication without reducing the moody romance."
+      },
+      {
+        title: "15. Minimal Black Vine Wreath",
+        content: "A minimalist black vine wreath creates subtle moody Valentine décor. Its simple design emphasizes form and texture over color.\n\nAdd a single velvet ribbon or small red floral accent for focus. This understated option suits modern gothic or Victorian-inspired homes, providing romance with restraint."
+      },
+      {
+        title: "16. Heart-Shaped Boxwood Wreath",
+        content: "Dark green boxwood shaped into a heart creates an elegant, organic Valentine décor. Subtle berries or dried flowers enhance depth.\n\nThis natural design keeps the wreath moody yet approachable. It pairs beautifully with black or dark wood doors for a timeless, romantic entrance."
+      },
+      {
+        title: "17. Twilight Floral Wreath",
+        content: "Mix twilight-hued flowers in purples, maroons, and deep pinks. The soft gradient adds dreamy Victorian romance while staying moody.\n\nAdd moss, small branches, or lace accents for texture. The result feels layered, curated, and visually rich for Valentine décor."
+      },
+      {
+        title: "18. Twisted Vine Heart Wreath",
+        content: "A wreath crafted from twisted twigs or grapevine adds texture and darkness. The rustic look aligns with gothic Victorian romance.\n\nCombine with a few red roses or dried blooms for subtle color. The twisty, organic design gives the front door a mysterious, romantic appeal."
+      },
+      {
+        title: "19. Velvet Bow Topper",
+        content: "Top any dark Valentine wreath with a large velvet bow in burgundy or black. The bow adds movement and richness.\n\nIt complements moody florals or lace and enhances drama without overwhelming the design. Perfect for Victorian-inspired entry décor."
+      },
+      {
+        title: "20. Mixed Textures Wreath",
+        content: "Combine lace, feathers, velvet, and florals in a single wreath. Layered textures create depth and maintain a moody romantic aesthetic.\n\nThis approach allows each element to shine. The combination of materials balances softness with drama, perfect for an elegant gothic Valentine vibe."
+      },
+      {
+        title: "21. Dark Romantic Fruit Wreath",
+        content: "Incorporate small artificial blackberries or deep red berries. The subtle fruit adds dimension and Victorian charm.\n\nBerries bring natural variation to the color palette. Paired with moody florals and velvet ribbons, this wreath is layered, rich, and romantic."
+      },
+      {
+        title: "22. Full Layered Victorian Valentine Wreath",
+        content: "A fully layered wreath combining dark roses, lace, velvet ribbons, berries, and subtle metallics captures maximum drama. It embodies Victorian gothic romance while remaining romantic and moody.\n\nThis statement piece turns any front door into a dramatic Valentine focal point. The combination of textures, colors, and shapes makes it perfect for those seeking maximal impact with historic elegance."
+      }
+    ],
+    faqs: [
+      {
+        question: "What makes a wreath 'moody' for Valentine's Day?",
+        answer: "A moody Valentine wreath uses dark, rich colors like black, burgundy, deep red, and muted purples instead of bright pinks and reds. It incorporates textures like lace, velvet, dried florals, and feathers, drawing inspiration from gothic and Victorian aesthetics for a dramatic, romantic look."
+      },
+      {
+        question: "What materials work best for dark Valentine wreaths?",
+        answer: "Popular materials include black lace, velvet ribbons, dried roses, dark feathers, moss, berries, twisted twigs, and antique metallic accents. Combining multiple textures creates depth and visual interest while maintaining a moody, romantic aesthetic."
+      },
+      {
+        question: "Can a dark wreath still feel romantic?",
+        answer: "Absolutely. Dark wreaths feel deeply romantic by evoking mystery, intimacy, and Victorian elegance. The contrast between dark materials and soft textures like lace and velvet creates a sophisticated, passionate aesthetic that celebrates love in a unique way."
+      },
+      {
+        question: "How do I style a moody wreath on my front door?",
+        answer: "Pair the wreath with complementary elements like iron lanterns, candles, brass hardware, or dark greenery. A black or dark wood door enhances the moody effect. Soft ambient lighting in the evening adds drama and romance."
+      },
+      {
+        question: "Are moody Valentine wreaths suitable for indoor use?",
+        answer: "Yes, moody Valentine wreaths work beautifully indoors. Hang them on bedroom doors, above mantels, or as wall décor. Indoor placement protects delicate materials like lace and dried florals while adding romantic ambiance to any room."
+      },
+      {
+        question: "How do I add personalization to a dark Valentine wreath?",
+        answer: "Add a monogram initial using dark florals, incorporate meaningful symbols like antique keys or hearts, or tie velvet ribbons in a couple's favorite colors. Personal touches make the wreath unique while maintaining the moody romantic theme."
+      }
+    ]
   }
 ];
