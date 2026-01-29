@@ -832,5 +832,137 @@ export const articles: Article[] = [
         answer: "A modern living room in 2026 combines comfort, simplicity, and warmth. Key elements include soft neutral colors, curved furniture, layered textures, natural materials, and subtle technology integration. The overall goal is to create a space that feels calm, inviting, and adaptable to modern lifestyles."
       }
     ]
+  },
+  {
+    id: "17",
+    slug: "moody-victorian-valentine-decor-front-door",
+    title: "Moody Victorian Valentine Decor: 24 Front Door Ideas",
+    excerpt: "Explore 24 romantic front door décor ideas inspired by Victorian elegance, gothic charm, and moody Valentine aesthetics.",
+    category: "Garden",
+    image: "/assets/placeholder.svg",
+    sections: [
+      {
+        title: "1. Black Lace Heart Wreath",
+        content: "A black lace heart wreath instantly sets a moody Victorian Valentine tone. Inspired by antique mourning lace and gothic romance, this design blends elegance with drama. Hung against a wooden or dark-painted door, the lace texture adds depth while still feeling romantic rather than spooky, making it perfect for Valentine's décor with a historical edge.\n\nTo enhance the look, pair the wreath with brass hardware or candle-style lanterns nearby. The contrast between delicate lace and solid architectural details creates a striking visual moment. This style appeals to those who love vintage romance, dramatic aesthetics, and timeless Victorian influences."
+      },
+      {
+        title: "2. Deep Red Rose Garland",
+        content: "A deep red rose garland draped around the doorframe creates instant Victorian drama. Rich crimson roses symbolize passion and romance while referencing traditional floral arrangements used in historic homes. The fullness of the garland adds opulence, making the entry feel intentional and grand rather than minimal.\n\nThis décor works beautifully with dark wood or black doors. Adding subtle greenery or trailing vines softens the intensity while maintaining a moody palette. This approach balances romance and richness, perfect for Valentine décor inspired by old-world elegance."
+      },
+      {
+        title: "3. Antique Brass Door Accents",
+        content: "Antique brass accents elevate a Valentine front door with Victorian charm. From ornate knockers to decorative plates, brass details introduce warmth and history. Their aged finish complements moody palettes, adding depth without overpowering the door's main décor elements.\n\nPair brass accents with dark florals or textured fabrics for a cohesive look. The combination feels intentional and layered, drawing inspiration from Victorian craftsmanship. This subtle approach works well for those who prefer elegance over bold statements while still embracing romantic drama."
+      },
+      {
+        title: "4. Velvet Ribbon Wreath",
+        content: "A velvet ribbon wreath offers a luxurious take on Valentine décor. Deep burgundy, wine, or black velvet ribbons reflect Victorian opulence and tactile richness. The soft sheen of velvet contrasts beautifully against matte doors, creating a visually captivating focal point.\n\nThis wreath style feels romantic yet refined. It pairs well with iron lanterns or stone entryways, enhancing the historic aesthetic. Velvet ribbons add softness and depth, making the front door feel welcoming while maintaining a moody, dramatic presence."
+      },
+      {
+        title: "5. Gothic Heart Door Hanger",
+        content: "A gothic heart door hanger adds bold Victorian flair to Valentine décor. Crafted in dark metal or distressed wood, it draws inspiration from antique motifs and romantic symbolism. The heart shape keeps it seasonal, while the darker materials add mystery and sophistication.\n\nThis décor choice works especially well for stone or brick exteriors. When paired with candlelight or lanterns, it creates a dramatic yet tasteful Valentine statement. It's ideal for those who appreciate romantic décor with a gothic edge."
+      },
+      {
+        title: "6. Dark Floral Swag",
+        content: "A dark floral swag creates an asymmetrical yet elegant Valentine front door look. Using deep roses, dried florals, and trailing greenery, this design reflects Victorian floral styling with a moody twist. The draped effect feels organic and old-world inspired.\n\nDark floral swags feel romantic without being overly polished. They pair beautifully with vintage doors and aged hardware. This approach adds texture and depth, making the front entrance feel curated and historically inspired."
+      },
+      {
+        title: "7. Victorian Love Quote Sign",
+        content: "A Victorian-style love quote sign adds storytelling to Valentine décor. Featuring ornate fonts and aged finishes, these signs echo handwritten letters and antique manuscripts. Romantic phrases feel timeless when presented with historical design cues.\n\nPlaced at eye level or layered with florals, the sign becomes a charming focal point. This décor element appeals to those who enjoy meaningful, literary-inspired Valentine themes rooted in old-world romance."
+      },
+      {
+        title: "8. Black and Burgundy Color Palette",
+        content: "A black and burgundy palette defines moody Victorian Valentine décor. These colors were historically associated with luxury and romance. Used together on the front door, they create visual depth and emotional warmth.\n\nIncorporating this palette through wreaths, ribbons, or florals ensures cohesion. The richness feels dramatic yet inviting, perfect for a Valentine aesthetic that feels elegant rather than playful or modern."
+      },
+      {
+        title: "9. Iron Lantern Candle Display",
+        content: "Iron lanterns with candles bring Victorian ambiance to Valentine front doors. The soft flicker of candlelight enhances romance while referencing gaslight-era aesthetics. Lanterns add architectural weight and visual balance to the doorway.\n\nThis décor works especially well during evenings. Paired with dark florals or textured fabrics, lanterns create a warm, atmospheric welcome that feels both historical and intimate."
+      },
+      {
+        title: "10. Vintage Door Fabric Draping",
+        content: "Fabric draping introduces softness and drama to Valentine décor. Using sheer lace or velvet panels, this approach mirrors Victorian interior styling adapted for the front door. Draping adds movement and texture without overwhelming the space.\n\nDeep-toned fabrics enhance the moody aesthetic. When paired with floral accents, the door feels theatrical and romantic. This style is ideal for creating a statement entrance rooted in historic elegance."
+      },
+      {
+        title: "11. Dried Rose Wreath",
+        content: "A dried rose wreath offers understated Victorian romance. Muted reds, browns, and faded pinks reflect aged beauty and timeless love. Dried florals evoke nostalgia, making them ideal for moody Valentine décor.\n\nThis wreath style pairs beautifully with neutral stone or dark wood doors. The subtle color variation adds depth without feeling overly decorative, perfect for lovers of vintage aesthetics."
+      },
+      {
+        title: "12. Ornate Frame Heart Display",
+        content: "An ornate frame surrounding a heart motif brings gallery-style elegance to the front door. Gold or distressed frames reflect Victorian interiors while highlighting Valentine symbolism.\n\nThis décor feels artistic and intentional. When paired with dark backgrounds or textured materials, it creates a refined romantic statement suitable for historic or traditional homes."
+      },
+      {
+        title: "13. Crimson Floral Monogram",
+        content: "A floral monogram adds personalization to Valentine décor. Using deep crimson flowers shaped into initials reflects Victorian traditions of monogramming and symbolism.\n\nThis idea works well for couples or families. It adds a romantic, custom feel while maintaining historical charm and moody elegance."
+      },
+      {
+        title: "14. Black Feather Accents",
+        content: "Black feather accents add drama and Victorian intrigue. Feathers were often used in historical fashion and décor, making them a unique Valentine choice.\n\nIncorporated subtly into wreaths or garlands, feathers add texture and movement. They enhance gothic romance without overpowering softer elements."
+      },
+      {
+        title: "15. Antique Key Symbol Decor",
+        content: "Antique keys symbolize love and mystery in Victorian design. Displayed on the front door, they create narrative and charm.\n\nPaired with hearts or florals, keys add symbolic depth. This décor choice appeals to those who love meaningful, story-driven Valentine aesthetics."
+      },
+      {
+        title: "16. Lace Overlay Door Panels",
+        content: "Lace overlay panels soften the front door while adding Victorian romance. Lace textures reflect craftsmanship and intimacy.\n\nUsed sparingly, lace enhances mood without hiding architectural details. It creates a romantic, nostalgic welcome for Valentine's Day."
+      },
+      {
+        title: "17. Dark Greenery with Red Accents",
+        content: "Dark greenery paired with red accents brings balance to Valentine décor. The greenery grounds the look while red elements add romance.\n\nThis combination feels timeless and natural. It suits Victorian-inspired homes beautifully, offering elegance without excess."
+      },
+      {
+        title: "18. Wax Seal Inspired Decor",
+        content: "Wax seal motifs evoke handwritten love letters and Victorian correspondence. Used as door décor, they add literary romance.\n\nThis detail feels subtle yet meaningful. It's perfect for those who enjoy understated symbolism in Valentine decorating."
+      },
+      {
+        title: "19. Layered Wreath Design",
+        content: "Layered wreaths add dimension and richness. Combining greenery, florals, and ribbons reflects Victorian abundance.\n\nThis approach creates visual depth. It makes the front door feel curated, romantic, and historically inspired."
+      },
+      {
+        title: "20. Moody Floral Door Basket",
+        content: "A door basket filled with dark florals feels organic and old-world. This design references Victorian garden aesthetics.\n\nThe basket adds texture and charm. It's ideal for creating a welcoming yet dramatic Valentine entrance."
+      },
+      {
+        title: "21. Gothic Typography Banner",
+        content: "A gothic typography banner introduces bold romance. Dark lettering and vintage fonts echo Victorian print styles.\n\nThis décor element stands out while remaining thematic. It pairs well with florals and lanterns for balance."
+      },
+      {
+        title: "22. Velvet Bow Door Accent",
+        content: "A large velvet bow adds softness and luxury. Deep tones reflect Victorian richness and romantic elegance.\n\nThis simple accent makes a strong statement. It's perfect for minimal yet moody Valentine décor."
+      },
+      {
+        title: "23. Antique Mirror Heart Detail",
+        content: "An antique mirror shaped like a heart adds reflective beauty. Mirrors were common in Victorian décor.\n\nThis element enhances light while adding romance. It feels artistic and refined."
+      },
+      {
+        title: "24. Full Victorian Valentine Entry Set",
+        content: "A fully styled entry combines florals, lanterns, ribbons, and texture. This layered approach reflects Victorian maximalism.\n\nThe result is dramatic yet inviting. It transforms the front door into a romantic statement rooted in history."
+      }
+    ],
+    faqs: [
+      {
+        question: "What defines moody Victorian Valentine décor?",
+        answer: "Moody Victorian Valentine décor combines dark, romantic colors like black, burgundy, and deep red with vintage textures such as lace, velvet, and aged brass. It draws inspiration from 19th-century aesthetics, gothic romance, and historical craftsmanship to create an elegant, dramatic atmosphere."
+      },
+      {
+        question: "What colors work best for a Victorian Valentine front door?",
+        answer: "The best colors include deep burgundy, black, wine red, dark green, and antique gold. These shades reflect Victorian luxury and romance while creating a moody, sophisticated palette that feels timeless and elegant."
+      },
+      {
+        question: "How can I make my front door look Victorian for Valentine's Day?",
+        answer: "Add elements like lace wreaths, velvet ribbons, iron lanterns, dried roses, and antique brass accents. Layer textures and use a dark color palette. Focus on ornate details and vintage-inspired materials to achieve an authentic Victorian look."
+      },
+      {
+        question: "Are gothic elements appropriate for Valentine décor?",
+        answer: "Yes, gothic elements add depth and drama to Valentine décor. When balanced with romantic symbols like hearts, roses, and soft textures, gothic touches create a sophisticated, moody aesthetic that feels both historical and romantic."
+      },
+      {
+        question: "What materials are commonly used in Victorian Valentine décor?",
+        answer: "Common materials include velvet, lace, dried florals, iron, brass, distressed wood, and fabric draping. These textures reflect Victorian craftsmanship and add richness to front door displays."
+      },
+      {
+        question: "Can I use real candles in Victorian-style lanterns outdoors?",
+        answer: "While real candles add authentic ambiance, LED candles are safer for outdoor use. They provide a similar flickering effect without fire hazards, making them ideal for front door displays in iron lanterns."
+      }
+    ]
   }
 ];
