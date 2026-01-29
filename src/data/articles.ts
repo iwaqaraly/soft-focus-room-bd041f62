@@ -1216,5 +1216,141 @@ export const articles: Article[] = [
         answer: "Add a monogram initial using dark florals, incorporate meaningful symbols like antique keys or hearts, or tie velvet ribbons in a couple's favorite colors. Personal touches make the wreath unique while maintaining the moody romantic theme."
       }
     ]
+  },
+  {
+    id: "20",
+    slug: "valentine-table-decor-dining-ideas",
+    title: "Valentine Table Decor 2026: 25 Dining Ideas",
+    excerpt: "Discover 25 stunning table décor ideas for a romantic Valentine dinner, blending moody elegance, candlelight, and modern-Victorian style.",
+    category: "Living Room",
+    image: "/assets/placeholder.svg",
+    sections: [
+      {
+        title: "1. Red and Black Elegance",
+        content: "A red and black color scheme creates a bold, moody Valentine table. Deep crimson table runners, black chargers, and matching napkins evoke gothic elegance. Candlelight adds warmth and softens the contrast.\n\nPair with gold flatware for a luxurious accent. This palette balances romance and drama, perfect for a 2026 modern-Victorian Valentine table setting. The combination feels intimate and sophisticated, ideal for couples celebrating in style."
+      },
+      {
+        title: "2. Candlelit Centerpiece",
+        content: "A centerpiece of assorted candles instantly elevates the table's ambiance. Use different heights and sizes to create depth. Soft flickering light enhances romance and highlights floral arrangements or tableware.\n\nChoose metallic or glass candleholders to reflect light and add sparkle. This approach makes the table feel cozy, intimate, and luxurious while keeping the focus on the romantic dining experience."
+      },
+      {
+        title: "3. Rose Petal Scattering",
+        content: "Scattering rose petals along the table runner creates a classic Valentine aesthetic. Deep red, blush, or white petals contrast beautifully with neutral tableware.\n\nPetals can frame plates, glasses, or a centerpiece, adding texture and a tactile experience. This simple yet effective decoration elevates romance, enhancing mood and visual appeal for a 2026-inspired Valentine dinner."
+      },
+      {
+        title: "4. Metallic Accents",
+        content: "Gold, rose gold, or bronze accents add warmth and sophistication. Metallic chargers, napkin rings, or candleholders enhance elegance without overwhelming the table.\n\nPair with moody colors like burgundy or black for a modern yet timeless Valentine aesthetic. Metallic touches reflect candlelight, enhancing ambiance and creating visual interest at every angle."
+      },
+      {
+        title: "5. Dark Floral Centerpieces",
+        content: "Use dark-hued flowers like burgundy roses, purple dahlias, or deep ranunculus. These moody arrangements bring depth and drama while staying romantic.\n\nAdding greenery or trailing vines softens the composition. Dark florals contrast beautifully with neutral tableware and candlelight, creating a visually rich, modern-Victorian Valentine tablescape."
+      },
+      {
+        title: "6. Minimalist Valentine",
+        content: "A minimalist table uses soft neutrals and restrained décor. One small floral centerpiece, simple napkins, and a few candles are enough to create elegance.\n\nThis approach emphasizes space and balance. Minimalism ensures the table feels sophisticated and airy while letting the couple and food remain the focal point of the celebration."
+      },
+      {
+        title: "7. Romantic Candle Arches",
+        content: "Create small candle arches or clusters along the table. The curves mimic Valentine hearts and add movement to the centerpiece.\n\nLED or real candles can be used for safety. Arches enhance intimacy by drawing attention to the table's center while keeping the setting romantic and modern."
+      },
+      {
+        title: "8. Heart-Shaped Decor",
+        content: "Heart-shaped plates, napkin folds, or small accents emphasize Valentine symbolism. They work especially well with moody, neutral, or metallic palettes.\n\nHearts can be subtle or pronounced depending on style preference. This adds romance and charm without overwhelming the 2026 modern aesthetic."
+      },
+      {
+        title: "9. Velvet Table Runner",
+        content: "A velvet table runner adds richness and texture. Deep burgundy, black, or plum runners complement moody florals and candlelight.\n\nVelvet enhances tactile appeal while reflecting light subtly. This luxurious fabric elevates the dining experience and makes the table feel cozy yet dramatic."
+      },
+      {
+        title: "10. Layered Tableware",
+        content: "Layering plates, chargers, and glassware adds visual depth. Mix textures and materials like matte plates with glossy glass chargers.\n\nLayered tableware enhances sophistication while keeping the table functional. It's an easy 2026-inspired way to make a small or large table feel styled and elegant."
+      },
+      {
+        title: "11. Glass Cloche Displays",
+        content: "Use glass cloches to display roses, desserts, or small candles. The domed glass adds a dramatic and romantic focal point.\n\nCloches create intrigue and keep centerpieces contained. They reflect candlelight beautifully and add an air of Victorian-inspired luxury to modern Valentine décor."
+      },
+      {
+        title: "12. Mixed Candle Heights",
+        content: "Arrange candles of various heights for dimension and layered light. Tall taper candles combined with votives create a dynamic visual flow.\n\nThis technique draws the eye along the table while enhancing romance. Candles soften contrasts and elevate intimacy, essential for a cozy Valentine dinner."
+      },
+      {
+        title: "13. Dark Tablecloth",
+        content: "A deep, moody tablecloth in black, navy, or burgundy adds drama. It serves as a canvas for florals, metallics, and candles.\n\nDark backgrounds make colors pop and enhance candlelight. This bold approach is perfect for a modern gothic Valentine tablescape."
+      },
+      {
+        title: "14. Subtle Fairy Lights",
+        content: "Small, battery-operated fairy lights woven through florals or along the runner add sparkle. The tiny lights create warmth and magic without overwhelming the table.\n\nPair with candles for layered lighting. Fairy lights complement moody Valentine décor, adding romance and a whimsical modern touch for 2026 celebrations."
+      },
+      {
+        title: "15. Romantic Napkin Folds",
+        content: "Fold napkins into hearts, roses, or geometric shapes. Dark-colored or velvet napkins emphasize elegance while enhancing the Valentine theme.\n\nNapkin accents are small yet impactful. They add personality to each place setting and contribute to the overall moody, romantic aesthetic."
+      },
+      {
+        title: "16. Personalized Place Cards",
+        content: "Handwritten or calligraphy place cards add an intimate touch. Use black, gold, or burgundy cardstock to maintain a moody palette.\n\nPlace cards personalize the dining experience, making each guest or partner feel special. They enhance romance and elevate table styling."
+      },
+      {
+        title: "17. Mini Floral Bouquets",
+        content: "Mini bouquets at each place setting complement a larger centerpiece. Deep reds or purples maintain a cohesive moody theme.\n\nBouquets add texture, fragrance, and visual interest. They make the dining experience feel curated and thoughtful, ideal for a 2026 Valentine table."
+      },
+      {
+        title: "18. Velvet Napkin Rings",
+        content: "Velvet napkin rings in dark tones add tactile luxury. The rich texture pairs beautifully with table runners, florals, and metallics.\n\nThey subtly elevate each setting without overcrowding the table. Velvet rings balance elegance and comfort, reinforcing moody Valentine aesthetics."
+      },
+      {
+        title: "19. Romantic Glassware",
+        content: "Use cut crystal, tinted glasses, or goblets with intricate designs. Dark red wine glasses enhance color depth and style.\n\nGlassware adds sophistication and glamour. It reflects light and complements candlelit settings, enhancing mood and romance."
+      },
+      {
+        title: "20. Layered Runners",
+        content: "Layer runners of different textures or colors for depth. A velvet runner over a neutral linen base creates contrast and interest.\n\nLayering draws attention to the table's center while maintaining cohesion. It's an easy technique to make a small or large table feel styled for Valentine's 2026 trends."
+      },
+      {
+        title: "21. Dessert Display Stand",
+        content: "A tiered dessert stand with chocolates, macarons, or pastries adds height and elegance. Use dark or metallic trays to match the moody palette.\n\nDesserts become part of the décor, not just food. Display stands create focal points while keeping the table organized and visually appealing."
+      },
+      {
+        title: "22. Moody Fruit Accents",
+        content: "Deep-colored fruits like black grapes, figs, or plums complement dark florals and runners. Their rich tones enhance the moody Valentine palette.\n\nFruits also add texture and natural beauty. Incorporate them in small bowls, plates, or as part of a centerpiece to enhance visual interest."
+      },
+      {
+        title: "23. Candle Lanterns",
+        content: "Small tabletop lanterns with votive candles add charm. Iron or dark metallic finishes complement gothic or moody Valentine aesthetics.\n\nLanterns provide additional ambient lighting. They enhance intimacy while adding structure and historic elegance to the table décor."
+      },
+      {
+        title: "24. Romantic Floating Candles",
+        content: "Use floating candles in glass bowls with rose petals or water beads. The soft glow reflects and magnifies light, creating a dreamy effect.\n\nThis floating candle idea adds height, texture, and movement to the table. It's perfect for a romantic dinner setting that feels modern yet Victorian-inspired."
+      },
+      {
+        title: "25. Full Layered Tablescape",
+        content: "Combine florals, candles, runners, metallics, and personal touches for a layered, dramatic Valentine table. This approach balances visual depth with moody elegance.\n\nLayered tablescapes create a cohesive experience, making every detail feel intentional. It's ideal for a statement 2026 Valentine dinner that feels romantic, luxurious, and memorable."
+      }
+    ],
+    faqs: [
+      {
+        question: "What are the top Valentine table décor trends for 2026?",
+        answer: "Top trends include moody color palettes like black, burgundy, and deep red, velvet textures, layered tableware, mixed candle heights, dark florals, and metallic accents. The focus is on creating romantic, intimate settings with Victorian-inspired elegance."
+      },
+      {
+        question: "How do I create a romantic table setting on a budget?",
+        answer: "Use candles as your main décor element, scatter rose petals, fold napkins into heart shapes, and layer items you already own. Thrift stores often have beautiful glassware and candleholders. Focus on ambiance through lighting rather than expensive purchases."
+      },
+      {
+        question: "What colors work best for a moody Valentine table?",
+        answer: "Deep reds, burgundy, black, navy, plum, and gold work best for moody Valentine décor. These colors create drama and sophistication while maintaining a romantic atmosphere. Pair dark tones with metallics for added elegance."
+      },
+      {
+        question: "How many candles should I use for a Valentine dinner table?",
+        answer: "Use at least 5-7 candles of varying heights for a standard table. Mix taper candles with votives for dimension. The goal is soft, layered lighting that creates intimacy without overwhelming the table or making it difficult to see."
+      },
+      {
+        question: "Can I mix modern and vintage elements in Valentine décor?",
+        answer: "Absolutely. Mixing modern minimalism with vintage Victorian touches creates a unique, 2026-inspired aesthetic. Combine sleek metallic accents with antique-style glassware, or pair simple tableware with ornate candleholders for balanced elegance."
+      },
+      {
+        question: "What flowers are best for a dark Valentine centerpiece?",
+        answer: "Deep red roses, burgundy dahlias, purple ranunculus, dark calla lilies, and black-tinted flowers create stunning moody centerpieces. Add trailing greenery or eucalyptus for softness and texture while maintaining the dramatic palette."
+      }
+    ]
   }
 ];
