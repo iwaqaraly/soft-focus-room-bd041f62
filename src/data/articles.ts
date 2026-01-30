@@ -1040,43 +1040,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Smart Closet Organization",
-        content: "Closet organizers, hanging shelves, and drawer dividers optimize wardrobe storage. Efficient systems prevent overcrowding and make items easy to access.\n\nA well-organized closet reduces the need for additional furniture. Smart storage keeps the bedroom uncluttered, functional, and visually spacious."
+        content: "Closet organizers, hanging shelves, and drawer dividers optimize wardrobe storage. Efficient systems prevent overcrowding and make items easy to access.\n\nA well-organized closet reduces the need for additional furniture. Smart storage keeps the bedroom uncluttered, functional, and visually spacious.",
+        image: "/assets/small-room-bedroom-11.webp"
       },
       {
         title: "12. Accent Wall",
-        content: "An accent wall adds personality without overwhelming a small room. Choose a soft tone or subtle pattern to maintain a sense of openness.\n\nPlacing the accent behind the bed creates a focal point. This design trick draws attention strategically, enhancing style while keeping the space airy."
+        content: "An accent wall adds personality without overwhelming a small room. Choose a soft tone or subtle pattern to maintain a sense of openness.\n\nPlacing the accent behind the bed creates a focal point. This design trick draws attention strategically, enhancing style while keeping the space airy.",
+        image: "/assets/small-room-bedroom-12.webp"
       },
       {
         title: "13. Mirrors as Headboards",
-        content: "Using a mirror as a headboard adds height and reflects light, making the room feel larger. It combines function with visual interest.\n\nThis approach maximizes perceived space while adding a modern touch. Mirrors create depth without consuming floor area, ideal for compact bedrooms."
+        content: "Using a mirror as a headboard adds height and reflects light, making the room feel larger. It combines function with visual interest.\n\nThis approach maximizes perceived space while adding a modern touch. Mirrors create depth without consuming floor area, ideal for compact bedrooms.",
+        image: "/assets/small-room-bedroom-13.webp"
       },
       {
         title: "14. Sliding Doors",
-        content: "Sliding doors save space compared to swinging doors. They free up floor area for furniture or movement, making the room more functional.\n\nSliding wardrobe or room doors maintain a clean aesthetic. This practical solution helps small bedrooms feel open and organized without compromising design."
+        content: "Sliding doors save space compared to swinging doors. They free up floor area for furniture or movement, making the room more functional.\n\nSliding wardrobe or room doors maintain a clean aesthetic. This practical solution helps small bedrooms feel open and organized without compromising design.",
+        image: "/assets/small-room-bedroom-14.webp"
       },
       {
         title: "15. Clear Furniture",
-        content: "Acrylic or glass furniture pieces are almost invisible, reducing visual weight. Clear desks, chairs, or nightstands create a sense of openness.\n\nBy letting light pass through, transparent furniture ensures the room feels uncluttered. It's a stylish solution for small bedrooms that need functional pieces without visual bulk."
+        content: "Acrylic or glass furniture pieces are almost invisible, reducing visual weight. Clear desks, chairs, or nightstands create a sense of openness.\n\nBy letting light pass through, transparent furniture ensures the room feels uncluttered. It's a stylish solution for small bedrooms that need functional pieces without visual bulk.",
+        image: "/assets/small-room-bedroom-15.webp"
       },
       {
         title: "16. Foldable Desk",
-        content: "A foldable desk allows the room to double as a workspace. Fold it away when not in use to free up floor space.\n\nThis solution is ideal for small bedrooms serving multiple purposes. It keeps the room organized and flexible without compromising style or comfort."
+        content: "A foldable desk allows the room to double as a workspace. Fold it away when not in use to free up floor space.\n\nThis solution is ideal for small bedrooms serving multiple purposes. It keeps the room organized and flexible without compromising style or comfort.",
+        image: "/assets/small-room-bedroom-16.webp"
       },
       {
         title: "17. Loft Bed Solutions",
-        content: "Loft beds raise the sleeping area, creating space underneath for storage, desks, or seating. Ideal for very small bedrooms or kids' rooms.\n\nLoft designs maximize vertical space, making the room feel open. They combine fun, functionality, and organization in compact layouts."
+        content: "Loft beds raise the sleeping area, creating space underneath for storage, desks, or seating. Ideal for very small bedrooms or kids' rooms.\n\nLoft designs maximize vertical space, making the room feel open. They combine fun, functionality, and organization in compact layouts.",
+        image: "/assets/small-room-bedroom-17.webp"
       },
       {
         title: "18. Minimalist Bedside Tables",
-        content: "Slim or wall-mounted bedside tables reduce visual bulk. Choose simple designs that hold essentials like lamps or clocks.\n\nMinimal tables prevent the room from feeling crowded. They complement a minimalist or modern aesthetic while maintaining functionality."
+        content: "Slim or wall-mounted bedside tables reduce visual bulk. Choose simple designs that hold essentials like lamps or clocks.\n\nMinimal tables prevent the room from feeling crowded. They complement a minimalist or modern aesthetic while maintaining functionality.",
+        image: "/assets/small-room-bedroom-18.webp"
       },
       {
         title: "19. Built-In Shelves",
-        content: "Built-in shelves around the bed or walls reduce clutter and maximize storage. Custom shelving adapts to the room's size.\n\nThey provide space for books, decor, and essentials while keeping the floor open. This approach is perfect for small bedrooms with limited room for freestanding furniture."
+        content: "Built-in shelves around the bed or walls reduce clutter and maximize storage. Custom shelving adapts to the room's size.\n\nThey provide space for books, decor, and essentials while keeping the floor open. This approach is perfect for small bedrooms with limited room for freestanding furniture.",
+        image: "/assets/small-room-bedroom-19.webp"
       },
       {
         title: "20. Neutral Bedding",
-        content: "Light, neutral bedding expands the room visually. Soft whites, creams, or pastels reflect light and create a calming atmosphere.\n\nNeutral bedding pairs with multiple décor styles. It keeps small bedrooms feeling airy, comfortable, and stylish without overwhelming limited space."
+        content: "Light, neutral bedding expands the room visually. Soft whites, creams, or pastels reflect light and create a calming atmosphere.\n\nNeutral bedding pairs with multiple décor styles. It keeps small bedrooms feeling airy, comfortable, and stylish without overwhelming limited space.",
+        image: "/assets/small-room-bedroom-20.webp"
       },
       {
         title: "21. Vertical Stripes",
