@@ -57,7 +57,7 @@ const ArticlePage = () => {
                   {section.title}
                 </h2>
                 {section.image && (
-                  <div className="aspect-[16/9] overflow-hidden rounded-lg">
+                  <div className={`overflow-hidden rounded-lg ${article.imageAspectRatio === "1:1" ? "aspect-square max-w-md mx-auto" : "aspect-[16/9]"}`}>
                     <img
                       src={section.image}
                       alt={section.title}

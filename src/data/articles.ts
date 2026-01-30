@@ -18,6 +18,7 @@ export interface Article {
   image: string;
   sections?: ArticleSection[];
   faqs?: FAQ[];
+  imageAspectRatio?: "16:9" | "1:1";
 }
 
 export const articles: Article[] = [
@@ -985,6 +986,7 @@ export const articles: Article[] = [
     excerpt: "Discover 23 practical tips to maximize space, style, and functionality in small bedrooms without sacrificing comfort.",
     category: "Bedroom",
     image: "/assets/placeholder.svg",
+    imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Use Light Neutral Colors",
