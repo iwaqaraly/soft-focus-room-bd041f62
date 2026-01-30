@@ -1090,15 +1090,18 @@ export const articles: Article[] = [
       },
       {
         title: "21. Vertical Stripes",
-        content: "Vertical stripes on walls or wallpaper create the illusion of height. They make ceilings appear taller, adding openness to compact rooms.\n\nThis optical trick complements light colors. Paired with simple furniture, vertical stripes enhance space perception without sacrificing style."
+        content: "Vertical stripes on walls or wallpaper create the illusion of height. They make ceilings appear taller, adding openness to compact rooms.\n\nThis optical trick complements light colors. Paired with simple furniture, vertical stripes enhance space perception without sacrificing style.",
+        image: "/assets/small-room-bedroom-21.webp"
       },
       {
         title: "22. Use Corners Wisely",
-        content: "Corners often go unused in small bedrooms. Add corner shelves, small desks, or reading nooks to maximize functionality.\n\nThis makes the most of every inch. Creative corner use improves storage, seating, or decor while maintaining a spacious feel."
+        content: "Corners often go unused in small bedrooms. Add corner shelves, small desks, or reading nooks to maximize functionality.\n\nThis makes the most of every inch. Creative corner use improves storage, seating, or decor while maintaining a spacious feel.",
+        image: "/assets/small-room-bedroom-22.webp"
       },
       {
         title: "23. Minimal Art and Mirrors",
-        content: "Select one or two art pieces or mirrors to avoid cluttering walls. Mirrors reflect light, and art adds personality without overcrowding the room.\n\nThis approach maintains balance and visual openness. Minimal wall décor is essential for small bedrooms to feel elegant, airy, and inviting."
+        content: "Select one or two art pieces or mirrors to avoid cluttering walls. Mirrors reflect light, and art adds personality without overcrowding the room.\n\nThis approach maintains balance and visual openness. Minimal wall décor is essential for small bedrooms to feel elegant, airy, and inviting.",
+        image: "/assets/small-room-bedroom-23.webp"
       }
     ],
     faqs: [
