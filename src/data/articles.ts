@@ -990,43 +990,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Use Light Neutral Colors",
-        content: "Light neutral colors make small bedrooms appear bigger and brighter. Shades like soft beige, pale gray, and cream reflect natural light, creating a sense of openness. Neutral walls provide a versatile backdrop for furniture and decor, ensuring the space feels airy without sacrificing style.\n\nPairing neutral walls with light bedding and curtains enhances depth and tranquility. This approach is ideal for small rooms where dark colors can feel heavy and cramped, helping the bedroom feel calm, spacious, and inviting."
+        content: "Light neutral colors make small bedrooms appear bigger and brighter. Shades like soft beige, pale gray, and cream reflect natural light, creating a sense of openness. Neutral walls provide a versatile backdrop for furniture and decor, ensuring the space feels airy without sacrificing style.\n\nPairing neutral walls with light bedding and curtains enhances depth and tranquility. This approach is ideal for small rooms where dark colors can feel heavy and cramped, helping the bedroom feel calm, spacious, and inviting.",
+        image: "/assets/small-room-bedroom-01.webp"
       },
       {
         title: "2. Multi-Functional Furniture",
-        content: "Multi-functional furniture maximizes space without sacrificing style. Beds with storage drawers, foldable desks, or ottomans with hidden compartments help reduce clutter in small bedrooms. This approach ensures every piece has a purpose.\n\nChoosing furniture that serves multiple roles keeps the room organized and spacious. For example, a bed with built-in shelves doubles as storage, maintaining a clean aesthetic while freeing up floor space. Multi-functional pieces are essential for efficiency and style in compact bedrooms."
+        content: "Multi-functional furniture maximizes space without sacrificing style. Beds with storage drawers, foldable desks, or ottomans with hidden compartments help reduce clutter in small bedrooms. This approach ensures every piece has a purpose.\n\nChoosing furniture that serves multiple roles keeps the room organized and spacious. For example, a bed with built-in shelves doubles as storage, maintaining a clean aesthetic while freeing up floor space. Multi-functional pieces are essential for efficiency and style in compact bedrooms.",
+        image: "/assets/small-room-bedroom-02.webp"
       },
       {
         title: "3. Floating Shelves",
-        content: "Floating shelves provide storage and display space without taking up floor area. They keep essentials like books, decor, and personal items off surfaces, which visually expands the room.\n\nShelves can be styled vertically to draw the eye upward, enhancing height perception. By combining function with aesthetic appeal, floating shelves help small bedrooms feel open, organized, and personalized without cluttering the floor."
+        content: "Floating shelves provide storage and display space without taking up floor area. They keep essentials like books, decor, and personal items off surfaces, which visually expands the room.\n\nShelves can be styled vertically to draw the eye upward, enhancing height perception. By combining function with aesthetic appeal, floating shelves help small bedrooms feel open, organized, and personalized without cluttering the floor.",
+        image: "/assets/small-room-bedroom-03.webp"
       },
       {
         title: "4. Mirrors to Reflect Light",
-        content: "Mirrors are a classic small room trick. A large wall mirror or mirrored wardrobe doors reflect light, making the bedroom appear larger and brighter.\n\nPlacing a mirror opposite a window maximizes natural light. Mirrors also add depth and create an illusion of additional space, essential for compact rooms. Decorative frames can enhance style while maintaining functionality."
+        content: "Mirrors are a classic small room trick. A large wall mirror or mirrored wardrobe doors reflect light, making the bedroom appear larger and brighter.\n\nPlacing a mirror opposite a window maximizes natural light. Mirrors also add depth and create an illusion of additional space, essential for compact rooms. Decorative frames can enhance style while maintaining functionality.",
+        image: "/assets/small-room-bedroom-04.webp"
       },
       {
         title: "5. Vertical Storage Solutions",
-        content: "Utilize vertical space to maximize storage. Tall wardrobes, shelves, and hooks allow you to keep the floor clear, making the room feel less crowded.\n\nVertical storage emphasizes height, drawing attention upward. By combining functional storage with decorative elements like plants or artwork, small bedrooms remain organized, stylish, and visually spacious."
+        content: "Utilize vertical space to maximize storage. Tall wardrobes, shelves, and hooks allow you to keep the floor clear, making the room feel less crowded.\n\nVertical storage emphasizes height, drawing attention upward. By combining functional storage with decorative elements like plants or artwork, small bedrooms remain organized, stylish, and visually spacious.",
+        image: "/assets/small-room-bedroom-05.webp"
       },
       {
         title: "6. Minimalist Decor",
-        content: "A minimalist approach prevents small bedrooms from feeling cluttered. Limiting furniture, decor, and color contrast creates a clean, open space.\n\nPrioritize essentials and choose multi-purpose items. Minimalist decor highlights quality over quantity, helping small rooms feel calm, spacious, and inviting without sacrificing style."
+        content: "A minimalist approach prevents small bedrooms from feeling cluttered. Limiting furniture, decor, and color contrast creates a clean, open space.\n\nPrioritize essentials and choose multi-purpose items. Minimalist decor highlights quality over quantity, helping small rooms feel calm, spacious, and inviting without sacrificing style.",
+        image: "/assets/small-room-bedroom-06.webp"
       },
       {
         title: "7. Foldable or Murphy Beds",
-        content: "Foldable and Murphy beds free up floor space when not in use. This solution is ideal for guest rooms or bedrooms that double as workspaces.\n\nMurphy beds can be customized with cabinets or shelves around them, blending seamlessly into the room. This approach creates flexibility without compromising comfort or aesthetics."
+        content: "Foldable and Murphy beds free up floor space when not in use. This solution is ideal for guest rooms or bedrooms that double as workspaces.\n\nMurphy beds can be customized with cabinets or shelves around them, blending seamlessly into the room. This approach creates flexibility without compromising comfort or aesthetics.",
+        image: "/assets/small-room-bedroom-07.webp"
       },
       {
         title: "8. Under-Bed Storage",
-        content: "Maximize storage by using the space under the bed. Storage bins, drawers, or rolling boxes keep items organized and hidden, reducing visual clutter.\n\nThis strategy maintains a clean, open floor area. Under-bed storage is perfect for small bedrooms where closet space is limited, keeping essentials accessible yet out of sight."
+        content: "Maximize storage by using the space under the bed. Storage bins, drawers, or rolling boxes keep items organized and hidden, reducing visual clutter.\n\nThis strategy maintains a clean, open floor area. Under-bed storage is perfect for small bedrooms where closet space is limited, keeping essentials accessible yet out of sight.",
+        image: "/assets/small-room-bedroom-08.webp"
       },
       {
         title: "9. Wall-Mounted Lighting",
-        content: "Wall-mounted lamps save floor space while providing essential lighting. Sconces, swing-arm lamps, or LED strips above the bed replace bulky nightstands.\n\nWall lighting enhances functionality and style. It frees up surfaces for decor or storage, keeping the small bedroom organized, bright, and visually appealing."
+        content: "Wall-mounted lamps save floor space while providing essential lighting. Sconces, swing-arm lamps, or LED strips above the bed replace bulky nightstands.\n\nWall lighting enhances functionality and style. It frees up surfaces for decor or storage, keeping the small bedroom organized, bright, and visually appealing.",
+        image: "/assets/small-room-bedroom-09.webp"
       },
       {
         title: "10. Light, Sheer Curtains",
-        content: "Sheer curtains allow natural light while maintaining privacy. Light fabrics like voile or linen prevent the room from feeling closed off.\n\nThey create a soft, airy ambiance. Pairing sheer curtains with neutral walls enhances openness, making even compact bedrooms feel spacious and inviting."
+        content: "Sheer curtains allow natural light while maintaining privacy. Light fabrics like voile or linen prevent the room from feeling closed off.\n\nThey create a soft, airy ambiance. Pairing sheer curtains with neutral walls enhances openness, making even compact bedrooms feel spacious and inviting.",
+        image: "/assets/small-room-bedroom-10.webp"
       },
       {
         title: "11. Smart Closet Organization",
