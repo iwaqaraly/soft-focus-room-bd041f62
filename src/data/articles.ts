@@ -1737,43 +1737,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Upcycled Frame Gallery",
-        content: "Repurpose old frames by painting or embellishing them. Create a gallery wall with prints, photos, or fabric inserts.\n\nUpcycled frames are sustainable and cost-effective. They add personality and make blank walls visually engaging while staying budget-friendly."
+        content: "Repurpose old frames by painting or embellishing them. Create a gallery wall with prints, photos, or fabric inserts.\n\nUpcycled frames are sustainable and cost-effective. They add personality and make blank walls visually engaging while staying budget-friendly.",
+        image: "/assets/room-decor-diy-11.webp"
       },
       {
         title: "12. DIY Wall Decals",
-        content: "Create wall decals using contact paper, vinyl, or stencils. Designs can include shapes, quotes, or patterns for a personalized touch.\n\nWall decals are removable and renter-friendly. They allow for seasonal or style updates without investing in permanent changes."
+        content: "Create wall decals using contact paper, vinyl, or stencils. Designs can include shapes, quotes, or patterns for a personalized touch.\n\nWall decals are removable and renter-friendly. They allow for seasonal or style updates without investing in permanent changes.",
+        image: "/assets/room-decor-diy-12.webp"
       },
       {
         title: "13. Decorative Jars and Bottles",
-        content: "Paint or wrap jars and bottles in twine, lace, or metallic accents. Use them as vases, candle holders, or storage containers.\n\nThis project adds charm and functionality. Upcycling everyday items into décor elements is inexpensive, creative, and versatile for any room."
+        content: "Paint or wrap jars and bottles in twine, lace, or metallic accents. Use them as vases, candle holders, or storage containers.\n\nThis project adds charm and functionality. Upcycling everyday items into décor elements is inexpensive, creative, and versatile for any room.",
+        image: "/assets/room-decor-diy-13.webp"
       },
       {
         title: "14. DIY Cork Map",
-        content: "Create a map using corkboard pieces. Pin travel memories, notes, or photos for an interactive wall display.\n\nThis project is both decorative and functional. It personalizes the space while inspiring travel or creativity and remains affordable to make."
+        content: "Create a map using corkboard pieces. Pin travel memories, notes, or photos for an interactive wall display.\n\nThis project is both decorative and functional. It personalizes the space while inspiring travel or creativity and remains affordable to make.",
+        image: "/assets/room-decor-diy-14.webp"
       },
       {
         title: "15. Rope Wall Letters",
-        content: "Form letters, initials, or words using rope glued onto wooden boards. Hang them as statement pieces in bedrooms or living areas.\n\nRope wall letters add texture and a rustic touch. They're easy to craft, customizable, and budget-friendly while enhancing room personality."
+        content: "Form letters, initials, or words using rope glued onto wooden boards. Hang them as statement pieces in bedrooms or living areas.\n\nRope wall letters add texture and a rustic touch. They're easy to craft, customizable, and budget-friendly while enhancing room personality.",
+        image: "/assets/room-decor-diy-15.webp"
       },
       {
         title: "16. Washi Tape Picture Frames",
-        content: "Decorate photo frames with washi tape in patterns or colors that complement your décor. Create a cohesive gallery wall.\n\nThis inexpensive DIY refreshes old frames. It adds personality and ties together room themes without costly replacements."
+        content: "Decorate photo frames with washi tape in patterns or colors that complement your décor. Create a cohesive gallery wall.\n\nThis inexpensive DIY refreshes old frames. It adds personality and ties together room themes without costly replacements.",
+        image: "/assets/room-decor-diy-16.webp"
       },
       {
         title: "17. Floating Book Ledge",
-        content: "Install a narrow floating ledge to display books or decorative objects. Paint or stain it to match the room décor.\n\nFloating ledges save floor space and add visual interest. They're simple to DIY and perfect for creating organized, stylish displays."
+        content: "Install a narrow floating ledge to display books or decorative objects. Paint or stain it to match the room décor.\n\nFloating ledges save floor space and add visual interest. They're simple to DIY and perfect for creating organized, stylish displays.",
+        image: "/assets/room-decor-diy-17.webp"
       },
       {
         title: "18. Hanging Paper Lanterns",
-        content: "Create paper lanterns from craft paper or repurpose store-bought ones. Hang them at varying heights for dimension.\n\nLanterns provide soft, ambient lighting and playful décor. They're affordable, lightweight, and easy to customize with paint or patterns."
+        content: "Create paper lanterns from craft paper or repurpose store-bought ones. Hang them at varying heights for dimension.\n\nLanterns provide soft, ambient lighting and playful décor. They're affordable, lightweight, and easy to customize with paint or patterns.",
+        image: "/assets/room-decor-diy-18.webp"
       },
       {
         title: "19. DIY Chalkboard Wall",
-        content: "Paint a section of a wall with chalkboard paint. Use it for notes, quotes, or seasonal art that changes anytime.\n\nChalkboard walls add interactive functionality. They're perfect for kids' rooms, kitchens, or offices and are easy to update without additional costs."
+        content: "Paint a section of a wall with chalkboard paint. Use it for notes, quotes, or seasonal art that changes anytime.\n\nChalkboard walls add interactive functionality. They're perfect for kids' rooms, kitchens, or offices and are easy to update without additional costs.",
+        image: "/assets/room-decor-diy-19.webp"
       },
       {
         title: "20. Fabric-Covered Bulletin Boards",
-        content: "Cover cork boards with fabric for a stylish, textured wall display. Pin photos, notes, or small art pieces.\n\nFabric-covered boards blend utility with décor. They allow personalization through fabric choice, pattern, and color, making them budget-friendly statement pieces."
+        content: "Cover cork boards with fabric for a stylish, textured wall display. Pin photos, notes, or small art pieces.\n\nFabric-covered boards blend utility with décor. They allow personalization through fabric choice, pattern, and color, making them budget-friendly statement pieces.",
+        image: "/assets/room-decor-diy-20.webp"
       }
     ],
     faqs: [
