@@ -1579,43 +1579,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Fold-Down Bench",
-        content: "A fold-down bench is ideal for compact spaces. It can be stowed against the wall after strength or bench workouts.\n\nFoldable solutions maximize floor area while allowing versatile training. This option is perfect for small rooms or multi-purpose spaces."
+        content: "A fold-down bench is ideal for compact spaces. It can be stowed against the wall after strength or bench workouts.\n\nFoldable solutions maximize floor area while allowing versatile training. This option is perfect for small rooms or multi-purpose spaces.",
+        image: "/assets/home-gym-11.webp"
       },
       {
         title: "12. Minimalist Floor Mat",
-        content: "Use a quality yoga or exercise mat as the central workout zone. Mats define space and provide cushioning for bodyweight exercises.\n\nA minimalist mat setup ensures your gym remains open and uncluttered. It's essential for stretching, yoga, or HIIT routines."
+        content: "Use a quality yoga or exercise mat as the central workout zone. Mats define space and provide cushioning for bodyweight exercises.\n\nA minimalist mat setup ensures your gym remains open and uncluttered. It's essential for stretching, yoga, or HIIT routines.",
+        image: "/assets/home-gym-12.webp"
       },
       {
         title: "13. Ceiling-Mounted TRX Straps",
-        content: "Install TRX or suspension straps from the ceiling for full-body workouts. They require minimal space and add versatility.\n\nSuspension training increases functional strength while keeping the area open. Ceiling mounts are perfect for small spaces needing multi-use solutions."
+        content: "Install TRX or suspension straps from the ceiling for full-body workouts. They require minimal space and add versatility.\n\nSuspension training increases functional strength while keeping the area open. Ceiling mounts are perfect for small spaces needing multi-use solutions.",
+        image: "/assets/home-gym-13.webp"
       },
       {
         title: "14. Storage Bench Combo",
-        content: "Combine storage with seating using a gym bench. Store mats, dumbbells, or resistance bands inside to reduce clutter.\n\nMulti-functional storage keeps the gym tidy. It's practical for small apartments while maintaining a professional look."
+        content: "Combine storage with seating using a gym bench. Store mats, dumbbells, or resistance bands inside to reduce clutter.\n\nMulti-functional storage keeps the gym tidy. It's practical for small apartments while maintaining a professional look.",
+        image: "/assets/home-gym-14.webp"
       },
       {
         title: "15. Rolling Carts for Gear",
-        content: "A rolling cart holds yoga blocks, dumbbells, and bands. Move it aside when not in use to free floor space.\n\nMobile storage improves flexibility and keeps workouts organized. It's especially useful in multi-purpose rooms or shared spaces."
+        content: "A rolling cart holds yoga blocks, dumbbells, and bands. Move it aside when not in use to free floor space.\n\nMobile storage improves flexibility and keeps workouts organized. It's especially useful in multi-purpose rooms or shared spaces.",
+        image: "/assets/home-gym-15.webp"
       },
       {
         title: "16. Wall-Mounted TV or Tablet",
-        content: "Install a TV or tablet mount for guided workouts or streaming classes. Mounting keeps surfaces clear and improves visibility.\n\nDigital displays enhance motivation. Watching classes or tutorials adds variety, making home workouts more engaging and efficient."
+        content: "Install a TV or tablet mount for guided workouts or streaming classes. Mounting keeps surfaces clear and improves visibility.\n\nDigital displays enhance motivation. Watching classes or tutorials adds variety, making home workouts more engaging and efficient.",
+        image: "/assets/home-gym-16.webp"
       },
       {
         title: "17. Vertical Foam Roller Rack",
-        content: "Store foam rollers, massage sticks, and yoga props vertically. This reduces floor clutter while keeping essential recovery tools accessible.\n\nVertical storage allows easy retrieval, improving workout efficiency. It also maintains a neat, inviting home gym environment."
+        content: "Store foam rollers, massage sticks, and yoga props vertically. This reduces floor clutter while keeping essential recovery tools accessible.\n\nVertical storage allows easy retrieval, improving workout efficiency. It also maintains a neat, inviting home gym environment.",
+        image: "/assets/home-gym-17.webp"
       },
       {
         title: "18. Adjustable Dumbbells",
-        content: "Use adjustable dumbbells instead of multiple sets. They save space and provide a full weight range for all exercises.\n\nThis compact solution ensures strength training versatility. Adjustable equipment keeps small gyms functional without sacrificing effectiveness."
+        content: "Use adjustable dumbbells instead of multiple sets. They save space and provide a full weight range for all exercises.\n\nThis compact solution ensures strength training versatility. Adjustable equipment keeps small gyms functional without sacrificing effectiveness.",
+        image: "/assets/home-gym-18.webp"
       },
       {
         title: "19. Wall-Mounted Ballet Bar",
-        content: "Install a ballet or barre for stretching, strength, and flexibility. It requires minimal space and adds elegance.\n\nA barre allows for full-body workouts, yoga stretches, and balance exercises. Wall-mounting maximizes floor area while keeping training options diverse."
+        content: "Install a ballet or barre for stretching, strength, and flexibility. It requires minimal space and adds elegance.\n\nA barre allows for full-body workouts, yoga stretches, and balance exercises. Wall-mounting maximizes floor area while keeping training options diverse.",
+        image: "/assets/home-gym-19.webp"
       },
       {
         title: "20. Foldable Treadmill Desk",
-        content: "Combine a treadmill and desk for cardio while working. Foldable designs maintain floor space when not in use.\n\nThis innovation encourages multitasking, making small spaces efficient. It's ideal for home offices or apartments with limited square footage."
+        content: "Combine a treadmill and desk for cardio while working. Foldable designs maintain floor space when not in use.\n\nThis innovation encourages multitasking, making small spaces efficient. It's ideal for home offices or apartments with limited square footage.",
+        image: "/assets/home-gym-20.webp"
       },
       {
         title: "21. Indoor Cycling Corner",
