@@ -1683,46 +1683,57 @@ export const articles: Article[] = [
     excerpt: "Discover 20 creative and budget-friendly DIY décor projects to personalize any room with style and charm.",
     category: "Living Room",
     image: "/assets/placeholder.svg",
+    imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Washi Tape Wall Art",
-        content: "Washi tape can instantly transform blank walls into artistic canvases. Create geometric patterns, stripes, or abstract designs that match your color scheme.\n\nThis budget-friendly solution is removable and renter-friendly. It's perfect for adding personality and modern style to any bedroom, living room, or office without expensive materials."
+        content: "Washi tape can instantly transform blank walls into artistic canvases. Create geometric patterns, stripes, or abstract designs that match your color scheme.\n\nThis budget-friendly solution is removable and renter-friendly. It's perfect for adding personality and modern style to any bedroom, living room, or office without expensive materials.",
+        image: "/assets/room-decor-diy-01.webp"
       },
       {
         title: "2. DIY Floating Shelves",
-        content: "Floating shelves offer both style and storage. Use inexpensive plywood or reclaimed wood to mount on walls and display decor, plants, or books.\n\nThey save floor space and make the room feel organized. DIY shelves allow customization of length, color, and arrangement to fit your style and room size."
+        content: "Floating shelves offer both style and storage. Use inexpensive plywood or reclaimed wood to mount on walls and display decor, plants, or books.\n\nThey save floor space and make the room feel organized. DIY shelves allow customization of length, color, and arrangement to fit your style and room size.",
+        image: "/assets/room-decor-diy-02.webp"
       },
       {
         title: "3. Mason Jar Vases",
-        content: "Transform mason jars into vases with paint, ribbons, or twine. Display fresh or dried flowers for a charming, rustic vibe.\n\nThis simple project adds color, texture, and personality to any room. Mason jars are affordable and versatile, ideal for budget-conscious décor enthusiasts."
+        content: "Transform mason jars into vases with paint, ribbons, or twine. Display fresh or dried flowers for a charming, rustic vibe.\n\nThis simple project adds color, texture, and personality to any room. Mason jars are affordable and versatile, ideal for budget-conscious décor enthusiasts.",
+        image: "/assets/room-decor-diy-03.webp"
       },
       {
         title: "4. String Light Photo Display",
-        content: "Hang string lights along a wall and attach photos with mini clothespins. The soft glow creates ambiance and highlights memories.\n\nThis DIY adds warmth and personalization. It's perfect for bedrooms or dorms, offering a cozy, budget-friendly, and visually appealing décor solution."
+        content: "Hang string lights along a wall and attach photos with mini clothespins. The soft glow creates ambiance and highlights memories.\n\nThis DIY adds warmth and personalization. It's perfect for bedrooms or dorms, offering a cozy, budget-friendly, and visually appealing décor solution.",
+        image: "/assets/room-decor-diy-04.webp"
       },
       {
         title: "5. Painted Planters",
-        content: "Use paint or patterns to refresh plain terracotta or ceramic pots. Add plants to bring greenery and life to your space.\n\nPainted planters allow for creative expression while elevating natural elements in the room. They're inexpensive and can be tailored to match your interior palette."
+        content: "Use paint or patterns to refresh plain terracotta or ceramic pots. Add plants to bring greenery and life to your space.\n\nPainted planters allow for creative expression while elevating natural elements in the room. They're inexpensive and can be tailored to match your interior palette.",
+        image: "/assets/room-decor-diy-05.webp"
       },
       {
         title: "6. Decorative Wall Hangings",
-        content: "Create wall hangings using yarn, rope, or fabric scraps. Macrame or fringe designs add texture and a boho-chic vibe.\n\nThese pieces are easy to make and customize. Wall hangings fill empty spaces and provide cozy, handmade charm to any room without costing much."
+        content: "Create wall hangings using yarn, rope, or fabric scraps. Macrame or fringe designs add texture and a boho-chic vibe.\n\nThese pieces are easy to make and customize. Wall hangings fill empty spaces and provide cozy, handmade charm to any room without costing much.",
+        image: "/assets/room-decor-diy-06.webp"
       },
       {
         title: "7. Framed Fabric Art",
-        content: "Frame leftover fabric pieces or scarves to create unique wall art. Mix patterns, textures, and colors for a gallery-style display.\n\nThis project turns affordable materials into stylish décor. It allows personalization and makes blank walls interesting, perfect for any room style."
+        content: "Frame leftover fabric pieces or scarves to create unique wall art. Mix patterns, textures, and colors for a gallery-style display.\n\nThis project turns affordable materials into stylish décor. It allows personalization and makes blank walls interesting, perfect for any room style.",
+        image: "/assets/room-decor-diy-07.webp"
       },
       {
         title: "8. DIY Bulletin Board",
-        content: "Create a bulletin board using cork, fabric, or foam boards. Pin notes, photos, or inspirational quotes for function and flair.\n\nBulletin boards add structure and organization while contributing to the décor. They are practical and visually appealing, ideal for workspaces or bedrooms."
+        content: "Create a bulletin board using cork, fabric, or foam boards. Pin notes, photos, or inspirational quotes for function and flair.\n\nBulletin boards add structure and organization while contributing to the décor. They are practical and visually appealing, ideal for workspaces or bedrooms.",
+        image: "/assets/room-decor-diy-08.webp"
       },
       {
         title: "9. Painted Accent Wall",
-        content: "Use painter's tape and bold colors to create geometric shapes or stripes on a wall. This adds dimension without wallpaper.\n\nDIY accent walls refresh the space at low cost. They allow flexibility to change designs or colors as trends and preferences evolve."
+        content: "Use painter's tape and bold colors to create geometric shapes or stripes on a wall. This adds dimension without wallpaper.\n\nDIY accent walls refresh the space at low cost. They allow flexibility to change designs or colors as trends and preferences evolve.",
+        image: "/assets/room-decor-diy-09.webp"
       },
       {
         title: "10. Hanging Rope Shelf",
-        content: "Hang a shelf from the ceiling using rope or macrame cords. It's stylish, functional, and a great way to display plants or décor.\n\nThe hanging shelf adds vertical interest and keeps surfaces free. It works well in living rooms, bedrooms, or small spaces, maximizing design impact."
+        content: "Hang a shelf from the ceiling using rope or macrame cords. It's stylish, functional, and a great way to display plants or décor.\n\nThe hanging shelf adds vertical interest and keeps surfaces free. It works well in living rooms, bedrooms, or small spaces, maximizing design impact.",
+        image: "/assets/room-decor-diy-10.webp"
       },
       {
         title: "11. Upcycled Frame Gallery",
