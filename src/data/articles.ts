@@ -1451,44 +1451,54 @@ export const articles: Article[] = [
         image: "/assets/diy-wall-decor-10.webp"
       },
       {
-        title: "11. Cork Board Art",
-        content: "Paint or stencil cork boards for decorative and functional wall art. They can double as pinboards for notes or photos.\n\nCork provides texture and versatility. DIY designs keep the wall stylish while staying practical and inexpensive, perfect for dorms or offices."
+        title: "11. Upcycled Frame Gallery",
+        content: "Repurpose old frames by painting or embellishing them. Create a gallery wall with prints, photos, or fabric inserts.\n\nUpcycled frames are sustainable and cost-effective. They add personality and make blank walls visually engaging while staying budget-friendly.",
+        image: "/assets/diy-wall-decor-11.webp"
       },
       {
-        title: "12. Yarn Wall Tassels",
-        content: "Yarn tassels arranged in clusters or patterns create whimsical décor. Mix colors and lengths for a playful or boho look.\n\nThis project is highly affordable and beginner-friendly. Tassels add softness and texture, transforming plain walls without permanent changes."
+        title: "12. Abstract Wall Mural",
+        content: "Create a modern abstract mural using geometric shapes and neutral tones. Use painter's tape to achieve clean lines and edges.\n\nThis project transforms a plain wall into a statement piece. It's customizable, affordable, and creates a sophisticated focal point.",
+        image: "/assets/diy-wall-decor-12.webp"
       },
       {
-        title: "13. Pallet Wall Letters",
-        content: "Use wood pallets to cut large letters or shapes. Paint or stain them to match your décor.\n\nPallet letters create a rustic, personalized statement. They're inexpensive and add depth, perfect for entryways or living rooms."
+        title: "13. Decorative Bottle Display",
+        content: "Paint or wrap bottles and jars in decorative patterns. Display them on wall-mounted shelves for a colorful, eclectic look.\n\nThis project adds charm and functionality. Upcycling everyday items into décor elements is inexpensive and versatile for any room.",
+        image: "/assets/diy-wall-decor-13.webp"
       },
       {
-        title: "14. DIY Photo Ledges",
-        content: "Use scrap wood to create ledges for framed prints or postcards. Layer frames for dynamic display.\n\nPhoto ledges allow easy updates and rearrangements. They're functional, affordable, and give a professional look without investing in large shelves."
+        title: "14. Cork World Map",
+        content: "Create a world map using corkboard pieces. Pin travel memories, notes, or photos to mark your adventures.\n\nThis project is both decorative and interactive. It personalizes the space while inspiring wanderlust and remains affordable to make.",
+        image: "/assets/diy-wall-decor-14.webp"
       },
       {
-        title: "15. Washi Tape Monograms",
-        content: "Form letters or symbols on the wall using washi tape. This creates custom designs that are removable and renter-friendly.\n\nWashi monograms are playful yet stylish. They add personality while keeping costs minimal and installation simple."
+        title: "15. Rope Wall Letters",
+        content: "Form letters, initials, or words using rope glued onto wooden boards. Hang them as statement pieces in bedrooms or living areas.\n\nRope wall letters add texture and a rustic touch. They're easy to craft, customizable, and budget-friendly.",
+        image: "/assets/diy-wall-decor-15.webp"
       },
       {
-        title: "16. Paper Flower Wall",
-        content: "Create 3D wall art using handmade paper flowers. Mix sizes and colors for dimension and visual interest.\n\nPaper flowers are lightweight, affordable, and perfect for seasonal or permanent décor. They make blank walls vibrant and romantic without expensive materials."
+        title: "16. Washi Tape Gallery Wall",
+        content: "Combine photos, prints, and washi tape borders to make a gallery wall. It's a flexible, removable option for renters.\n\nThis allows frequent updates without nails or paint. The colorful tape frames images while maintaining a playful aesthetic.",
+        image: "/assets/diy-wall-decor-16.webp"
       },
       {
-        title: "17. DIY Wall Clock",
-        content: "Repurpose an old tray, round wood panel, or even cardboard as a clock face. Add clock hands and numbers for a functional décor piece.\n\nCustom wall clocks serve as both art and utility. They're inexpensive, interactive, and add personality to any wall."
+        title: "17. Floating Book Ledge",
+        content: "Install a narrow floating ledge to display books, art, or decorative objects. Paint or stain it to match the room décor.\n\nFloating ledges save floor space and add visual interest. They're simple to DIY and perfect for organized, stylish displays.",
+        image: "/assets/diy-wall-decor-17.webp"
       },
       {
-        title: "18. Hanging Hoop Embroidery",
-        content: "Use embroidery hoops with fabric or designs to decorate walls. Layer multiple hoops for a gallery effect.\n\nThis technique is budget-friendly and highly customizable. It's ideal for boho or eclectic interiors, adding texture and charm."
+        title: "18. Paper Lantern Display",
+        content: "Create paper lanterns from craft paper or repurpose store-bought ones. Hang them at varying heights for dimension and ambient lighting.\n\nLanterns provide soft, warm lighting and playful décor. They're affordable, lightweight, and easy to customize.",
+        image: "/assets/diy-wall-decor-18.webp"
       },
       {
-        title: "19. Washi Tape Stripes",
-        content: "Create horizontal, vertical, or diagonal stripes with washi tape. Play with patterns and colors to mimic wallpaper.\n\nThis temporary wall treatment is cost-effective and easy to change. It's perfect for adding bold, modern designs on a small budget."
+        title: "19. DIY Chalkboard Wall",
+        content: "Paint a section of a wall with chalkboard paint. Use it for notes, calendars, quotes, or seasonal art that changes anytime.\n\nChalkboard walls add interactive functionality. They're perfect for kitchens, offices, or kids' rooms.",
+        image: "/assets/diy-wall-decor-19.webp"
       },
       {
-        title: "20. DIY Wall Planter Rack",
-        content: "Construct a small rack for mini pots using wood or metal. Mount on the wall for a living décor piece.\n\nA planter rack is functional, decorative, and affordable. It's ideal for kitchens, living rooms, or bedrooms needing a touch of greenery."
+        title: "20. Fabric-Covered Pin Boards",
+        content: "Cover cork boards with colorful fabric for a stylish, textured wall display. Pin photos, notes, or small art pieces.\n\nFabric-covered boards blend utility with décor. They allow personalization through fabric choice and make budget-friendly statement pieces.",
+        image: "/assets/diy-wall-decor-20.webp"
       },
       {
         title: "21. Chalkboard Wall",
