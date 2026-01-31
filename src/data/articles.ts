@@ -1502,15 +1502,18 @@ export const articles: Article[] = [
       },
       {
         title: "21. Chalkboard Wall",
-        content: "Paint a section of the wall with chalkboard paint. Draw seasonal art, notes, or messages.\n\nChalkboard walls are interactive and budget-friendly. They transform blank spaces into customizable art areas and are perfect for kids or creative spaces."
+        content: "Paint a section of the wall with chalkboard paint. Draw seasonal art, notes, or messages.\n\nChalkboard walls are interactive and budget-friendly. They transform blank spaces into customizable art areas and are perfect for kids or creative spaces.",
+        image: "/assets/diy-wall-decor-21.webp"
       },
       {
         title: "22. Upcycled Tin Art",
-        content: "Repurpose tin cans or trays with paint, stencils, or embossing to create wall art. Mount in grids or patterns for effect.\n\nTin art adds texture and vintage charm. It's cost-effective, creative, and provides a unique touch for walls without spending on store-bought décor."
+        content: "Repurpose tin cans or trays with paint, stencils, or embossing to create wall art. Mount in grids or patterns for effect.\n\nTin art adds texture and vintage charm. It's cost-effective, creative, and provides a unique touch for walls without spending on store-bought décor.",
+        image: "/assets/diy-wall-decor-22.webp"
       },
       {
         title: "23. String Photo Display",
-        content: "Hang photos from twine using mini clothespins. Arrange them vertically, horizontally, or in patterns for a dynamic wall display.\n\nThis project is extremely budget-friendly and personal. It allows frequent updates and adds a warm, homemade feel to your space."
+        content: "Hang photos from twine using mini clothespins. Arrange them vertically, horizontally, or in patterns for a dynamic wall display.\n\nThis project is extremely budget-friendly and personal. It allows frequent updates and adds a warm, homemade feel to your space.",
+        image: "/assets/diy-wall-decor-23.webp"
       }
     ],
     faqs: [
