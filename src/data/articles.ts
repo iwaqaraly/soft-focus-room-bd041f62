@@ -1398,46 +1398,57 @@ export const articles: Article[] = [
     excerpt: "Discover 23 affordable and creative DIY wall décor ideas to transform blank walls without breaking the bank.",
     category: "Living Room",
     image: "/assets/placeholder.svg",
+    imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Washi Tape Wall Patterns",
-        content: "Washi tape allows for creative, temporary wall designs. Geometric shapes, stripes, or abstract patterns add personality without commitment. It's budget-friendly and easy to remove or adjust.\n\nThis technique works in bedrooms, living rooms, or office spaces. With colorful or metallic tapes, you can mimic expensive wallpaper designs and create a fun focal wall at a fraction of the cost."
+        content: "Washi tape allows for creative, temporary wall designs. Geometric shapes, stripes, or abstract patterns add personality without commitment. It's budget-friendly and easy to remove or adjust.\n\nThis technique works in bedrooms, living rooms, or office spaces. With colorful or metallic tapes, you can mimic expensive wallpaper designs and create a fun focal wall at a fraction of the cost.",
+        image: "/assets/diy-wall-decor-01.webp"
       },
       {
-        title: "2. DIY Macrame Wall Hanging",
-        content: "Macrame wall hangings add texture and boho charm to any room. Use affordable cotton rope or yarn and follow simple knotting patterns.\n\nThey bring warmth and handmade character to blank walls. Even beginners can create layered, cozy pieces that feel custom-made without spending on expensive décor."
+        title: "2. DIY Floating Shelves",
+        content: "Floating shelves offer both style and storage. Use inexpensive plywood or reclaimed wood to mount on walls and display decor, plants, or books.\n\nThey save floor space and make the room feel organized. DIY shelves allow customization of length, color, and arrangement to fit your style and room size.",
+        image: "/assets/diy-wall-decor-02.webp"
       },
       {
-        title: "3. Framed Fabric Panels",
-        content: "Frame scraps of fabric or scarves to create art-like wall panels. Mix patterns, textures, and colors for visual interest.\n\nThis method transforms inexpensive materials into stylish décor. It's perfect for creating cohesive color schemes while staying within a budget."
+        title: "3. Mason Jar Wall Vases",
+        content: "Transform mason jars into wall-mounted vases with paint, ribbons, or twine. Display fresh or dried flowers for a charming, rustic vibe.\n\nThis simple project adds color, texture, and personality to any room. Mason jars are affordable and versatile, ideal for budget-conscious décor enthusiasts.",
+        image: "/assets/diy-wall-decor-03.webp"
       },
       {
-        title: "4. Painted Canvas Art",
-        content: "Create abstract or patterned art using inexpensive canvases and acrylic paints. Simple brushstrokes or splatter techniques can mimic gallery-worthy designs.\n\nDIY canvas art allows full customization of color and style. Even minimal skills can yield impressive results, providing a cost-effective way to fill blank walls."
+        title: "4. String Light Photo Display",
+        content: "Hang string lights along a wall and attach photos with mini clothespins. The soft glow creates ambiance and highlights memories.\n\nThis DIY adds warmth and personalization. It's perfect for bedrooms or dorms, offering a cozy, budget-friendly, and visually appealing décor solution.",
+        image: "/assets/diy-wall-decor-04.webp"
       },
       {
-        title: "5. Printable Wall Quotes",
-        content: "Print motivational or decorative quotes on card stock or paper, then frame them. Choose typography that matches your interior style.\n\nThis project is extremely affordable and highly customizable. Rotating quotes or seasonal sayings keeps the décor fresh and inspiring without additional expense."
+        title: "5. Living Plant Wall",
+        content: "Create a stunning living wall using mounted planters or a pegboard system. Display various plants in decorative pots for a lush, green focal point.\n\nThis project adds life, color, and natural beauty to any room. It's perfect for plant lovers and creates an impressive statement piece.",
+        image: "/assets/diy-wall-decor-05.webp"
       },
       {
-        title: "6. Hanging Planters",
-        content: "Wall-mounted planters add greenery and life to your space. Use recycled jars, tin cans, or inexpensive pots hung with rope or hooks.\n\nPlants enhance mood, air quality, and visual interest. DIY hanging planters are simple, budget-friendly, and perfect for vertical décor in small rooms."
+        title: "6. Macrame Wall Hanging",
+        content: "Macrame wall hangings add texture and boho charm to any room. Use affordable cotton rope or yarn and follow simple knotting patterns.\n\nThey bring warmth and handmade character to blank walls. Even beginners can create layered, cozy pieces that feel custom-made without spending on expensive décor.",
+        image: "/assets/diy-wall-decor-06.webp"
       },
       {
-        title: "7. Upcycled Picture Frames",
-        content: "Repurpose old frames with paint, tape, or embellishments. Arrange them in a gallery wall or geometric grid for instant style.\n\nThis budget-friendly approach gives new life to discarded items. It allows you to create a cohesive wall feature without buying expensive frames."
+        title: "7. Framed Textile Art",
+        content: "Frame woven textiles, fabric pieces, or handmade tapestries to create gallery-worthy wall art. Mix textures and neutral tones for a cohesive look.\n\nThis method transforms inexpensive materials into stylish décor. It's perfect for creating a curated, artisanal aesthetic.",
+        image: "/assets/diy-wall-decor-07.webp"
       },
       {
-        title: "8. DIY Wooden Shelves",
-        content: "Use inexpensive plywood or reclaimed wood to build floating shelves. Mount them with brackets or hidden supports.\n\nShelves serve dual purposes: storage and display. They're ideal for small décor items, plants, or candles, giving a wall functional yet stylish appeal."
+        title: "8. Inspiration Board Wall",
+        content: "Create a large inspiration or mood board using cork, linen, or burlap. Pin photos, notes, artwork, and mementos for a personalized display.\n\nThis functional art piece keeps you organized while adding visual interest. It's perfect for home offices or creative spaces.",
+        image: "/assets/diy-wall-decor-08.webp"
       },
       {
-        title: "9. String Art",
-        content: "Create shapes or letters using nails and colored thread on a wooden base. Geometric patterns, initials, or symbols work well.\n\nString art adds texture and a personalized touch. It's cheap, creative, and makes for a standout DIY décor piece that feels crafted."
+        title: "9. Geometric Painted Wall",
+        content: "Use painter's tape to create bold geometric patterns on your wall. Choose complementary colors for a modern, artistic statement.\n\nThis DIY accent wall transforms any room without wallpaper. It's customizable, affordable, and creates a stunning focal point.",
+        image: "/assets/diy-wall-decor-09.webp"
       },
       {
-        title: "10. Washi Tape Gallery Wall",
-        content: "Combine photos, prints, and washi tape borders to make a gallery wall. It's a flexible, removable option for renters.\n\nThis allows frequent updates without nails or paint. The colorful tape frames images while maintaining a budget-conscious, playful aesthetic."
+        title: "10. Hanging Rope Shelves",
+        content: "Create rustic hanging shelves using wooden boards and thick rope. Display plants, books, and decorative objects for a bohemian touch.\n\nThese shelves add vertical interest and keep surfaces free. They work well in living rooms, bedrooms, or small spaces.",
+        image: "/assets/diy-wall-decor-10.webp"
       },
       {
         title: "11. Cork Board Art",
