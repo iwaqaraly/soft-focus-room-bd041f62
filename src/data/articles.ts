@@ -1629,19 +1629,23 @@ export const articles: Article[] = [
       },
       {
         title: "21. Indoor Cycling Corner",
-        content: "Dedicate a small corner for a stationary bike. Use mirrors or wall art to visually expand the space.\n\nCycling corners maximize floor efficiency. Compact cardio stations allow regular workouts without dominating the room."
+        content: "Dedicate a small corner for a stationary bike. Use mirrors or wall art to visually expand the space.\n\nCycling corners maximize floor efficiency. Compact cardio stations allow regular workouts without dominating the room.",
+        image: "/assets/home-gym-21.webp"
       },
       {
         title: "22. DIY Wall Pegboard for Equipment",
-        content: "Pegboards hold jump ropes, bands, and smaller equipment. Pegboards allow customization and organization for multiple tools.\n\nThis inexpensive solution keeps walls functional and visually organized. Everything has a spot, ensuring the gym remains clutter-free."
+        content: "Pegboards hold jump ropes, bands, and smaller equipment. Pegboards allow customization and organization for multiple tools.\n\nThis inexpensive solution keeps walls functional and visually organized. Everything has a spot, ensuring the gym remains clutter-free.",
+        image: "/assets/home-gym-22.webp"
       },
       {
         title: "23. Foldable Mat Storage",
-        content: "Store exercise mats vertically in a wall holder or corner. This keeps them accessible without cluttering the floor.\n\nFoldable mat storage ensures efficient use of space. It's ideal for homes where floor area is at a premium, maintaining a clean gym aesthetic."
+        content: "Store exercise mats vertically in a wall holder or corner. This keeps them accessible without cluttering the floor.\n\nFoldable mat storage ensures efficient use of space. It's ideal for homes where floor area is at a premium, maintaining a clean gym aesthetic.",
+        image: "/assets/home-gym-23.webp"
       },
       {
         title: "24. Motivational Wall Decals",
-        content: "Add vinyl wall decals with phrases like \"Strong Today\" or \"Push Yourself.\" Decals are removable and affordable.\n\nVisual cues boost motivation during workouts. They personalize the home gym while remaining budget-friendly and easy to install."
+        content: "Add vinyl wall decals with phrases like \"Strong Today\" or \"Push Yourself.\" Decals are removable and affordable.\n\nVisual cues boost motivation during workouts. They personalize the home gym while remaining budget-friendly and easy to install.",
+        image: "/assets/home-gym-24.webp"
       }
     ],
     faqs: [
