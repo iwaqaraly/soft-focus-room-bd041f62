@@ -1526,6 +1526,7 @@ export const articles: Article[] = [
     excerpt: "Discover 24 smart ideas to create an efficient home gym in any space, from compact corners to multi-purpose rooms.",
     category: "Living Room",
     image: "/assets/placeholder.svg",
+    imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Corner Workout Nook",
