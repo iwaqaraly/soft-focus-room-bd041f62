@@ -1529,43 +1529,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Corner Workout Nook",
-        content: "Transform a small corner into a dedicated workout space. Add a yoga mat, small dumbbells, and a stability ball to maximize unused areas.\n\nThis approach makes home fitness accessible without a large footprint. By keeping equipment minimal and organized, your corner gym can be functional, stylish, and motivating."
+        content: "Transform a small corner into a dedicated workout space. Add a yoga mat, small dumbbells, and a stability ball to maximize unused areas.\n\nThis approach makes home fitness accessible without a large footprint. By keeping equipment minimal and organized, your corner gym can be functional, stylish, and motivating.",
+        image: "/assets/home-gym-01.webp"
       },
       {
         title: "2. Mirror Wall for Motivation",
-        content: "Install a mirror on one wall to track form and technique. Mirrors also make the space feel larger and brighter.\n\nReflected light improves mood and focus. A mirrored wall is perfect for bodyweight exercises, yoga, or pilates, helping you maintain motivation and proper posture."
+        content: "Install a mirror on one wall to track form and technique. Mirrors also make the space feel larger and brighter.\n\nReflected light improves mood and focus. A mirrored wall is perfect for bodyweight exercises, yoga, or pilates, helping you maintain motivation and proper posture.",
+        image: "/assets/home-gym-02.webp"
       },
       {
         title: "3. Foldable Equipment",
-        content: "Use foldable treadmills, benches, or bikes to save space. Foldable gear can be tucked away after workouts, keeping the room versatile.\n\nThis strategy allows flexibility in small rooms. You can create a dedicated gym when needed and reclaim space afterward for other activities."
+        content: "Use foldable treadmills, benches, or bikes to save space. Foldable gear can be tucked away after workouts, keeping the room versatile.\n\nThis strategy allows flexibility in small rooms. You can create a dedicated gym when needed and reclaim space afterward for other activities.",
+        image: "/assets/home-gym-03.webp"
       },
       {
         title: "4. Vertical Storage Racks",
-        content: "Install vertical racks to store dumbbells, resistance bands, or yoga mats. This keeps the floor clear and organized.\n\nVertical storage enhances accessibility while saving space. A tidy area improves efficiency and makes workouts feel more professional and inviting."
+        content: "Install vertical racks to store dumbbells, resistance bands, or yoga mats. This keeps the floor clear and organized.\n\nVertical storage enhances accessibility while saving space. A tidy area improves efficiency and makes workouts feel more professional and inviting.",
+        image: "/assets/home-gym-04.webp"
       },
       {
         title: "5. Wall-Mounted Pull-Up Bar",
-        content: "A wall-mounted pull-up bar offers strength training without taking up floor space. Many models fold flat when not in use.\n\nThis allows for a versatile upper-body workout in compact spaces. Pair it with resistance bands for a full-body routine."
+        content: "A wall-mounted pull-up bar offers strength training without taking up floor space. Many models fold flat when not in use.\n\nThis allows for a versatile upper-body workout in compact spaces. Pair it with resistance bands for a full-body routine.",
+        image: "/assets/home-gym-05.webp"
       },
       {
         title: "6. Multi-Purpose Furniture",
-        content: "Use benches that double as storage or seating. Ottomans or shelves can hold weights, yoga blocks, or mats.\n\nThis combines practicality and design. Multi-purpose furniture ensures your gym is both stylish and efficient, even in limited space."
+        content: "Use benches that double as storage or seating. Ottomans or shelves can hold weights, yoga blocks, or mats.\n\nThis combines practicality and design. Multi-purpose furniture ensures your gym is both stylish and efficient, even in limited space.",
+        image: "/assets/home-gym-06.webp"
       },
       {
         title: "7. Inspiring Wall Art",
-        content: "Add motivational quotes or posters to boost energy. Colorful prints or vinyl lettering can create a dynamic atmosphere.\n\nVisual inspiration enhances focus and keeps workouts fun. Wall art is an inexpensive way to personalize your home gym."
+        content: "Add motivational quotes or posters to boost energy. Colorful prints or vinyl lettering can create a dynamic atmosphere.\n\nVisual inspiration enhances focus and keeps workouts fun. Wall art is an inexpensive way to personalize your home gym.",
+        image: "/assets/home-gym-07.webp"
       },
       {
         title: "8. Compact Cardio Machines",
-        content: "Opt for compact exercise bikes, rowers, or mini steppers. These machines provide cardio benefits without dominating the room.\n\nCompact equipment is ideal for apartments or small rooms. It keeps your home gym functional while leaving space for other exercises."
+        content: "Opt for compact exercise bikes, rowers, or mini steppers. These machines provide cardio benefits without dominating the room.\n\nCompact equipment is ideal for apartments or small rooms. It keeps your home gym functional while leaving space for other exercises.",
+        image: "/assets/home-gym-08.webp"
       },
       {
         title: "9. Free-Weight Station",
-        content: "Designate a small area for free weights. Use a compact rack or shelf for dumbbells, kettlebells, and medicine balls.\n\nA focused free-weight area allows strength training in a minimal space. Proper organization keeps the gym safe and visually tidy."
+        content: "Designate a small area for free weights. Use a compact rack or shelf for dumbbells, kettlebells, and medicine balls.\n\nA focused free-weight area allows strength training in a minimal space. Proper organization keeps the gym safe and visually tidy.",
+        image: "/assets/home-gym-09.webp"
       },
       {
         title: "10. Resistance Band Wall Hooks",
-        content: "Install hooks for resistance bands, jump ropes, and TRX straps. Wall hooks maintain order and prevent clutter.\n\nThis simple solution increases accessibility. Easy-to-reach bands encourage daily workouts and reduce setup time."
+        content: "Install hooks for resistance bands, jump ropes, and TRX straps. Wall hooks maintain order and prevent clutter.\n\nThis simple solution increases accessibility. Easy-to-reach bands encourage daily workouts and reduce setup time.",
+        image: "/assets/home-gym-10.webp"
       },
       {
         title: "11. Fold-Down Bench",
