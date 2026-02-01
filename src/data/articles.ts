@@ -1841,9 +1841,10 @@ export const articles: Article[] = [
     id: "24",
     slug: "kitchen-counter-decor-ideas-transform-space",
     title: "Kitchen Counter Decor: 21 Ideas to Transform Your Space",
-    excerpt: "Discover 22 stylish and functional ideas to elevate your kitchen countertops with décor that balances beauty and practicality.",
+    excerpt: "Discover 21 stylish and functional ideas to elevate your kitchen countertops with décor that balances beauty and practicality.",
     category: "Kitchen",
     image: "/assets/placeholder.svg",
+    imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Fresh Herb Pots",

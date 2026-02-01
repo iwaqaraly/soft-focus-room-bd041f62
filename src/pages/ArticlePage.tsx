@@ -63,25 +63,10 @@ const ArticlePage = () => {
                 {article.sections.map((section, index) => (
                   <div
                     key={index}
-                    className={`group grid md:grid-cols-2 gap-6 md:gap-10 items-center ${
-                      index % 2 === 1 ? "md:[&>*:first-child]:order-2" : ""
-                    }`}
+                    className="group grid md:grid-cols-2 gap-6 md:gap-10 items-center"
                   >
-                    {/* Image */}
-                    {section.image && (
-                      <div className="relative overflow-hidden rounded-2xl bg-muted/30 shadow-lg group-hover:shadow-xl transition-shadow duration-300">
-                        <div className="aspect-square">
-                          <img
-                            src={section.image}
-                            alt={section.title}
-                            className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                          />
-                        </div>
-                      </div>
-                    )}
-                    
                     {/* Content */}
-                    <div className="flex flex-col justify-center py-4">
+                    <div className="flex flex-col justify-center py-4 md:order-1">
                       <div className="flex items-center gap-3 mb-4">
                         <span className="flex items-center justify-center w-10 h-10 rounded-full bg-primary/10 text-primary font-semibold text-sm">
                           {index + 1}
@@ -94,6 +79,19 @@ const ArticlePage = () => {
                         {section.content}
                       </div>
                     </div>
+
+                    {/* Image */}
+                    {section.image && (
+                      <div className="relative overflow-hidden rounded-2xl bg-muted/30 shadow-lg group-hover:shadow-xl transition-shadow duration-300 md:order-2">
+                        <div className="aspect-square">
+                          <img
+                            src={section.image}
+                            alt={section.title}
+                            className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                          />
+                        </div>
+                      </div>
+                    )}
                   </div>
                 ))}
               </div>
