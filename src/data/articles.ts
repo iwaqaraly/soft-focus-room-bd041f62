@@ -1897,43 +1897,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Decorative Tray Organizer",
-        content: "Use trays to group items like oils, soaps, and small plants. This defines spaces and adds order.\n\nA tray acts as a base for décor, keeping counters organized while visually appealing. It's versatile for any kitchen style."
+        content: "Use trays to group items like oils, soaps, and small plants. This defines spaces and adds order.\n\nA tray acts as a base for décor, keeping counters organized while visually appealing. It's versatile for any kitchen style.",
+        image: "/assets/kitchen-counter-11.webp"
       },
       {
         title: "12. Stylish Soap Dispensers",
-        content: "Upgrade your soap and lotion dispensers. Choose glass, metal, or matte finishes that match your kitchen's design.\n\nFunctional and decorative, premium dispensers enhance the sink area. They're a subtle detail that elevates the overall aesthetic."
+        content: "Upgrade your soap and lotion dispensers. Choose glass, metal, or matte finishes that match your kitchen's design.\n\nFunctional and decorative, premium dispensers enhance the sink area. They're a subtle detail that elevates the overall aesthetic.",
+        image: "/assets/kitchen-counter-12.webp"
       },
       {
         title: "13. Cookbook Stand",
-        content: "Display your favorite cookbook on a stand. Add decorative props like small jars or candles around it.\n\nA cookbook stand is both practical for cooking and visually appealing. It adds height, interest, and personality to your countertop."
+        content: "Display your favorite cookbook on a stand. Add decorative props like small jars or candles around it.\n\nA cookbook stand is both practical for cooking and visually appealing. It adds height, interest, and personality to your countertop.",
+        image: "/assets/kitchen-counter-13.webp"
       },
       {
         title: "14. Statement Bowl or Vase",
-        content: "Use a large bowl or vase as a centerpiece. Fill it with fruit, flowers, or decorative objects.\n\nStatement pieces draw attention and anchor the countertop design. It's a simple way to add elegance without cluttering."
+        content: "Use a large bowl or vase as a centerpiece. Fill it with fruit, flowers, or decorative objects.\n\nStatement pieces draw attention and anchor the countertop design. It's a simple way to add elegance without cluttering.",
+        image: "/assets/kitchen-counter-14.webp"
       },
       {
         title: "15. Chalkboard or Menu Board",
-        content: "Place a small chalkboard for notes, grocery lists, or menu ideas. It adds a playful yet functional touch.\n\nChalkboards personalize your kitchen space. They're practical, budget-friendly, and make your countertop interactive and engaging."
+        content: "Place a small chalkboard for notes, grocery lists, or menu ideas. It adds a playful yet functional touch.\n\nChalkboards personalize your kitchen space. They're practical, budget-friendly, and make your countertop interactive and engaging.",
+        image: "/assets/kitchen-counter-15.webp"
       },
       {
         title: "16. Decorative Bowls for Snacks",
-        content: "Use small decorative bowls for nuts, candy, or snacks. Arrange them strategically to balance form and function.\n\nSnack bowls add color and texture to the counter. They make essentials accessible while contributing to the overall décor theme."
+        content: "Use small decorative bowls for nuts, candy, or snacks. Arrange them strategically to balance form and function.\n\nSnack bowls add color and texture to the counter. They make essentials accessible while contributing to the overall décor theme.",
+        image: "/assets/kitchen-counter-16.webp"
       },
       {
         title: "17. Ceramic or Stoneware Jars",
-        content: "Group ceramic or stoneware jars for utensils or pantry items. Choose natural tones or muted colors for a cohesive look.\n\nThese jars add texture and a cozy, artisanal feel. They're durable, functional, and enhance kitchen décor without cluttering surfaces."
+        content: "Group ceramic or stoneware jars for utensils or pantry items. Choose natural tones or muted colors for a cohesive look.\n\nThese jars add texture and a cozy, artisanal feel. They're durable, functional, and enhance kitchen décor without cluttering surfaces.",
+        image: "/assets/kitchen-counter-17.webp"
       },
       {
         title: "18. Tiered Counter Organizer",
-        content: "Use a small tiered stand for spices, condiments, or fruit. It adds height and layers to the countertop.\n\nTiered organizers maximize vertical space while keeping essentials organized. They create a dynamic and visually interesting display without overcrowding."
+        content: "Use a small tiered stand for spices, condiments, or fruit. It adds height and layers to the countertop.\n\nTiered organizers maximize vertical space while keeping essentials organized. They create a dynamic and visually interesting display without overcrowding.",
+        image: "/assets/kitchen-counter-18.webp"
       },
       {
         title: "19. Tea or Coffee Station",
-        content: "Dedicate a corner for a coffee machine, mugs, and teas. Add small decorative elements like a jar of sugar or mini plants.\n\nA coffee station is functional and visually appealing. It transforms a countertop area into a cozy, inviting spot for daily rituals."
+        content: "Dedicate a corner for a coffee machine, mugs, and teas. Add small decorative elements like a jar of sugar or mini plants.\n\nA coffee station is functional and visually appealing. It transforms a countertop area into a cozy, inviting spot for daily rituals.",
+        image: "/assets/kitchen-counter-19.webp"
       },
       {
         title: "20. Floating Shelf Above Counter",
-        content: "Install a small shelf above the counter to display plants, art, or kitchen essentials. It adds décor without occupying counter space.\n\nFloating shelves expand storage vertically. They're perfect for decorative accents and small items, keeping countertops clutter-free while enhancing style."
+        content: "Install a small shelf above the counter to display plants, art, or kitchen essentials. It adds décor without occupying counter space.\n\nFloating shelves expand storage vertically. They're perfect for decorative accents and small items, keeping countertops clutter-free while enhancing style.",
+        image: "/assets/kitchen-counter-20.webp"
       },
       {
         title: "21. Glass Jar Herb Display",
