@@ -2039,43 +2039,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Exposed Wood Beams",
-        content: "Add exposed ceiling beams or faux wooden accents for architectural interest. Lighter wood tones balance modern aesthetics.\n\nBeams add character and warmth. They visually anchor the space and create an authentic farmhouse feel while maintaining a modern touch."
+        content: "Add exposed ceiling beams or faux wooden accents for architectural interest. Lighter wood tones balance modern aesthetics.\n\nBeams add character and warmth. They visually anchor the space and create an authentic farmhouse feel while maintaining a modern touch.",
+        image: "/assets/modern-farmhouse-kitchen-11.webp"
       },
       {
         title: "12. Open Plate Racks",
-        content: "Display plates or cutting boards on wall-mounted racks. Wooden or metal finishes work well.\n\nPlate racks combine function and décor. They make everyday items visually appealing while keeping them accessible."
+        content: "Display plates or cutting boards on wall-mounted racks. Wooden or metal finishes work well.\n\nPlate racks combine function and décor. They make everyday items visually appealing while keeping them accessible.",
+        image: "/assets/modern-farmhouse-kitchen-12.webp"
       },
       {
         title: "13. Statement Range Hood",
-        content: "Install a large, decorative range hood in wood, stone, or matte metal. It acts as a focal point above the stove.\n\nStatement hoods blend farmhouse charm with modern sophistication. They highlight the cooking area while complementing cabinetry and countertops."
+        content: "Install a large, decorative range hood in wood, stone, or matte metal. It acts as a focal point above the stove.\n\nStatement hoods blend farmhouse charm with modern sophistication. They highlight the cooking area while complementing cabinetry and countertops.",
+        image: "/assets/modern-farmhouse-kitchen-13.webp"
       },
       {
         title: "14. Patterned Floor Tiles",
-        content: "Add patterned or encaustic tiles for a farmhouse touch. Neutral or muted tones maintain a cohesive design.\n\nPatterned floors add visual interest without overwhelming the space. They provide texture, warmth, and a subtle rustic vibe in modern kitchens."
+        content: "Add patterned or encaustic tiles for a farmhouse touch. Neutral or muted tones maintain a cohesive design.\n\nPatterned floors add visual interest without overwhelming the space. They provide texture, warmth, and a subtle rustic vibe in modern kitchens.",
+        image: "/assets/modern-farmhouse-kitchen-14.webp"
       },
       {
         title: "15. Farmhouse Bar Stools",
-        content: "Use wooden or metal stools with natural finishes at the island. Backless or low-back designs keep the look airy.\n\nStools combine function with style. They enhance the social aspect of the kitchen while complementing the farmhouse-modern aesthetic."
+        content: "Use wooden or metal stools with natural finishes at the island. Backless or low-back designs keep the look airy.\n\nStools combine function with style. They enhance the social aspect of the kitchen while complementing the farmhouse-modern aesthetic.",
+        image: "/assets/modern-farmhouse-kitchen-15.webp"
       },
       {
         title: "16. Mason Jar Storage",
-        content: "Repurpose mason jars for pantry items, utensils, or decorative accents. Arrange them on shelves or counters.\n\nMason jars add rustic charm while staying functional. They are budget-friendly, versatile, and enhance the overall farmhouse feel."
+        content: "Repurpose mason jars for pantry items, utensils, or decorative accents. Arrange them on shelves or counters.\n\nMason jars add rustic charm while staying functional. They are budget-friendly, versatile, and enhance the overall farmhouse feel.",
+        image: "/assets/modern-farmhouse-kitchen-16.webp"
       },
       {
         title: "17. Sliding Window Garden",
-        content: "Add a small herb garden near the kitchen window. Use wooden boxes or planters to tie in natural materials.\n\nIndoor greenery adds freshness and functionality. A windowsill garden complements the farmhouse vibe while providing fresh ingredients for cooking."
+        content: "Add a small herb garden near the kitchen window. Use wooden boxes or planters to tie in natural materials.\n\nIndoor greenery adds freshness and functionality. A windowsill garden complements the farmhouse vibe while providing fresh ingredients for cooking.",
+        image: "/assets/modern-farmhouse-kitchen-17.webp"
       },
       {
         title: "18. Wooden Beam Ceiling Shelf",
-        content: "Install a shelf from ceiling beams for pots, pans, or decorative elements. This adds vertical storage and rustic charm.\n\nCeiling shelves make efficient use of space while enhancing visual appeal. Hanging elements add texture and keep counters uncluttered."
+        content: "Install a shelf from ceiling beams for pots, pans, or decorative elements. This adds vertical storage and rustic charm.\n\nCeiling shelves make efficient use of space while enhancing visual appeal. Hanging elements add texture and keep counters uncluttered.",
+        image: "/assets/modern-farmhouse-kitchen-18.webp"
       },
       {
         title: "19. Neutral Linens and Textiles",
-        content: "Use linen or cotton towels, rugs, and placemats in whites, creams, or soft pastels. Layer textures for warmth.\n\nTextiles soften hard surfaces and add cozy farmhouse character. They're easy to update seasonally for a fresh look."
+        content: "Use linen or cotton towels, rugs, and placemats in whites, creams, or soft pastels. Layer textures for warmth.\n\nTextiles soften hard surfaces and add cozy farmhouse character. They're easy to update seasonally for a fresh look.",
+        image: "/assets/modern-farmhouse-kitchen-19.webp"
       },
       {
         title: "20. Woven Baskets for Storage",
-        content: "Incorporate woven baskets under counters or on shelves. Store kitchen essentials, fruits, or linens.\n\nBaskets add texture and warmth. They maintain organization while emphasizing rustic, natural materials in the kitchen design."
+        content: "Incorporate woven baskets under counters or on shelves. Store kitchen essentials, fruits, or linens.\n\nBaskets add texture and warmth. They maintain organization while emphasizing rustic, natural materials in the kitchen design.",
+        image: "/assets/modern-farmhouse-kitchen-20.webp"
       },
       {
         title: "21. Chalkboard Menu Wall",
