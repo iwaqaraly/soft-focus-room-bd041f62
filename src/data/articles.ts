@@ -1989,43 +1989,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Shaker Cabinetry with Matte Finishes",
-        content: "Shaker-style cabinets offer a clean, classic look. Opt for matte white, cream, or soft gray tones for a modern farmhouse vibe.\n\nMatte finishes minimize glare while highlighting texture. Combined with farmhouse hardware, shaker cabinets create a timeless aesthetic that balances modern simplicity with rustic charm."
+        content: "Shaker-style cabinets offer a clean, classic look. Opt for matte white, cream, or soft gray tones for a modern farmhouse vibe.\n\nMatte finishes minimize glare while highlighting texture. Combined with farmhouse hardware, shaker cabinets create a timeless aesthetic that balances modern simplicity with rustic charm.",
+        image: "/assets/modern-farmhouse-kitchen-01.webp"
       },
       {
         title: "2. Open Shelving Displays",
-        content: "Replace upper cabinets with open shelves to showcase dishes, glassware, or décor pieces. Mix wood and metal for visual contrast.\n\nOpen shelving adds airiness and accessibility. It's perfect for farmhouse kitchens where style meets practicality, allowing decorative items to double as functional storage."
+        content: "Replace upper cabinets with open shelves to showcase dishes, glassware, or décor pieces. Mix wood and metal for visual contrast.\n\nOpen shelving adds airiness and accessibility. It's perfect for farmhouse kitchens where style meets practicality, allowing decorative items to double as functional storage.",
+        image: "/assets/modern-farmhouse-kitchen-02.webp"
       },
       {
         title: "3. Farmhouse Sink",
-        content: "A deep apron-front sink adds rustic appeal while being practical for large pots and pans. Stainless steel or ceramic materials work best.\n\nFarmhouse sinks anchor the kitchen's design. They're both functional and visually striking, giving your space a warm, homey feel while supporting modern efficiency."
+        content: "A deep apron-front sink adds rustic appeal while being practical for large pots and pans. Stainless steel or ceramic materials work best.\n\nFarmhouse sinks anchor the kitchen's design. They're both functional and visually striking, giving your space a warm, homey feel while supporting modern efficiency.",
+        image: "/assets/modern-farmhouse-kitchen-03.webp"
       },
       {
         title: "4. Rustic Wooden Countertops",
-        content: "Use reclaimed or butcher-block wood countertops for natural warmth. Pair with light-colored cabinets to create contrast.\n\nWood countertops add texture and farmhouse charm. Proper sealing ensures durability while enhancing the kitchen's rustic-modern blend."
+        content: "Use reclaimed or butcher-block wood countertops for natural warmth. Pair with light-colored cabinets to create contrast.\n\nWood countertops add texture and farmhouse charm. Proper sealing ensures durability while enhancing the kitchen's rustic-modern blend.",
+        image: "/assets/modern-farmhouse-kitchen-04.webp"
       },
       {
         title: "5. Subway Tile Backsplash",
-        content: "Classic white or neutral subway tiles are timeless in farmhouse kitchens. Opt for matte or glossy finishes with minimal grout contrast.\n\nSubway tiles provide a clean backdrop for rustic and modern elements. They are versatile, easy to clean, and complement a variety of design accents."
+        content: "Classic white or neutral subway tiles are timeless in farmhouse kitchens. Opt for matte or glossy finishes with minimal grout contrast.\n\nSubway tiles provide a clean backdrop for rustic and modern elements. They are versatile, easy to clean, and complement a variety of design accents.",
+        image: "/assets/modern-farmhouse-kitchen-05.webp"
       },
       {
         title: "6. Industrial Lighting Fixtures",
-        content: "Install pendant lights in matte black, bronze, or copper above islands or counters. Edison bulbs enhance rustic charm.\n\nIndustrial lighting merges farmhouse warmth with modern flair. It creates focal points while providing functional illumination for prep areas and dining spaces."
+        content: "Install pendant lights in matte black, bronze, or copper above islands or counters. Edison bulbs enhance rustic charm.\n\nIndustrial lighting merges farmhouse warmth with modern flair. It creates focal points while providing functional illumination for prep areas and dining spaces.",
+        image: "/assets/modern-farmhouse-kitchen-06.webp"
       },
       {
         title: "7. Kitchen Island with Seating",
-        content: "A farmhouse-style island serves as prep space, storage, and seating. Use distressed wood or painted bases with a butcher-block or stone top.\n\nIslands anchor the kitchen design while enhancing functionality. They create a social hub for family gatherings and casual dining."
+        content: "A farmhouse-style island serves as prep space, storage, and seating. Use distressed wood or painted bases with a butcher-block or stone top.\n\nIslands anchor the kitchen design while enhancing functionality. They create a social hub for family gatherings and casual dining.",
+        image: "/assets/modern-farmhouse-kitchen-07.webp"
       },
       {
         title: "8. Neutral Color Palette",
-        content: "Stick to whites, creams, soft grays, and natural wood tones. Neutral palettes provide a cozy, inviting farmhouse atmosphere.\n\nThis approach allows rustic and modern elements to shine. It creates a versatile backdrop for furniture, lighting, and decorative accents."
+        content: "Stick to whites, creams, soft grays, and natural wood tones. Neutral palettes provide a cozy, inviting farmhouse atmosphere.\n\nThis approach allows rustic and modern elements to shine. It creates a versatile backdrop for furniture, lighting, and decorative accents.",
+        image: "/assets/modern-farmhouse-kitchen-08.webp"
       },
       {
         title: "9. Barn Door Pantry",
-        content: "Install a sliding barn door for pantry or utility spaces. Wood or painted finishes add farmhouse authenticity.\n\nBarn doors save space while serving as a design statement. They enhance character and introduce movement into the kitchen aesthetic."
+        content: "Install a sliding barn door for pantry or utility spaces. Wood or painted finishes add farmhouse authenticity.\n\nBarn doors save space while serving as a design statement. They enhance character and introduce movement into the kitchen aesthetic.",
+        image: "/assets/modern-farmhouse-kitchen-09.webp"
       },
       {
         title: "10. Vintage-Style Hardware",
-        content: "Use cup pulls, iron knobs, or brass handles on cabinets and drawers. Mix finishes for a curated look.\n\nHardware adds subtle charm and ties together rustic and modern elements. It's a small detail with a big visual impact in farmhouse kitchens."
+        content: "Use cup pulls, iron knobs, or brass handles on cabinets and drawers. Mix finishes for a curated look.\n\nHardware adds subtle charm and ties together rustic and modern elements. It's a small detail with a big visual impact in farmhouse kitchens.",
+        image: "/assets/modern-farmhouse-kitchen-10.webp"
       },
       {
         title: "11. Exposed Wood Beams",
