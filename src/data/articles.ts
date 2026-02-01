@@ -2089,15 +2089,18 @@ export const articles: Article[] = [
       },
       {
         title: "21. Chalkboard Menu Wall",
-        content: "Paint a small wall with chalkboard paint for menu notes or daily specials. Decorate with rustic frames for style.\n\nChalkboards are functional and decorative. They personalize the kitchen while keeping it interactive and homey."
+        content: "Paint a small wall with chalkboard paint for menu notes or daily specials. Decorate with rustic frames for style.\n\nChalkboards are functional and decorative. They personalize the kitchen while keeping it interactive and homey.",
+        image: "/assets/modern-farmhouse-kitchen-21.webp"
       },
       {
         title: "22. Vintage Appliances or Accents",
-        content: "Use retro-style mixers, toasters, or jars to add character. Stick to muted or pastel colors for cohesion.\n\nVintage elements provide charm and nostalgia. They complement modern finishes while enhancing the farmhouse-modern blend."
+        content: "Use retro-style mixers, toasters, or jars to add character. Stick to muted or pastel colors for cohesion.\n\nVintage elements provide charm and nostalgia. They complement modern finishes while enhancing the farmhouse-modern blend.",
+        image: "/assets/modern-farmhouse-kitchen-22.webp"
       },
       {
         title: "23. Layered Lighting",
-        content: "Combine pendant, recessed, and under-cabinet lighting. Mix warm-toned bulbs for ambiance.\n\nLayered lighting highlights architectural features and creates a cozy, inviting atmosphere. It balances farmhouse warmth with modern functionality."
+        content: "Combine pendant, recessed, and under-cabinet lighting. Mix warm-toned bulbs for ambiance.\n\nLayered lighting highlights architectural features and creates a cozy, inviting atmosphere. It balances farmhouse warmth with modern functionality.",
+        image: "/assets/modern-farmhouse-kitchen-23.webp"
       }
     ],
     faqs: [
