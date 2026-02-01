@@ -1847,43 +1847,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Fresh Herb Pots",
-        content: "Place small pots of fresh herbs like basil, rosemary, or mint on your counter. They add greenery, aroma, and easy access for cooking.\n\nHerb pots are both functional and decorative. Using colorful or minimalist pots can tie your kitchen's theme together, adding life to otherwise bare countertops."
+        content: "Place small pots of fresh herbs like basil, rosemary, or mint on your counter. They add greenery, aroma, and easy access for cooking.\n\nHerb pots are both functional and decorative. Using colorful or minimalist pots can tie your kitchen's theme together, adding life to otherwise bare countertops.",
+        image: "/assets/kitchen-counter-01.webp"
       },
       {
         title: "2. Wooden Cutting Boards Display",
-        content: "Lean assorted wooden cutting boards against the backsplash. Mix shapes and sizes for texture and visual interest.\n\nThis adds warmth and natural elements. It also makes frequently used tools easily accessible while doubling as décor that complements rustic or modern kitchens."
+        content: "Lean assorted wooden cutting boards against the backsplash. Mix shapes and sizes for texture and visual interest.\n\nThis adds warmth and natural elements. It also makes frequently used tools easily accessible while doubling as décor that complements rustic or modern kitchens.",
+        image: "/assets/kitchen-counter-02.webp"
       },
       {
         title: "3. Stylish Fruit Bowl",
-        content: "Display fresh fruit in a decorative bowl. Choose vibrant colors like oranges, lemons, or apples to add a pop to your countertop.\n\nA fruit bowl is simple, functional, and adds life to your kitchen. It can also act as a centerpiece for casual dining areas."
+        content: "Display fresh fruit in a decorative bowl. Choose vibrant colors like oranges, lemons, or apples to add a pop to your countertop.\n\nA fruit bowl is simple, functional, and adds life to your kitchen. It can also act as a centerpiece for casual dining areas.",
+        image: "/assets/kitchen-counter-03.webp"
       },
       {
         title: "4. Glass Canisters",
-        content: "Use glass canisters to store dry ingredients like pasta, rice, or flour. Group them in varying heights for visual balance.\n\nGlass canisters are practical and stylish. Clear containers highlight contents and add a clean, organized aesthetic to your kitchen space."
+        content: "Use glass canisters to store dry ingredients like pasta, rice, or flour. Group them in varying heights for visual balance.\n\nGlass canisters are practical and stylish. Clear containers highlight contents and add a clean, organized aesthetic to your kitchen space.",
+        image: "/assets/kitchen-counter-04.webp"
       },
       {
         title: "5. Floating Spice Rack",
-        content: "Install a small spice rack or display spices in uniform jars. Organize by color, size, or label style for a polished look.\n\nSpice racks keep cooking essentials handy while enhancing décor. It's a simple way to combine functionality and style in one corner of the counter."
+        content: "Install a small spice rack or display spices in uniform jars. Organize by color, size, or label style for a polished look.\n\nSpice racks keep cooking essentials handy while enhancing décor. It's a simple way to combine functionality and style in one corner of the counter.",
+        image: "/assets/kitchen-counter-05.webp"
       },
       {
         title: "6. Vintage Decor Accents",
-        content: "Add vintage elements like antique scales, trays, or jars. These pieces add character and charm to modern or rustic kitchens.\n\nVintage décor creates focal points and gives personality to your counter space. It's a subtle yet impactful way to elevate the kitchen's aesthetic."
+        content: "Add vintage elements like antique scales, trays, or jars. These pieces add character and charm to modern or rustic kitchens.\n\nVintage décor creates focal points and gives personality to your counter space. It's a subtle yet impactful way to elevate the kitchen's aesthetic.",
+        image: "/assets/kitchen-counter-06.webp"
       },
       {
         title: "7. Decorative Cutting Board Tray",
-        content: "Use a large cutting board as a base for grouping small items like oils, utensils, or condiments.\n\nThis creates an organized and cohesive display. It's functional, keeps essentials accessible, and visually transforms the counter with minimal effort."
+        content: "Use a large cutting board as a base for grouping small items like oils, utensils, or condiments.\n\nThis creates an organized and cohesive display. It's functional, keeps essentials accessible, and visually transforms the counter with minimal effort.",
+        image: "/assets/kitchen-counter-07.webp"
       },
       {
         title: "8. Potted Indoor Plants",
-        content: "Add low-maintenance plants like succulents or snake plants. Greenery softens hard surfaces and enhances air quality.\n\nPlants add texture, color, and a natural feel. Strategically placed, they create a fresh, inviting countertop environment."
+        content: "Add low-maintenance plants like succulents or snake plants. Greenery softens hard surfaces and enhances air quality.\n\nPlants add texture, color, and a natural feel. Strategically placed, they create a fresh, inviting countertop environment.",
+        image: "/assets/kitchen-counter-08.webp"
       },
       {
         title: "9. Minimalist Utensil Holder",
-        content: "Use sleek containers for frequently used utensils. Choose ceramic, stainless steel, or copper for style.\n\nA tidy utensil holder keeps the counter clutter-free. It's practical for cooking while subtly enhancing your décor theme."
+        content: "Use sleek containers for frequently used utensils. Choose ceramic, stainless steel, or copper for style.\n\nA tidy utensil holder keeps the counter clutter-free. It's practical for cooking while subtly enhancing your décor theme.",
+        image: "/assets/kitchen-counter-09.webp"
       },
       {
         title: "10. Seasonal Decor",
-        content: "Switch out small décor items for seasonal touches like mini pumpkins in fall or fresh flowers in spring.\n\nSeasonal décor keeps your kitchen lively and visually appealing. Changing accents is inexpensive and brings freshness to everyday counter space."
+        content: "Switch out small décor items for seasonal touches like mini pumpkins in fall or fresh flowers in spring.\n\nSeasonal décor keeps your kitchen lively and visually appealing. Changing accents is inexpensive and brings freshness to everyday counter space.",
+        image: "/assets/kitchen-counter-10.webp"
       },
       {
         title: "11. Decorative Tray Organizer",
