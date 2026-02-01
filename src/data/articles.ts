@@ -1986,6 +1986,7 @@ export const articles: Article[] = [
     excerpt: "Discover 23 inspiring ideas to create a modern farmhouse kitchen that blends rustic charm with contemporary functionality.",
     category: "Kitchen",
     image: "/assets/placeholder.svg",
+    imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Shaker Cabinetry with Matte Finishes",
