@@ -58,42 +58,45 @@ const ArticlePage = () => {
         {article.sections && article.sections.length > 0 && (
           <div className={isSquareLayout ? "max-w-6xl mx-auto" : "max-w-4xl mx-auto"}>
             {isSquareLayout ? (
-              // Card Grid Layout for Square Images
+              // Card Grid Layout for Square Images - Alternating Left/Right
               <div className="grid gap-8 md:gap-12">
-                {article.sections.map((section, index) => (
-                  <div
-                    key={index}
-                    className="group grid md:grid-cols-2 gap-6 md:gap-10 items-center"
-                  >
-                    {/* Content */}
-                    <div className="flex flex-col justify-center py-4 md:order-1">
-                      <div className="flex items-center gap-3 mb-4">
-                        <span className="flex items-center justify-center w-10 h-10 rounded-full bg-primary/10 text-primary font-semibold text-sm">
-                          {index + 1}
-                        </span>
-                        <h2 className="text-xl md:text-2xl font-medium text-foreground leading-tight">
-                          {section.title.replace(/^\d+\.\s*/, '')}
-                        </h2>
-                      </div>
-                      <div className="text-muted-foreground leading-relaxed whitespace-pre-line pl-[52px]">
-                        {section.content}
-                      </div>
-                    </div>
-
-                    {/* Image */}
-                    {section.image && (
-                      <div className="relative overflow-hidden rounded-2xl bg-muted/30 shadow-lg group-hover:shadow-xl transition-shadow duration-300 md:order-2">
-                        <div className="aspect-square">
-                          <img
-                            src={section.image}
-                            alt={section.title}
-                            className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                          />
+                {article.sections.map((section, index) => {
+                  const isEven = index % 2 === 0;
+                  return (
+                    <div
+                      key={index}
+                      className="group grid md:grid-cols-2 gap-6 md:gap-10 items-center"
+                    >
+                      {/* Content */}
+                      <div className={`flex flex-col justify-center py-4 ${isEven ? 'md:order-1' : 'md:order-2'}`}>
+                        <div className="flex items-center gap-3 mb-4">
+                          <span className="flex items-center justify-center w-10 h-10 rounded-full bg-primary/10 text-primary font-semibold text-sm">
+                            {index + 1}
+                          </span>
+                          <h2 className="text-xl md:text-2xl font-medium text-foreground leading-tight">
+                            {section.title.replace(/^\d+\.\s*/, '')}
+                          </h2>
+                        </div>
+                        <div className="text-muted-foreground leading-relaxed whitespace-pre-line pl-[52px]">
+                          {section.content}
                         </div>
                       </div>
-                    )}
-                  </div>
-                ))}
+
+                      {/* Image */}
+                      {section.image && (
+                        <div className={`relative overflow-hidden rounded-2xl bg-muted/30 shadow-lg group-hover:shadow-xl transition-shadow duration-300 ${isEven ? 'md:order-2' : 'md:order-1'}`}>
+                          <div className="aspect-square">
+                            <img
+                              src={section.image}
+                              alt={section.title}
+                              className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                            />
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
               </div>
             ) : (
               // Standard Vertical Layout for Wide Images
