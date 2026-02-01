@@ -1840,7 +1840,7 @@ export const articles: Article[] = [
   {
     id: "24",
     slug: "kitchen-counter-decor-ideas-transform-space",
-    title: "Kitchen Counter Decor: 22 Ideas to Transform Your Space",
+    title: "Kitchen Counter Decor: 21 Ideas to Transform Your Space",
     excerpt: "Discover 22 stylish and functional ideas to elevate your kitchen countertops with décor that balances beauty and practicality.",
     category: "Kitchen",
     image: "/assets/placeholder.svg",
@@ -1906,31 +1906,27 @@ export const articles: Article[] = [
         content: "Place a small chalkboard for notes, grocery lists, or menu ideas. It adds a playful yet functional touch.\n\nChalkboards personalize your kitchen space. They're practical, budget-friendly, and make your countertop interactive and engaging."
       },
       {
-        title: "16. Wine Rack or Stand",
-        content: "Display a compact wine rack or a few bottles on the counter. Choose one that matches the kitchen's style.\n\nIt adds sophistication and is practical for casual entertaining. A small wine display elevates the aesthetic without overcrowding the space."
-      },
-      {
-        title: "17. Decorative Bowls for Snacks",
+        title: "16. Decorative Bowls for Snacks",
         content: "Use small decorative bowls for nuts, candy, or snacks. Arrange them strategically to balance form and function.\n\nSnack bowls add color and texture to the counter. They make essentials accessible while contributing to the overall décor theme."
       },
       {
-        title: "18. Ceramic or Stoneware Jars",
+        title: "17. Ceramic or Stoneware Jars",
         content: "Group ceramic or stoneware jars for utensils or pantry items. Choose natural tones or muted colors for a cohesive look.\n\nThese jars add texture and a cozy, artisanal feel. They're durable, functional, and enhance kitchen décor without cluttering surfaces."
       },
       {
-        title: "19. Tiered Counter Organizer",
+        title: "18. Tiered Counter Organizer",
         content: "Use a small tiered stand for spices, condiments, or fruit. It adds height and layers to the countertop.\n\nTiered organizers maximize vertical space while keeping essentials organized. They create a dynamic and visually interesting display without overcrowding."
       },
       {
-        title: "20. Tea or Coffee Station",
+        title: "19. Tea or Coffee Station",
         content: "Dedicate a corner for a coffee machine, mugs, and teas. Add small decorative elements like a jar of sugar or mini plants.\n\nA coffee station is functional and visually appealing. It transforms a countertop area into a cozy, inviting spot for daily rituals."
       },
       {
-        title: "21. Floating Shelf Above Counter",
+        title: "20. Floating Shelf Above Counter",
         content: "Install a small shelf above the counter to display plants, art, or kitchen essentials. It adds décor without occupying counter space.\n\nFloating shelves expand storage vertically. They're perfect for decorative accents and small items, keeping countertops clutter-free while enhancing style."
       },
       {
-        title: "22. Glass Jar Herb Display",
+        title: "21. Glass Jar Herb Display",
         content: "Grow herbs like parsley, thyme, or mint in glass jars lined along the counter. They bring greenery, freshness, and culinary functionality.\n\nGlass jar herb displays are visually appealing and practical. They create a fresh and vibrant countertop décor while keeping herbs accessible for cooking."
       }
     ],
