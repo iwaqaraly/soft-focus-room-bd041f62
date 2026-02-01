@@ -1947,7 +1947,8 @@ export const articles: Article[] = [
       },
       {
         title: "21. Glass Jar Herb Display",
-        content: "Grow herbs like parsley, thyme, or mint in glass jars lined along the counter. They bring greenery, freshness, and culinary functionality.\n\nGlass jar herb displays are visually appealing and practical. They create a fresh and vibrant countertop décor while keeping herbs accessible for cooking."
+        content: "Grow herbs like parsley, thyme, or mint in glass jars lined along the counter. They bring greenery, freshness, and culinary functionality.\n\nGlass jar herb displays are visually appealing and practical. They create a fresh and vibrant countertop décor while keeping herbs accessible for cooking.",
+        image: "/assets/kitchen-counter-21.webp"
       }
     ],
     faqs: [
