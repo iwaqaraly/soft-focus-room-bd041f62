@@ -2274,43 +2274,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Cozy Family Lounge",
-        content: "A finished basement family lounge creates a comfortable space for relaxing, movie nights, and casual gatherings. Soft sectionals, warm rugs, and layered lighting instantly make the room feel inviting rather than underground or dark.\n\nThis idea adds value by extending your living area without major construction. Neutral tones paired with textured fabrics help the space feel polished while remaining practical for daily use."
+        content: "A finished basement family lounge creates a comfortable space for relaxing, movie nights, and casual gatherings. Soft sectionals, warm rugs, and layered lighting instantly make the room feel inviting rather than underground or dark.\n\nThis idea adds value by extending your living area without major construction. Neutral tones paired with textured fabrics help the space feel polished while remaining practical for daily use.",
+        image: "/assets/basement-01.webp"
       },
       {
         title: "2. Modern Home Office",
-        content: "A basement home office offers privacy and focus away from household noise. Built-in desks, task lighting, and sound-absorbing materials create a productive environment.\n\nThis setup adds strong resale value, especially as remote work continues to grow. Smart storage keeps the room organized while making the most of limited square footage."
+        content: "A basement home office offers privacy and focus away from household noise. Built-in desks, task lighting, and sound-absorbing materials create a productive environment.\n\nThis setup adds strong resale value, especially as remote work continues to grow. Smart storage keeps the room organized while making the most of limited square footage.",
+        image: "/assets/basement-02.webp"
       },
       {
         title: "3. Guest Bedroom Suite",
-        content: "Turn your finished basement into a welcoming guest bedroom with cozy bedding, soft lighting, and warm wall colors. Adding an area rug helps define the sleeping zone.\n\nA basement guest suite adds flexibility for visitors or extended family. It also increases the perceived size and functionality of your home."
+        content: "Turn your finished basement into a welcoming guest bedroom with cozy bedding, soft lighting, and warm wall colors. Adding an area rug helps define the sleeping zone.\n\nA basement guest suite adds flexibility for visitors or extended family. It also increases the perceived size and functionality of your home.",
+        image: "/assets/basement-03.webp"
       },
       {
         title: "4. Game and Entertainment Room",
-        content: "A basement game room is perfect for pool tables, board games, or gaming consoles. Durable flooring and flexible seating keep the space functional and fun.\n\nThis idea boosts lifestyle value by creating a dedicated entertainment zone. It's ideal for families who want shared spaces without cluttering main living areas."
+        content: "A basement game room is perfect for pool tables, board games, or gaming consoles. Durable flooring and flexible seating keep the space functional and fun.\n\nThis idea boosts lifestyle value by creating a dedicated entertainment zone. It's ideal for families who want shared spaces without cluttering main living areas.",
+        image: "/assets/basement-04.webp"
       },
       {
         title: "5. Home Gym",
-        content: "A basement gym offers convenience and privacy for daily workouts. Rubber flooring, mirrors, and proper ventilation make the space comfortable and motivating.\n\nAdding a home gym increases appeal for health-focused buyers. It also saves long-term costs by eliminating the need for external gym memberships."
+        content: "A basement gym offers convenience and privacy for daily workouts. Rubber flooring, mirrors, and proper ventilation make the space comfortable and motivating.\n\nAdding a home gym increases appeal for health-focused buyers. It also saves long-term costs by eliminating the need for external gym memberships.",
+        image: "/assets/basement-05.webp"
       },
       {
         title: "6. Kids' Playroom",
-        content: "A finished basement playroom gives kids space to explore while keeping toys off the main floor. Bright colors and soft flooring enhance safety and creativity.\n\nThis idea adds family-friendly value and improves home organization. As children grow, the room can easily transition into another functional space."
+        content: "A finished basement playroom gives kids space to explore while keeping toys off the main floor. Bright colors and soft flooring enhance safety and creativity.\n\nThis idea adds family-friendly value and improves home organization. As children grow, the room can easily transition into another functional space.",
+        image: "/assets/basement-06.webp"
       },
       {
         title: "7. Media and TV Room",
-        content: "Unlike a formal theater, a media room offers casual seating and multipurpose use. Sectionals, layered lighting, and sound panels improve comfort.\n\nThis flexible design attracts buyers who want relaxed entertainment spaces. It also adapts easily for gaming, sports nights, or family viewing."
+        content: "Unlike a formal theater, a media room offers casual seating and multipurpose use. Sectionals, layered lighting, and sound panels improve comfort.\n\nThis flexible design attracts buyers who want relaxed entertainment spaces. It also adapts easily for gaming, sports nights, or family viewing.",
+        image: "/assets/basement-07.webp"
       },
       {
         title: "8. Laundry Room Upgrade",
-        content: "A finished basement laundry room can be both stylish and functional. Cabinets, folding counters, and good lighting transform chores into a smoother routine.\n\nUpgraded laundry spaces add everyday value. Buyers appreciate organized, clean laundry areas that don't feel like an afterthought."
+        content: "A finished basement laundry room can be both stylish and functional. Cabinets, folding counters, and good lighting transform chores into a smoother routine.\n\nUpgraded laundry spaces add everyday value. Buyers appreciate organized, clean laundry areas that don't feel like an afterthought.",
+        image: "/assets/basement-08.webp"
       },
       {
         title: "9. Craft or Hobby Room",
-        content: "A basement craft room gives you space for creativity without clutter. Adjustable storage and large work surfaces support different hobbies.\n\nThis idea adds personal value while keeping the home organized. It's also easy to convert into an office or guest room later."
+        content: "A basement craft room gives you space for creativity without clutter. Adjustable storage and large work surfaces support different hobbies.\n\nThis idea adds personal value while keeping the home organized. It's also easy to convert into an office or guest room later.",
+        image: "/assets/basement-09.webp"
       },
       {
         title: "10. Minimalist Lounge",
-        content: "A minimalist basement lounge uses clean lines, neutral colors, and simple furniture to create a calm retreat. Strategic lighting keeps it from feeling closed in.\n\nMinimal design appeals to modern buyers. It highlights space and functionality while maintaining a timeless aesthetic."
+        content: "A minimalist basement lounge uses clean lines, neutral colors, and simple furniture to create a calm retreat. Strategic lighting keeps it from feeling closed in.\n\nMinimal design appeals to modern buyers. It highlights space and functionality while maintaining a timeless aesthetic.",
+        image: "/assets/basement-10.webp"
       },
       {
         title: "11. Basement Apartment",
