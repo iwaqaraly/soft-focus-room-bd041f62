@@ -2141,43 +2141,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Open Shelving",
-        content: "Replace bulky cabinets with open shelves to free visual space. Display dishes, glasses, and decorative items neatly.\n\nOpen shelving adds airiness while keeping essentials accessible. It allows personalization with small plants, jars, or cookbooks, maximizing both function and style."
+        content: "Replace bulky cabinets with open shelves to free visual space. Display dishes, glasses, and decorative items neatly.\n\nOpen shelving adds airiness while keeping essentials accessible. It allows personalization with small plants, jars, or cookbooks, maximizing both function and style.",
+        image: "/assets/small-kitchen-01.webp"
       },
       {
         title: "2. Vertical Storage Solutions",
-        content: "Use wall-mounted racks, hooks, or magnetic strips to store utensils, pots, and pans. Vertical storage keeps counters clear.\n\nThis approach saves valuable floor space. It also organizes kitchen tools efficiently, making small kitchens functional and visually appealing."
+        content: "Use wall-mounted racks, hooks, or magnetic strips to store utensils, pots, and pans. Vertical storage keeps counters clear.\n\nThis approach saves valuable floor space. It also organizes kitchen tools efficiently, making small kitchens functional and visually appealing.",
+        image: "/assets/small-kitchen-02.webp"
       },
       {
         title: "3. Light Color Palette",
-        content: "Paint cabinets, walls, and backsplashes in whites, creams, or pastels to visually expand the space.\n\nLight colors reflect natural and artificial light, making the kitchen feel larger. Pair with subtle contrasts for depth and modern aesthetic."
+        content: "Paint cabinets, walls, and backsplashes in whites, creams, or pastels to visually expand the space.\n\nLight colors reflect natural and artificial light, making the kitchen feel larger. Pair with subtle contrasts for depth and modern aesthetic.",
+        image: "/assets/small-kitchen-03.webp"
       },
       {
         title: "4. Compact Kitchen Island",
-        content: "Opt for a small, movable island for prep space and storage. Choose one with shelves or drawers for multifunctionality.\n\nCompact islands provide extra surface area without overwhelming the room. Wheels allow flexibility, making it easy to reposition as needed."
+        content: "Opt for a small, movable island for prep space and storage. Choose one with shelves or drawers for multifunctionality.\n\nCompact islands provide extra surface area without overwhelming the room. Wheels allow flexibility, making it easy to reposition as needed.",
+        image: "/assets/small-kitchen-04.webp"
       },
       {
         title: "5. Mirror Backsplash",
-        content: "Install a mirror or mirrored tiles behind counters. Mirrors reflect light and create an illusion of depth.\n\nA mirrored backsplash makes the kitchen feel airy and spacious. It's stylish and functional, enhancing both décor and lighting."
+        content: "Install a mirror or mirrored tiles behind counters. Mirrors reflect light and create an illusion of depth.\n\nA mirrored backsplash makes the kitchen feel airy and spacious. It's stylish and functional, enhancing both décor and lighting.",
+        image: "/assets/small-kitchen-05.webp"
       },
       {
         title: "6. Pull-Out Pantry Shelves",
-        content: "Install pull-out shelves or drawers in cabinets for easy access to pantry items.\n\nThis maximizes storage in narrow cabinets. Pull-out designs prevent clutter, making even small kitchens efficient and organized."
+        content: "Install pull-out shelves or drawers in cabinets for easy access to pantry items.\n\nThis maximizes storage in narrow cabinets. Pull-out designs prevent clutter, making even small kitchens efficient and organized.",
+        image: "/assets/small-kitchen-06.webp"
       },
       {
         title: "7. Hanging Pot Rack",
-        content: "Use ceiling or wall-mounted racks for pots and pans. Free up cabinet space while adding visual interest.\n\nHanging racks allow easy access to cookware. They save storage space and act as functional décor, keeping small kitchens tidy."
+        content: "Use ceiling or wall-mounted racks for pots and pans. Free up cabinet space while adding visual interest.\n\nHanging racks allow easy access to cookware. They save storage space and act as functional décor, keeping small kitchens tidy.",
+        image: "/assets/small-kitchen-07.webp"
       },
       {
         title: "8. Foldable or Drop-Leaf Table",
-        content: "Add a foldable table for extra prep or dining space. Fold it away when not in use to save room.\n\nDrop-leaf tables are practical for tight spaces. They maintain workflow while keeping the kitchen open and uncluttered."
+        content: "Add a foldable table for extra prep or dining space. Fold it away when not in use to save room.\n\nDrop-leaf tables are practical for tight spaces. They maintain workflow while keeping the kitchen open and uncluttered.",
+        image: "/assets/small-kitchen-08.webp"
       },
       {
         title: "9. Multi-Functional Furniture",
-        content: "Use benches, stools, or carts with hidden storage for utensils, appliances, or pantry items.\n\nMulti-functional furniture keeps essential items accessible while saving space. It balances practicality with aesthetic appeal for small kitchens."
+        content: "Use benches, stools, or carts with hidden storage for utensils, appliances, or pantry items.\n\nMulti-functional furniture keeps essential items accessible while saving space. It balances practicality with aesthetic appeal for small kitchens.",
+        image: "/assets/small-kitchen-09.webp"
       },
       {
         title: "10. Under-Cabinet Lighting",
-        content: "Install LED strips or puck lights beneath cabinets to brighten countertops.\n\nUnder-cabinet lighting improves visibility while making the space feel larger. It enhances both function and ambiance without consuming floor space."
+        content: "Install LED strips or puck lights beneath cabinets to brighten countertops.\n\nUnder-cabinet lighting improves visibility while making the space feel larger. It enhances both function and ambiance without consuming floor space.",
+        image: "/assets/small-kitchen-10.webp"
       },
       {
         title: "11. Sliding Cabinet Doors",
