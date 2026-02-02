@@ -2191,43 +2191,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Sliding Cabinet Doors",
-        content: "Replace traditional swinging doors with sliding or pocket doors on cabinets.\n\nSliding doors save precious floor space. They allow easy access to storage while maintaining a clean, streamlined look."
+        content: "Replace traditional swinging doors with sliding or pocket doors on cabinets.\n\nSliding doors save precious floor space. They allow easy access to storage while maintaining a clean, streamlined look.",
+        image: "/assets/small-kitchen-11.webp"
       },
       {
         title: "12. Magnetic Knife Strips",
-        content: "Mount knives on magnetic strips instead of storing in a block. This keeps counters clear and organized.\n\nKnife strips save drawer space and provide visual order. They're practical, safe, and add a modern touch to the kitchen."
+        content: "Mount knives on magnetic strips instead of storing in a block. This keeps counters clear and organized.\n\nKnife strips save drawer space and provide visual order. They're practical, safe, and add a modern touch to the kitchen.",
+        image: "/assets/small-kitchen-12.webp"
       },
       {
         title: "13. Compact Appliances",
-        content: "Choose slim or multi-functional appliances to reduce clutter. Consider combo ovens, narrow fridges, or induction cooktops.\n\nCompact appliances optimize space without sacrificing efficiency. They maintain a sleek and tidy kitchen environment."
+        content: "Choose slim or multi-functional appliances to reduce clutter. Consider combo ovens, narrow fridges, or induction cooktops.\n\nCompact appliances optimize space without sacrificing efficiency. They maintain a sleek and tidy kitchen environment.",
+        image: "/assets/small-kitchen-13.webp"
       },
       {
         title: "14. Open Floor Plan",
-        content: "Keep pathways clear and avoid overcrowding counters. Use minimal décor to make the room feel larger.\n\nOpen floor layouts improve movement and functionality. Simple arrangements maximize small kitchens while keeping them stylish."
+        content: "Keep pathways clear and avoid overcrowding counters. Use minimal décor to make the room feel larger.\n\nOpen floor layouts improve movement and functionality. Simple arrangements maximize small kitchens while keeping them stylish.",
+        image: "/assets/small-kitchen-14.webp"
       },
       {
         title: "15. Tiered Shelving on Counters",
-        content: "Use tiered shelves to store spices, jars, or small kitchen tools vertically.\n\nVertical tiers free up counter space while keeping items visible and accessible. It's perfect for maintaining order in a small kitchen."
+        content: "Use tiered shelves to store spices, jars, or small kitchen tools vertically.\n\nVertical tiers free up counter space while keeping items visible and accessible. It's perfect for maintaining order in a small kitchen.",
+        image: "/assets/small-kitchen-15.webp"
       },
       {
         title: "16. Wall-Mounted Foldable Desk",
-        content: "Install a wall-mounted foldable surface for prep or work tasks. Fold down when not in use.\n\nThis adds functional workspace without reducing floor area. Wall-mounted desks are versatile, compact, and budget-friendly."
+        content: "Install a wall-mounted foldable surface for prep or work tasks. Fold down when not in use.\n\nThis adds functional workspace without reducing floor area. Wall-mounted desks are versatile, compact, and budget-friendly.",
+        image: "/assets/small-kitchen-16.webp"
       },
       {
         title: "17. Transparent Storage Containers",
-        content: "Use clear jars or boxes for pantry staples. Stackable containers save space and keep ingredients visible.\n\nTransparent storage simplifies organization. It prevents clutter and makes a small kitchen look neat and modern."
+        content: "Use clear jars or boxes for pantry staples. Stackable containers save space and keep ingredients visible.\n\nTransparent storage simplifies organization. It prevents clutter and makes a small kitchen look neat and modern.",
+        image: "/assets/small-kitchen-17.webp"
       },
       {
         title: "18. Pull-Out Trash Bins",
-        content: "Incorporate pull-out trash and recycling bins within cabinetry to keep them hidden.\n\nConcealed bins free floor space and maintain a clean, uncluttered look. They are practical and visually appealing for small kitchens."
+        content: "Incorporate pull-out trash and recycling bins within cabinetry to keep them hidden.\n\nConcealed bins free floor space and maintain a clean, uncluttered look. They are practical and visually appealing for small kitchens.",
+        image: "/assets/small-kitchen-18.webp"
       },
       {
         title: "19. Corner Shelves",
-        content: "Install corner shelves for plants, cookbooks, or decorative items. Utilize often-neglected spaces efficiently.\n\nCorner shelves maximize every inch of kitchen space. They add height, depth, and decorative appeal without crowding counters."
+        content: "Install corner shelves for plants, cookbooks, or decorative items. Utilize often-neglected spaces efficiently.\n\nCorner shelves maximize every inch of kitchen space. They add height, depth, and decorative appeal without crowding counters.",
+        image: "/assets/small-kitchen-19.webp"
       },
       {
         title: "20. Ladder Shelf Storage",
-        content: "A slim ladder shelf can hold appliances, plants, or decorative items against a wall.\n\nVertical shelving optimizes space and provides flexibility. It adds rustic charm or modern flair depending on material choice."
+        content: "A slim ladder shelf can hold appliances, plants, or decorative items against a wall.\n\nVertical shelving optimizes space and provides flexibility. It adds rustic charm or modern flair depending on material choice.",
+        image: "/assets/small-kitchen-20.webp"
       }
     ],
     faqs: [
