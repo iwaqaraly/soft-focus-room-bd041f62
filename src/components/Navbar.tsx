@@ -19,6 +19,16 @@ const Navbar = () => {
             Home
           </NavLink>
           <NavLink
+            to="/basement"
+            className={({ isActive }) =>
+              `text-sm font-medium transition-colors hover:text-foreground ${
+                isActive ? "text-foreground" : "text-muted-foreground"
+              }`
+            }
+          >
+            Basement
+          </NavLink>
+          <NavLink
             to="/bedroom"
             className={({ isActive }) =>
               `text-sm font-medium transition-colors hover:text-foreground ${
