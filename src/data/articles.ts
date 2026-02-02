@@ -2266,8 +2266,8 @@ export const articles: Article[] = [
   {
     id: "26",
     slug: "finished-basement-ideas",
-    title: "Finished Basement Ideas: 15 Add Style & Value",
-    excerpt: "Transform your basement into a stylish and functional space that adds real value to your home with these 15 inspiring design ideas.",
+    title: "Finished Basement Ideas: 18 Add Style & Value",
+    excerpt: "Transform your basement into a stylish and functional space that adds real value to your home with these 18 inspiring design ideas.",
     category: "Basement",
     image: "/assets/placeholder.svg",
     imageAspectRatio: "1:1",
@@ -2331,6 +2331,18 @@ export const articles: Article[] = [
       {
         title: "15. Multi-Purpose Flex Space",
         content: "A flex basement combines lounging, working, and entertaining in one adaptable layout. Movable furniture allows easy reconfiguration.\n\nFlex spaces add long-term value by adapting to changing needs. They make your basement future-proof and highly attractive to buyers."
+      },
+      {
+        title: "16. Wellness & Meditation Retreat",
+        content: "Turn your finished basement into a calming wellness space with soft lighting, neutral colors, and natural textures. Floor cushions, yoga mats, and minimal décor create a peaceful atmosphere that feels separate from daily stress.\n\nThis idea adds lifestyle value by supporting mental and physical wellness at home. Buyers increasingly appreciate dedicated relaxation spaces, making this a subtle but meaningful upgrade."
+      },
+      {
+        title: "17. Basement Bathroom Spa",
+        content: "Adding a spa-inspired basement bathroom elevates both comfort and home value. Features like walk-in showers, stone tiles, and warm lighting create a luxurious feel even in a compact space.\n\nA finished basement bathroom significantly boosts usability, especially for guests or basement apartments. It's a practical upgrade that also increases resale appeal."
+      },
+      {
+        title: "18. Indoor Entertainment & Arcade Zone",
+        content: "Design a small arcade-style entertainment zone with classic games, seating, and accent lighting. This playful setup adds character without overwhelming the basement.\n\nEntertainment zones boost lifestyle appeal and make the home feel unique. They're especially attractive for families and buyers looking for memorable spaces."
       }
     ],
     faqs: [
