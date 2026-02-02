@@ -2324,35 +2324,43 @@ export const articles: Article[] = [
       },
       {
         title: "11. Basement Apartment",
-        content: "Convert your basement into a small apartment with a bedroom, kitchenette, and bathroom. Smart layouts maximize comfort and independence.\n\nBasement apartments add strong financial value through rental income. They also attract buyers looking for multi-generational living solutions."
+        content: "Convert your basement into a small apartment with a bedroom, kitchenette, and bathroom. Smart layouts maximize comfort and independence.\n\nBasement apartments add strong financial value through rental income. They also attract buyers looking for multi-generational living solutions.",
+        image: "/assets/basement-11.webp"
       },
       {
         title: "12. Reading and Library Space",
-        content: "A basement reading nook creates a peaceful escape. Built-in shelves, cozy chairs, and warm lighting make it inviting.\n\nThis idea adds character and charm. It's a low-cost way to personalize your basement while increasing usable square footage."
+        content: "A basement reading nook creates a peaceful escape. Built-in shelves, cozy chairs, and warm lighting make it inviting.\n\nThis idea adds character and charm. It's a low-cost way to personalize your basement while increasing usable square footage.",
+        image: "/assets/basement-12.webp"
       },
       {
         title: "13. Storage-Focused Design",
-        content: "Finished basements can still prioritize storage with built-ins and hidden cabinets. Clean layouts keep the space clutter-free.\n\nSmart storage solutions increase functional value. Buyers appreciate organized homes that maximize every available inch."
+        content: "Finished basements can still prioritize storage with built-ins and hidden cabinets. Clean layouts keep the space clutter-free.\n\nSmart storage solutions increase functional value. Buyers appreciate organized homes that maximize every available inch.",
+        image: "/assets/basement-13.webp"
       },
       {
         title: "14. Playful Teen Hangout",
-        content: "Design a basement hangout with modular seating, LED lighting, and entertainment zones. It gives teens independence while staying close to home.\n\nThis feature adds family appeal and flexibility. Over time, it can evolve into a lounge or media room."
+        content: "Design a basement hangout with modular seating, LED lighting, and entertainment zones. It gives teens independence while staying close to home.\n\nThis feature adds family appeal and flexibility. Over time, it can evolve into a lounge or media room.",
+        image: "/assets/basement-14.webp"
       },
       {
         title: "15. Multi-Purpose Flex Space",
-        content: "A flex basement combines lounging, working, and entertaining in one adaptable layout. Movable furniture allows easy reconfiguration.\n\nFlex spaces add long-term value by adapting to changing needs. They make your basement future-proof and highly attractive to buyers."
+        content: "A flex basement combines lounging, working, and entertaining in one adaptable layout. Movable furniture allows easy reconfiguration.\n\nFlex spaces add long-term value by adapting to changing needs. They make your basement future-proof and highly attractive to buyers.",
+        image: "/assets/basement-15.webp"
       },
       {
         title: "16. Wellness & Meditation Retreat",
-        content: "Turn your finished basement into a calming wellness space with soft lighting, neutral colors, and natural textures. Floor cushions, yoga mats, and minimal décor create a peaceful atmosphere that feels separate from daily stress.\n\nThis idea adds lifestyle value by supporting mental and physical wellness at home. Buyers increasingly appreciate dedicated relaxation spaces, making this a subtle but meaningful upgrade."
+        content: "Turn your finished basement into a calming wellness space with soft lighting, neutral colors, and natural textures. Floor cushions, yoga mats, and minimal décor create a peaceful atmosphere that feels separate from daily stress.\n\nThis idea adds lifestyle value by supporting mental and physical wellness at home. Buyers increasingly appreciate dedicated relaxation spaces, making this a subtle but meaningful upgrade.",
+        image: "/assets/basement-16.webp"
       },
       {
         title: "17. Basement Bathroom Spa",
-        content: "Adding a spa-inspired basement bathroom elevates both comfort and home value. Features like walk-in showers, stone tiles, and warm lighting create a luxurious feel even in a compact space.\n\nA finished basement bathroom significantly boosts usability, especially for guests or basement apartments. It's a practical upgrade that also increases resale appeal."
+        content: "Adding a spa-inspired basement bathroom elevates both comfort and home value. Features like walk-in showers, stone tiles, and warm lighting create a luxurious feel even in a compact space.\n\nA finished basement bathroom significantly boosts usability, especially for guests or basement apartments. It's a practical upgrade that also increases resale appeal.",
+        image: "/assets/basement-17.webp"
       },
       {
         title: "18. Indoor Entertainment & Arcade Zone",
-        content: "Design a small arcade-style entertainment zone with classic games, seating, and accent lighting. This playful setup adds character without overwhelming the basement.\n\nEntertainment zones boost lifestyle appeal and make the home feel unique. They're especially attractive for families and buyers looking for memorable spaces."
+        content: "Design a small arcade-style entertainment zone with classic games, seating, and accent lighting. This playful setup adds character without overwhelming the basement.\n\nEntertainment zones boost lifestyle appeal and make the home feel unique. They're especially attractive for families and buyers looking for memorable spaces.",
+        image: "/assets/basement-18.webp"
       }
     ],
     faqs: [
