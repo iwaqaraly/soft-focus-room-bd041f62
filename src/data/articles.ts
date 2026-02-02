@@ -2134,8 +2134,8 @@ export const articles: Article[] = [
   {
     id: "26",
     slug: "small-kitchen-decor-maximize-space",
-    title: "Small Kitchen Decor: 24 Ways to Maximize Space",
-    excerpt: "Discover 24 smart décor ideas to make the most of your small kitchen with style, organization, and efficiency.",
+    title: "Small Kitchen Decor: 20 Ways to Maximize Space",
+    excerpt: "Discover 20 smart décor ideas to make the most of your small kitchen with style, organization, and efficiency.",
     category: "Kitchen",
     image: "/assets/placeholder.svg",
     sections: [
@@ -2218,22 +2218,6 @@ export const articles: Article[] = [
       {
         title: "20. Ladder Shelf Storage",
         content: "A slim ladder shelf can hold appliances, plants, or decorative items against a wall.\n\nVertical shelving optimizes space and provides flexibility. It adds rustic charm or modern flair depending on material choice."
-      },
-      {
-        title: "21. Rolling Storage Cart",
-        content: "Use a rolling cart to store ingredients, utensils, or small appliances. Move it as needed for prep or extra counter space.\n\nCarts are versatile, functional, and compact. They provide temporary storage solutions without permanently taking up floor space."
-      },
-      {
-        title: "22. Hooks for Cups and Mugs",
-        content: "Hang mugs under cabinets or on a wall-mounted rack. This clears cabinet space and adds décor.\n\nHooks keep mugs accessible while maintaining an organized, open feel. It's a simple, inexpensive way to save space."
-      },
-      {
-        title: "23. Minimalist Décor",
-        content: "Keep countertop items minimal. Only display essentials or small decorative accents to avoid clutter.\n\nA minimalist approach enhances openness. It makes small kitchens feel airy, stylish, and easy to clean."
-      },
-      {
-        title: "24. Stackable Appliances and Accessories",
-        content: "Use stackable blenders, mixers, or containers to save space in cupboards and on counters.\n\nStacking items maximizes vertical storage and keeps counters clear. It's an efficient, budget-friendly method for small kitchens."
       }
     ],
     faqs: [
