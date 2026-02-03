@@ -2451,31 +2451,38 @@ export const articles: Article[] = [
       },
       {
         title: "11. Indoor Plants",
-        content: "Moisture-loving plants soften hard surfaces and add life. Greenery enhances the spa atmosphere.\n\nPlants improve air quality and visual warmth. They make the bathroom feel more organic and serene."
+        content: "Moisture-loving plants soften hard surfaces and add life. Greenery enhances the spa atmosphere.\n\nPlants improve air quality and visual warmth. They make the bathroom feel more organic and serene.",
+        image: "/assets/luxury-master-bathroom-11.webp"
       },
       {
         title: "12. Luxury Towels & Textiles",
-        content: "Plush towels, bath mats, and robes add hotel-level comfort. Neutral fabrics enhance the spa look.\n\nHigh-quality textiles elevate daily routines. They also add a subtle layer of indulgence."
+        content: "Plush towels, bath mats, and robes add hotel-level comfort. Neutral fabrics enhance the spa look.\n\nHigh-quality textiles elevate daily routines. They also add a subtle layer of indulgence.",
+        image: "/assets/luxury-master-bathroom-12.webp"
       },
       {
         title: "13. Accent Wall Features",
-        content: "Textured tiles or stone accent walls create a focal point. They add visual interest without overwhelming the space.\n\nAccent walls increase design impact. They bring depth and personality to luxury bathrooms."
+        content: "Textured tiles or stone accent walls create a focal point. They add visual interest without overwhelming the space.\n\nAccent walls increase design impact. They bring depth and personality to luxury bathrooms.",
+        image: "/assets/luxury-master-bathroom-13.webp"
       },
       {
         title: "14. Integrated Technology",
-        content: "Smart mirrors, touchless faucets, and digital showers enhance comfort. Technology blends seamlessly into modern luxury.\n\nThese features increase convenience and long-term value. They also future-proof the bathroom."
+        content: "Smart mirrors, touchless faucets, and digital showers enhance comfort. Technology blends seamlessly into modern luxury.\n\nThese features increase convenience and long-term value. They also future-proof the bathroom.",
+        image: "/assets/luxury-master-bathroom-14.webp"
       },
       {
         title: "15. Private Toilet Room",
-        content: "A separate water closet improves privacy and cleanliness. It maintains a peaceful spa environment.\n\nThis layout adds practical luxury. It's highly desirable in high-end homes."
+        content: "A separate water closet improves privacy and cleanliness. It maintains a peaceful spa environment.\n\nThis layout adds practical luxury. It's highly desirable in high-end homes.",
+        image: "/assets/luxury-master-bathroom-15.webp"
       },
       {
         title: "16. Aromatherapy Elements",
-        content: "Essential oil diffusers and scented candles engage the senses. Natural fragrances enhance relaxation.\n\nAromatherapy completes the spa experience. It transforms everyday routines into rituals."
+        content: "Essential oil diffusers and scented candles engage the senses. Natural fragrances enhance relaxation.\n\nAromatherapy completes the spa experience. It transforms everyday routines into rituals.",
+        image: "/assets/luxury-master-bathroom-16.webp"
       },
       {
         title: "17. Seating or Lounge Area",
-        content: "A small bench or ottoman adds comfort and elegance. It enhances relaxation and usability.\n\nSeating areas create a true retreat feel. They elevate the master bathroom beyond functionality."
+        content: "A small bench or ottoman adds comfort and elegance. It enhances relaxation and usability.\n\nSeating areas create a true retreat feel. They elevate the master bathroom beyond functionality.",
+        image: "/assets/luxury-master-bathroom-17.webp"
       }
     ],
     faqs: [
