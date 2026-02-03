@@ -2401,43 +2401,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Freestanding Soaking Tub",
-        content: "A freestanding soaking tub instantly creates a spa-like focal point in a luxury master bathroom. Sculptural shapes paired with soft lighting make the tub feel like a personal retreat designed for deep relaxation.\n\nBeyond aesthetics, soaking tubs add strong resale value. They signal luxury and wellness while encouraging slower, more mindful routines at home."
+        content: "A freestanding soaking tub instantly creates a spa-like focal point in a luxury master bathroom. Sculptural shapes paired with soft lighting make the tub feel like a personal retreat designed for deep relaxation.\n\nBeyond aesthetics, soaking tubs add strong resale value. They signal luxury and wellness while encouraging slower, more mindful routines at home.",
+        image: "/assets/luxury-master-bathroom-01.webp"
       },
       {
         title: "2. Walk-In Rain Shower",
-        content: "A walk-in rain shower delivers a hotel-inspired experience with overhead rainfall and seamless glass walls. Minimal framing keeps the space open and visually calming.\n\nThis feature increases both comfort and home value. It's practical, luxurious, and ideal for creating a daily spa ritual."
+        content: "A walk-in rain shower delivers a hotel-inspired experience with overhead rainfall and seamless glass walls. Minimal framing keeps the space open and visually calming.\n\nThis feature increases both comfort and home value. It's practical, luxurious, and ideal for creating a daily spa ritual.",
+        image: "/assets/luxury-master-bathroom-02.webp"
       },
       {
         title: "3. Natural Stone Surfaces",
-        content: "Marble, travertine, or limestone surfaces elevate the bathroom with organic texture and timeless beauty. Stone walls and countertops bring depth and warmth.\n\nNatural stone adds durability and long-term value. Its luxurious appearance makes the bathroom feel curated and high-end."
+        content: "Marble, travertine, or limestone surfaces elevate the bathroom with organic texture and timeless beauty. Stone walls and countertops bring depth and warmth.\n\nNatural stone adds durability and long-term value. Its luxurious appearance makes the bathroom feel curated and high-end.",
+        image: "/assets/luxury-master-bathroom-03.webp"
       },
       {
         title: "4. Heated Flooring",
-        content: "Heated floors transform cold mornings into a cozy, spa-like experience. Radiant heat works beautifully with stone or tile flooring.\n\nThis upgrade improves daily comfort and efficiency. It's a subtle luxury buyers instantly appreciate."
+        content: "Heated floors transform cold mornings into a cozy, spa-like experience. Radiant heat works beautifully with stone or tile flooring.\n\nThis upgrade improves daily comfort and efficiency. It's a subtle luxury buyers instantly appreciate.",
+        image: "/assets/luxury-master-bathroom-04.webp"
       },
       {
         title: "5. Soft Ambient Lighting",
-        content: "Layered lighting using sconces, recessed lights, and dimmers creates a soothing atmosphere. Warm light tones enhance relaxation.\n\nGood lighting elevates both function and mood. It also highlights finishes and architectural details."
+        content: "Layered lighting using sconces, recessed lights, and dimmers creates a soothing atmosphere. Warm light tones enhance relaxation.\n\nGood lighting elevates both function and mood. It also highlights finishes and architectural details.",
+        image: "/assets/luxury-master-bathroom-05.webp"
       },
       {
         title: "6. Double Vanity Elegance",
-        content: "A double vanity adds balance, symmetry, and practicality. Custom cabinetry with stone tops enhances luxury.\n\nThis feature boosts daily convenience and resale appeal. It's especially valuable in shared master bathrooms."
+        content: "A double vanity adds balance, symmetry, and practicality. Custom cabinetry with stone tops enhances luxury.\n\nThis feature boosts daily convenience and resale appeal. It's especially valuable in shared master bathrooms.",
+        image: "/assets/luxury-master-bathroom-06.webp"
       },
       {
         title: "7. Spa-Inspired Color Palette",
-        content: "Soft neutrals, warm beiges, and muted earth tones calm the senses. These colors reflect light beautifully.\n\nA serene palette creates a timeless spa feel. It also keeps the bathroom feeling open and airy."
+        content: "Soft neutrals, warm beiges, and muted earth tones calm the senses. These colors reflect light beautifully.\n\nA serene palette creates a timeless spa feel. It also keeps the bathroom feeling open and airy.",
+        image: "/assets/luxury-master-bathroom-07.webp"
       },
       {
         title: "8. Frameless Glass Enclosures",
-        content: "Frameless glass showers maintain a clean, uninterrupted visual flow. They enhance the sense of space.\n\nThis minimalist feature feels modern and luxurious. It's also easy to maintain and timeless."
+        content: "Frameless glass showers maintain a clean, uninterrupted visual flow. They enhance the sense of space.\n\nThis minimalist feature feels modern and luxurious. It's also easy to maintain and timeless.",
+        image: "/assets/luxury-master-bathroom-08.webp"
       },
       {
         title: "9. Statement Mirrors",
-        content: "Oversized or backlit mirrors add drama and functionality. They reflect light and enlarge the room visually.\n\nStatement mirrors create a boutique hotel aesthetic. They instantly elevate the space without heavy remodeling."
+        content: "Oversized or backlit mirrors add drama and functionality. They reflect light and enlarge the room visually.\n\nStatement mirrors create a boutique hotel aesthetic. They instantly elevate the space without heavy remodeling.",
+        image: "/assets/luxury-master-bathroom-09.webp"
       },
       {
         title: "10. Built-In Storage Solutions",
-        content: "Custom drawers, niches, and cabinets keep surfaces clutter-free. Hidden storage enhances the spa experience.\n\nSmart storage adds organization and luxury. A clean bathroom feels calmer and more expensive."
+        content: "Custom drawers, niches, and cabinets keep surfaces clutter-free. Hidden storage enhances the spa experience.\n\nSmart storage adds organization and luxury. A clean bathroom feels calmer and more expensive.",
+        image: "/assets/luxury-master-bathroom-10.webp"
       },
       {
         title: "11. Indoor Plants",
