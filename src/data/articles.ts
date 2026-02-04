@@ -2519,43 +2519,53 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Minimal Wood Floating Shelf",
-        content: "A simple wooden floating shelf works perfectly as a nightstand in small bedrooms. Its slim profile keeps the floor clear, making the room feel larger and less cluttered.\n\nNatural wood adds warmth while staying lightweight visually. This idea is affordable, easy to install, and ideal for modern or minimalist spaces."
+        content: "A simple wooden floating shelf works perfectly as a nightstand in small bedrooms. Its slim profile keeps the floor clear, making the room feel larger and less cluttered.\n\nNatural wood adds warmth while staying lightweight visually. This idea is affordable, easy to install, and ideal for modern or minimalist spaces.",
+        image: "/assets/floating-nightstand-01.webp"
       },
       {
         title: "2. Wall-Mounted Drawer Nightstand",
-        content: "A floating nightstand with a built-in drawer offers hidden storage without taking up floor space. It keeps essentials organized and within easy reach.\n\nThis design is perfect for compact bedrooms where clutter control matters. Clean lines and neutral finishes enhance a modern look."
+        content: "A floating nightstand with a built-in drawer offers hidden storage without taking up floor space. It keeps essentials organized and within easy reach.\n\nThis design is perfect for compact bedrooms where clutter control matters. Clean lines and neutral finishes enhance a modern look.",
+        image: "/assets/floating-nightstand-02.webp"
       },
       {
         title: "3. Floating Nightstand with Open Cubby",
-        content: "An open cubby floating nightstand balances storage and style. It's great for books, small décor, or charging devices.\n\nOpen designs prevent the room from feeling heavy. They also make it easier to access everyday items in tight spaces."
+        content: "An open cubby floating nightstand balances storage and style. It's great for books, small décor, or charging devices.\n\nOpen designs prevent the room from feeling heavy. They also make it easier to access everyday items in tight spaces.",
+        image: "/assets/floating-nightstand-03.webp"
       },
       {
         title: "4. Corner Floating Nightstand",
-        content: "Corner-mounted floating nightstands maximize unused space. They fit perfectly in small rooms where traditional furniture feels bulky.\n\nThis clever placement improves layout efficiency. It's especially helpful for narrow bedrooms or tight layouts."
+        content: "Corner-mounted floating nightstands maximize unused space. They fit perfectly in small rooms where traditional furniture feels bulky.\n\nThis clever placement improves layout efficiency. It's especially helpful for narrow bedrooms or tight layouts.",
+        image: "/assets/floating-nightstand-04.webp"
       },
       {
         title: "5. Floating Nightstand with USB Ports",
-        content: "A wall-mounted nightstand with built-in USB ports keeps cords off the floor. It supports modern tech needs without extra accessories.\n\nThis feature adds convenience and future-proof functionality. It's ideal for minimal, tech-friendly bedrooms."
+        content: "A wall-mounted nightstand with built-in USB ports keeps cords off the floor. It supports modern tech needs without extra accessories.\n\nThis feature adds convenience and future-proof functionality. It's ideal for minimal, tech-friendly bedrooms.",
+        image: "/assets/floating-nightstand-05.webp"
       },
       {
         title: "6. Glass Floating Nightstand",
-        content: "Glass floating nightstands reflect light and create an airy look. They visually disappear, making small rooms feel open.\n\nThis sleek option works well in modern or luxury interiors. It's best for minimal storage needs."
+        content: "Glass floating nightstands reflect light and create an airy look. They visually disappear, making small rooms feel open.\n\nThis sleek option works well in modern or luxury interiors. It's best for minimal storage needs.",
+        image: "/assets/floating-nightstand-06.webp"
       },
       {
         title: "7. Floating Nightstand with Shelf + Drawer",
-        content: "Combining an open shelf with a drawer offers both display and hidden storage. It keeps bedtime essentials organized.\n\nThis hybrid design is practical for small bedrooms. It balances functionality and clean aesthetics."
+        content: "Combining an open shelf with a drawer offers both display and hidden storage. It keeps bedtime essentials organized.\n\nThis hybrid design is practical for small bedrooms. It balances functionality and clean aesthetics.",
+        image: "/assets/floating-nightstand-07.webp"
       },
       {
         title: "8. Slim Metal Floating Nightstand",
-        content: "Metal floating nightstands add a modern, industrial edge. Their slim profiles suit compact rooms perfectly.\n\nDark finishes contrast beautifully with light walls. This style is durable and visually light."
+        content: "Metal floating nightstands add a modern, industrial edge. Their slim profiles suit compact rooms perfectly.\n\nDark finishes contrast beautifully with light walls. This style is durable and visually light.",
+        image: "/assets/floating-nightstand-08.webp"
       },
       {
         title: "9. Floating Nightstand for Kids' Rooms",
-        content: "Floating nightstands keep floors clear in kids' bedrooms. Rounded edges and soft finishes enhance safety.\n\nThey make cleaning easier and save space. This solution grows with the child's needs."
+        content: "Floating nightstands keep floors clear in kids' bedrooms. Rounded edges and soft finishes enhance safety.\n\nThey make cleaning easier and save space. This solution grows with the child's needs.",
+        image: "/assets/floating-nightstand-09.webp"
       },
       {
         title: "10. Floating Nightstand with Hidden Charging",
-        content: "Hidden charging compartments keep cables organized and out of sight. The surface stays clutter-free.\n\nThis idea improves both function and aesthetics. It's perfect for modern small bedrooms."
+        content: "Hidden charging compartments keep cables organized and out of sight. The surface stays clutter-free.\n\nThis idea improves both function and aesthetics. It's perfect for modern small bedrooms.",
+        image: "/assets/floating-nightstand-10.webp"
       },
       {
         title: "11. Natural Wood Slab Nightstand",
