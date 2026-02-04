@@ -2569,43 +2569,53 @@ export const articles: Article[] = [
       },
       {
         title: "11. Natural Wood Slab Nightstand",
-        content: "Live-edge wood slabs bring organic beauty to small rooms. Floating installation keeps the design light.\n\nThis adds warmth without bulk. It works well in modern rustic interiors."
+        content: "Live-edge wood slabs bring organic beauty to small rooms. Floating installation keeps the design light.\n\nThis adds warmth without bulk. It works well in modern rustic interiors.",
+        image: "/assets/floating-nightstand-11.webp"
       },
       {
         title: "12. Floating Nightstand with LED Lighting",
-        content: "Built-in LED lighting adds ambiance and night-time visibility. It reduces the need for table lamps.\n\nThis feature saves space and enhances mood. It's ideal for contemporary bedrooms."
+        content: "Built-in LED lighting adds ambiance and night-time visibility. It reduces the need for table lamps.\n\nThis feature saves space and enhances mood. It's ideal for contemporary bedrooms.",
+        image: "/assets/floating-nightstand-12.webp"
       },
       {
         title: "13. Minimal Box-Style Nightstand",
-        content: "A simple box-style floating nightstand offers clean lines and subtle storage. Its shape blends seamlessly with modern décor.\n\nThis design keeps small rooms tidy. It's both functional and understated."
+        content: "A simple box-style floating nightstand offers clean lines and subtle storage. Its shape blends seamlessly with modern décor.\n\nThis design keeps small rooms tidy. It's both functional and understated.",
+        image: "/assets/floating-nightstand-13.webp"
       },
       {
         title: "14. Two-Tier Floating Nightstand",
-        content: "Two-tier designs provide extra storage without adding bulk. One level holds essentials, the other décor.\n\nThis layout maximizes vertical space. It's ideal for compact bedrooms."
+        content: "Two-tier designs provide extra storage without adding bulk. One level holds essentials, the other décor.\n\nThis layout maximizes vertical space. It's ideal for compact bedrooms.",
+        image: "/assets/floating-nightstand-14.webp"
       },
       {
         title: "15. Floating Nightstand with Soft Rounded Edges",
-        content: "Rounded designs soften the look of small bedrooms. They feel less imposing than sharp-edged furniture.\n\nThis style improves flow and safety. It's great for tight layouts."
+        content: "Rounded designs soften the look of small bedrooms. They feel less imposing than sharp-edged furniture.\n\nThis style improves flow and safety. It's great for tight layouts.",
+        image: "/assets/floating-nightstand-15.webp"
       },
       {
         title: "16. Matte White Floating Nightstand",
-        content: "White floating nightstands blend into walls for a seamless look. They visually expand the room.\n\nThis option suits minimalist and Scandinavian styles. It's perfect for small spaces."
+        content: "White floating nightstands blend into walls for a seamless look. They visually expand the room.\n\nThis option suits minimalist and Scandinavian styles. It's perfect for small spaces.",
+        image: "/assets/floating-nightstand-16.webp"
       },
       {
         title: "17. Floating Nightstand with Bookshelf Design",
-        content: "A bookshelf-style floating nightstand stores reading material vertically. It keeps surfaces uncluttered.\n\nThis design is practical for book lovers. It adds function without sacrificing space."
+        content: "A bookshelf-style floating nightstand stores reading material vertically. It keeps surfaces uncluttered.\n\nThis design is practical for book lovers. It adds function without sacrificing space.",
+        image: "/assets/floating-nightstand-17.webp"
       },
       {
         title: "18. Reclaimed Wood Floating Nightstand",
-        content: "Reclaimed wood adds character and sustainability. Floating placement keeps it visually light.\n\nThis idea adds texture and story to small rooms. It works well with earthy décor."
+        content: "Reclaimed wood adds character and sustainability. Floating placement keeps it visually light.\n\nThis idea adds texture and story to small rooms. It works well with earthy décor.",
+        image: "/assets/floating-nightstand-18.webp"
       },
       {
         title: "19. Ultra-Slim Floating Shelf Nightstand",
-        content: "Ultra-slim shelves are ideal for tight bedrooms. They hold essentials without overwhelming the wall.\n\nThis design keeps the room open and minimal. It's budget-friendly and stylish."
+        content: "Ultra-slim shelves are ideal for tight bedrooms. They hold essentials without overwhelming the wall.\n\nThis design keeps the room open and minimal. It's budget-friendly and stylish.",
+        image: "/assets/floating-nightstand-19.webp"
       },
       {
         title: "20. Custom Built-In Floating Nightstand",
-        content: "Custom-built floating nightstands fit perfectly into awkward spaces. They align with bed height and room layout.\n\nThis solution maximizes every inch. It adds tailored luxury and long-term value."
+        content: "Custom-built floating nightstands fit perfectly into awkward spaces. They align with bed height and room layout.\n\nThis solution maximizes every inch. It adds tailored luxury and long-term value.",
+        image: "/assets/floating-nightstand-20.webp"
       }
     ],
     faqs: [
