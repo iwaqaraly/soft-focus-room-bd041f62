@@ -13,7 +13,11 @@ export default {
       },
     },
     extend: {
-colors: {
+      fontFamily: {
+        serif: ['Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
+        display: ['Georgia', 'serif'],
+      },
+      colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
@@ -47,11 +51,14 @@ colors: {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
-        navy: {
-          DEFAULT: "hsl(var(--navy))",
-          light: "hsl(var(--navy-light))",
+        terracotta: {
+          DEFAULT: "hsl(var(--terracotta))",
+          light: "hsl(var(--terracotta-light))",
         },
-        cream: "hsl(var(--cream))",
+        warmCream: "hsl(var(--warm-cream))",
+        warmBeige: "hsl(var(--warm-beige))",
+        softBrown: "hsl(var(--soft-brown))",
+        blush: "hsl(var(--blush))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
@@ -67,8 +74,15 @@ colors: {
         lg: "var(--radius)",
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
+        xl: "1rem",
+        "2xl": "1.5rem",
       },
-keyframes: {
+      boxShadow: {
+        'warm': '0 4px 20px -4px hsl(var(--soft-brown) / 0.1)',
+        'warm-lg': '0 12px 32px -8px hsl(var(--soft-brown) / 0.15)',
+        'warm-xl': '0 20px 40px -12px hsl(var(--soft-brown) / 0.2)',
+      },
+      keyframes: {
         "accordion-down": {
           from: { height: "0", opacity: "0" },
           to: { height: "var(--radix-accordion-content-height)", opacity: "1" },
@@ -93,6 +107,10 @@ keyframes: {
           "0%": { transform: "translateX(100%)" },
           "100%": { transform: "translateX(0)" },
         },
+        "float": {
+          "0%, 100%": { transform: "translateY(0)" },
+          "50%": { transform: "translateY(-8px)" },
+        },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
@@ -104,6 +122,7 @@ keyframes: {
         "fade-in-delay-3": "fade-in 0.6s ease-out 0.6s forwards",
         "scale-in": "scale-in 0.5s ease-out forwards",
         "slide-in-right": "slide-in-right 0.3s ease-out",
+        "float": "float 4s ease-in-out infinite",
       },
     },
   },
