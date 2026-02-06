@@ -4,45 +4,57 @@
 
 /* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
 All colors MUST be HSL.
+Warm & Cozy aesthetic with soft terracotta, warm cream, and earthy tones
 */
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222 47% 11%;
+    /* Warm cream background */
+    --background: 40 33% 97%;
+    --foreground: 25 20% 20%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 222 47% 11%;
+    /* Soft warm cards */
+    --card: 40 40% 98%;
+    --card-foreground: 25 20% 20%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222 47% 11%;
+    --popover: 40 40% 98%;
+    --popover-foreground: 25 20% 20%;
 
-    --primary: 222 47% 20%;
-    --primary-foreground: 0 0% 100%;
+    /* Warm terracotta primary */
+    --primary: 15 45% 50%;
+    --primary-foreground: 40 40% 98%;
 
-    --secondary: 220 14% 96%;
-    --secondary-foreground: 222 47% 11%;
+    /* Soft blush secondary */
+    --secondary: 30 30% 94%;
+    --secondary-foreground: 25 20% 25%;
 
-    --muted: 220 14% 96%;
-    --muted-foreground: 220 9% 46%;
+    /* Muted warm tones */
+    --muted: 35 25% 93%;
+    --muted-foreground: 25 15% 45%;
 
-    --accent: 222 47% 20%;
-    --accent-foreground: 0 0% 100%;
+    /* Earthy accent */
+    --accent: 25 35% 45%;
+    --accent-foreground: 40 40% 98%;
 
-    --destructive: 0 84% 60%;
+    --destructive: 0 70% 55%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 220 13% 91%;
-    --input: 220 13% 91%;
-    --ring: 222 47% 20%;
+    /* Soft warm borders */
+    --border: 30 20% 88%;
+    --input: 30 20% 88%;
+    --ring: 15 45% 50%;
 
-    --radius: 0.5rem;
+    --radius: 0.75rem;
 
     --nav-height: 4rem;
     
-    --navy: 222 47% 20%;
-    --navy-light: 222 35% 35%;
-    --cream: 0 0% 100%;
+    /* Custom warm palette */
+    --terracotta: 15 45% 50%;
+    --terracotta-light: 15 40% 65%;
+    --warm-cream: 40 33% 97%;
+    --warm-beige: 35 30% 90%;
+    --soft-brown: 25 20% 35%;
+    --blush: 15 35% 85%;
   }
 
 }
@@ -54,5 +66,21 @@ All colors MUST be HSL.
 
   body {
     @apply bg-background text-foreground;
+    font-family: 'Georgia', serif;
+  }
+}
+
+@layer components {
+  .warm-gradient {
+    background: linear-gradient(135deg, hsl(var(--warm-cream)) 0%, hsl(var(--blush)) 100%);
+  }
+  
+  .hover-lift {
+    @apply transition-all duration-300 ease-out;
+  }
+  
+  .hover-lift:hover {
+    @apply -translate-y-1;
+    box-shadow: 0 12px 24px -8px hsl(var(--soft-brown) / 0.15);
   }
 }
