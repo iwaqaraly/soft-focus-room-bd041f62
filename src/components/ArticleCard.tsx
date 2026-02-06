@@ -15,7 +15,11 @@ const ArticleCard = ({ article }: ArticleCardProps) => {
         <div className="aspect-[4/3] overflow-hidden">
           <img
             src={coverImage}
+            srcSet={`${coverImage} 400w, ${coverImage} 600w, ${coverImage} 800w`}
+            sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
             alt={article.title}
+            loading="lazy"
+            decoding="async"
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
           />
         </div>

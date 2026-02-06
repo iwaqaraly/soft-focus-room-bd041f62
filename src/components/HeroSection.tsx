@@ -29,24 +29,36 @@ const HeroSection = () => {
               {/* Main large image */}
               <div className="col-span-8 row-span-6 overflow-hidden rounded-2xl shadow-warm-lg hover-lift">
                 <img
-                  src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=80"
+                  src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=600&q=75&fm=webp"
+                  srcSet="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=400&q=75&fm=webp 400w, https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=600&q=75&fm=webp 600w, https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=75&fm=webp 800w"
+                  sizes="(max-width: 768px) 60vw, 40vw"
                   alt="Modern living room with warm tones"
+                  loading="eager"
+                  decoding="async"
                   className="w-full h-full object-cover"
                 />
               </div>
               {/* Top right image */}
               <div className="col-span-4 row-span-3 overflow-hidden rounded-xl shadow-warm hover-lift">
                 <img
-                  src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=400&q=80"
+                  src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=300&q=75&fm=webp"
+                  srcSet="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=200&q=75&fm=webp 200w, https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=300&q=75&fm=webp 300w"
+                  sizes="(max-width: 768px) 30vw, 20vw"
                   alt="Cozy bedroom interior"
+                  loading="eager"
+                  decoding="async"
                   className="w-full h-full object-cover"
                 />
               </div>
               {/* Bottom right image */}
               <div className="col-span-4 row-span-3 overflow-hidden rounded-xl shadow-warm hover-lift">
                 <img
-                  src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=400&q=80"
+                  src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=300&q=75&fm=webp"
+                  srcSet="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=200&q=75&fm=webp 200w, https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=300&q=75&fm=webp 300w"
+                  sizes="(max-width: 768px) 30vw, 20vw"
                   alt="Inviting interior design"
+                  loading="eager"
+                  decoding="async"
                   className="w-full h-full object-cover"
                 />
               </div>
