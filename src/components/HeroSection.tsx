@@ -26,7 +26,6 @@ const HeroSection = () => {
           {/* Right: Image Grid */}
           <div className="order-1 lg:order-2 opacity-0 animate-fade-in-delay-1">
             <div className="grid grid-cols-12 grid-rows-6 gap-4 h-[380px] md:h-[480px]">
-              {/* Main large image */}
               <div className="col-span-8 row-span-6 overflow-hidden rounded-2xl shadow-warm-lg hover-lift">
                 <img
                   src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=600&q=75&fm=webp"
@@ -35,6 +34,7 @@ const HeroSection = () => {
                   alt="Modern living room with warm tones"
                   loading="eager"
                   decoding="async"
+                  fetchPriority="high"
                   className="w-full h-full object-cover"
                 />
               </div>
