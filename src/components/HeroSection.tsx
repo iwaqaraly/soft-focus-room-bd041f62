@@ -34,7 +34,8 @@ const HeroSection = () => {
                   alt="Modern living room with warm tones"
                   loading="eager"
                   decoding="async"
-                  fetchPriority="high"
+                  // @ts-expect-error - fetchpriority is valid HTML but React types don't support it yet
+                  fetchpriority="high"
                   className="w-full h-full object-cover"
                 />
               </div>
