@@ -12,7 +12,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 h-[var(--nav-height)] bg-card/95 backdrop-blur-sm border-b border-border/50 z-50 shadow-warm">
       <div className="container mx-auto h-full flex items-center justify-between px-6">
         <NavLink to="/" className="text-xl font-display tracking-tight text-foreground hover:text-primary transition-colors">
-          Nestora Living
+          Mentifylabs
         </NavLink>
         <div className="hidden md:flex items-center gap-2">
           <NavLink to="/" className={navLinkClass}>
