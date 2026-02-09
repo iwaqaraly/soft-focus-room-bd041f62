@@ -1,8 +1,29 @@
 import { NavLink } from "react-router-dom";
+import { useState } from "react";
+import { Menu, X } from "lucide-react";
+
+const navItems = [
+  { to: "/", label: "Home" },
+  { to: "/basement", label: "Basement" },
+  { to: "/bathroom", label: "Bathroom" },
+  { to: "/bedroom", label: "Bedroom" },
+  { to: "/garden", label: "Garden" },
+  { to: "/kitchen", label: "Kitchen" },
+  { to: "/living-room", label: "Living Room" },
+];
 
 const Navbar = () => {
+  const [mobileOpen, setMobileOpen] = useState(false);
+
   const navLinkClass = ({ isActive }: { isActive: boolean }) =>
     `text-sm font-medium transition-all duration-300 px-3 py-1.5 rounded-full ${
+      isActive 
+        ? "text-primary-foreground bg-primary" 
+        : "text-muted-foreground hover:text-foreground hover:bg-secondary"
+    }`;
+
+  const mobileNavLinkClass = ({ isActive }: { isActive: boolean }) =>
+    `block text-base font-medium transition-all duration-300 px-4 py-2.5 rounded-lg ${
       isActive 
         ? "text-primary-foreground bg-primary" 
         : "text-muted-foreground hover:text-foreground hover:bg-secondary"
@@ -15,29 +36,34 @@ const Navbar = () => {
           Mentifylabs
         </NavLink>
         <div className="hidden md:flex items-center gap-2">
-          <NavLink to="/" className={navLinkClass}>
-            Home
-          </NavLink>
-          <NavLink to="/basement" className={navLinkClass}>
-            Basement
-          </NavLink>
-          <NavLink to="/bathroom" className={navLinkClass}>
-            Bathroom
-          </NavLink>
-          <NavLink to="/bedroom" className={navLinkClass}>
-            Bedroom
-          </NavLink>
-          <NavLink to="/garden" className={navLinkClass}>
-            Garden
-          </NavLink>
-          <NavLink to="/kitchen" className={navLinkClass}>
-            Kitchen
-          </NavLink>
-          <NavLink to="/living-room" className={navLinkClass}>
-            Living Room
-          </NavLink>
+          {navItems.map((item) => (
+            <NavLink key={item.to} to={item.to} className={navLinkClass}>
+              {item.label}
+            </NavLink>
+          ))}
         </div>
+        <button
+          className="md:hidden p-2 rounded-lg text-foreground hover:bg-secondary transition-colors"
+          onClick={() => setMobileOpen(!mobileOpen)}
+          aria-label={mobileOpen ? "Close menu" : "Open menu"}
+        >
+          {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+        </button>
       </div>
+      {mobileOpen && (
+        <div className="md:hidden bg-card/95 backdrop-blur-sm border-b border-border/50 shadow-warm px-4 py-3 flex flex-col gap-1">
+          {navItems.map((item) => (
+            <NavLink
+              key={item.to}
+              to={item.to}
+              className={mobileNavLinkClass}
+              onClick={() => setMobileOpen(false)}
+            >
+              {item.label}
+            </NavLink>
+          ))}
+        </div>
+      )}
     </nav>
   );
 };
