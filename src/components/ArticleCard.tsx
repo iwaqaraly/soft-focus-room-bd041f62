@@ -1,16 +1,23 @@
 import { Link } from "react-router-dom";
+import { useCallback } from "react";
 import { Article } from "@/data/articles";
+import { routePrefetchMap } from "@/App";
 
 interface ArticleCardProps {
   article: Article;
 }
 
 const ArticleCard = ({ article }: ArticleCardProps) => {
+  const prefetch = useCallback(() => {
+    const loader = routePrefetchMap["/article"];
+    if (loader) loader();
+  }, []);
+
   // Use the first section image if available, otherwise fall back to the main article image
   const coverImage = article.sections?.[0]?.image || article.image;
 
   return (
-    <Link to={`/article/${article.slug}`}>
+    <Link to={`/article/${article.slug}`} onMouseEnter={prefetch}>
       <article className="group cursor-pointer hover-lift bg-card rounded-2xl overflow-hidden shadow-warm">
         <div className="aspect-[4/3] overflow-hidden">
           <img

@@ -1,6 +1,7 @@
 import { NavLink } from "react-router-dom";
-import { useState } from "react";
+import { useState, useCallback } from "react";
 import { Menu, X } from "lucide-react";
+import { routePrefetchMap } from "@/App";
 import ThemeToggle from "./ThemeToggle";
 
 const navItems = [
@@ -15,6 +16,12 @@ const navItems = [
 
 const Navbar = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
+
+  const prefetch = useCallback((to: string) => {
+    const loader = routePrefetchMap[to];
+    if (loader) loader();
+  }, []);
+
 
   const navLinkClass = ({ isActive }: { isActive: boolean }) =>
     `text-sm font-medium transition-all duration-300 px-3 py-1.5 rounded-full ${
@@ -38,7 +45,7 @@ const Navbar = () => {
         </NavLink>
         <div className="hidden md:flex items-center gap-2">
           {navItems.map((item) => (
-            <NavLink key={item.to} to={item.to} className={navLinkClass}>
+            <NavLink key={item.to} to={item.to} className={navLinkClass} onMouseEnter={() => prefetch(item.to)}>
               {item.label}
             </NavLink>
           ))}
