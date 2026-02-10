@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Article } from "@/data/articles";
+import { routeImports } from "@/App";
 
 interface ArticleCardProps {
   article: Article;
@@ -10,7 +11,7 @@ const ArticleCard = ({ article }: ArticleCardProps) => {
   const coverImage = article.sections?.[0]?.image || article.image;
 
   return (
-    <Link to={`/article/${article.slug}`}>
+    <Link to={`/article/${article.slug}`} onMouseEnter={() => routeImports.article()}>
       <article className="group cursor-pointer hover-lift bg-card rounded-2xl overflow-hidden shadow-warm">
         <div className="aspect-[4/3] overflow-hidden">
           <img
