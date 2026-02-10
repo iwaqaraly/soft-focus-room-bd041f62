@@ -1,8 +1,6 @@
 import { NavLink } from "react-router-dom";
-import { useState, useCallback } from "react";
+import { useState } from "react";
 import { Menu, X } from "lucide-react";
-import { routePrefetchMap } from "@/App";
-import ThemeToggle from "./ThemeToggle";
 
 const navItems = [
   { to: "/", label: "Home" },
@@ -16,12 +14,6 @@ const navItems = [
 
 const Navbar = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
-
-  const prefetch = useCallback((to: string) => {
-    const loader = routePrefetchMap[to];
-    if (loader) loader();
-  }, []);
-
 
   const navLinkClass = ({ isActive }: { isActive: boolean }) =>
     `text-sm font-medium transition-all duration-300 px-3 py-1.5 rounded-full ${
@@ -45,21 +37,18 @@ const Navbar = () => {
         </NavLink>
         <div className="hidden md:flex items-center gap-2">
           {navItems.map((item) => (
-            <NavLink key={item.to} to={item.to} className={navLinkClass} onMouseEnter={() => prefetch(item.to)}>
+            <NavLink key={item.to} to={item.to} className={navLinkClass}>
               {item.label}
             </NavLink>
           ))}
         </div>
-        <div className="flex items-center gap-1">
-          <ThemeToggle />
-          <button
-            className="md:hidden p-2 rounded-lg text-foreground hover:bg-secondary transition-colors"
+        <button
+          className="md:hidden p-2 rounded-lg text-foreground hover:bg-secondary transition-colors"
           onClick={() => setMobileOpen(!mobileOpen)}
           aria-label={mobileOpen ? "Close menu" : "Open menu"}
         >
-            {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
-          </button>
-        </div>
+          {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+        </button>
       </div>
       {mobileOpen && (
         <div className="md:hidden bg-card/95 backdrop-blur-sm border-b border-border/50 shadow-warm px-4 py-3 flex flex-col gap-1">

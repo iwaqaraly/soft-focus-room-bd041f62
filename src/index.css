@@ -9,87 +9,54 @@ Warm & Cozy aesthetic with soft terracotta, warm cream, and earthy tones
 
 @layer base {
   :root {
-    /* Warm cream light mode */
+    /* Warm cream background */
     --background: 40 33% 97%;
     --foreground: 25 20% 20%;
 
+    /* Soft warm cards */
     --card: 40 40% 98%;
     --card-foreground: 25 20% 20%;
 
     --popover: 40 40% 98%;
     --popover-foreground: 25 20% 20%;
 
-    /* Warm gold primary */
-    --primary: 42 65% 45%;
+    /* Warm terracotta primary */
+    --primary: 15 45% 50%;
     --primary-foreground: 40 40% 98%;
 
-    --secondary: 35 25% 92%;
+    /* Soft blush secondary */
+    --secondary: 30 30% 94%;
     --secondary-foreground: 25 20% 25%;
 
-    --muted: 35 20% 93%;
+    /* Muted warm tones */
+    --muted: 35 25% 93%;
     --muted-foreground: 25 15% 45%;
 
-    --accent: 35 50% 45%;
+    /* Earthy accent */
+    --accent: 25 35% 45%;
     --accent-foreground: 40 40% 98%;
 
-    --destructive: 0 65% 50%;
+    --destructive: 0 70% 55%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 35 20% 88%;
-    --input: 35 20% 88%;
-    --ring: 42 65% 45%;
+    /* Soft warm borders */
+    --border: 30 20% 88%;
+    --input: 30 20% 88%;
+    --ring: 15 45% 50%;
 
     --radius: 0.75rem;
-    --nav-height: 4rem;
 
-    /* Custom palette */
-    --terracotta: 42 65% 45%;
-    --terracotta-light: 42 50% 60%;
+    --nav-height: 4rem;
+    
+    /* Custom warm palette */
+    --terracotta: 15 45% 50%;
+    --terracotta-light: 15 40% 65%;
     --warm-cream: 40 33% 97%;
     --warm-beige: 35 30% 90%;
     --soft-brown: 25 20% 35%;
-    --blush: 35 25% 90%;
+    --blush: 15 35% 85%;
   }
 
-  .dark {
-    /* Deep charcoal background */
-    --background: 220 15% 8%;
-    --foreground: 45 20% 90%;
-
-    --card: 220 12% 12%;
-    --card-foreground: 45 20% 90%;
-
-    --popover: 220 12% 14%;
-    --popover-foreground: 45 20% 90%;
-
-    /* Warm gold primary */
-    --primary: 42 65% 55%;
-    --primary-foreground: 220 15% 8%;
-
-    --secondary: 220 10% 18%;
-    --secondary-foreground: 45 15% 80%;
-
-    --muted: 220 10% 16%;
-    --muted-foreground: 220 10% 55%;
-
-    --accent: 35 50% 45%;
-    --accent-foreground: 45 20% 95%;
-
-    --destructive: 0 65% 50%;
-    --destructive-foreground: 0 0% 100%;
-
-    --border: 220 10% 18%;
-    --input: 220 10% 20%;
-    --ring: 42 65% 55%;
-
-    /* Custom luxury palette */
-    --terracotta: 42 65% 55%;
-    --terracotta-light: 42 50% 65%;
-    --warm-cream: 45 20% 90%;
-    --warm-beige: 220 10% 16%;
-    --soft-brown: 220 10% 30%;
-    --blush: 35 20% 18%;
-  }
 }
 
 @layer base {

@@ -4,47 +4,23 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { ThemeProvider } from "next-themes";
 
-// Route chunk imports for lazy loading & prefetching
-const indexImport = () => import("./pages/Index");
-const basementImport = () => import("./pages/Basement");
-const bathroomImport = () => import("./pages/Bathroom");
-const bedroomImport = () => import("./pages/Bedroom");
-const gardenImport = () => import("./pages/Garden");
-const kitchenImport = () => import("./pages/Kitchen");
-const livingRoomImport = () => import("./pages/LivingRoom");
-const articlePageImport = () => import("./pages/ArticlePage");
-const notFoundImport = () => import("./pages/NotFound");
-
-const Index = lazy(indexImport);
-const Basement = lazy(basementImport);
-const Bathroom = lazy(bathroomImport);
-const Bedroom = lazy(bedroomImport);
-const Garden = lazy(gardenImport);
-const Kitchen = lazy(kitchenImport);
-const LivingRoom = lazy(livingRoomImport);
-const ArticlePage = lazy(articlePageImport);
-const NotFound = lazy(notFoundImport);
-
-// Prefetch map for route-based prefetching
-export const routePrefetchMap: Record<string, () => Promise<unknown>> = {
-  "/": indexImport,
-  "/basement": basementImport,
-  "/bathroom": bathroomImport,
-  "/bedroom": bedroomImport,
-  "/garden": gardenImport,
-  "/kitchen": kitchenImport,
-  "/living-room": livingRoomImport,
-  "/article": articlePageImport,
-};
+// Lazy load route components for code splitting
+const Index = lazy(() => import("./pages/Index"));
+const Basement = lazy(() => import("./pages/Basement"));
+const Bathroom = lazy(() => import("./pages/Bathroom"));
+const Bedroom = lazy(() => import("./pages/Bedroom"));
+const Garden = lazy(() => import("./pages/Garden"));
+const Kitchen = lazy(() => import("./pages/Kitchen"));
+const LivingRoom = lazy(() => import("./pages/LivingRoom"));
+const ArticlePage = lazy(() => import("./pages/ArticlePage"));
+const NotFound = lazy(() => import("./pages/NotFound"));
 
 const queryClient = new QueryClient();
 
 const App = () => (
-  <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
-    <QueryClientProvider client={queryClient}>
-      <TooltipProvider>
+  <QueryClientProvider client={queryClient}>
+    <TooltipProvider>
       <Toaster />
       <Sonner />
       <BrowserRouter>
@@ -62,9 +38,8 @@ const App = () => (
           </Routes>
         </Suspense>
       </BrowserRouter>
-      </TooltipProvider>
-    </QueryClientProvider>
-  </ThemeProvider>
+    </TooltipProvider>
+  </QueryClientProvider>
 );
 
 export default App;
