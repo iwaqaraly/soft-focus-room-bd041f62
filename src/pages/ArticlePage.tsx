@@ -86,9 +86,11 @@ const ArticlePage = () => {
                       {section.image && (
                         <div className={`relative overflow-hidden rounded-2xl bg-muted/30 shadow-lg group-hover:shadow-xl transition-shadow duration-300 ${isEven ? 'md:order-2' : 'md:order-1'}`}>
                           <div className="aspect-square">
-                            <img
+                          <img
                               src={section.image}
                               alt={section.title}
+                              loading="lazy"
+                              decoding="async"
                               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                             />
                           </div>
@@ -111,6 +113,8 @@ const ArticlePage = () => {
                         <img
                           src={section.image}
                           alt={section.title}
+                          loading="lazy"
+                          decoding="async"
                           className="w-full h-full object-cover"
                         />
                       </div>
