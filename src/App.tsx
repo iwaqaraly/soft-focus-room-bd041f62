@@ -6,16 +6,28 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { ThemeProvider } from "next-themes";
 
-// Lazy load route components for code splitting
-const Index = lazy(() => import("./pages/Index"));
-const Basement = lazy(() => import("./pages/Basement"));
-const Bathroom = lazy(() => import("./pages/Bathroom"));
-const Bedroom = lazy(() => import("./pages/Bedroom"));
-const Garden = lazy(() => import("./pages/Garden"));
-const Kitchen = lazy(() => import("./pages/Kitchen"));
-const LivingRoom = lazy(() => import("./pages/LivingRoom"));
-const ArticlePage = lazy(() => import("./pages/ArticlePage"));
-const NotFound = lazy(() => import("./pages/NotFound"));
+// Lazy-loaded route factories (exported for preloading on hover)
+export const routeImports = {
+  index: () => import("./pages/Index"),
+  basement: () => import("./pages/Basement"),
+  bathroom: () => import("./pages/Bathroom"),
+  bedroom: () => import("./pages/Bedroom"),
+  garden: () => import("./pages/Garden"),
+  kitchen: () => import("./pages/Kitchen"),
+  livingRoom: () => import("./pages/LivingRoom"),
+  article: () => import("./pages/ArticlePage"),
+  notFound: () => import("./pages/NotFound"),
+} as const;
+
+const Index = lazy(routeImports.index);
+const Basement = lazy(routeImports.basement);
+const Bathroom = lazy(routeImports.bathroom);
+const Bedroom = lazy(routeImports.bedroom);
+const Garden = lazy(routeImports.garden);
+const Kitchen = lazy(routeImports.kitchen);
+const LivingRoom = lazy(routeImports.livingRoom);
+const ArticlePage = lazy(routeImports.article);
+const NotFound = lazy(routeImports.notFound);
 
 const queryClient = new QueryClient();
 

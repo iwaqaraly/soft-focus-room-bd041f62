@@ -2,6 +2,17 @@ import { NavLink } from "react-router-dom";
 import { useState } from "react";
 import { Menu, X } from "lucide-react";
 import ThemeToggle from "./ThemeToggle";
+import { routeImports } from "@/App";
+
+const preloadMap: Record<string, (() => Promise<unknown>) | undefined> = {
+  "/": routeImports.index,
+  "/basement": routeImports.basement,
+  "/bathroom": routeImports.bathroom,
+  "/bedroom": routeImports.bedroom,
+  "/garden": routeImports.garden,
+  "/kitchen": routeImports.kitchen,
+  "/living-room": routeImports.livingRoom,
+};
 
 const navItems = [
   { to: "/", label: "Home" },
@@ -38,7 +49,12 @@ const Navbar = () => {
         </NavLink>
         <div className="hidden md:flex items-center gap-2">
           {navItems.map((item) => (
-            <NavLink key={item.to} to={item.to} className={navLinkClass}>
+            <NavLink
+              key={item.to}
+              to={item.to}
+              className={navLinkClass}
+              onMouseEnter={() => preloadMap[item.to]?.()}
+            >
               {item.label}
             </NavLink>
           ))}
@@ -62,6 +78,7 @@ const Navbar = () => {
               to={item.to}
               className={mobileNavLinkClass}
               onClick={() => setMobileOpen(false)}
+              onMouseEnter={() => preloadMap[item.to]?.()}
             >
               {item.label}
             </NavLink>
