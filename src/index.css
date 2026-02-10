@@ -9,11 +9,53 @@ Warm & Cozy aesthetic with soft terracotta, warm cream, and earthy tones
 
 @layer base {
   :root {
+    /* Warm cream light mode */
+    --background: 40 33% 97%;
+    --foreground: 25 20% 20%;
+
+    --card: 40 40% 98%;
+    --card-foreground: 25 20% 20%;
+
+    --popover: 40 40% 98%;
+    --popover-foreground: 25 20% 20%;
+
+    /* Warm gold primary */
+    --primary: 42 65% 45%;
+    --primary-foreground: 40 40% 98%;
+
+    --secondary: 35 25% 92%;
+    --secondary-foreground: 25 20% 25%;
+
+    --muted: 35 20% 93%;
+    --muted-foreground: 25 15% 45%;
+
+    --accent: 35 50% 45%;
+    --accent-foreground: 40 40% 98%;
+
+    --destructive: 0 65% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 35 20% 88%;
+    --input: 35 20% 88%;
+    --ring: 42 65% 45%;
+
+    --radius: 0.75rem;
+    --nav-height: 4rem;
+
+    /* Custom palette */
+    --terracotta: 42 65% 45%;
+    --terracotta-light: 42 50% 60%;
+    --warm-cream: 40 33% 97%;
+    --warm-beige: 35 30% 90%;
+    --soft-brown: 25 20% 35%;
+    --blush: 35 25% 90%;
+  }
+
+  .dark {
     /* Deep charcoal background */
     --background: 220 15% 8%;
     --foreground: 45 20% 90%;
 
-    /* Rich dark cards */
     --card: 220 12% 12%;
     --card-foreground: 45 20% 90%;
 
@@ -24,30 +66,22 @@ Warm & Cozy aesthetic with soft terracotta, warm cream, and earthy tones
     --primary: 42 65% 55%;
     --primary-foreground: 220 15% 8%;
 
-    /* Muted bronze secondary */
     --secondary: 220 10% 18%;
     --secondary-foreground: 45 15% 80%;
 
-    /* Deep muted tones */
     --muted: 220 10% 16%;
     --muted-foreground: 220 10% 55%;
 
-    /* Warm amber accent */
     --accent: 35 50% 45%;
     --accent-foreground: 45 20% 95%;
 
     --destructive: 0 65% 50%;
     --destructive-foreground: 0 0% 100%;
 
-    /* Subtle dark borders */
     --border: 220 10% 18%;
     --input: 220 10% 20%;
     --ring: 42 65% 55%;
 
-    --radius: 0.75rem;
-
-    --nav-height: 4rem;
-    
     /* Custom luxury palette */
     --terracotta: 42 65% 55%;
     --terracotta-light: 42 50% 65%;
@@ -56,7 +90,6 @@ Warm & Cozy aesthetic with soft terracotta, warm cream, and earthy tones
     --soft-brown: 220 10% 30%;
     --blush: 35 20% 18%;
   }
-
 }
 
 @layer base {
@@ -72,7 +105,7 @@ Warm & Cozy aesthetic with soft terracotta, warm cream, and earthy tones
 
 @layer components {
   .warm-gradient {
-    background: linear-gradient(135deg, hsl(220 12% 10%) 0%, hsl(35 15% 12%) 100%);
+    background: linear-gradient(135deg, hsl(var(--warm-cream)) 0%, hsl(var(--blush)) 100%);
   }
   
   .hover-lift {
