@@ -1,6 +1,8 @@
-const HeroSection = () => {
+import { forwardRef } from "react";
+
+const HeroSection = forwardRef<HTMLElement, Record<string, never>>((_, ref) => {
   return (
-    <section className="warm-gradient">
+    <section ref={ref} className="warm-gradient">
       <div className="container mx-auto px-6 py-20 md:py-28">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* Left: Text Content */}
@@ -14,7 +16,7 @@ const HeroSection = () => {
               <span className="text-primary">that feel like home</span>
             </h1>
             <p className="text-muted-foreground text-lg font-light max-w-md leading-relaxed mb-10">
-              Discover curated inspiration and practical ideas for crafting warm, 
+              Discover curated inspiration and practical ideas for crafting warm,
               inviting spaces that reflect your personal style.
             </p>
             <div className="flex items-center gap-6">
@@ -69,6 +71,8 @@ const HeroSection = () => {
       </div>
     </section>
   );
-};
+});
+
+HeroSection.displayName = "HeroSection";
 
 export default HeroSection;
