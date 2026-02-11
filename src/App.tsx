@@ -33,7 +33,12 @@ const App = () => (
             <Route path="/garden" element={<Garden />} />
             <Route path="/kitchen" element={<Kitchen />} />
             <Route path="/living-room" element={<LivingRoom />} />
-            <Route path="/article/:slug" element={<ArticlePage />} />
+            <Route path="/basement/:slug" element={<ArticlePage />} />
+            <Route path="/bathroom/:slug" element={<ArticlePage />} />
+            <Route path="/bedroom/:slug" element={<ArticlePage />} />
+            <Route path="/garden/:slug" element={<ArticlePage />} />
+            <Route path="/kitchen/:slug" element={<ArticlePage />} />
+            <Route path="/living-room/:slug" element={<ArticlePage />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Suspense>
