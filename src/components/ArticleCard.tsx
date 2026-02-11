@@ -1,16 +1,18 @@
 import { Link } from "react-router-dom";
+import { forwardRef } from "react";
 import { Article } from "@/data/articles";
 
 interface ArticleCardProps {
   article: Article;
 }
 
-const ArticleCard = ({ article }: ArticleCardProps) => {
+const ArticleCard = forwardRef<HTMLAnchorElement, ArticleCardProps>(({ article }, ref) => {
   // Use the first section image if available, otherwise fall back to the main article image
   const coverImage = article.sections?.[0]?.image || article.image;
+  const categoryPath = article.category.toLowerCase().replace(/ /g, "-");
 
   return (
-    <Link to={`/${article.category.toLowerCase().replace(/ /g, "-")}/${article.slug}`}>
+    <Link ref={ref} to={`/${categoryPath}/${article.slug}`}>
       <article className="group cursor-pointer hover-lift bg-card rounded-2xl overflow-hidden shadow-warm">
         <div className="aspect-[4/3] overflow-hidden">
           <img
@@ -37,6 +39,8 @@ const ArticleCard = ({ article }: ArticleCardProps) => {
       </article>
     </Link>
   );
-};
+});
+
+ArticleCard.displayName = "ArticleCard";
 
 export default ArticleCard;

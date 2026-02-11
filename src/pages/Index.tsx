@@ -23,9 +23,9 @@ const Index = () => {
         </header>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {articles.slice(-5).reverse().map((article, index) => (
+            {articles.slice(-5).reverse().map((article, index) => (
             <div 
-              key={article.id} 
+              key={`${article.id}-${article.slug}`}
               className="opacity-0 animate-fade-in"
               style={{ animationDelay: `${0.1 * (index + 1)}s` }}
             >
