@@ -1,4 +1,4 @@
-import { useParams, Link } from "react-router-dom";
+import { useParams, Link, useLocation } from "react-router-dom";
 import PageLayout from "@/components/PageLayout";
 import { articles } from "@/data/articles";
 import { ArrowLeft } from "lucide-react";
