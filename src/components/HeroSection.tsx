@@ -30,10 +30,10 @@ const HeroSection = forwardRef<HTMLElement, Record<string, never>>((_, ref) => {
             <div className="grid grid-cols-12 grid-rows-6 gap-4 h-[380px] md:h-[480px]">
               <div className="col-span-8 row-span-6 overflow-hidden rounded-2xl shadow-warm-lg hover-lift">
                 <img
-                  src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=600&q=75&fm=webp"
-                  srcSet="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=400&q=75&fm=webp 400w, https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=600&q=75&fm=webp 600w, https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=75&fm=webp 800w"
+                  src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=75&fm=webp"
+                  srcSet="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400&q=75&fm=webp 400w, https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=75&fm=webp 600w, https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=75&fm=webp 800w"
                   sizes="(max-width: 768px) 60vw, 40vw"
-                  alt="Modern living room with warm tones"
+                  alt="Elegant warm-toned living room with natural light"
                   loading="eager"
                   decoding="async"
                   // @ts-expect-error - fetchpriority is valid HTML but React types don't support it yet
@@ -44,10 +44,10 @@ const HeroSection = forwardRef<HTMLElement, Record<string, never>>((_, ref) => {
               {/* Top right image */}
               <div className="col-span-4 row-span-3 overflow-hidden rounded-xl shadow-warm hover-lift">
                 <img
-                  src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=300&q=75&fm=webp"
-                  srcSet="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=200&q=75&fm=webp 200w, https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=300&q=75&fm=webp 300w"
+                  src="https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=300&q=75&fm=webp"
+                  srcSet="https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=200&q=75&fm=webp 200w, https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=300&q=75&fm=webp 300w"
                   sizes="(max-width: 768px) 30vw, 20vw"
-                  alt="Cozy bedroom interior"
+                  alt="Cozy bedroom with earth tone decor"
                   loading="eager"
                   decoding="async"
                   className="w-full h-full object-cover"
@@ -56,10 +56,10 @@ const HeroSection = forwardRef<HTMLElement, Record<string, never>>((_, ref) => {
               {/* Bottom right image */}
               <div className="col-span-4 row-span-3 overflow-hidden rounded-xl shadow-warm hover-lift">
                 <img
-                  src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=300&q=75&fm=webp"
-                  srcSet="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=200&q=75&fm=webp 200w, https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=300&q=75&fm=webp 300w"
+                  src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=300&q=75&fm=webp"
+                  srcSet="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=200&q=75&fm=webp 200w, https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=300&q=75&fm=webp 300w"
                   sizes="(max-width: 768px) 30vw, 20vw"
-                  alt="Inviting interior design"
+                  alt="Stylish kitchen with warm wood accents"
                   loading="eager"
                   decoding="async"
                   className="w-full h-full object-cover"
