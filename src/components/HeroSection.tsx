@@ -2,7 +2,7 @@ import { forwardRef } from "react";
 
 const HeroSection = forwardRef<HTMLElement, Record<string, never>>((_, ref) => {
   return (
-    <section ref={ref} className="warm-gradient">
+    <section ref={ref} className="bg-background">
       <div className="container mx-auto px-6 py-20 md:py-28">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* Left: Text Content */}
