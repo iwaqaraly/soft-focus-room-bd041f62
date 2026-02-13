@@ -56,8 +56,8 @@ const HeroSection = forwardRef<HTMLElement, Record<string, never>>((_, ref) => {
               {/* Bottom right image */}
               <div className="col-span-4 row-span-3 overflow-hidden rounded-xl shadow-warm hover-lift">
                 <img
-                  src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=300&q=75&fm=webp"
-                  srcSet="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=200&q=75&fm=webp 200w, https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=300&q=75&fm=webp 300w"
+                  src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=300&q=75&fm=webp"
+                  srcSet="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=200&q=75&fm=webp 200w, https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=300&q=75&fm=webp 300w"
                   sizes="(max-width: 768px) 30vw, 20vw"
                   alt="Stylish kitchen with warm wood accents"
                   loading="eager"
