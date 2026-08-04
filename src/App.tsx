@@ -13,6 +13,7 @@ import Garden from "./pages/Garden";
 import Kitchen from "./pages/Kitchen";
 import LivingRoom from "./pages/LivingRoom";
 import ArticlePage from "./pages/ArticlePage";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -41,6 +42,7 @@ const App = () => (
           <Route path="/garden" element={<Garden />} />
           <Route path="/kitchen" element={<Kitchen />} />
           <Route path="/living-room" element={<LivingRoom />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
 
           <Route path="/basement/:slug" element={<ArticlePage />} />
           <Route path="/bathroom/:slug" element={<ArticlePage />} />
