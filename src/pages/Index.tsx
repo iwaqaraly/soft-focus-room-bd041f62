@@ -47,7 +47,7 @@ const Index = () => {
               we have inspiration for every taste and every space.
             </p>
             <div className="flex items-center justify-center gap-4 flex-wrap">
-              {["Living Room", "Bedroom", "Kitchen", "Bathroom", "Garden", "Basement"].map((room) => (
+              {["Living Room", "Bedroom", "Kitchen", "Bathroom", "Garden", "Basement", "Home Office"].map((room) => (
                 <span 
                   key={room}
                   className="px-5 py-2.5 bg-card rounded-full text-sm font-medium text-foreground shadow-warm hover:shadow-warm-lg transition-shadow duration-300 cursor-pointer hover:-translate-y-0.5"

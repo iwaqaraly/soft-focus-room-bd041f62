@@ -11,14 +11,14 @@ Warm & Cozy aesthetic with soft terracotta, warm cream, and earthy tones
   :root {
     /* Warm cream background */
     --background: 0 0% 100%;
-    --foreground: 25 20% 20%;
+    --foreground: 20 10% 8%;
 
     /* Soft warm cards */
     --card: 0 0% 100%;
-    --card-foreground: 25 20% 20%;
+    --card-foreground: 20 10% 8%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 25 20% 20%;
+    --popover-foreground: 20 10% 8%;
 
     /* Warm terracotta primary */
     --primary: 15 45% 50%;
@@ -26,11 +26,11 @@ Warm & Cozy aesthetic with soft terracotta, warm cream, and earthy tones
 
     /* Soft blush secondary */
     --secondary: 0 0% 96%;
-    --secondary-foreground: 25 20% 25%;
+    --secondary-foreground: 20 10% 12%;
 
     /* Muted warm tones */
     --muted: 0 0% 96%;
-    --muted-foreground: 25 15% 45%;
+    --muted-foreground: 20 8% 22%;
 
     /* Earthy accent */
     --accent: 25 35% 45%;
@@ -62,6 +62,10 @@ Warm & Cozy aesthetic with soft terracotta, warm cream, and earthy tones
 @layer base {
   * {
     @apply border-border;
+  }
+
+  html {
+    font-size: 115%;
   }
 
   body {

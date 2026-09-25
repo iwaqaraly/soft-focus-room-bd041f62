@@ -8,6 +8,7 @@ const navItems = [
   { to: "/bathroom", label: "Bathroom" },
   { to: "/bedroom", label: "Bedroom" },
   { to: "/garden", label: "Garden" },
+  { to: "/home-office", label: "Home Office" },
   { to: "/kitchen", label: "Kitchen" },
   { to: "/living-room", label: "Living Room" },
 ];

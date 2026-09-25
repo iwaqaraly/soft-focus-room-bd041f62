@@ -9,6 +9,7 @@ import Index from "./pages/Index";
 import Basement from "./pages/Basement";
 import Bathroom from "./pages/Bathroom";
 import Bedroom from "./pages/Bedroom";
+import HomeOffice from "./pages/HomeOffice";
 import Garden from "./pages/Garden";
 import Kitchen from "./pages/Kitchen";
 import LivingRoom from "./pages/LivingRoom";
@@ -40,6 +41,7 @@ const App = () => (
           <Route path="/bathroom" element={<Bathroom />} />
           <Route path="/bedroom" element={<Bedroom />} />
           <Route path="/garden" element={<Garden />} />
+          <Route path="/home-office" element={<HomeOffice />} />
           <Route path="/kitchen" element={<Kitchen />} />
           <Route path="/living-room" element={<LivingRoom />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
@@ -48,6 +50,7 @@ const App = () => (
           <Route path="/bathroom/:slug" element={<ArticlePage />} />
           <Route path="/bedroom/:slug" element={<ArticlePage />} />
           <Route path="/garden/:slug" element={<ArticlePage />} />
+          <Route path="/home-office/:slug" element={<ArticlePage />} />
           <Route path="/kitchen/:slug" element={<ArticlePage />} />
           <Route path="/living-room/:slug" element={<ArticlePage />} />
 
