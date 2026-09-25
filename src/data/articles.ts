@@ -2248,5 +2248,113 @@ export const articles: Article[] = [
         answer: "Choose nightstands with built-in cable management or cut-outs for cords. You can also run cables along the wall edge or use cord covers. Some designs include hidden charging compartments for a completely clean look."
       }
     ]
+  },
+  {
+    id: "29",
+    slug: "boho-gallery-wall-decor-ideas",
+    title: "Boho Gallery Wall Decor: 15 Ideas for a Stylish Home",
+    excerpt: "Learn how to build an effortless, collected-over-years boho gallery wall with 15 ideas that layer texture, shape, and natural materials.",
+    category: "Living Room",
+    image: "/assets/boho-gallery-wall-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Macrame Paired with a Round Mirror",
+        content: "A round rattan or sunburst mirror next to a piece of hanging macrame is one of the simplest combinations that still looks intentional. The mirror gives the eye somewhere clean to land, while the macrame fringe softens everything around it.",
+        image: "/assets/boho-gallery-wall-01.webp"
+      },
+      {
+        title: "2. Frames in Different Wood Tones",
+        content: "Skip the matching frame set. Mix light oak, walnut, and rattan frames together so the wall looks like it was built up over time rather than bought in one trip. Keep whatever's inside the frames loosely connected in color so the mismatch still feels cohesive.",
+        image: "/assets/boho-gallery-wall-02.webp"
+      },
+      {
+        title: "3. Pressed Leaves and Dried Botanicals",
+        content: "Framed dried flowers, pressed leaves, or pampas grass fronds bring in a natural element that never needs watering or replacing. They also age beautifully, which fits the whole point of boho decor.",
+        image: "/assets/boho-gallery-wall-03.webp"
+      },
+      {
+        title: "4. A Cluster of Woven Baskets",
+        content: "Flat woven baskets grouped together add real texture and dimension without taking up floor space. They work especially well on a warm terracotta or clay colored wall, where the shadows they cast become part of the look.",
+        image: "/assets/boho-gallery-wall-04.webp"
+      },
+      {
+        title: "5. Ceramic and Terracotta Wall Art",
+        content: "Small ceramic pieces or terracotta reliefs give a gallery wall some sculptural weight. They don't have to be symmetrical. In fact, a slightly uneven grid usually looks more natural.",
+        image: "/assets/boho-gallery-wall-05.webp"
+      },
+      {
+        title: "6. Vintage Style Botanical Prints",
+        content: "Muted illustrations of leaves, flowers, or herbs in thin gold or wood frames give a wall an heirloom feeling, like it's been passed down rather than picked out last weekend.",
+        image: "/assets/boho-gallery-wall-06.webp"
+      },
+      {
+        title: "7. Layered Textiles Behind Frames",
+        content: "Small tapestries, woven rugs, or leftover fabric scraps layered in among your frames add pattern and softness. This works particularly well in a bedroom, where you want the wall to feel warm rather than gallery cold.",
+        image: "/assets/boho-gallery-wall-07.webp"
+      },
+      {
+        title: "8. A Cluster of Round Frames",
+        content: "Round frames in different sizes break up the usual grid pattern and feel less rigid than rectangles. Grouped together, they create a softer shape on the wall that still reads as organized.",
+        image: "/assets/boho-gallery-wall-08.webp"
+      },
+      {
+        title: "9. Sun and Moon Wall Hangings",
+        content: "A carved wooden or rattan sun paired with a smaller moon phase piece is a classic boho combination. It adds a bit of whimsy and works as a focal point on its own if you want to keep the rest of the wall simple.",
+        image: "/assets/boho-gallery-wall-09.webp"
+      },
+      {
+        title: "10. Black and White Photography in Warm Frames",
+        content: "Color photos can feel busy once you add texture and pattern everywhere else, so black and white images in warm wood frames are an easy way to add a grounding, calmer element to the mix.",
+        image: "/assets/boho-gallery-wall-10.webp"
+      },
+      {
+        title: "11. Pampas Grass and Feathers for Height",
+        content: "Tall dried pampas grass or a feather hanging placed beside your frames adds vertical movement, which helps if your wall feels flat or squarely arranged.",
+        image: "/assets/boho-gallery-wall-11.webp"
+      },
+      {
+        title: "12. A Floating Shelf Under Your Frames",
+        content: "Adding a thin wood shelf beneath a cluster of frames gives you a spot for small plants, candles, or a favorite ceramic piece. It also breaks up a wall that's entirely flat art with something three dimensional.",
+        image: "/assets/boho-gallery-wall-12.webp"
+      },
+      {
+        title: "13. One Large Woven Piece as the Anchor",
+        content: "Instead of many small pieces of equal size, let one big macrame or woven hanging be the star, then build smaller frames and botanicals around it. This gives the wall a clear focal point instead of competing for attention.",
+        image: "/assets/boho-gallery-wall-13.webp"
+      },
+      {
+        title: "14. Textile Art with Global Patterns",
+        content: "Small framed pieces inspired by kilim, ikat, or block print patterns bring in color and a sense of place. They pair naturally with warm rust, mustard, and clay tones already common in boho spaces.",
+        image: "/assets/boho-gallery-wall-14.webp"
+      },
+      {
+        title: "15. A Neutral, Almost Monochrome Wall",
+        content: "For a quieter take on boho, stick entirely to cream, sand, and taupe, and let texture do the work instead of color. Mixing matte ceramics, woven pieces, and plain wood frames in the same tonal family still feels rich, just calmer.",
+        image: "/assets/boho-gallery-wall-15.webp"
+      }
+    ],
+    faqs: [
+      {
+        question: "Do I need all 15 ideas on one wall?",
+        answer: "No. Pick three or four elements you actually like, lay them out on the floor first, and move things around before you touch a single nail."
+      },
+      {
+        question: "How do I keep a boho gallery wall from looking messy?",
+        answer: "Mix at least two textures, like wood and woven fiber, and stick to a warm, consistent color palette. That keeps even a busy mix of pieces feeling like it belongs together."
+      },
+      {
+        question: "Should the frames match?",
+        answer: "No. Mixing light oak, walnut, and rattan frames makes the wall look collected over time. Keep the artwork inside loosely connected in color so it still feels cohesive."
+      },
+      {
+        question: "Can I do a boho gallery wall in a neutral palette?",
+        answer: "Yes. Stick to cream, sand, and taupe and let texture do the work. Matte ceramics, woven pieces, and plain wood frames in one tonal family feel rich but calmer."
+      },
+      {
+        question: "How do I add height and depth to a flat wall?",
+        answer: "Use tall dried pampas grass or a feather hanging beside your frames for vertical movement, and add a thin wood shelf beneath a cluster for small plants, candles, or ceramics."
+      }
+    ]
   }
 ];
