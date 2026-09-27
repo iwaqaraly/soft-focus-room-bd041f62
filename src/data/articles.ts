@@ -2356,7 +2356,8 @@ export const articles: Article[] = [
         answer: "Use tall dried pampas grass or a feather hanging beside your frames for vertical movement, and add a thin wood shelf beneath a cluster for small plants, candles, or ceramics."
       }
     ]
-  },
+  }
+,
   {
     "id": "30",
     "slug": "home-office-ideas-stylish-productive-space",
@@ -2457,6 +2458,205 @@ export const articles: Article[] = [
       {
         "title": "Final Thoughts",
         "content": "A good home office is not necessarily the biggest or most expensive one. It is the space that works well for you and fits naturally into your home.\n\nStart with the basics, including a comfortable chair, a practical desk, good lighting, and enough storage. From there, bring in colors, plants, artwork, and accessories that match your personal style.\n\nWhether you are working with a dedicated room or a tiny corner, a little planning can turn an ordinary workspace into somewhere you actually enjoy spending time."
+      }
+    ]
+  },
+  {
+    id: "31",
+    slug: "small-apartment-ideas-make-the-most-of-your-space",
+    title: "19 Small Apartment Ideas to Make the Most of Your Space",
+    excerpt: "Living in a small apartment doesn't mean sacrificing comfort or style. Explore 19 small apartment ideas covering furniture, storage, layout, and decor to help every square foot work harder.",
+    category: "Living Room",
+    image: "/assets/small-apartment-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Use Furniture That Does More Than One Job",
+        content: "When space is limited, every piece of furniture should earn its place. Look for pieces that can serve multiple purposes, such as an ottoman with hidden storage, a sofa bed, or a coffee table with shelves underneath.\n\nThis approach gives you the functionality you need without filling your apartment with unnecessary furniture.",
+        image: "/assets/small-apartment-01.webp"
+      },
+      {
+        title: "2. Take Advantage of Vertical Space",
+        content: "When you do not have much floor space, look up. Tall bookcases, wall mounted shelves, vertical cabinets, and hanging storage can provide valuable space without taking up much room.\n\nA tall shelving unit can also draw the eye upward, making a room appear taller.",
+        image: "/assets/small-apartment-02.webp"
+      },
+      {
+        title: "3. Choose a Light Color Palette",
+        content: "Light colors can make a compact apartment feel brighter and more open. White, cream, soft beige, pale gray, and muted natural tones reflect light and create a sense of continuity throughout the space.\n\nYou do not have to make everything white. Add warmth through wood, textiles, artwork, and plants.",
+        image: "/assets/small-apartment-03.webp"
+      },
+      {
+        title: "4. Create a Small Home Office",
+        content: "A full sized office is not necessary when you live in a small apartment. A narrow desk can fit against a wall, beside a window, or even inside an unused corner.\n\nAdd a comfortable chair, a small lamp, and a few shelves above the desk to create a practical workspace without taking over the room.",
+        image: "/assets/small-apartment-04.webp"
+      },
+      {
+        title: "5. Use Mirrors to Make the Room Feel Larger",
+        content: "A strategically placed mirror can make a small room feel brighter and more spacious. Position one opposite a window to reflect natural light or use a large mirror against a wall to create the illusion of additional depth.\n\nOversized mirrors are particularly useful because they create a stronger visual impact without requiring much space.",
+        image: "/assets/small-apartment-05.webp"
+      },
+      {
+        title: "6. Make Use of the Space Under Your Bed",
+        content: "The area underneath your bed is valuable storage space that is often overlooked. Use shallow storage boxes, rolling containers, or a bed frame with built in drawers to store seasonal clothing, extra bedding, shoes, and other items.\n\nKeeping these belongings out of sight can also make the bedroom feel much less cluttered.",
+        image: "/assets/small-apartment-06.webp"
+      },
+      {
+        title: "7. Pick a Small Dining Table",
+        content: "A large dining table can quickly overwhelm a small apartment. Instead, consider a round table, drop leaf table, or compact square table that fits comfortably into the available space.\n\nA round table can be especially useful because it provides seating without creating sharp corners that interrupt the flow of a small room.",
+        image: "/assets/small-apartment-07.webp"
+      },
+      {
+        title: "8. Install Floating Shelves",
+        content: "Floating shelves are one of the easiest ways to add storage without using valuable floor space. They can hold books, plants, framed artwork, kitchen supplies, or everyday essentials.\n\nKeep the arrangement intentional rather than filling every inch of the shelf. A little empty space helps the room feel calmer.",
+        image: "/assets/small-apartment-08.webp"
+      },
+      {
+        title: "9. Use the Corners of Your Apartment",
+        content: "An awkward corner does not have to remain unused. Depending on the location, you can turn it into a reading nook, workspace, plant corner, storage area, or small dressing station.\n\nEven a narrow corner can become useful with the right furniture.",
+        image: "/assets/small-apartment-09.webp"
+      },
+      {
+        title: "10. Choose Furniture With Exposed Legs",
+        content: "Furniture with visible legs allows more of the floor to remain visible, which can make a small room feel lighter and less crowded.\n\nInstead of bulky furniture that reaches all the way to the floor, consider sofas, chairs, cabinets, and beds with a raised design.",
+        image: "/assets/small-apartment-10.webp"
+      },
+      {
+        title: "11. Use Sliding Doors",
+        content: "Traditional doors require space to swing open and closed. Sliding doors can free up that area and make a compact apartment easier to arrange.\n\nConsider sliding doors for bedrooms, bathrooms, closets, or even a small home office.",
+        image: "/assets/small-apartment-11.webp"
+      },
+      {
+        title: "12. Keep the Floor Clear",
+        content: "One of the simplest ways to make an apartment feel larger is to keep as much of the floor visible as possible. Wall mounted cabinets, floating consoles, hanging planters, and elevated furniture can help create this effect.\n\nA clear floor also makes cleaning easier and gives the room a more organized appearance.",
+        image: "/assets/small-apartment-12.webp"
+      },
+      {
+        title: "13. Use the Space Above Cabinets",
+        content: "The area above kitchen cabinets can provide additional storage for items that are not used every day. Attractive baskets and matching containers can keep this space organized while adding visual interest.\n\nJust make sure the area does not become a dumping ground for random belongings.",
+        image: "/assets/small-apartment-13.webp"
+      },
+      {
+        title: "14. Create a Gallery Wall Without Overcrowding",
+        content: "Artwork can add personality to a small apartment without taking up floor space. Instead of placing large decorative objects around the room, use the walls.\n\nA carefully arranged gallery wall can become a focal point while keeping the rest of the room relatively simple.",
+        image: "/assets/small-apartment-14.webp"
+      },
+      {
+        title: "15. Use a Storage Bench",
+        content: "A storage bench can provide seating and hidden storage at the same time. Place one near the entryway, underneath a window, or at the foot of the bed.\n\nUse the inside for shoes, bags, blankets, or other items that tend to create clutter.",
+        image: "/assets/small-apartment-15.webp"
+      },
+      {
+        title: "16. Make Your Entryway Work Harder",
+        content: "Even a tiny entrance can provide useful storage. Add wall hooks for coats and bags, a narrow shoe cabinet, a small mirror, and a tray for keys.\n\nKeeping these everyday items organized at the entrance prevents them from spreading throughout the apartment.",
+        image: "/assets/small-apartment-16.webp"
+      },
+      {
+        title: "17. Use Curtains From Ceiling to Floor",
+        content: "Hanging curtains close to the ceiling can make the walls appear taller and give a small apartment a more polished appearance.\n\nChoose lightweight curtains in a similar tone to the walls for a seamless look. This keeps the room feeling open rather than visually divided.",
+        image: "/assets/small-apartment-17.webp"
+      },
+      {
+        title: "18. Add Plants Without Losing Space",
+        content: "Plants bring life into an apartment, but large pots can quickly consume valuable floor space. Try hanging planters, narrow plant stands, wall mounted planters, or small plants placed on shelves.\n\nA few carefully chosen plants can add warmth without making the room feel crowded.",
+        image: "/assets/small-apartment-18.webp"
+      },
+      {
+        title: "19. Keep Clutter Under Control",
+        content: "The most effective small apartment idea is also one of the simplest: own fewer things and give everything a designated place.\n\nBefore adding more storage, look at what you already have. Remove items you rarely use, organize what remains, and avoid allowing surfaces to become permanent storage areas.\n\nA small apartment does not need to feel cramped. When the layout is intentional and the clutter is controlled, even a modest space can feel comfortable, stylish, and surprisingly spacious.",
+        image: "/assets/small-apartment-19.webp"
+      },
+      {
+        title: "Final Thoughts",
+        content: "Making a small apartment work is less about having more space and more about using the space you already have intelligently. Choose furniture carefully, use your walls, take advantage of hidden storage, and keep unnecessary clutter under control.\n\nYou do not need to completely redesign your apartment to make a difference. A few thoughtful changes can make your home easier to organize, more comfortable to live in, and much more attractive."
+      }
+    ]
+  },
+  {
+    id: "32",
+    slug: "trendy-apartment-decor-ideas-this-year",
+    title: "15 Trendy Apartment Decor Ideas to Try This Year",
+    excerpt: "Refresh your space with these 15 apartment decor ideas for this year, from warm color palettes to curved furniture, arched mirrors, and renter friendly upgrades.",
+    category: "Living Room",
+    image: "/assets/trendy-apartment-decor-01.webp",
+    sections: [
+      {
+        title: "1. Warm, Earthy Color Palettes",
+        content: "Cool grays and stark whites are giving way to warmer, richer neutrals this year. Think chocolate brown, cognac, terracotta, and soft clay tones. These colors make a small apartment feel cozy rather than clinical, and they pair well with almost any existing furniture since they act more like a backdrop than a bold statement.\n\nYou don't need to repaint to get this look. A few throw pillows, a warm toned rug, or even a set of ceramic vases in these shades can shift the whole feel of a room.\n\nTips:\n\nStart with one large item, like a rug or a couch throw, before adding smaller accents\n\nMix in a cream or off white to keep the palette from feeling too dark\n\nUse warm wood tones on shelves or side tables to tie the look together",
+        image: "/assets/trendy-apartment-decor-01.webp"
+      },
+      {
+        title: "2. Curved and Sculptural Furniture",
+        content: "Sharp angles are softening up. Curved sofas, rounded coffee tables, and organically shaped mirrors are showing up everywhere this year, and they work especially well in small apartments because they don't create hard corners that make a room feel boxed in.\n\nA single curved piece, like an accent chair or a sculptural side table, is often enough to shift the whole mood of a space without a full furniture overhaul.\n\nTips:\n\nOne curved statement piece is usually enough, you don't need to replace everything\n\nPair curves with straight lined shelving so the room still feels balanced\n\nLook for rounded silhouettes in lamps and mirrors if furniture budget is tight",
+        image: "/assets/trendy-apartment-decor-02.webp"
+      },
+      {
+        title: "3. Arched Mirrors as Statement Pieces",
+        content: "Arched and curved mirrors have become one of the easiest ways to add character to a rental. They bounce light around a room, make it feel taller, and work in almost any style of apartment, from minimal to eclectic.\n\nA large arched mirror leaning against a wall also solves a real apartment problem: you get a big design moment without drilling extra holes.\n\nTips:\n\nLean a large mirror against the wall instead of mounting it for a more relaxed look\n\nPlace it across from a window to bounce natural light deeper into the room\n\nChoose a slim metal frame in gold or black for a more current feel",
+        image: "/assets/trendy-apartment-decor-03.webp"
+      },
+      {
+        title: "4. Textured Removable Wallpaper",
+        content: "Since most renters can't paint or install permanent wallpaper, textured peel and stick options have become one of the most popular ways to add depth to a wall this year. Grasscloth style textures, subtle geometric patterns, and soft plaster effects are especially popular because they add dimension without feeling loud.\n\nTips:\n\nStick to one accent wall so the effect reads as intentional\n\nChoose a texture based wallpaper over a bold print if you want it to feel timeless\n\nTest a sample patch before committing, textures can look different once installed",
+        image: "/assets/trendy-apartment-decor-04.webp"
+      },
+      {
+        title: "5. Silver and Warm Metal Mixed Accents",
+        content: "Gold has had its moment for a while, and silver is stepping back into the spotlight this year, often mixed with warmer tones rather than used alone. Think silver picture frames next to a wood shelf, or a brushed steel lamp on a warm wood side table.\n\nTips:\n\nMix silver with warm woods so the look doesn't feel cold\n\nIntroduce it through small accessories first, like frames or trays, before committing to bigger pieces\n\nSwap out light switch plates for a quick, renter friendly update, just keep the originals to reinstall later",
+        image: "/assets/trendy-apartment-decor-05.webp"
+      },
+      {
+        title: "6. Playful Pattern Mixing",
+        content: "After a few years of minimalism, patterns are having a real comeback. Florals, checks, scalloped trims, and even grandmother inspired prints are showing up in pillows, bedding, and rugs. The trend is less about matching everything and more about layering patterns that feel collected over time.\n\nTips:\n\nAnchor the room in one solid color so patterns don't overwhelm the space\n\nMix scale, pair a small check with a larger floral print\n\nStart small with a pillow or two before committing to patterned curtains or a rug",
+        image: "/assets/trendy-apartment-decor-06.webp"
+      },
+      {
+        title: "7. Multi-Purpose Furniture for Flex Spaces",
+        content: "With more people working from home at least part time, furniture that can switch roles has become essential rather than a nice extra. A daybed that works as a sofa and a guest bed, a coffee table that rises to desk height, or an ottoman with hidden storage are all popular this year.\n\nTips:\n\nLook for furniture on wheels so you can reconfigure a room quickly\n\nChoose a low backed sofa if you need it to double as a room divider\n\nPrioritize hidden storage in any piece you buy for a small space",
+        image: "/assets/trendy-apartment-decor-07.webp"
+      },
+      {
+        title: "8. Thrifted and Reupholstered Finds",
+        content: "Buying new furniture isn't the only route anymore, and it's arguably fallen out of style. This year's decor conversation leans heavily on secondhand finds, vintage chairs reupholstered in a fresh fabric, and repurposed pieces that add character new furniture can't replicate.\n\nTips:\n\nLook for solid wood frames at thrift stores, they hold up best to reupholstering\n\nA bold fabric on a secondhand chair is a low cost way to add personality\n\nMix one or two vintage pieces into an otherwise modern room rather than going fully vintage",
+        image: "/assets/trendy-apartment-decor-08.webp"
+      },
+      {
+        title: "9. Natural, Raw Materials",
+        content: "Rattan, jute, linen, and unfinished wood continue to trend this year as people move toward materials that feel tactile and a little imperfect. These materials also tend to age well, which matters if you're furnishing an apartment you plan to stay in for a while.\n\nTips:\n\nLayer two or three natural textures in one room, like a jute rug with a rattan chair\n\nUse linen curtains instead of heavier fabric for a lighter, more relaxed feel\n\nLook for unfinished or lightly stained wood shelving over painted options",
+        image: "/assets/trendy-apartment-decor-09.webp"
+      },
+      {
+        title: "10. Moody Color Drenching",
+        content: "Not every apartment is going bright and airy this year. Moody, saturated rooms, sometimes called color drenching, where walls, trim, and even ceiling are painted the same deep tone, have become a favorite for bedrooms and small nooks that don't get much natural light anyway.\n\nTips:\n\nTry this in a smaller room first, like a bedroom or hallway, before committing a whole apartment\n\nUse removable paint alternatives like fabric panels if your lease doesn't allow painting\n\nAdd warm lighting to keep a dark room from feeling flat",
+        image: "/assets/trendy-apartment-decor-10.webp"
+      },
+      {
+        title: "11. Gallery Walls With Mismatched Frames",
+        content: "Gallery walls are still trending, but the look has shifted away from perfectly matched frame sets toward a more collected, mismatched arrangement. Different frame colors, sizes, and even a mix of art, photos, and small objects on shelves is what makes this feel current rather than dated.\n\nTips:\n\nLay the arrangement out on the floor before hanging anything\n\nMix in a small shelf or two among the frames instead of using only flat art\n\nUse removable adhesive hooks if you're not able to drill into the wall",
+        image: "/assets/trendy-apartment-decor-11.webp"
+      },
+      {
+        title: "12. Sculptural Statement Lighting",
+        content: "Lighting has become a bigger design focus this year, with sculptural table lamps, woven pendant shades, and mushroom shaped lamps showing up as the centerpiece of a room rather than an afterthought. A distinctive lamp can do the same work as a piece of art.\n\nTips:\n\nChoose one statement lamp per room rather than several competing pieces\n\nWarm toned bulbs suit the sculptural, cozy look better than bright white light\n\nA plug in pendant is a good option if you can't install permanent lighting",
+        image: "/assets/trendy-apartment-decor-12.webp"
+      },
+      {
+        title: "13. Layered Textiles and Boucle Fabrics",
+        content: "Boucle fabric, chunky knit throws, and layered textiles continue to be a favorite way to make a room feel warmer without changing any furniture. This works especially well over neutral or plain colored sofas and beds that could otherwise feel a bit flat.\n\nTips:\n\nLayer at least two textures, like a knit throw over a smooth linen sofa\n\nStick to a tight color range if you're layering more than three textiles at once\n\nBoucle throw pillows are an easy, low commitment way to try this trend",
+        image: "/assets/trendy-apartment-decor-13.webp"
+      },
+      {
+        title: "14. Greenery Corners With Decorative Planters",
+        content: "Plants haven't gone anywhere, but the way they're styled has changed. Instead of scattering a few pots around, this year's trend is grouping plants into one dedicated corner with varied planter heights and materials, turning it into an actual design feature.\n\nTips:\n\nGroup plants at different heights using stands, shelves, and floor placement\n\nMix planter materials, like a terracotta pot next to a woven basket planter\n\nChoose low light tolerant plants if the corner doesn't get direct sun",
+        image: "/assets/trendy-apartment-decor-14.webp"
+      },
+      {
+        title: "15. Curated Shelf and Tablescape Displays",
+        content: "The last big trend this year is intentional, curated displays on open shelves and side tables, mixing books, ceramics, small art objects, and personal items instead of leaving shelves empty or cluttered. It's a simple way to make a rented apartment feel personal without any construction.\n\nTips:\n\nGroup objects in odd numbers, like three or five, for a more natural look\n\nMix heights and textures, a tall vase next to a stack of books next to a small sculpture\n\nLeave some negative space so the display doesn't feel crowded",
+        image: "/assets/trendy-apartment-decor-15.webp"
+      },
+      {
+        title: "Final Thoughts",
+        content: "None of these ideas require a renovation or a big budget. Most of them come down to swapping textiles, adding one statement piece, or rearranging what you already own. Pick two or three that fit your space and your lease terms, and build from there rather than trying to do all 15 at once."
       }
     ]
   }

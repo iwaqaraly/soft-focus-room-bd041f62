@@ -1,7 +1,7 @@
 import { useParams, Link } from "react-router-dom";
 import PageLayout from "@/components/PageLayout";
 import { articles } from "@/data/articles";
-import { ArrowLeft } from "lucide-react";
+import { ArrowLeft, Check } from "lucide-react";
 import {
   Accordion,
   AccordionContent,
@@ -100,26 +100,68 @@ const ArticlePage = () => {
               </div>
             ) : (
               // Standard Vertical Layout for Wide Images
-              <div className="space-y-12">
-                {article.sections.map((section, index) => (
-                  <section key={index} className="space-y-4">
-                    <h2 className="text-xl md:text-2xl font-medium text-foreground">
-                      {section.title}
-                    </h2>
-                    {section.image && (
-                      <div className="overflow-hidden rounded-lg aspect-[16/9]">
-                        <img
-                          src={section.image}
-                          alt={section.title}
-                          className="w-full h-full object-cover"
-                        />
+              <div>
+                {article.sections.map((section, index) => {
+                  const paragraphs = section.content
+                    .split(/\n\n+/)
+                    .map((p) => p.trim())
+                    .filter(Boolean);
+                  const tipsIndex = paragraphs.findIndex((p) => /^tips:?$/i.test(p));
+                  const bodyParagraphs = tipsIndex === -1 ? paragraphs : paragraphs.slice(0, tipsIndex);
+                  const tips = tipsIndex === -1 ? [] : paragraphs.slice(tipsIndex + 1);
+
+                  return (
+                    <section
+                      key={index}
+                      className={`py-10 md:py-12 ${index !== 0 ? "border-t border-border/60" : "pt-0"}`}
+                    >
+                      <div className="flex items-center gap-3 mb-6">
+                        <span className="flex items-center justify-center w-10 h-10 rounded-full bg-primary/10 text-primary font-semibold text-sm shrink-0">
+                          {index + 1}
+                        </span>
+                        <h2 className="text-xl md:text-2xl font-medium text-foreground leading-tight">
+                          {section.title.replace(/^\d+\.\s*/, "")}
+                        </h2>
                       </div>
-                    )}
-                    <div className="text-muted-foreground leading-relaxed whitespace-pre-line">
-                      {section.content}
-                    </div>
-                  </section>
-                ))}
+
+                      {section.image && (
+                        <div className="group overflow-hidden rounded-2xl shadow-warm mb-6 w-3/4 mx-auto">
+                          <div className="aspect-[16/9]">
+                            <img
+                              src={section.image}
+                              alt={section.title}
+                              className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                            />
+                          </div>
+                        </div>
+                      )}
+
+                      <div className="space-y-4 pl-[52px]">
+                        {bodyParagraphs.map((paragraph, pIndex) => (
+                          <p key={pIndex} className="text-muted-foreground leading-relaxed">
+                            {paragraph}
+                          </p>
+                        ))}
+                      </div>
+
+                      {tips.length > 0 && (
+                        <div className="mt-6 ml-[52px] rounded-xl bg-muted/40 border border-border/60 p-6">
+                          <p className="text-xs font-semibold text-foreground uppercase tracking-wider mb-4">
+                            Tips
+                          </p>
+                          <ul className="space-y-3">
+                            {tips.map((tip, tIndex) => (
+                              <li key={tIndex} className="flex gap-3 text-muted-foreground leading-relaxed">
+                                <Check className="w-4 h-4 mt-1 text-primary shrink-0" />
+                                <span>{tip}</span>
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+                    </section>
+                  );
+                })}
               </div>
             )}
           </div>
