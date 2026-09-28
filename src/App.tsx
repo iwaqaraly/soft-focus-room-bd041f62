@@ -6,6 +6,7 @@ import { BrowserRouter, Routes, Route, Navigate, useParams } from "react-router-
 import { articles } from "@/data/articles";
 
 import Index from "./pages/Index";
+import Apartment from "./pages/Apartment";
 import Basement from "./pages/Basement";
 import Bathroom from "./pages/Bathroom";
 import Bedroom from "./pages/Bedroom";
@@ -37,6 +38,7 @@ const App = () => (
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Index />} />
+          <Route path="/apartment" element={<Apartment />} />
           <Route path="/basement" element={<Basement />} />
           <Route path="/bathroom" element={<Bathroom />} />
           <Route path="/bedroom" element={<Bedroom />} />
@@ -46,6 +48,7 @@ const App = () => (
           <Route path="/living-room" element={<LivingRoom />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
 
+          <Route path="/apartment/:slug" element={<ArticlePage />} />
           <Route path="/basement/:slug" element={<ArticlePage />} />
           <Route path="/bathroom/:slug" element={<ArticlePage />} />
           <Route path="/bedroom/:slug" element={<ArticlePage />} />
