@@ -3132,5 +3132,249 @@ export const articles: Article[] = [
         answer: "Yes, labels make it easier for everyone in the household to find items and put them back correctly. They also help you notice at a glance when a staple like flour or rice is running low."
       }
     ]
+  },
+  {
+    id: "37",
+    slug: "cloffice-ideas-home-office",
+    title: "13 Cloffice Ideas to Inspire Your Home Office",
+    excerpt: "Turn an unused closet into a functional home office with these desk, lighting, storage, and decor ideas for compact workspaces.",
+    category: "Home Office",
+    image: "/assets/cloffice-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Add a Simple Floating Desk",
+        content: "A floating desk is one of the easiest ways to create a cloffice without making the space feel crowded. Choose a slim wooden or white desk that fits between the closet walls and leaves enough room for a comfortable chair.\n\nKeep the desktop relatively clear. A laptop, small lamp, notebook, and a few useful accessories may be all you need for a clean workspace.",
+        image: "/assets/cloffice-01.webp"
+      },
+      {
+        title: "2. Use the Vertical Space",
+        content: "Closets usually have more vertical space than floor space, so make the walls work harder. Install shelves above the desk for books, storage boxes, small plants, and office supplies.\n\nFloating shelves can also make the workspace feel more intentional while keeping everyday items within reach.",
+        image: "/assets/cloffice-02.webp"
+      },
+      {
+        title: "3. Create a Cozy Built In Office",
+        content: "If you own your home or are comfortable making permanent changes, consider turning the closet into a built in workspace. A fitted desk, wall shelving, and integrated cabinets can make the entire area look like it was designed specifically for working.\n\nChoose materials that complement the surrounding room so the cloffice feels connected to the rest of your home.",
+        image: "/assets/cloffice-03.webp"
+      },
+      {
+        title: "4. Paint the Back Wall",
+        content: "A fresh coat of paint can completely change a small cloffice. Try a warm neutral, muted green, soft blue, or another color that works with your existing decor.\n\nPainting the back wall a different shade can also give the workspace its own identity without making the entire room feel visually busy.",
+        image: "/assets/cloffice-04.webp"
+      },
+      {
+        title: "5. Install Good Task Lighting",
+        content: "Closets often have limited natural light, which makes proper lighting especially important. Add a wall mounted lamp, adjustable desk lamp, or slim overhead fixture to brighten the workspace.\n\nWarm white lighting can create a comfortable atmosphere, while a brighter task light can make reading and computer work easier.",
+        image: "/assets/cloffice-05.webp"
+      },
+      {
+        title: "6. Choose a Comfortable Chair",
+        content: "A beautiful desk does not help much if the chair is uncomfortable. Look for a chair that fits the proportions of your cloffice while still providing enough support for your back.\n\nIf space is limited, a compact upholstered chair can provide a softer look than a traditional office chair.",
+        image: "/assets/cloffice-06.webp"
+      },
+      {
+        title: "7. Add Closed Storage",
+        content: "Open shelving looks attractive, but too many visible items can quickly make a small cloffice look cluttered. Add baskets, drawers, or cabinets to hide paperwork, cables, stationery, and other supplies.\n\nUsing matching storage containers can also create a more cohesive appearance.",
+        image: "/assets/cloffice-07.webp"
+      },
+      {
+        title: "8. Try a Moody Cloffice",
+        content: "A cloffice does not have to be bright and minimalist. Darker colors can create a sophisticated workspace, particularly when combined with warm lighting and natural wood.\n\nDeep green, charcoal, navy, and warm brown can give the space a cozy library inspired feel without requiring much decoration.",
+        image: "/assets/cloffice-08.webp"
+      },
+      {
+        title: "9. Bring in Natural Elements",
+        content: "Plants, wood, woven baskets, and natural fabrics can soften the appearance of a compact office. Even a small potted plant on the desk or a trailing plant on a shelf can make the workspace feel more inviting.\n\nNatural materials work particularly well with neutral walls and simple furniture.",
+        image: "/assets/cloffice-09.webp"
+      },
+      {
+        title: "10. Make a Small Gallery Wall",
+        content: "Use the wall above the desk to display a few pieces of artwork, photography, prints, or personal photographs. Keep the collection relatively small so the space does not feel overwhelmed.\n\nA coordinated gallery wall can make a cloffice feel more like part of your home rather than a workspace squeezed into a closet.",
+        image: "/assets/cloffice-10.webp"
+      },
+      {
+        title: "11. Use a Pegboard for Organization",
+        content: "A pegboard can provide flexible storage without taking up valuable desk space. Use it to organize headphones, scissors, notebooks, cables, small baskets, and other frequently used items.\n\nThe biggest advantage is flexibility. You can move the hooks and shelves around as your needs change.",
+        image: "/assets/cloffice-11.webp"
+      },
+      {
+        title: "12. Add Curtains for a Hidden Office",
+        content: "If you want the option to hide your workspace, install a curtain across the closet opening. When the curtain is closed, your office disappears from view.\n\nChoose a fabric that complements the room. Linen or cotton curtains can create a relaxed look, while heavier fabric can give the area a more polished appearance.",
+        image: "/assets/cloffice-12.webp"
+      },
+      {
+        title: "13. Make the Cloffice Feel Like You",
+        content: "The best cloffice is one that reflects how you actually work and what you enjoy looking at. Add a favorite piece of artwork, a small collection of books, a desk accessory you love, or a few personal objects.\n\nThe goal is not to fill every inch of the closet. A few intentional details can make a tiny workspace feel comfortable, practical, and distinctly yours.",
+        image: "/assets/cloffice-13.webp"
+      },
+      {
+        title: "How to Make a Cloffice Work in a Small Space",
+        content: "Before designing your cloffice, measure the closet carefully. Pay attention to the width, depth, ceiling height, electrical outlets, and available lighting.\n\nPrioritize the things you actually need for work. If you mainly use a laptop, you may only need a narrow desk and a small amount of storage. If you use a monitor, printer, or other equipment, plan the layout around those items before buying furniture.\n\nIt is also worth keeping cables under control. Cable clips, under desk trays, and simple cable boxes can prevent wires from becoming the most noticeable part of your workspace.\n\nFinally, avoid filling the cloffice simply because you have the space. A small office usually feels better when every item has a purpose."
+      }
+    ],
+    faqs: [
+      {
+        question: "What is a cloffice?",
+        answer: "A cloffice is a closet that has been converted into a small home office, usually with a compact desk, shelving, and task lighting. It is a popular solution in apartments and homes where a dedicated office room is not available."
+      },
+      {
+        question: "How much space do I need for a cloffice?",
+        answer: "Most cloffices work in closets as narrow as two to three feet wide, as long as there is enough depth for a slim desk and a chair. Measuring the width, depth, and ceiling height first helps you choose furniture that actually fits."
+      },
+      {
+        question: "How do I add lighting to a closet office?",
+        answer: "Since closets often lack natural light, a wall mounted lamp, adjustable desk lamp, or slim overhead fixture works best. Warm white bulbs create a comfortable atmosphere, while a brighter task light makes computer work easier on the eyes."
+      },
+      {
+        question: "Can I hide a cloffice when I am not using it?",
+        answer: "Yes, installing a curtain or set of doors across the closet opening lets you close off the workspace whenever you want it out of sight. Linen or cotton curtains give a relaxed look, while heavier fabric or doors offer a more polished, hidden finish."
+      },
+      {
+        question: "How do I keep a small cloffice from feeling cluttered?",
+        answer: "Rely on closed storage such as baskets, drawers, or cabinets for paperwork and cables, and keep open shelving limited to a few intentional items. Prioritizing only what you actually use for work prevents the space from feeling crowded."
+      }
+    ]
+  },
+  {
+    id: "38",
+    slug: "affordable-apartment-essentials-worth-buying",
+    title: "21 Affordable Apartment Essentials Worth Buying",
+    excerpt: "Practical, budget-friendly picks for storage, the kitchen, cleaning, and everyday comfort that make a new apartment feel like home.",
+    category: "Apartment",
+    image: "/assets/affordable-apartment-essentials-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Storage Baskets",
+        content: "Storage baskets are one of the easiest ways to control everyday clutter. They can hold blankets, towels, cleaning supplies, accessories, or anything else that tends to end up scattered around your apartment.\n\nLook for simple baskets that can slide onto shelves, fit inside cabinets, or sit neatly beside furniture. Neutral colors also make them easy to work into almost any room.",
+        image: "/assets/affordable-apartment-essentials-01.webp"
+      },
+      {
+        title: "2. Over the Door Hooks",
+        content: "Over the door hooks give you extra storage without requiring drilling or permanent installation. They are particularly useful in small apartments where wall and closet space can be limited.\n\nUse them for jackets, handbags, towels, robes, hats, or everyday items you want to keep within easy reach.",
+        image: "/assets/affordable-apartment-essentials-02.webp"
+      },
+      {
+        title: "3. A Compact Shoe Rack",
+        content: "Shoes can make an entryway look messy surprisingly quickly. A compact shoe rack gives every pair a designated place while keeping the floor easier to clean.\n\nChoose a narrow design if your entrance is small. A vertical shoe rack can be especially useful when floor space is limited.",
+        image: "/assets/affordable-apartment-essentials-03.webp"
+      },
+      {
+        title: "4. Reusable Food Storage Containers",
+        content: "A good set of food storage containers can make your kitchen more organized and reduce food waste. They are useful for leftovers, meal preparation, snacks, dry ingredients, and packed lunches.\n\nClear containers are particularly convenient because you can see what is inside without opening every container.",
+        image: "/assets/affordable-apartment-essentials-04.webp"
+      },
+      {
+        title: "5. Basic Cookware Set",
+        content: "You do not need a huge collection of cookware when you first move into an apartment. A basic set containing a frying pan, saucepan, and larger pot can handle most everyday meals.\n\nIf you cook regularly, spend a little more on pieces you will use frequently rather than buying a large inexpensive set filled with items you rarely need.",
+        image: "/assets/affordable-apartment-essentials-05.webp"
+      },
+      {
+        title: "6. Multipurpose Cleaning Spray",
+        content: "A reliable multipurpose cleaner is an inexpensive apartment essential that earns its place quickly. It can be used on many common household surfaces, including countertops, tables, and other washable areas.\n\nKeeping one bottle in an easy to reach location makes it simpler to deal with spills and everyday messes before they build up.",
+        image: "/assets/affordable-apartment-essentials-06.webp"
+      },
+      {
+        title: "7. Microfiber Cleaning Cloths",
+        content: "Microfiber cloths are inexpensive, reusable, and useful throughout the apartment. Keep a few in the kitchen, bathroom, and cleaning cupboard so you always have one available.\n\nThey can be used for wiping counters, cleaning mirrors, dusting furniture, and handling small spills.",
+        image: "/assets/affordable-apartment-essentials-07.webp"
+      },
+      {
+        title: "8. A Small Toolkit",
+        content: "Every apartment needs a basic toolkit. Even if you are not particularly handy, a screwdriver, hammer, measuring tape, pliers, and a few common screws can solve many small household problems.\n\nYou may not use the toolkit every week, but having one available can save you from searching for tools whenever something needs a quick fix.",
+        image: "/assets/affordable-apartment-essentials-08.webp"
+      },
+      {
+        title: "9. Power Strip With USB Ports",
+        content: "Modern apartments often have more devices than available outlets. A power strip with USB ports can make it much easier to charge phones, tablets, laptops, and other electronics in one convenient location.\n\nChoose one with built in safety features and enough spacing between outlets for larger plugs.",
+        image: "/assets/affordable-apartment-essentials-09.webp"
+      },
+      {
+        title: "10. Bedside Lamp",
+        content: "A small bedside lamp can make a bedroom feel more comfortable while giving you softer lighting at night.\n\nIt is also more practical than relying entirely on a bright ceiling light when you want to read, use your phone, or get ready for bed.",
+        image: "/assets/affordable-apartment-essentials-10.webp"
+      },
+      {
+        title: "11. Full Length Mirror",
+        content: "A full length mirror is both practical and decorative. It lets you check an outfit before leaving and can also make a smaller room feel brighter and more open.\n\nIf floor space is limited, consider a wall mounted or over the door mirror.",
+        image: "/assets/affordable-apartment-essentials-11.webp"
+      },
+      {
+        title: "12. Shower Caddy",
+        content: "A shower caddy keeps shampoo, soap, skincare products, and other bathroom essentials organized in one place.\n\nIt is particularly useful if your apartment bathroom has limited storage. Choose a rust resistant option designed for damp environments.",
+        image: "/assets/affordable-apartment-essentials-12.webp"
+      },
+      {
+        title: "13. Laundry Hamper",
+        content: "A laundry hamper gives dirty clothes a designated home instead of letting them collect on chairs, floors, or the side of the bed.\n\nA lightweight hamper with handles is especially convenient because you can easily carry it to the washing machine.",
+        image: "/assets/affordable-apartment-essentials-13.webp"
+      },
+      {
+        title: "14. Basic First Aid Kit",
+        content: "A basic first aid kit is one of those apartment essentials you may not think about until you need it.\n\nKeep common supplies such as adhesive bandages, gauze, antiseptic supplies, and other basic items together in one clearly labeled container. Check it occasionally and replace anything that has expired or been used.",
+        image: "/assets/affordable-apartment-essentials-14.webp"
+      },
+      {
+        title: "15. Reusable Water Bottle",
+        content: "A reusable water bottle is useful at home, at work, and while running errands. Instead of buying individual bottles throughout the week, you can refill one whenever needed.\n\nChoose a bottle that is easy to clean and comfortable enough to carry every day.",
+        image: "/assets/affordable-apartment-essentials-15.webp"
+      },
+      {
+        title: "16. Small Waste Bins",
+        content: "One large trash can is not always enough for an apartment. Smaller waste bins can be useful in the bathroom, bedroom, home office, or other rooms where you regularly generate small amounts of waste.\n\nCompact bins take up little space and make it easier to keep individual rooms tidy.",
+        image: "/assets/affordable-apartment-essentials-16.webp"
+      },
+      {
+        title: "17. Drawer Organizers",
+        content: "Drawers can quickly become chaotic when small items are thrown together. Drawer organizers divide the space into sections so you can keep things such as utensils, socks, accessories, stationery, or personal items separated.\n\nThey are inexpensive and particularly helpful when you are working with limited storage.",
+        image: "/assets/affordable-apartment-essentials-17.webp"
+      },
+      {
+        title: "18. Blackout Curtains",
+        content: "Blackout curtains can make a bedroom more comfortable by reducing incoming light. They can also provide additional privacy and help create a darker environment for sleeping.\n\nYou do not need expensive curtains to get the benefit. Look for simple, well fitting panels that complement the room.",
+        image: "/assets/affordable-apartment-essentials-18.webp"
+      },
+      {
+        title: "19. A Small Step Stool",
+        content: "A compact step stool is surprisingly useful in an apartment. It can help you reach high shelves, change light bulbs, clean upper cabinets, or access storage areas.\n\nA foldable model is ideal if you have limited closet or storage space.",
+        image: "/assets/affordable-apartment-essentials-19.webp"
+      },
+      {
+        title: "20. Basic Kitchen Utensils",
+        content: "A few reliable kitchen utensils can cover most everyday cooking tasks. Start with essentials such as a spatula, wooden spoon, tongs, can opener, peeler, and measuring cups.\n\nThere is no need to buy every kitchen gadget at once. Add specialized tools later when you know you actually need them.",
+        image: "/assets/affordable-apartment-essentials-20.webp"
+      },
+      {
+        title: "21. A Comfortable Throw Blanket",
+        content: "A comfortable throw blanket is an inexpensive way to make a living room or bedroom feel more inviting. Keep one on the sofa for cooler evenings or use it as an extra layer on the bed.\n\nChoose a material that feels comfortable and a color that works with your existing furniture. A simple blanket can add warmth without requiring a major decorating budget.",
+        image: "/assets/affordable-apartment-essentials-21.webp"
+      },
+      {
+        title: "How to Choose Affordable Apartment Essentials",
+        content: "The cheapest option is not always the best value. When deciding what to buy, think about how frequently you will use the item, how much space it takes up, and whether it solves a problem you actually have.\n\nStart with essentials that improve your daily routine. Storage, basic kitchen equipment, cleaning supplies, lighting, and a few practical household tools are usually more useful than decorative purchases when you are setting up an apartment.\n\nIt is also worth buying fewer items of better quality when something will be used frequently. A durable frying pan or a sturdy laundry hamper can be more worthwhile than repeatedly replacing cheap versions.\n\nMost importantly, do not feel pressured to furnish your entire apartment immediately. Buy the things you need first, live in the space for a while, and then see what is missing."
+      }
+    ],
+    faqs: [
+      {
+        question: "What are the most important apartment essentials to buy first?",
+        answer: "Prioritize storage baskets, basic cookware, cleaning supplies, and a laundry hamper before anything decorative. These items solve everyday problems immediately and make the rest of the apartment easier to keep organized."
+      },
+      {
+        question: "How can I furnish an apartment on a tight budget?",
+        answer: "Focus on inexpensive, multipurpose items like over-the-door hooks, drawer organizers, and microfiber cloths, and spend a little more only on things you will use daily, such as cookware or a mattress. Add specialty items later once you know what you actually need."
+      },
+      {
+        question: "Do I need a full toolkit for an apartment?",
+        answer: "A small toolkit with a screwdriver, hammer, measuring tape, pliers, and a few screws covers most apartment needs, from assembling furniture to hanging shelves. You do not need a large or professional-grade set."
+      },
+      {
+        question: "What storage solutions work best in a small apartment?",
+        answer: "Storage baskets, over-the-door hooks, drawer organizers, and a compact shoe rack make the most of limited space without requiring permanent changes. These renter-friendly options can also move with you to your next apartment."
+      },
+      {
+        question: "Is it worth buying cheap versions of everyday items?",
+        answer: "For items you use constantly, like cookware or a laundry hamper, better quality usually pays off over time. For items that are easy to replace or used less often, an affordable option is usually the smarter choice."
+      }
+    ]
   }
 ];
