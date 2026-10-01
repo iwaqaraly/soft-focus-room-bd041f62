@@ -37,7 +37,7 @@ const Index = () => {
       </section>
 
       {/* Warm decorative section */}
-      <section className="warm-gradient py-20">
+      <section id="rooms" className="warm-gradient py-20 scroll-mt-16">
         <div className="container mx-auto px-6 text-center">
           <div className="max-w-2xl mx-auto opacity-0 animate-fade-in">
             <h3 className="text-2xl md:text-3xl font-display text-foreground mb-4">
