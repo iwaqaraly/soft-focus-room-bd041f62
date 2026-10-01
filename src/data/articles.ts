@@ -2190,133 +2190,142 @@ export const articles: Article[] = [
     id: "28",
     slug: "floating-nightstand-ideas-small-room",
     date: "2026-02-03",
-    title: "Floating Nightstand Ideas 2026: 20 Small Room Solutions",
-    excerpt: "Discover 20 space-saving floating nightstand ideas perfect for small bedrooms. From minimal wood shelves to built-in charging stations.",
+    title: "20 Floating Nightstand Ideas for Small Bedrooms",
+    excerpt: "Wall-mounted shelves, drawers, corner units and ones with built-in lighting or USB ports: 20 floating nightstands that clear the floor beside the bed.",
+    intro: "A floating nightstand attaches to the wall, so the floor underneath stays clear for cleaning, a basket or a charging cable. It also suits a narrow room where a standard 18-inch cabinet would block the path.\n\nMount it so the top is level with or a couple of inches below the top of your mattress, usually 24 to 28 inches from the floor. Fix it into a stud or use anchors rated for the load, and check the weight limit before you put a lamp on it.",
     category: "Bedroom",
     image: "/assets/small-room-bedroom-01.webp",
     imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Minimal Wood Floating Shelf",
-        content: "A simple wooden floating shelf works perfectly as a nightstand in small bedrooms. Its slim profile keeps the floor clear, making the room feel larger and less cluttered.\n\nNatural wood adds warmth while staying lightweight visually. This idea is affordable, easy to install, and ideal for modern or minimalist spaces.",
+        content: "A solid wood shelf 10 to 12 inches deep and 16 to 20 inches wide holds a lamp, a glass and a book. Oak, walnut and pine are the common woods, and a simple oil finish keeps the grain visible.\n\nIt costs little to make from a pre-cut board and two hidden brackets, and takes under an hour.",
         image: "/assets/floating-nightstand-01.webp"
       },
       {
         title: "2. Wall-Mounted Drawer Nightstand",
-        content: "A floating nightstand with a built-in drawer offers hidden storage without taking up floor space. It keeps essentials organized and within easy reach.\n\nThis design is perfect for compact bedrooms where clutter control matters. Clean lines and neutral finishes enhance a modern look.",
+        content: "A small drawer under the top surface holds a phone charger, glasses and lotion. Choose a unit 14 to 18 inches wide with a soft-close runner, so the drawer doesn't bang at night.\n\nCheck the box is fixed with a French cleat or at least two screws into studs, since the drawer adds weight when it is full.",
         image: "/assets/floating-nightstand-02.webp"
       },
       {
         title: "3. Floating Nightstand with Open Cubby",
-        content: "An open cubby floating nightstand balances storage and style. It's great for books, small décor, or charging devices.\n\nOpen designs prevent the room from feeling heavy. They also make it easier to access everyday items in tight spaces.",
+        content: "A box with an open compartment suits a stack of books and a charging cable. It gives you quick access without opening a drawer.\n\nPlace a small tray or basket in the cubby to stop small items from rolling around.",
         image: "/assets/floating-nightstand-03.webp"
       },
       {
         title: "4. Corner Floating Nightstand",
-        content: "Corner-mounted floating nightstands maximize unused space. They fit perfectly in small rooms where traditional furniture feels bulky.\n\nThis clever placement improves layout efficiency. It's especially helpful for narrow bedrooms or tight layouts.",
+        content: "In a room where the bed sits in a corner, a triangular or quarter-round shelf makes use of the space that a rectangular table would waste. It holds a lamp and a phone.\n\nMeasure the corner carefully, because walls are seldom a perfect 90 degrees.",
         image: "/assets/floating-nightstand-04.webp"
       },
       {
         title: "5. Floating Nightstand with USB Ports",
-        content: "A wall-mounted nightstand with built-in USB ports keeps cords off the floor. It supports modern tech needs without extra accessories.\n\nThis feature adds convenience and future-proof functionality. It's ideal for minimal, tech-friendly bedrooms.",
+        content: "Some wall-mounted units include USB-A and USB-C ports, wired into the wall or powered from a nearby outlet. This keeps cables off the floor and reduces the need for a power strip.\n\nHardwiring needs an electrician. Plug-in versions with a cord are simpler for renters.",
         image: "/assets/floating-nightstand-05.webp"
       },
       {
         title: "6. Glass Floating Nightstand",
-        content: "Glass floating nightstands reflect light and create an airy look. They visually disappear, making small rooms feel open.\n\nThis sleek option works well in modern or luxury interiors. It's best for minimal storage needs.",
+        content: "A glass shelf in tempered glass, 6 to 8 mm thick, is almost invisible against a wall. It suits a small room where you want the lightest possible look.\n\nIt shows dust and fingerprints, so keep a cloth nearby. Add a coaster or a felt pad to stop the lamp sliding.",
         image: "/assets/floating-nightstand-06.webp"
       },
       {
         title: "7. Floating Nightstand with Shelf + Drawer",
-        content: "Combining an open shelf with a drawer offers both display and hidden storage. It keeps bedtime essentials organized.\n\nThis hybrid design is practical for small bedrooms. It balances functionality and clean aesthetics.",
+        content: "A shelf with a drawer beneath it lets you display a lamp and a book on top while the drawer hides items such as medication, tissues and a notebook.\n\nA unit 12 inches deep and 20 inches wide is a good starting size.",
         image: "/assets/floating-nightstand-07.webp"
       },
       {
         title: "8. Slim Metal Floating Nightstand",
-        content: "Metal floating nightstands add a modern, industrial edge. Their slim profiles suit compact rooms perfectly.\n\nDark finishes contrast beautifully with light walls. This style is durable and visually light.",
+        content: "Steel or aluminum shelves with a powder-coated finish are thin and strong. Black suits light walls, and white or brass suit darker ones.\n\nA 1/8 inch steel shelf will carry more weight than a wooden one of the same size, and it takes up less space.",
         image: "/assets/floating-nightstand-08.webp"
       },
       {
         title: "9. Floating Nightstand for Kids' Rooms",
-        content: "Floating nightstands keep floors clear in kids' bedrooms. Rounded edges and soft finishes enhance safety.\n\nThey make cleaning easier and save space. This solution grows with the child's needs.",
+        content: "For a child, choose a unit with rounded corners and a low lip to prevent items from falling. Mount it at a height they can reach from bed, around 20 to 24 inches from the floor.\n\nUse tip-resistant wall anchors, and keep heavy lamps off it.",
         image: "/assets/floating-nightstand-09.webp"
       },
       {
         title: "10. Floating Nightstand with Hidden Charging",
-        content: "Hidden charging compartments keep cables organized and out of sight. The surface stays clutter-free.\n\nThis idea improves both function and aesthetics. It's perfect for modern small bedrooms.",
+        content: "A hollow shelf or a unit with a lid can hide a wireless charging pad, a charging hub and the cables. Wireless pads work through up to about half an inch of wood.\n\nLeave a cable hole at the back so that the cord can pass to the outlet.",
         image: "/assets/floating-nightstand-10.webp"
       },
       {
         title: "11. Natural Wood Slab Nightstand",
-        content: "Live-edge wood slabs bring organic beauty to small rooms. Floating installation keeps the design light.\n\nThis adds warmth without bulk. It works well in modern rustic interiors.",
+        content: "A slab of walnut, oak or maple with a natural edge, mounted on hidden brackets, gives a plain room a strong element. A piece 2 inches thick is sturdy enough for a lamp.\n\nSeal the surface with hardwax oil so it resists water rings from a glass.",
         image: "/assets/floating-nightstand-11.webp"
       },
       {
         title: "12. Floating Nightstand with LED Lighting",
-        content: "Built-in LED lighting adds ambiance and night-time visibility. It reduces the need for table lamps.\n\nThis feature saves space and enhances mood. It's ideal for contemporary bedrooms.",
+        content: "Some units come with LED strips under the shelf that shine on the floor or the wall. This provides a soft night light and means you can skip the lamp.\n\nChoose a warm white of 2700K to 3000K, and one with a dimmer or a motion sensor.",
         image: "/assets/floating-nightstand-12.webp"
       },
       {
         title: "13. Minimal Box-Style Nightstand",
-        content: "A simple box-style floating nightstand offers clean lines and subtle storage. Its shape blends seamlessly with modern décor.\n\nThis design keeps small rooms tidy. It's both functional and understated.",
+        content: "A plain box in painted MDF or plywood, 14 inches wide and 8 inches high, is a simple form that suits any style. A hollow box can hide a power strip.\n\nPaint it the same color as the wall to make it recede.",
         image: "/assets/floating-nightstand-13.webp"
       },
       {
         title: "14. Two-Tier Floating Nightstand",
-        content: "Two-tier designs provide extra storage without adding bulk. One level holds essentials, the other décor.\n\nThis layout maximizes vertical space. It's ideal for compact bedrooms.",
+        content: "Two shelves, one above the other, give you a surface for a lamp and a lower level for books or a basket. Keep the gap between them at 10 to 12 inches.\n\nFix both shelves to the wall separately, and avoid stacking too much weight on the upper one.",
         image: "/assets/floating-nightstand-14.webp"
       },
       {
         title: "15. Floating Nightstand with Soft Rounded Edges",
-        content: "Rounded designs soften the look of small bedrooms. They feel less imposing than sharp-edged furniture.\n\nThis style improves flow and safety. It's great for tight layouts.",
+        content: "A shelf with rounded corners or a curved front is gentler if you bump into it in the dark. A half-moon or pill shape suits a curved headboard.\n\nCheck the radius is large enough to be noticeable, at least 2 inches.",
         image: "/assets/floating-nightstand-15.webp"
       },
       {
         title: "16. Matte White Floating Nightstand",
-        content: "White floating nightstands blend into walls for a seamless look. They visually expand the room.\n\nThis option suits minimalist and Scandinavian styles. It's perfect for small spaces.",
+        content: "A white shelf on a white wall barely shows, which helps in a very small room. Use a satin or matte finish to hide fingerprints.\n\nMatch the white to the wall color if possible, because many shades of white look different next to each other.",
         image: "/assets/floating-nightstand-16.webp"
       },
       {
         title: "17. Floating Nightstand with Bookshelf Design",
-        content: "A bookshelf-style floating nightstand stores reading material vertically. It keeps surfaces uncluttered.\n\nThis design is practical for book lovers. It adds function without sacrificing space.",
+        content: "A narrow shelf with a lip along the front keeps a short stack of books standing up. A depth of 6 to 8 inches is enough, and a width of 24 inches holds around 10 paperbacks.\n\nFix a small bookend at one end to stop them sliding.",
         image: "/assets/floating-nightstand-17.webp"
       },
       {
         title: "18. Reclaimed Wood Floating Nightstand",
-        content: "Reclaimed wood adds character and sustainability. Floating placement keeps it visually light.\n\nThis idea adds texture and story to small rooms. It works well with earthy décor.",
+        content: "Reclaimed barn wood, scaffold boards and old floorboards add age and texture. Sand and seal them to avoid splinters and stains.\n\nCheck the wood is dry and free of insects, and expect natural knots and cracks.",
         image: "/assets/floating-nightstand-18.webp"
       },
       {
         title: "19. Ultra-Slim Floating Shelf Nightstand",
-        content: "Ultra-slim shelves are ideal for tight bedrooms. They hold essentials without overwhelming the wall.\n\nThis design keeps the room open and minimal. It's budget-friendly and stylish.",
+        content: "A shelf only 4 to 6 inches deep holds a phone, glasses and a small lamp. It suits a narrow room where even a shallow table would stick out.\n\nChoose a thick enough board, at least 3/4 inch, so it doesn't sag.",
         image: "/assets/floating-nightstand-19.webp"
       },
       {
-        title: "20. Custom Built-In Floating Nightstand",
-        content: "Custom-built floating nightstands fit perfectly into awkward spaces. They align with bed height and room layout.\n\nThis solution maximizes every inch. It adds tailored luxury and long-term value.",
+        title: "20. Custom-Built Floating Nightstand",
+        content: "A carpenter can build a nightstand to fit an awkward gap, align with the bed height and include storage, lighting and a cable channel. It costs more than a ready-made shelf.\n\nTake measurements and a photo of the space, and ask for a sample of the finish.",
         image: "/assets/floating-nightstand-20.webp"
+      },
+      {
+        title: "Installing a Floating Nightstand",
+        content: "Find the studs with a stud finder and mount at least one bracket into a stud. In a plasterboard wall without a stud, use toggle bolts or similar anchors rated for twice the weight you plan to place on it.\n\nCheck the height with the mattress in place, and mark with a level. Test the load by pressing down on it before you put a lamp on it.\n\nIf you rent, ask your landlord about small holes. Adhesive-mounted shelves exist, but they hold less weight and are best for a light phone shelf."
       }
     ],
     faqs: [
       {
-        question: "Are floating nightstands strong enough to hold items?",
-        answer: "Yes, properly installed floating nightstands can hold lamps, books, and small accessories. Most support 15-30 pounds depending on wall anchors and construction. Always follow manufacturer weight limits and use appropriate mounting hardware for your wall type."
+        question: "Are floating nightstands strong enough?",
+        answer: "A well-installed unit can hold 15 to 30 pounds, enough for a lamp, books and a glass. The limit depends on the bracket, the wall and whether it is fixed to a stud. Always follow the maker's weight rating."
       },
       {
-        question: "What is the ideal height for a floating nightstand?",
-        answer: "The ideal height is level with or slightly below your mattress top, typically 24-28 inches from the floor. This allows easy access to items while lying in bed. Measure your specific bed height before installation."
+        question: "How high should a floating nightstand be?",
+        answer: "The top should be level with or slightly below your mattress, usually 24 to 28 inches from the floor. Measure your bed first and mark the wall before drilling."
       },
       {
-        question: "Can floating nightstands work in rental apartments?",
-        answer: "Yes, but check your lease for wall-mounting restrictions. Some landlords allow small holes that can be patched. Alternatively, look for adhesive-mounted or tension-mounted options that don't require drilling."
+        question: "Can I use one in a rental?",
+        answer: "Check your lease. Many landlords allow small screw holes, which can be filled when you move out. Adhesive-mounted units are available for light loads."
       },
       {
-        question: "What materials work best for floating nightstands?",
-        answer: "Wood, MDF, and metal are popular choices. Solid wood offers durability and warmth, while MDF provides affordability with clean finishes. Metal suits industrial or modern styles and is very durable."
+        question: "What materials work best?",
+        answer: "Solid wood is strong and repairable, plywood and MDF are cheaper and take paint well, and metal is slim and tough. Glass is light-looking but shows dust."
       },
       {
-        question: "How do I hide cords with a floating nightstand?",
-        answer: "Choose nightstands with built-in cable management or cut-outs for cords. You can also run cables along the wall edge or use cord covers. Some designs include hidden charging compartments for a completely clean look."
+        question: "How do I deal with cables?",
+        answer: "Choose a unit with a cable hole or channel, run cords behind the nightstand and use adhesive clips along the wall. A plug-in lamp with a switch on the cord is easy to reach."
+      },
+      {
+        question: "How deep should a floating nightstand be?",
+        answer: "10 to 12 inches suits a lamp and a book. In a very narrow room, 6 to 8 inches holds a phone and a glass."
       }
     ]
   },
@@ -2324,8 +2333,9 @@ export const articles: Article[] = [
     id: "29",
     slug: "boho-gallery-wall-decor-ideas",
     date: "2026-09-25",
-    title: "Boho Gallery Wall Decor: 15 Ideas for a Stylish Home",
+    title: "15 Boho Gallery Wall Ideas Using Rattan, Macrame, Botanicals and Mixed Frames",
     excerpt: "Learn how to build an effortless, collected-over-years boho gallery wall with 15 ideas that layer texture, shape, and natural materials.",
+    intro: "A boho gallery wall is meant to look gathered over time: mismatched frames, a woven piece, something dried or pressed. That is easier to get right if you plan the layout before any nails go in.\n\nYou don't need all fifteen ideas. Three or four, repeated at different sizes, will give you a wall that looks collected rather than cluttered.",
     category: "Living Room",
     image: "/assets/boho-gallery-wall-01.webp",
     imageAspectRatio: "1:1",
@@ -2404,6 +2414,10 @@ export const articles: Article[] = [
         title: "15. A Neutral, Almost Monochrome Wall",
         content: "For a quieter take on boho, stick entirely to cream, sand, and taupe, and let texture do the work instead of color. Mixing matte ceramics, woven pieces, and plain wood frames in the same tonal family still feels rich, just calmer.",
         image: "/assets/boho-gallery-wall-15.webp"
+      },
+      {
+        title: "Hanging It Without Regrets",
+        content: "Cut paper templates for each frame and tape them to the wall. Move them around until the spacing works, and keep about 2 to 3 inches between pieces.\n\nHang the center of the group at around 57 inches from the floor, and above a sofa keep the bottom edge 6 to 8 inches above the back. Heavy pieces such as a large macrame hanging or a mirror need proper anchors."
       }
     ],
     faqs: [
