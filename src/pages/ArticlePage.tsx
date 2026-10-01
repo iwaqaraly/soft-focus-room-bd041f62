@@ -13,6 +13,10 @@ import {
 // such as "Final Thoughts" are plain headings.
 const isNumbered = (title: string) => /^\d+\.\s/.test(title);
 
+// Describes the image by its own subject ("Soft Beige Sofa") rather than the article title.
+const imageAlt = (sectionTitle: string, articleTitle: string) =>
+  `${sectionTitle.replace(/^\d+\.\s*/, "")} (${articleTitle.replace(/^(The Ultimate )?\d+\s+(Item\s+)?/i, "").split(":")[0]})`;
+
 const ArticlePage = () => {
   const { slug } = useParams<{ slug: string }>();
   const article = articles.find((a) => a.slug === slug);
@@ -94,7 +98,7 @@ const ArticlePage = () => {
                           <div className="aspect-square">
                             <img
                               src={section.image}
-                              alt={section.title}
+                              alt={imageAlt(section.title, article.title)}
                               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                             />
                           </div>
@@ -137,7 +141,7 @@ const ArticlePage = () => {
                           <div className="aspect-[16/9]">
                             <img
                               src={section.image}
-                              alt={section.title}
+                              alt={imageAlt(section.title, article.title)}
                               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                             />
                           </div>
