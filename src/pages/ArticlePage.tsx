@@ -68,6 +68,14 @@ const ArticlePage = () => {
           </header>
         </div>
 
+        {article.intro && (
+          <div className="max-w-4xl mx-auto mb-12 space-y-4 text-lg text-muted-foreground leading-relaxed">
+            {article.intro.split(/\n\n+/).map((p, i) => (
+              <p key={i}>{p}</p>
+            ))}
+          </div>
+        )}
+
         {/* Sections */}
         {article.sections && article.sections.length > 0 && (
           <div className={isSquareLayout ? "max-w-6xl mx-auto" : "max-w-4xl mx-auto"}>
