@@ -1481,142 +1481,147 @@ export const articles: Article[] = [
     id: "24",
     slug: "kitchen-counter-decor-ideas-transform-space",
     date: "2026-01-29",
-    title: "Kitchen Counter Decor: 21 Ideas to Transform Your Space",
-    excerpt: "Discover 21 stylish and functional ideas to elevate your kitchen countertops with décor that balances beauty and practicality.",
+    title: "21 Kitchen Counter Decor Ideas That Stay Practical",
+    excerpt: "Herb pots, leaning cutting boards, trays and canisters: 21 ways to style a kitchen counter without losing work space.",
+    intro: "A kitchen counter has to work first. A good rule is to leave at least 24 inches of clear counter next to the stove and the sink, and to decorate the rest with things you actually use.\n\nThe ideas below mix decoration with storage, so every object on the counter has a job: holding a utensil, growing a herb or keeping oil off the surface.",
     category: "Kitchen",
     image: "/assets/placeholder.svg",
     imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Fresh Herb Pots",
-        content: "Place small pots of fresh herbs like basil, rosemary, or mint on your counter. They add greenery, aroma, and easy access for cooking.\n\nHerb pots are both functional and decorative. Using colorful or minimalist pots can tie your kitchen's theme together, adding life to otherwise bare countertops.",
+        content: "Basil, mint, thyme and chives grow on a sunny windowsill or under a grow light. Use 4 to 6 inch pots with drainage holes and a saucer to protect the counter.\n\nBasil needs 6 hours of sun, while mint tolerates shade. Pinch the tops often to keep the plants bushy.",
         image: "/assets/kitchen-counter-01.webp"
       },
       {
         title: "2. Wooden Cutting Boards Display",
-        content: "Lean assorted wooden cutting boards against the backsplash. Mix shapes and sizes for texture and visual interest.\n\nThis adds warmth and natural elements. It also makes frequently used tools easily accessible while doubling as décor that complements rustic or modern kitchens.",
+        content: "Lean two or three boards against the backsplash behind the stove or sink, largest at the back. Wood boards with different grains and shapes look good together, and marble or ceramic ones add contrast.\n\nKeep the boards you use daily within reach, and oil wooden boards monthly so they don't crack.",
         image: "/assets/kitchen-counter-02.webp"
       },
       {
         title: "3. Stylish Fruit Bowl",
-        content: "Display fresh fruit in a decorative bowl. Choose vibrant colors like oranges, lemons, or apples to add a pop to your countertop.\n\nA fruit bowl is simple, functional, and adds life to your kitchen. It can also act as a centerpiece for casual dining areas.",
+        content: "Fruit in a wide bowl stays accessible, and it makes a quick centerpiece. Use a bowl with air gaps or a wire basket so fruit doesn't ripen too fast.\n\nKeep bananas separate, since they release gas that ripens everything else. Avoid putting tomatoes and onions in the same bowl.",
         image: "/assets/kitchen-counter-03.webp"
       },
       {
         title: "4. Glass Canisters",
-        content: "Use glass canisters to store dry ingredients like pasta, rice, or flour. Group them in varying heights for visual balance.\n\nGlass canisters are practical and stylish. Clear containers highlight contents and add a clean, organized aesthetic to your kitchen space.",
+        content: "Glass jars with airtight lids hold flour, rice, pasta and sugar, and let you see when you're running low. Choose 1.5 to 2 liter jars for flour, and smaller ones for sugar and oats.\n\nLabel the jars with a chalk marker or a sticker, including the date for items with a short shelf life.",
         image: "/assets/kitchen-counter-04.webp"
       },
       {
-        title: "5. Floating Spice Rack",
-        content: "Install a small spice rack or display spices in uniform jars. Organize by color, size, or label style for a polished look.\n\nSpice racks keep cooking essentials handy while enhancing décor. It's a simple way to combine functionality and style in one corner of the counter.",
+        title: "5. Spice Rack",
+        content: "Magnetic tins on a wall strip or a small riser on the counter keep spices at hand. Uniform jars with labels on the lids are easier to read than mismatched bottles.\n\nKeep spices away from the stove, as heat and light reduce their flavor. A shelf or drawer a step away is better than one right above the burner.",
         image: "/assets/kitchen-counter-05.webp"
       },
       {
         title: "6. Vintage Decor Accents",
-        content: "Add vintage elements like antique scales, trays, or jars. These pieces add character and charm to modern or rustic kitchens.\n\nVintage décor creates focal points and gives personality to your counter space. It's a subtle yet impactful way to elevate the kitchen's aesthetic.",
+        content: "An old scale, an enamel tray, a wooden bread box or a stoneware crock gives a modern kitchen some character. Flea markets and thrift stores are good sources for these.\n\nChoose pieces you can use, such as a crock for utensils or a scale for baking. One or two is enough.",
         image: "/assets/kitchen-counter-06.webp"
       },
       {
-        title: "7. Decorative Cutting Board Tray",
-        content: "Use a large cutting board as a base for grouping small items like oils, utensils, or condiments.\n\nThis creates an organized and cohesive display. It's functional, keeps essentials accessible, and visually transforms the counter with minimal effort.",
+        title: "7. Cutting Board as a Tray",
+        content: "A large cutting board under oil bottles, salt and pepper keeps the counter clean and makes a neat group. Use a board with a groove around the edge to catch drips.\n\nWipe it down after cooking and keep it close to the stove.",
         image: "/assets/kitchen-counter-07.webp"
       },
       {
         title: "8. Potted Indoor Plants",
-        content: "Add low-maintenance plants like succulents or snake plants. Greenery softens hard surfaces and enhances air quality.\n\nPlants add texture, color, and a natural feel. Strategically placed, they create a fresh, inviting countertop environment.",
+        content: "Snake plants, ZZ plants, pothos and succulents tolerate the heat and dry air of a kitchen. Put them where they get light but away from the stove.\n\nUse a pot with a drainage hole and a saucer, and water when the top inch of soil is dry.",
         image: "/assets/kitchen-counter-08.webp"
       },
       {
         title: "9. Minimalist Utensil Holder",
-        content: "Use sleek containers for frequently used utensils. Choose ceramic, stainless steel, or copper for style.\n\nA tidy utensil holder keeps the counter clutter-free. It's practical for cooking while subtly enhancing your décor theme.",
+        content: "A ceramic crock, a stainless steel pot or a copper jug holds spatulas, whisks and spoons, with the handles up. Choose one wide enough that utensils don't tip it over, around 6 inches across.\n\nKeep only the tools you use daily in it. Store the rest in a drawer.",
         image: "/assets/kitchen-counter-09.webp"
       },
       {
         title: "10. Seasonal Decor",
-        content: "Switch out small décor items for seasonal touches like mini pumpkins in fall or fresh flowers in spring.\n\nSeasonal décor keeps your kitchen lively and visually appealing. Changing accents is inexpensive and brings freshness to everyday counter space.",
+        content: "Swap a few items through the year: small gourds in autumn, evergreen sprigs in winter, tulips in spring and lemons in summer. A small vase and a bowl are enough to do this.\n\nSeasonal pieces take up little space and can be stored in a single box.",
         image: "/assets/kitchen-counter-10.webp"
       },
       {
-        title: "11. Decorative Tray Organizer",
-        content: "Use trays to group items like oils, soaps, and small plants. This defines spaces and adds order.\n\nA tray acts as a base for décor, keeping counters organized while visually appealing. It's versatile for any kitchen style.",
+        title: "11. Sink-Side Tray",
+        content: "A tray by the sink holds hand soap, a brush and a sponge in a neat group, and catches drips. Pick a tray with raised edges in wood, marble or metal.\n\nEmpty it and wipe it down weekly, since moisture collects underneath.",
         image: "/assets/kitchen-counter-11.webp"
       },
       {
         title: "12. Stylish Soap Dispensers",
-        content: "Upgrade your soap and lotion dispensers. Choose glass, metal, or matte finishes that match your kitchen's design.\n\nFunctional and decorative, premium dispensers enhance the sink area. They're a subtle detail that elevates the overall aesthetic.",
+        content: "Replace the plastic bottles with a refillable glass or ceramic dispenser. Pump dispensers with a metal head last longer than plastic ones.\n\nMatch the finish to your tap, such as brushed brass, black or chrome. Buy refill packs to keep running costs low.",
         image: "/assets/kitchen-counter-12.webp"
       },
       {
         title: "13. Cookbook Stand",
-        content: "Display your favorite cookbook on a stand. Add decorative props like small jars or candles around it.\n\nA cookbook stand is both practical for cooking and visually appealing. It adds height, interest, and personality to your countertop.",
+        content: "A folding stand keeps a recipe at eye level and away from splashes. Choose one with a rail that holds the pages open, in wood or metal.\n\nIf you cook from a tablet, a stand with a lip works the same way, and you can wipe it down.",
         image: "/assets/kitchen-counter-13.webp"
       },
       {
         title: "14. Statement Bowl or Vase",
-        content: "Use a large bowl or vase as a centerpiece. Fill it with fruit, flowers, or decorative objects.\n\nStatement pieces draw attention and anchor the countertop design. It's a simple way to add elegance without cluttering.",
+        content: "A single large bowl or vase, around 10 to 12 inches wide, works as a focal point on a kitchen island or a counter. Fill it with lemons, eucalyptus or a branch.\n\nPick one that suits your taps and cabinets. A simple ceramic or glass shape lasts longer than a trendy one.",
         image: "/assets/kitchen-counter-14.webp"
       },
       {
         title: "15. Chalkboard or Menu Board",
-        content: "Place a small chalkboard for notes, grocery lists, or menu ideas. It adds a playful yet functional touch.\n\nChalkboards personalize your kitchen space. They're practical, budget-friendly, and make your countertop interactive and engaging.",
+        content: "A small chalkboard on the counter or leaning against the backsplash holds the shopping list or the weekly menu. Use a 10 by 14 inch board and a chalk marker, which is easier to read than chalk.\n\nKeep it by the fridge so you remember to write things down as they run out.",
         image: "/assets/kitchen-counter-15.webp"
       },
       {
         title: "16. Decorative Bowls for Snacks",
-        content: "Use small decorative bowls for nuts, candy, or snacks. Arrange them strategically to balance form and function.\n\nSnack bowls add color and texture to the counter. They make essentials accessible while contributing to the overall décor theme.",
+        content: "Put nuts, dried fruit and snacks in small ceramic bowls with lids, so they stay fresh and out of reach of pests. A group of three bowls of different heights looks neat.\n\nFill them with items that are quick to grab, and wash them regularly.",
         image: "/assets/kitchen-counter-16.webp"
       },
       {
         title: "17. Ceramic or Stoneware Jars",
-        content: "Group ceramic or stoneware jars for utensils or pantry items. Choose natural tones or muted colors for a cohesive look.\n\nThese jars add texture and a cozy, artisanal feel. They're durable, functional, and enhance kitchen décor without cluttering surfaces.",
+        content: "Stoneware jars in muted colors hold wooden spoons, wooden utensils or dry ingredients like sugar. Choose a matching set or three jars of different heights.\n\nGlazed stoneware is durable and easy to clean. Check that lids seal properly if you plan to store food.",
         image: "/assets/kitchen-counter-17.webp"
       },
       {
         title: "18. Tiered Counter Organizer",
-        content: "Use a small tiered stand for spices, condiments, or fruit. It adds height and layers to the countertop.\n\nTiered organizers maximize vertical space while keeping essentials organized. They create a dynamic and visually interesting display without overcrowding.",
+        content: "A two or three-tier stand adds height for oils, salt, fruit or baked goods. Choose metal or wood, and check each tier holds the weight.\n\nIt is useful on a small counter, because it uses the air above the surface. Don't load it so high that it blocks the wall cabinets.",
         image: "/assets/kitchen-counter-18.webp"
       },
       {
         title: "19. Tea or Coffee Station",
-        content: "Dedicate a corner for a coffee machine, mugs, and teas. Add small decorative elements like a jar of sugar or mini plants.\n\nA coffee station is functional and visually appealing. It transforms a countertop area into a cozy, inviting spot for daily rituals.",
+        content: "A tray with a kettle or coffee maker, mugs, a canister of tea and a jar of sugar in one corner makes a place for the morning routine. Put it near an outlet and a water source.\n\nHang mugs from hooks under a shelf to save counter space, and keep a small bin for used pods or filters.",
         image: "/assets/kitchen-counter-19.webp"
       },
       {
         title: "20. Floating Shelf Above Counter",
-        content: "Install a small shelf above the counter to display plants, art, or kitchen essentials. It adds décor without occupying counter space.\n\nFloating shelves expand storage vertically. They're perfect for decorative accents and small items, keeping countertops clutter-free while enhancing style.",
+        content: "A shelf 12 to 18 inches above the counter holds plants, jars and a framed print. Fix it into studs with brackets rated for the load.\n\nAvoid putting it above the stove, where grease and heat will damage the contents.",
         image: "/assets/kitchen-counter-20.webp"
       },
       {
-        title: "21. Glass Jar Herb Display",
-        content: "Grow herbs like parsley, thyme, or mint in glass jars lined along the counter. They bring greenery, freshness, and culinary functionality.\n\nGlass jar herb displays are visually appealing and practical. They create a fresh and vibrant countertop décor while keeping herbs accessible for cooking.",
+        title: "21. Herbs Rooting in Water",
+        content: "Cut stems of basil, mint or rosemary and put them in a jar of water on the counter. Many will grow roots in a couple of weeks, which you can then pot.\n\nChange the water every few days and keep the jar in bright light. Use a clear glass jar so you can see the roots.",
         image: "/assets/kitchen-counter-21.webp"
+      },
+      {
+        title: "Keeping Your Counters Usable",
+        content: "Before you add anything, clear the counter completely, then put back only what you use every day. Decorate with what's left.\n\nKeep the clear space near the stove and the sink. Group small items on trays so the counter looks calm, and keep tall items at the back or the corners.\n\nRevisit the counter every few months. If something has not been used, move it to a cupboard or a shelf."
       }
     ],
     faqs: [
       {
-        question: "How do I keep kitchen counters clutter-free while decorating?",
-        answer: "Use trays and organizers to group items together, choose multi-functional décor like utensil holders or herb pots, and limit the number of decorative pieces. Focus on items that are both beautiful and practical."
+        question: "How do I decorate kitchen counters without clutter?",
+        answer: "Group small items on trays, keep tall pieces at the back, and limit yourself to what you use daily plus two or three decorative objects. Leave at least 24 inches of clear counter near the stove and sink."
       },
       {
-        question: "What are the best plants for kitchen counter décor?",
-        answer: "Herbs like basil, rosemary, and mint are ideal because they're functional for cooking. Low-maintenance options like succulents, pothos, or snake plants also thrive in kitchen environments and add greenery."
+        question: "What plants grow well on a kitchen counter?",
+        answer: "Basil, mint, thyme and chives suit a sunny spot. For less light, try pothos, snake plants or ZZ plants. Keep all of them away from the stove."
       },
       {
-        question: "How can I make a small kitchen counter look stylish?",
-        answer: "Focus on vertical solutions like tiered organizers and floating shelves. Choose a few statement pieces rather than many small items. Use trays to corral essentials and keep the overall look minimal and organized."
+        question: "How can I style a small kitchen counter?",
+        answer: "Go vertical with a tiered stand or a shelf above the counter, and use one tray to hold oil, salt and pepper. A few multipurpose items work better than many small ones."
       },
       {
-        question: "What colors work best for kitchen counter décor?",
-        answer: "Neutral tones like white, cream, wood, and muted greens create a cohesive look. Add pops of color through fruit, plants, or seasonal accents. Match décor colors to your kitchen's overall palette for harmony."
+        question: "What colors work best for counter decor?",
+        answer: "Choose two or three colors that match your cabinets and tiles, such as wood, white and green. Use fruit, flowers and herbs for color."
       },
       {
-        question: "How do I balance functionality and style on kitchen counters?",
-        answer: "Choose items that serve dual purposes, like attractive canisters for storage or decorative cutting boards. Keep frequently used items accessible and store less-used items elsewhere. Style around function, not instead of it."
+        question: "How do I keep counter decor clean?",
+        answer: "Wipe items weekly and move them when you clean the surface. Choose washable materials like glass, glazed ceramic and sealed wood, and keep decor away from the stove."
       },
       {
-        question: "What should I avoid when decorating kitchen counters?",
-        answer: "Avoid overcrowding, which makes counters feel cluttered and hard to use. Skip items that don't serve a purpose and avoid mismatched styles. Keep décor practical, cohesive, and proportionate to your counter space."
+        question: "What should I avoid putting on my kitchen counter?",
+        answer: "Avoid crowding the work zones, leaving food out that attracts pests, and placing delicate items near the stove or sink. Skip objects that need regular dusting if you cook a lot."
       }
     ]
   },
@@ -1624,152 +1629,157 @@ export const articles: Article[] = [
     id: "25",
     slug: "modern-farmhouse-kitchen-ideas",
     date: "2026-01-29",
-    title: "Modern Farmhouse Kitchen 2026: 23 Ideas",
-    excerpt: "Discover 23 inspiring ideas to create a modern farmhouse kitchen that blends rustic charm with contemporary functionality.",
+    title: "23 Modern Farmhouse Kitchen Ideas: Shaker Doors, Wood and Black Hardware",
+    excerpt: "Shaker cabinets, apron sinks, butcher-block counters and black pendants: 23 ideas for a farmhouse kitchen that still works like a modern one.",
+    intro: "Modern farmhouse kitchens mix traditional details, like apron sinks and wood beams, with clean cabinets and practical layouts. The look depends on restraint: a few strong rustic pieces against a plain, light background.\n\nIf you cannot redo the whole kitchen, start with the items that change the look at low cost: hardware, lighting, open shelves and a new sink or faucet.",
     category: "Kitchen",
     image: "/assets/placeholder.svg",
     imageAspectRatio: "1:1",
     sections: [
       {
-        title: "1. Shaker Cabinetry with Matte Finishes",
-        content: "Shaker-style cabinets offer a clean, classic look. Opt for matte white, cream, or soft gray tones for a modern farmhouse vibe.\n\nMatte finishes minimize glare while highlighting texture. Combined with farmhouse hardware, shaker cabinets create a timeless aesthetic that balances modern simplicity with rustic charm.",
+        title: "1. Shaker Cabinets in a Matte Finish",
+        content: "Shaker doors have a flat center panel and a narrow frame, which suits both modern and traditional kitchens. A matte or satin finish in white, cream or soft gray hides fingerprints better than gloss.\n\nUpgrading existing cabinets with new Shaker-style doors costs much less than replacing the boxes. Painting them yourself with cabinet-grade paint is cheaper still.",
         image: "/assets/modern-farmhouse-kitchen-01.webp"
       },
       {
         title: "2. Open Shelving Displays",
-        content: "Replace upper cabinets with open shelves to showcase dishes, glassware, or décor pieces. Mix wood and metal for visual contrast.\n\nOpen shelving adds airiness and accessibility. It's perfect for farmhouse kitchens where style meets practicality, allowing decorative items to double as functional storage.",
+        content: "Take down some or all of the upper cabinets and fit 10-inch-deep wood shelves on brackets. Use them for everyday plates, glasses and bowls, and keep the rest in closed cabinets.\n\nOpen shelves collect grease and dust, so don't put them directly beside the stove. Keep only what you use often, or you'll be washing dishes twice.",
         image: "/assets/modern-farmhouse-kitchen-02.webp"
       },
       {
         title: "3. Farmhouse Sink",
-        content: "A deep apron-front sink adds rustic appeal while being practical for large pots and pans. Stainless steel or ceramic materials work best.\n\nFarmhouse sinks anchor the kitchen's design. They're both functional and visually striking, giving your space a warm, homey feel while supporting modern efficiency.",
+        content: "A single-bowl apron-front sink, 30 to 36 inches wide, is deep enough to wash large pans. Fireclay is classic and stays glossy, while stainless steel is lighter and less likely to chip.\n\nThe sink requires a cabinet cut-out to fit the front panel, so budget for a plumber or a carpenter. Check the cabinet width before ordering.",
         image: "/assets/modern-farmhouse-kitchen-03.webp"
       },
       {
         title: "4. Rustic Wooden Countertops",
-        content: "Use reclaimed or butcher-block wood countertops for natural warmth. Pair with light-colored cabinets to create contrast.\n\nWood countertops add texture and farmhouse charm. Proper sealing ensures durability while enhancing the kitchen's rustic-modern blend.",
+        content: "Butcher-block counters in oak, walnut or maple add warmth next to painted cabinets. Seal them with food-safe oil or a waterproof finish near the sink.\n\nThey scratch and mark, which is part of the look. Sand lightly and re-oil once a year to keep them in shape.",
         image: "/assets/modern-farmhouse-kitchen-04.webp"
       },
       {
         title: "5. Subway Tile Backsplash",
-        content: "Classic white or neutral subway tiles are timeless in farmhouse kitchens. Opt for matte or glossy finishes with minimal grout contrast.\n\nSubway tiles provide a clean backdrop for rustic and modern elements. They are versatile, easy to clean, and complement a variety of design accents.",
+        content: "A 3 by 6 inch white tile laid in a brick pattern is the standard. For a more modern look, choose a stack bond, where the tiles line up in a grid, or a longer 2 by 8 inch size.\n\nUse a grout close in color to the tile, or a pale gray, to keep the surface even. Seal the grout near the stove.",
         image: "/assets/modern-farmhouse-kitchen-05.webp"
       },
       {
         title: "6. Industrial Lighting Fixtures",
-        content: "Install pendant lights in matte black, bronze, or copper above islands or counters. Edison bulbs enhance rustic charm.\n\nIndustrial lighting merges farmhouse warmth with modern flair. It creates focal points while providing functional illumination for prep areas and dining spaces.",
+        content: "Pendants in matte black, aged bronze or copper hang 30 to 36 inches above an island. Space them about 24 to 30 inches apart, and allow one pendant per 2 feet of island.\n\nFilament bulbs suit the look, but pick warm white (2700K) ones, and fit a dimmer.",
         image: "/assets/modern-farmhouse-kitchen-06.webp"
       },
       {
         title: "7. Kitchen Island with Seating",
-        content: "A farmhouse-style island serves as prep space, storage, and seating. Use distressed wood or painted bases with a butcher-block or stone top.\n\nIslands anchor the kitchen design while enhancing functionality. They create a social hub for family gatherings and casual dining.",
+        content: "An island 36 to 42 inches deep with a 12-inch overhang on one side gives seating for two to four people. Paint the base a different color from the cabinets, such as dark green or navy, to make it a feature.\n\nLeave at least 42 inches of walkway around it, or 48 inches if two people cook.",
         image: "/assets/modern-farmhouse-kitchen-07.webp"
       },
       {
         title: "8. Neutral Color Palette",
-        content: "Stick to whites, creams, soft grays, and natural wood tones. Neutral palettes provide a cozy, inviting farmhouse atmosphere.\n\nThis approach allows rustic and modern elements to shine. It creates a versatile backdrop for furniture, lighting, and decorative accents.",
+        content: "Whites, creams, soft grays and wood tones keep the room bright and let the rustic elements stand out. Use two or three tones in the same undertone, so they do not clash.\n\nAdd one dark accent, such as black hardware or a dark window frame, so the kitchen has contrast.",
         image: "/assets/modern-farmhouse-kitchen-08.webp"
       },
       {
         title: "9. Barn Door Pantry",
-        content: "Install a sliding barn door for pantry or utility spaces. Wood or painted finishes add farmhouse authenticity.\n\nBarn doors save space while serving as a design statement. They enhance character and introduce movement into the kitchen aesthetic.",
+        content: "A sliding door on an exposed track saves the 30 or so inches a swinging door needs. Wood doors with black hardware are the classic style, though a painted door with a glass panel lets in more light.\n\nThe track needs a clear stretch of wall as wide as the door, and the wall must be blocked behind for support.",
         image: "/assets/modern-farmhouse-kitchen-09.webp"
       },
       {
         title: "10. Vintage-Style Hardware",
-        content: "Use cup pulls, iron knobs, or brass handles on cabinets and drawers. Mix finishes for a curated look.\n\nHardware adds subtle charm and ties together rustic and modern elements. It's a small detail with a big visual impact in farmhouse kitchens.",
+        content: "Cup pulls on drawers and round knobs on doors are the traditional farmhouse choice. Black iron, unlacquered brass and oil-rubbed bronze all suit it.\n\nMeasure the hole spacing on your existing doors before you buy, so the new hardware fits without drilling. Changing hardware takes an afternoon.",
         image: "/assets/modern-farmhouse-kitchen-10.webp"
       },
       {
         title: "11. Exposed Wood Beams",
-        content: "Add exposed ceiling beams or faux wooden accents for architectural interest. Lighter wood tones balance modern aesthetics.\n\nBeams add character and warmth. They visually anchor the space and create an authentic farmhouse feel while maintaining a modern touch.",
+        content: "Real beams carry weight, but many kitchens use hollow, lightweight beams that attach to the ceiling and look the same. Reclaimed wood suits an older house, while smooth, light oak suits a newer one.\n\nA ceiling of at least 8 feet is needed so the beams don't feel low.",
         image: "/assets/modern-farmhouse-kitchen-11.webp"
       },
       {
         title: "12. Open Plate Racks",
-        content: "Display plates or cutting boards on wall-mounted racks. Wooden or metal finishes work well.\n\nPlate racks combine function and décor. They make everyday items visually appealing while keeping them accessible.",
+        content: "A wall-mounted rack with slots or pegs holds plates and boards upright to dry and display. Wood and black metal are common finishes.\n\nPut one near the sink, so you can put plates straight into the rack. Fix it to a stud, as full plates are heavy.",
         image: "/assets/modern-farmhouse-kitchen-12.webp"
       },
       {
         title: "13. Statement Range Hood",
-        content: "Install a large, decorative range hood in wood, stone, or matte metal. It acts as a focal point above the stove.\n\nStatement hoods blend farmhouse charm with modern sophistication. They highlight the cooking area while complementing cabinetry and countertops.",
+        content: "A hood in painted wood, plaster or stone gives the stove wall presence. Choose a size at least as wide as the cooktop, or 6 inches wider on each side if you can.\n\nThe duct and the fan matter more than the cover. A 400 to 600 CFM insert suits most home kitchens, and a vented model removes grease and smells properly.",
         image: "/assets/modern-farmhouse-kitchen-13.webp"
       },
       {
         title: "14. Patterned Floor Tiles",
-        content: "Add patterned or encaustic tiles for a farmhouse touch. Neutral or muted tones maintain a cohesive design.\n\nPatterned floors add visual interest without overwhelming the space. They provide texture, warmth, and a subtle rustic vibe in modern kitchens.",
+        content: "Cement or encaustic-style tiles in muted patterns, such as gray and cream, add pattern to a plain kitchen. Porcelain versions look similar but wear better and cost less.\n\nKeep the cabinet and counter colors plain, so the floor is the pattern in the room.",
         image: "/assets/modern-farmhouse-kitchen-14.webp"
       },
       {
         title: "15. Farmhouse Bar Stools",
-        content: "Use wooden or metal stools with natural finishes at the island. Backless or low-back designs keep the look airy.\n\nStools combine function with style. They enhance the social aspect of the kitchen while complementing the farmhouse-modern aesthetic.",
+        content: "Stools with wooden seats and metal legs, 24 to 26 inches high for a 36-inch counter, suit the style. Low-back or backless designs tuck under the counter and look lighter.\n\nAllow about 24 inches of counter width per stool, and 10 to 12 inches of knee room.",
         image: "/assets/modern-farmhouse-kitchen-15.webp"
       },
       {
         title: "16. Mason Jar Storage",
-        content: "Repurpose mason jars for pantry items, utensils, or decorative accents. Arrange them on shelves or counters.\n\nMason jars add rustic charm while staying functional. They are budget-friendly, versatile, and enhance the overall farmhouse feel.",
+        content: "Glass jars with metal lids store flour, oats, pasta and beans, and look right on open shelves. Use wide-mouth jars, which are easier to scoop from.\n\nLabel the lids with a chalk pen so you know what is inside and when it was filled.",
         image: "/assets/modern-farmhouse-kitchen-16.webp"
       },
       {
         title: "17. Sliding Window Garden",
-        content: "Add a small herb garden near the kitchen window. Use wooden boxes or planters to tie in natural materials.\n\nIndoor greenery adds freshness and functionality. A windowsill garden complements the farmhouse vibe while providing fresh ingredients for cooking.",
+        content: "A row of herbs in pots or in a wooden trough on the windowsill is both decorative and useful. Rosemary, thyme and parsley like bright light and dry out quickly in a south-facing window.\n\nPlace a tray under the pots to catch drips, and rotate them to keep the growth even.",
         image: "/assets/modern-farmhouse-kitchen-17.webp"
       },
       {
         title: "18. Wooden Beam Ceiling Shelf",
-        content: "Install a shelf from ceiling beams for pots, pans, or decorative elements. This adds vertical storage and rustic charm.\n\nCeiling shelves make efficient use of space while enhancing visual appeal. Hanging elements add texture and keep counters uncluttered.",
+        content: "A ceiling-hung rack or a shelf fixed to a beam holds pots, pans and baskets. Black iron racks with S-hooks are traditional and hold plenty of weight.\n\nMount it into joists, and hang it high enough to clear your head, at least 7 feet above the floor.",
         image: "/assets/modern-farmhouse-kitchen-18.webp"
       },
       {
         title: "19. Neutral Linens and Textiles",
-        content: "Use linen or cotton towels, rugs, and placemats in whites, creams, or soft pastels. Layer textures for warmth.\n\nTextiles soften hard surfaces and add cozy farmhouse character. They're easy to update seasonally for a fresh look.",
+        content: "Linen towels, cotton rugs and plain placemats in cream, oatmeal and gray give the kitchen softness without color. A long runner by the sink or the stove cushions your feet.\n\nChoose washable fabrics, and wash the runner often, since kitchens are messy.",
         image: "/assets/modern-farmhouse-kitchen-19.webp"
       },
       {
         title: "20. Woven Baskets for Storage",
-        content: "Incorporate woven baskets under counters or on shelves. Store kitchen essentials, fruits, or linens.\n\nBaskets add texture and warmth. They maintain organization while emphasizing rustic, natural materials in the kitchen design.",
+        content: "Woven baskets in seagrass or wire hold potatoes, onions, bread and linens, and fit under open shelves or on the lower shelves of an island. Line them with fabric if they hold small items.\n\nKeep food baskets in a cool dry spot, away from the oven and sunlight.",
         image: "/assets/modern-farmhouse-kitchen-20.webp"
       },
       {
-        title: "21. Chalkboard Menu Wall",
-        content: "Paint a small wall with chalkboard paint for menu notes or daily specials. Decorate with rustic frames for style.\n\nChalkboards are functional and decorative. They personalize the kitchen while keeping it interactive and homey.",
+        title: "21. Chalkboard Wall",
+        content: "Paint a section of wall, such as above a desk nook, with chalkboard paint, and frame it with wood trim. Use it for a weekly menu, a shopping list or a note to the family.\n\nTwo coats of paint are usually needed, and the surface should be conditioned with chalk before the first use.",
         image: "/assets/modern-farmhouse-kitchen-21.webp"
       },
       {
         title: "22. Vintage Appliances or Accents",
-        content: "Use retro-style mixers, toasters, or jars to add character. Stick to muted or pastel colors for cohesion.\n\nVintage elements provide charm and nostalgia. They complement modern finishes while enhancing the farmhouse-modern blend.",
+        content: "A cream stand mixer, an enamel kettle or a retro toaster adds character to a plain counter. Pick one or two items in a muted color that you will use.\n\nVintage items can be unreliable, so buy new retro-style appliances if you rely on them daily.",
         image: "/assets/modern-farmhouse-kitchen-22.webp"
       },
       {
         title: "23. Layered Lighting",
-        content: "Combine pendant, recessed, and under-cabinet lighting. Mix warm-toned bulbs for ambiance.\n\nLayered lighting highlights architectural features and creates a cozy, inviting atmosphere. It balances farmhouse warmth with modern functionality.",
+        content: "Three layers give the best result: recessed lights for general light, pendants over the island and LED strips under the wall cabinets for the work surface. Put each on its own switch, ideally with dimmers.\n\nUse bulbs of 2700K to 3000K throughout so that the whites and woods look warm and consistent.",
         image: "/assets/modern-farmhouse-kitchen-23.webp"
+      },
+      {
+        title: "Where to Spend First",
+        content: "The biggest impact for the least money comes from paint, hardware and lighting. Paint the cabinets, swap the pulls and change the pendants, and the kitchen will look different without touching the layout.\n\nSpend the larger part of the budget on things that are difficult to change later, such as the sink, the counters and the flooring.\n\nLeave the decor for last. Open shelves and baskets are easy to add once the main pieces are in place."
       }
     ],
     faqs: [
       {
         question: "What defines a modern farmhouse kitchen?",
-        answer: "A modern farmhouse kitchen combines rustic elements like wood, shaker cabinets, and farmhouse sinks with contemporary features such as clean lines, neutral palettes, and industrial lighting. The result is a cozy yet functional space."
+        answer: "It combines traditional details such as apron-front sinks, wood beams and Shaker cabinets with clean lines, light neutral colors and practical modern appliances and lighting."
       },
       {
-        question: "What colors are best for a modern farmhouse kitchen?",
-        answer: "Neutral tones like white, cream, soft gray, and natural wood work best. These colors create a warm, inviting atmosphere while allowing rustic and modern elements to stand out. Add subtle accents through hardware or textiles."
+        question: "What colors suit a modern farmhouse kitchen?",
+        answer: "White, cream, soft gray and natural wood, with black or dark bronze for contrast on hardware and light fixtures. A muted green or navy works well on an island."
       },
       {
-        question: "How do I choose farmhouse kitchen cabinets?",
-        answer: "Opt for shaker-style cabinets in matte finishes. White, cream, or soft gray are popular choices. Pair with vintage-style hardware like cup pulls or iron knobs for authentic farmhouse charm."
+        question: "What kind of cabinets should I choose?",
+        answer: "Shaker-style doors in a matte or satin finish are the most common. Painted wood or MDF both work, and new doors can be fitted to existing cabinet boxes."
       },
       {
-        question: "What type of sink is best for a farmhouse kitchen?",
-        answer: "An apron-front or farmhouse sink is ideal. Choose stainless steel for durability or ceramic for a classic look. These sinks are both functional and visually striking, anchoring the kitchen's design."
+        question: "Is a farmhouse sink practical?",
+        answer: "Yes. The deep, wide bowl fits large pots and baking sheets. Fireclay is durable but can chip, while stainless steel is tougher. Both need a cabinet cut-out sized for the sink."
       },
       {
-        question: "How can I add farmhouse charm without a full renovation?",
-        answer: "Update hardware, add open shelving, incorporate rustic décor like mason jars or woven baskets, and install industrial lighting. These small changes create farmhouse character without major construction."
+        question: "How can I get the look without a renovation?",
+        answer: "Change the cabinet hardware, add open shelves or a plate rack, hang black pendants and add wood and wicker accessories. Painting the cabinets makes the biggest change."
       },
       {
-        question: "What lighting works best in a modern farmhouse kitchen?",
-        answer: "Industrial pendant lights in matte black, bronze, or copper are ideal. Layer with recessed and under-cabinet lighting for functionality. Use warm-toned bulbs to enhance the cozy farmhouse atmosphere."
+        question: "What lighting is best for a farmhouse kitchen?",
+        answer: "Combine recessed lights, pendants over the island and under-cabinet LED strips. Use warm bulbs of 2700K to 3000K and put the layers on separate switches."
       }
     ]
   },
