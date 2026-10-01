@@ -42,7 +42,7 @@ export const articles: Article[] = [
       },
       {
         title: "3. Split King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) — Two 38\" × 80\" Twin XL mattresses\n\nA split king bed consists of two twin XL mattresses placed side by side, offering customizable comfort for each sleeper. This setup is ideal for couples with different firmness preferences or sleep needs. Each side can be adjusted independently, making it perfect for adjustable bed frames and health-focused sleeping.\n\nBeyond customization, split king beds excel in motion isolation. Movement on one side rarely affects the other, which improves sleep quality. While it may require specialized bedding, the flexibility and comfort make it an excellent option for couples prioritizing personalized sleep experiences.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm); two 38\" × 80\" Twin XL mattresses\n\nA split king bed consists of two twin XL mattresses placed side by side, offering customizable comfort for each sleeper. This setup is ideal for couples with different firmness preferences or sleep needs. Each side can be adjusted independently, making it perfect for adjustable bed frames and health-focused sleeping.\n\nBeyond customization, split king beds excel in motion isolation. Movement on one side rarely affects the other, which improves sleep quality. While it may require specialized bedding, the flexibility and comfort make it an excellent option for couples prioritizing personalized sleep experiences.",
         image: "/assets/king-bed-03.webp"
       },
       {
@@ -77,62 +77,62 @@ export const articles: Article[] = [
       },
       {
         title: "10. Custom King Bed",
-        content: "Dimensions: Varies — typically 76\"–108\" W × 80\"–108\" L, made to order\n\nA custom king bed allows homeowners to define dimensions that perfectly fit their room and lifestyle. This option is ideal for non-standard layouts or unique design requirements. Custom beds provide flexibility in size, materials, and additional features.\n\nWhile custom king beds often cost more, they deliver tailored comfort and optimal space utilization. They also allow creative freedom in design and finishes. For those who find standard sizes limiting, a custom king bed offers the ultimate personalized solution.",
+        content: "Dimensions: Varies; typically 76\" to 108\" W × 80\" to 108\" L, made to order\n\nA custom king bed allows homeowners to define dimensions that perfectly fit their room and lifestyle. This option is ideal for non-standard layouts or unique design requirements. Custom beds provide flexibility in size, materials, and additional features.\n\nWhile custom king beds often cost more, they deliver tailored comfort and optimal space utilization. They also allow creative freedom in design and finishes. For those who find standard sizes limiting, a custom king bed offers the ultimate personalized solution.",
         image: "/assets/king-bed-10.webp"
       },
       {
         title: "11. Adjustable King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) — with motorized adjustable base\n\nAn adjustable king bed offers enhanced comfort by allowing users to raise or lower different sections of the mattress. This feature supports better posture, improved circulation, and personalized relaxation positions. It is especially helpful for people with back or joint concerns.\n\nBeyond health benefits, adjustable king beds add versatility to the bedroom. They make activities like reading or watching television more comfortable. For modern lifestyles that prioritize comfort and functionality, adjustable king beds are an excellent investment.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm); with motorized adjustable base\n\nAn adjustable king bed offers enhanced comfort by allowing users to raise or lower different sections of the mattress. This feature supports better posture, improved circulation, and personalized relaxation positions. It is especially helpful for people with back or joint concerns.\n\nBeyond health benefits, adjustable king beds add versatility to the bedroom. They make activities like reading or watching television more comfortable. For modern lifestyles that prioritize comfort and functionality, adjustable king beds are an excellent investment.",
         image: "/assets/king-bed-11.webp"
       },
       {
         title: "12. Hotel-Style King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) — premium mattress with plush top layers\n\nHotel-style king beds are designed to provide universal comfort and long-term durability. They typically feature medium firmness, plush layers, and strong support systems. This balance makes them suitable for a wide range of sleepers.\n\nBringing a hotel-style king bed into your home creates a luxurious and relaxing sleep environment. It's ideal for master bedrooms or guest rooms where comfort is essential. This bed type delivers a consistently comfortable, five-star sleep experience.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm); premium mattress with plush top layers\n\nHotel-style king beds are designed to provide universal comfort and long-term durability. They typically feature medium firmness, plush layers, and strong support systems. This balance makes them suitable for a wide range of sleepers.\n\nBringing a hotel-style king bed into your home creates a luxurious and relaxing sleep environment. It's ideal for master bedrooms or guest rooms where comfort is essential. This bed type delivers a consistently comfortable, five-star sleep experience.",
         image: "/assets/king-bed-12.webp"
       },
       {
         title: "13. Storage King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) — with 8\"–12\" under-bed storage depth\n\nA storage king bed combines sleeping comfort with practical under-bed storage. It is especially useful in homes where maximizing space is important. Built-in drawers or lift-up bases provide convenient storage for bedding and seasonal items.\n\nThis design helps reduce clutter while maintaining a clean bedroom aesthetic. Storage king beds are popular in apartments and modern homes where functionality matters. They offer a smart solution for combining luxury sleep with everyday organization needs.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm); with 8\" to 12\" under-bed storage depth\n\nA storage king bed combines sleeping comfort with practical under-bed storage. It is especially useful in homes where maximizing space is important. Built-in drawers or lift-up bases provide convenient storage for bedding and seasonal items.\n\nThis design helps reduce clutter while maintaining a clean bedroom aesthetic. Storage king beds are popular in apartments and modern homes where functionality matters. They offer a smart solution for combining luxury sleep with everyday organization needs.",
         image: "/assets/king-bed-13.webp"
       },
       {
         title: "14. Platform King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) — total height 14\"–18\" from floor\n\nPlatform king beds feature a low-profile design that does not require a box spring. They provide strong mattress support while maintaining a sleek and modern appearance. This style is popular in contemporary and minimalist interiors.\n\nIn addition to aesthetics, platform beds are practical and durable. They help keep the mattress stable and well-ventilated. For homeowners seeking a clean, modern look with reliable support, platform king beds are an excellent option.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm); total height 14\" to 18\" from floor\n\nPlatform king beds feature a low-profile design that does not require a box spring. They provide strong mattress support while maintaining a sleek and modern appearance. This style is popular in contemporary and minimalist interiors.\n\nIn addition to aesthetics, platform beds are practical and durable. They help keep the mattress stable and well-ventilated. For homeowners seeking a clean, modern look with reliable support, platform king beds are an excellent option.",
         image: "/assets/king-bed-14.webp"
       },
       {
         title: "15. Canopy King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) — post height 72\"–90\" (183–229 cm)\n\nCanopy king beds add elegance and drama to the bedroom with their tall posts and structured frames. They create a focal point that enhances the room's overall design. This style is especially effective in bedrooms with high ceilings.\n\nBeyond aesthetics, canopy beds can create a cozy, enclosed feeling when paired with fabric drapes. They offer both visual appeal and comfort. For those who enjoy classic or romantic bedroom designs, canopy king beds are a timeless choice.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm); post height 72\" to 90\" (183 to 229 cm)\n\nCanopy king beds add elegance and drama to the bedroom with their tall posts and structured frames. They create a focal point that enhances the room's overall design. This style is especially effective in bedrooms with high ceilings.\n\nBeyond aesthetics, canopy beds can create a cozy, enclosed feeling when paired with fabric drapes. They offer both visual appeal and comfort. For those who enjoy classic or romantic bedroom designs, canopy king beds are a timeless choice.",
         image: "/assets/king-bed-15.webp"
       },
       {
         title: "16. Upholstered King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) — headboard height 48\"–65\" (122–165 cm)\n\nUpholstered king beds feature padded frames and headboards covered in fabric or leather. They add softness and comfort, making them ideal for people who like sitting up in bed. This style enhances both comfort and visual warmth.\n\nAvailable in various colors and textures, upholstered beds suit many design styles. They create a cozy and inviting bedroom atmosphere. For homeowners seeking comfort-focused design, upholstered king beds are both stylish and practical.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm); headboard height 48\" to 65\" (122 to 165 cm)\n\nUpholstered king beds feature padded frames and headboards covered in fabric or leather. They add softness and comfort, making them ideal for people who like sitting up in bed. This style enhances both comfort and visual warmth.\n\nAvailable in various colors and textures, upholstered beds suit many design styles. They create a cozy and inviting bedroom atmosphere. For homeowners seeking comfort-focused design, upholstered king beds are both stylish and practical.",
         image: "/assets/king-bed-16.webp"
       },
       {
         title: "17. Wooden King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) — frame weight 100–150 lbs\n\nWooden king beds are known for their durability and timeless appeal. They bring natural warmth and texture into the bedroom, making the space feel grounded and inviting. Wood works well with both modern and traditional decor.\n\nThese beds are sturdy and long-lasting, often becoming a permanent fixture in the home. With various finishes available, wooden king beds can adapt to many styles. They are a dependable choice for comfort and longevity.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm); frame weight 100 to 150 lbs\n\nWooden king beds are known for their durability and timeless appeal. They bring natural warmth and texture into the bedroom, making the space feel grounded and inviting. Wood works well with both modern and traditional decor.\n\nThese beds are sturdy and long-lasting, often becoming a permanent fixture in the home. With various finishes available, wooden king beds can adapt to many styles. They are a dependable choice for comfort and longevity.",
         image: "/assets/king-bed-17.webp"
       },
       {
         title: "18. Metal Frame King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) — frame weight 50–80 lbs\n\nMetal frame king beds offer a lightweight yet durable structure. They are often chosen for their sleek design and ease of maintenance. This style works well in modern, industrial, or minimalist bedrooms.\n\nMetal beds are also practical, as they are resistant to wear and easy to clean. They provide strong support while maintaining a visually open feel. For those seeking simplicity and durability, metal king beds are a great option.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm); frame weight 50 to 80 lbs\n\nMetal frame king beds offer a lightweight yet durable structure. They are often chosen for their sleek design and ease of maintenance. This style works well in modern, industrial, or minimalist bedrooms.\n\nMetal beds are also practical, as they are resistant to wear and easy to clean. They provide strong support while maintaining a visually open feel. For those seeking simplicity and durability, metal king beds are a great option.",
         image: "/assets/king-bed-18.webp"
       },
       {
         title: "19. Minimalist King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) — low-profile, total height 10\"–16\"\n\nMinimalist king beds focus on clean lines, simplicity, and functionality. They eliminate unnecessary details, creating a calm and clutter-free sleeping environment. Earthy or neutral tones often enhance their understated design.\n\nThis style works well in modern homes where balance and simplicity are priorities. Minimalist beds emphasize quality over decoration. For those who prefer a peaceful and visually light bedroom, minimalist king beds are an ideal choice.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm); low-profile, total height 10\" to 16\"\n\nMinimalist king beds focus on clean lines, simplicity, and functionality. They eliminate unnecessary details, creating a calm and clutter-free sleeping environment. Earthy or neutral tones often enhance their understated design.\n\nThis style works well in modern homes where balance and simplicity are priorities. Minimalist beds emphasize quality over decoration. For those who prefer a peaceful and visually light bedroom, minimalist king beds are an ideal choice.",
         image: "/assets/king-bed-19.webp"
       },
       {
         title: "20. Budget-Friendly King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) — standard king at accessible price points\n\nBudget-friendly king beds provide essential comfort without excessive cost. They focus on practicality, offering solid support and standard features. This option is ideal for first homes or guest bedrooms.\n\nWhile more affordable, these beds still offer the benefits of king-size sleeping space. With careful selection, budget king beds can be both comfortable and durable. They are a smart choice for cost-conscious buyers.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm); standard king at accessible price points\n\nBudget-friendly king beds provide essential comfort without excessive cost. They focus on practicality, offering solid support and standard features. This option is ideal for first homes or guest bedrooms.\n\nWhile more affordable, these beds still offer the benefits of king-size sleeping space. With careful selection, budget king beds can be both comfortable and durable. They are a smart choice for cost-conscious buyers.",
         image: "/assets/king-bed-20.webp"
       },
       {
         title: "21. Family-Friendly King Bed",
-        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) or larger — Wyoming/Alaska king recommended for co-sleeping families\n\nFamily-friendly king beds are designed for shared sleeping with children or pets. They emphasize durability, space, and comfort. This makes them suitable for modern family lifestyles where flexibility is important.\n\nThese beds provide enough room for everyone to sleep comfortably without feeling crowded. For families who value closeness and convenience, family-friendly king beds offer both comfort and peace of mind.",
+        content: "Dimensions: 76\" W × 80\" L (193 × 203 cm) or larger; Wyoming/Alaska king recommended for co-sleeping families\n\nFamily-friendly king beds are designed for shared sleeping with children or pets. They emphasize durability, space, and comfort. This makes them suitable for modern family lifestyles where flexibility is important.\n\nThese beds provide enough room for everyone to sleep comfortably without feeling crowded. For families who value closeness and convenience, family-friendly king beds offer both comfort and peace of mind.",
         image: "/assets/king-bed-21.webp"
       }
     ],
@@ -339,7 +339,7 @@ export const articles: Article[] = [
       },
       {
         question: "How much does it cost to install a backyard jacuzzi?",
-        answer: "Costs vary widely depending on size, materials, features, and installation. A basic above-ground jacuzzi may cost $3,000–$6,000, while high-end sunken models with decking, waterfalls, or lighting can exceed $15,000–$30,000. Consider long-term maintenance, electricity, and water costs when budgeting for your backyard spa."
+        answer: "Costs vary widely depending on size, materials, features, and installation. A basic above-ground jacuzzi may cost $3,000 to $6,000, while high-end sunken models with decking, waterfalls, or lighting can exceed $15,000 to $30,000. Consider long-term maintenance, electricity, and water costs when budgeting for your backyard spa."
       },
       {
         question: "Can I use my jacuzzi year-round?",
@@ -670,7 +670,7 @@ export const articles: Article[] = [
       },
       {
         question: "Can small bedrooms have a moody romantic look?",
-        answer: "Yes, small bedrooms can absolutely have a moody romantic look. Dark tones can actually make a small space feel more intimate and cozy when used thoughtfully. The key is balance—use dark walls with lighter bedding, soft lighting, and minimal decor. Keeping the layout simple prevents the room from feeling cramped or overwhelming."
+        answer: "Yes, small bedrooms can absolutely have a moody romantic look. Dark tones can actually make a small space feel more intimate and cozy when used thoughtfully. The key is balance: use dark walls with lighter bedding, soft lighting, and minimal decor. Keeping the layout simple prevents the room from feeling cramped or overwhelming."
       },
       {
         question: "What textures make a bedroom feel more romantic?",
@@ -1441,7 +1441,7 @@ export const articles: Article[] = [
       },
       {
         question: "How often should I update my DIY room décor?",
-        answer: "Update seasonally or whenever you feel inspired. The beauty of DIY is flexibility—washi tape and removable projects make changes easy. Rotate pieces to keep the space fresh without spending more money."
+        answer: "Update seasonally or whenever you feel inspired. The beauty of DIY is flexibility: washi tape and removable projects make changes easy. Rotate pieces to keep the space fresh without spending more money."
       }
     ]
   },
