@@ -1787,136 +1787,141 @@ export const articles: Article[] = [
     id: "26",
     slug: "small-kitchen-decor-maximize-space",
     date: "2026-01-29",
-    title: "Small Kitchen Decor: 20 Ways to Maximize Space",
-    excerpt: "Discover 20 smart décor ideas to make the most of your small kitchen with style, organization, and efficiency.",
+    title: "20 Small Kitchen Ideas That Add Storage and Counter Space",
+    excerpt: "Open shelves, wall rails, rolling carts and slim appliances: 20 ways to make a small kitchen easier to cook in.",
+    intro: "In a small kitchen, the problem is rarely the lack of cabinets. It is that the counters are full and the walls are bare. The fastest gains come from moving tools onto walls, lifting storage up and fitting furniture that folds or rolls.\n\nBefore you buy anything, empty the counters and put back only what you use every day. You may find you have more space than you thought.",
     category: "Kitchen",
     image: "/assets/placeholder.svg",
     sections: [
       {
-        title: "1. Open Shelving",
-        content: "Replace bulky cabinets with open shelves to free visual space. Display dishes, glasses, and decorative items neatly.\n\nOpen shelving adds airiness while keeping essentials accessible. It allows personalization with small plants, jars, or cookbooks, maximizing both function and style.",
+        title: "1. Open Shelves in Place of Upper Cabinets",
+        content: "Remove one or two upper cabinets and fit a pair of shelves 10 inches deep. Plates, bowls and glasses you use every day look fine on show, and you can reach them without opening a door.\n\nStick to one or two colors of dishware, so the shelves look tidy. Keep open shelves away from the stove, where grease will settle on them.",
         image: "/assets/small-kitchen-01.webp"
       },
       {
         title: "2. Vertical Storage Solutions",
-        content: "Use wall-mounted racks, hooks, or magnetic strips to store utensils, pots, and pans. Vertical storage keeps counters clear.\n\nThis approach saves valuable floor space. It also organizes kitchen tools efficiently, making small kitchens functional and visually appealing.",
+        content: "A rail with hooks along the backsplash holds ladles, pans and mugs. A 36-inch rail takes around 8 to 10 items. Fix it into studs or use anchors rated for the weight.\n\nHang the heaviest pans closest to the end where the rail is supported.",
         image: "/assets/small-kitchen-02.webp"
       },
       {
         title: "3. Light Color Palette",
-        content: "Paint cabinets, walls, and backsplashes in whites, creams, or pastels to visually expand the space.\n\nLight colors reflect natural and artificial light, making the kitchen feel larger. Pair with subtle contrasts for depth and modern aesthetic.",
+        content: "Light colors bounce light around and make the walls seem further away. White or pale gray cabinets, a light backsplash and a pale floor have the strongest effect.\n\nIf you are renting, paint the walls and add peel-and-stick tile. Cabinet paint in satin is easier to wipe clean than flat.",
         image: "/assets/small-kitchen-03.webp"
       },
       {
         title: "4. Compact Kitchen Island",
-        content: "Opt for a small, movable island for prep space and storage. Choose one with shelves or drawers for multifunctionality.\n\nCompact islands provide extra surface area without overwhelming the room. Wheels allow flexibility, making it easy to reposition as needed.",
+        content: "A cart on wheels, around 18 by 30 inches, gives you extra prep space and a shelf for a mixer or a bowl. Roll it out when you cook and tuck it into a corner when you are done.\n\nLook for one with locking wheels and a butcher-block or steel top. Leave 36 inches of clear space when it is in use.",
         image: "/assets/small-kitchen-04.webp"
       },
       {
         title: "5. Mirror Backsplash",
-        content: "Install a mirror or mirrored tiles behind counters. Mirrors reflect light and create an illusion of depth.\n\nA mirrored backsplash makes the kitchen feel airy and spacious. It's stylish and functional, enhancing both décor and lighting.",
+        content: "A mirrored panel in a non-heat zone, such as beside the window or on the side wall, reflects light and doubles the view. Do not use ordinary mirror near the stove, as heat can crack it.\n\nFor behind the cooker, use tempered glass or metal sheets that are rated for the heat.",
         image: "/assets/small-kitchen-05.webp"
       },
       {
         title: "6. Pull-Out Pantry Shelves",
-        content: "Install pull-out shelves or drawers in cabinets for easy access to pantry items.\n\nThis maximizes storage in narrow cabinets. Pull-out designs prevent clutter, making even small kitchens efficient and organized.",
+        content: "A pull-out unit 6 to 9 inches wide fits into the gap between a fridge and a wall. It holds cans, bottles and spices on rolling shelves. You can buy these as a kit or have them made.\n\nCheck the gap with a tape measure first. You need an extra half inch each side for the slides.",
         image: "/assets/small-kitchen-06.webp"
       },
       {
         title: "7. Hanging Pot Rack",
-        content: "Use ceiling or wall-mounted racks for pots and pans. Free up cabinet space while adding visual interest.\n\nHanging racks allow easy access to cookware. They save storage space and act as functional décor, keeping small kitchens tidy.",
+        content: "A bar suspended from the ceiling or a rack on the wall puts pots at hand and frees up two or three lower cabinets. Hang it where you will not hit your head, at least 7 feet from the floor.\n\nThe fixing has to go into a joist, and a full rack of cast iron is heavy.",
         image: "/assets/small-kitchen-07.webp"
       },
       {
         title: "8. Foldable or Drop-Leaf Table",
-        content: "Add a foldable table for extra prep or dining space. Fold it away when not in use to save room.\n\nDrop-leaf tables are practical for tight spaces. They maintain workflow while keeping the kitchen open and uncluttered.",
+        content: "A drop-leaf table 12 inches deep when closed and 36 inches when open serves as extra counter and a table for two. Fix it to the wall with a heavy-duty hinge and a folding leg.\n\nIt is a good way to get a dining spot in a kitchen with no room for a table.",
         image: "/assets/small-kitchen-08.webp"
       },
       {
         title: "9. Multi-Functional Furniture",
-        content: "Use benches, stools, or carts with hidden storage for utensils, appliances, or pantry items.\n\nMulti-functional furniture keeps essential items accessible while saving space. It balances practicality with aesthetic appeal for small kitchens.",
+        content: "A bench with a lift-up seat, a stool with a drawer or a bar cart with shelves each replace a cupboard. Look for ones that fit under a window or at the end of a counter.\n\nStore the things you use less often, such as a slow cooker or baking trays, in the hidden compartment.",
         image: "/assets/small-kitchen-09.webp"
       },
       {
         title: "10. Under-Cabinet Lighting",
-        content: "Install LED strips or puck lights beneath cabinets to brighten countertops.\n\nUnder-cabinet lighting improves visibility while making the space feel larger. It enhances both function and ambiance without consuming floor space.",
+        content: "Stick-on LED strips or plug-in light bars under the wall cabinets cost $20 to $40 and light the worktop. Choose 3000K for a warm white that does not make food look gray.\n\nHide the cable in a trim channel and plug it into a switched outlet, or use a battery-powered type with a motion sensor.",
         image: "/assets/small-kitchen-10.webp"
       },
       {
         title: "11. Sliding Cabinet Doors",
-        content: "Replace traditional swinging doors with sliding or pocket doors on cabinets.\n\nSliding doors save precious floor space. They allow easy access to storage while maintaining a clean, streamlined look.",
+        content: "Doors that slide along a track don't need the 15 to 20 inches in front of the cabinet that a swinging door does. This matters in a galley kitchen where two doors can block the way.\n\nTrack kits are sold for retrofitting, but they take some skill. Ask a carpenter if you are unsure.",
         image: "/assets/small-kitchen-11.webp"
       },
       {
         title: "12. Magnetic Knife Strips",
-        content: "Mount knives on magnetic strips instead of storing in a block. This keeps counters clear and organized.\n\nKnife strips save drawer space and provide visual order. They're practical, safe, and add a modern touch to the kitchen.",
+        content: "A magnetic bar 12 to 18 inches long, fixed to the wall at eye level, holds up to five knives, and frees up a drawer or a block. Mount it away from where children can reach.\n\nCheck the magnet is strong enough for your knives, and wipe the blades dry before you hang them.",
         image: "/assets/small-kitchen-12.webp"
       },
       {
         title: "13. Compact Appliances",
-        content: "Choose slim or multi-functional appliances to reduce clutter. Consider combo ovens, narrow fridges, or induction cooktops.\n\nCompact appliances optimize space without sacrificing efficiency. They maintain a sleek and tidy kitchen environment.",
+        content: "A 24-inch dishwasher, a 24-inch fridge and a 2-burner induction hob take up much less room than full-size models. A combination microwave and convection oven replaces two appliances.\n\nSlim models cost the same as full-size ones, and sometimes more, so check the capacity before you buy.",
         image: "/assets/small-kitchen-13.webp"
       },
       {
-        title: "14. Open Floor Plan",
-        content: "Keep pathways clear and avoid overcrowding counters. Use minimal décor to make the room feel larger.\n\nOpen floor layouts improve movement and functionality. Simple arrangements maximize small kitchens while keeping them stylish.",
+        title: "14. Clear Walkways",
+        content: "Clear the walkway so that you can move freely between the sink, the stove and the fridge. A gap of 36 inches is the minimum, and 42 inches is better.\n\nRemove anything that sits on the floor in the walkway, such as bins and mats, or move them into cabinets.",
         image: "/assets/small-kitchen-14.webp"
       },
       {
         title: "15. Tiered Shelving on Counters",
-        content: "Use tiered shelves to store spices, jars, or small kitchen tools vertically.\n\nVertical tiers free up counter space while keeping items visible and accessible. It's perfect for maintaining order in a small kitchen.",
+        content: "A two- or three-tier stand holds spices, oil bottles and jars on one footprint. Wood or metal both work. Choose one with a footprint of 10 inches or less.\n\nKeep the items you reach for every day on the top tier and heavier items on the bottom.",
         image: "/assets/small-kitchen-15.webp"
       },
       {
         title: "16. Wall-Mounted Foldable Desk",
-        content: "Install a wall-mounted foldable surface for prep or work tasks. Fold down when not in use.\n\nThis adds functional workspace without reducing floor area. Wall-mounted desks are versatile, compact, and budget-friendly.",
+        content: "A fold-down shelf 12 by 24 inches fixed to the wall gives extra prep space when you need it and disappears when it is closed. Choose one with a locking support bracket.\n\nIt is also useful as a laptop spot or a breakfast bar for one.",
         image: "/assets/small-kitchen-16.webp"
       },
       {
         title: "17. Transparent Storage Containers",
-        content: "Use clear jars or boxes for pantry staples. Stackable containers save space and keep ingredients visible.\n\nTransparent storage simplifies organization. It prevents clutter and makes a small kitchen look neat and modern.",
+        content: "Square or rectangular containers use space better than round ones, and clear ones let you see what is inside. Stack them on a shelf or in a cupboard.\n\nDecant a bag of flour, rice or pasta into a container as soon as you buy it, and tape a label with the use-by date on the lid.",
         image: "/assets/small-kitchen-17.webp"
       },
       {
         title: "18. Pull-Out Trash Bins",
-        content: "Incorporate pull-out trash and recycling bins within cabinetry to keep them hidden.\n\nConcealed bins free floor space and maintain a clean, uncluttered look. They are practical and visually appealing for small kitchens.",
+        content: "A pull-out bin inside the base cabinet next to the sink saves the floor space a freestanding bin takes. A double bin, 35 liters in total, covers trash and recycling.\n\nThey can be fitted to most 15- or 18-inch base cabinets by a competent DIYer.",
         image: "/assets/small-kitchen-18.webp"
       },
       {
         title: "19. Corner Shelves",
-        content: "Install corner shelves for plants, cookbooks, or decorative items. Utilize often-neglected spaces efficiently.\n\nCorner shelves maximize every inch of kitchen space. They add height, depth, and decorative appeal without crowding counters.",
+        content: "A corner shelf in an unused corner, or a lazy Susan in a corner cabinet, makes use of space that is hard to reach. Use it for plants, a radio or cookbooks.\n\nA two-tier lazy Susan can double the usable space in a blind corner cabinet.",
         image: "/assets/small-kitchen-19.webp"
       },
       {
         title: "20. Ladder Shelf Storage",
-        content: "A slim ladder shelf can hold appliances, plants, or decorative items against a wall.\n\nVertical shelving optimizes space and provides flexibility. It adds rustic charm or modern flair depending on material choice.",
+        content: "A leaning ladder shelf, 5 feet tall and 14 inches wide, holds baskets, plants and a toaster against a wall without drilling. The base is narrow, at around 10 inches.\n\nBecause it leans, it is less secure than a wall fixing, so attach a strap to the wall if there are children.",
         image: "/assets/small-kitchen-20.webp"
+      },
+      {
+        title: "Fixing a Small Kitchen in the Right Order",
+        content: "First, remove what you don't use, so you know how much space you have. Then add wall storage and lighting, which cost the least and make the biggest difference.\n\nNext, look at furniture: a rolling cart or a folding table gives you the extra counter you need. Only then consider larger changes such as slim appliances or new cabinet doors.\n\nKeep a list of what you reach for most. Those items should be within arm's reach of the hob and the sink."
       }
     ],
     faqs: [
       {
-        question: "How can I make a small kitchen look bigger?",
-        answer: "Use light colors, mirrors, and open shelving to create an illusion of space. Keep counters clutter-free, maximize vertical storage, and ensure good lighting. These techniques visually expand the kitchen without renovations."
+        question: "How can I make a small kitchen feel bigger?",
+        answer: "Use light colors, good lighting under the cabinets and open shelves, and keep the counters clear. Remove clutter from the floor and keep a clear walkway of at least 36 inches."
       },
       {
-        question: "What storage solutions work best for small kitchens?",
-        answer: "Vertical storage, pull-out shelves, hanging racks, and rolling carts are ideal. Use transparent containers, tiered organizers, and hooks to maximize every inch. Focus on multi-functional solutions that save floor space."
+        question: "What storage works best in a small kitchen?",
+        answer: "Wall rails, magnetic strips, pull-out shelves, tiered stands and hanging racks. These move items off the counters and use dead space such as gaps beside the fridge."
       },
       {
-        question: "How do I organize a small kitchen efficiently?",
-        answer: "Group similar items together, use clear containers, and install pull-out shelves. Keep frequently used items accessible and store rarely used items higher or deeper. Regular decluttering maintains organization."
+        question: "Should I put an island in a small kitchen?",
+        answer: "Only if you can leave about 36 to 42 inches of clearance on all sides. A rolling cart is a better option for most small kitchens, since you can move it out of the way."
       },
       {
-        question: "What colors make a small kitchen feel larger?",
-        answer: "White, cream, soft gray, and pastel tones reflect light and create openness. Light-colored cabinets, walls, and backsplashes work together to visually expand the space. Add subtle contrasts for depth."
+        question: "How do I add counter space?",
+        answer: "Use a cart, a drop-leaf table, a fold-down shelf or a cutting board that fits over the sink. Moving small appliances to shelves or a cart also frees up the counter."
       },
       {
-        question: "Should I use an island in a small kitchen?",
-        answer: "A compact, movable island can work well if there's enough clearance for movement. Choose one with storage and wheels for flexibility. If space is very tight, consider a foldable table instead."
+        question: "What colors suit a small kitchen?",
+        answer: "White, cream, pale gray and soft pastels reflect light. A single darker accent, such as a black faucet or wood shelf, stops the room from looking flat."
       },
       {
-        question: "How can I add counter space in a small kitchen?",
-        answer: "Use foldable tables, rolling carts, or cutting board covers for sinks. Wall-mounted surfaces and compact islands also add prep space. Keep counters clear by storing items vertically or in cabinets."
+        question: "Are open shelves practical in a small kitchen?",
+        answer: "Yes, if you keep only everyday items on them and keep them away from the stove. They make the kitchen feel less closed in, but need regular dusting and wiping."
       }
     ]
   },
@@ -1924,123 +1929,132 @@ export const articles: Article[] = [
     id: "26",
     slug: "finished-basement-ideas",
     date: "2026-02-02",
-    title: "Finished Basement Ideas: 18 Add Style & Value",
-    excerpt: "Transform your basement into a stylish and functional space that adds real value to your home with these 18 inspiring design ideas.",
+    title: "18 Finished Basement Ideas, From a Family Lounge to a Rental Suite",
+    excerpt: "Eighteen ways to use a basement, with notes on ceiling height, moisture, windows and permits that decide what is possible.",
+    intro: "What a basement can become depends on four things: ceiling height, moisture, natural light and the local building code. Most codes ask for at least 7 feet of finished ceiling height, a proper exit window in any bedroom and a dry, insulated shell.\n\nFix water problems before you spend anything on finishes. A damp basement ruins flooring and drywall within a year or two, however well it is decorated.\n\nEach idea below suits a different household. Choose the one that fits how you live now, and plan the wiring and plumbing so the room can change later.",
     category: "Basement",
     image: "/assets/placeholder.svg",
     imageAspectRatio: "1:1",
     sections: [
       {
-        title: "1. Cozy Family Lounge",
-        content: "A finished basement family lounge creates a comfortable space for relaxing, movie nights, and casual gatherings. Soft sectionals, warm rugs, and layered lighting instantly make the room feel inviting rather than underground or dark.\n\nThis idea adds value by extending your living area without major construction. Neutral tones paired with textured fabrics help the space feel polished while remaining practical for daily use.",
+        title: "1. Family Lounge",
+        content: "A sectional, a media console and a rug over vinyl plank flooring turns a basement into a place for movie nights. Layer lighting at three heights, with recessed lights, table lamps and a floor lamp, since a basement lacks daylight.\n\nChoose warm 2700K bulbs and a pale paint color. Put in a dehumidifier if the room feels damp.",
         image: "/assets/basement-01.webp"
       },
       {
         title: "2. Modern Home Office",
-        content: "A basement home office offers privacy and focus away from household noise. Built-in desks, task lighting, and sound-absorbing materials create a productive environment.\n\nThis setup adds strong resale value, especially as remote work continues to grow. Smart storage keeps the room organized while making the most of limited square footage.",
+        content: "A basement office is quiet and private. Build a desk along one wall, with task lighting, and add acoustic panels or a thick rug to deaden sound.\n\nCheck the internet signal. Running an Ethernet cable to the room is more reliable than depending on Wi-Fi through a floor.",
         image: "/assets/basement-02.webp"
       },
       {
         title: "3. Guest Bedroom Suite",
-        content: "Turn your finished basement into a welcoming guest bedroom with cozy bedding, soft lighting, and warm wall colors. Adding an area rug helps define the sleeping zone.\n\nA basement guest suite adds flexibility for visitors or extended family. It also increases the perceived size and functionality of your home.",
+        content: "A guest bedroom needs an egress window, a window large enough to climb out of, to be legal in most places. If there is none, a window well can be cut at some expense, or the room can serve as a sitting room.\n\nAdd a closet, a lamp on each side of the bed and blackout curtains. A rug helps with cold floors.",
         image: "/assets/basement-03.webp"
       },
       {
         title: "4. Game and Entertainment Room",
-        content: "A basement game room is perfect for pool tables, board games, or gaming consoles. Durable flooring and flexible seating keep the space functional and fun.\n\nThis idea boosts lifestyle value by creating a dedicated entertainment zone. It's ideal for families who want shared spaces without cluttering main living areas.",
+        content: "Use durable flooring such as vinyl plank or carpet tile, which survives dropped cues and spilled drinks. A pool table needs a room of about 12 by 15 feet.\n\nPut the TV on a wall away from windows to avoid glare, and keep storage for games within reach.",
         image: "/assets/basement-04.webp"
       },
       {
         title: "5. Home Gym",
-        content: "A basement gym offers convenience and privacy for daily workouts. Rubber flooring, mirrors, and proper ventilation make the space comfortable and motivating.\n\nAdding a home gym increases appeal for health-focused buyers. It also saves long-term costs by eliminating the need for external gym memberships.",
+        content: "Rubber flooring in 3/8 or 1/2 inch thickness protects the slab and absorbs impact. Mirrors on one wall help with form, and a fan or a mini-split keeps air moving.\n\nCheck the ceiling height before you buy racks, since you need around 8 feet for overhead lifts. The concrete slab is a good base for heavy equipment.",
         image: "/assets/basement-05.webp"
       },
       {
         title: "6. Kids' Playroom",
-        content: "A finished basement playroom gives kids space to explore while keeping toys off the main floor. Bright colors and soft flooring enhance safety and creativity.\n\nThis idea adds family-friendly value and improves home organization. As children grow, the room can easily transition into another functional space.",
+        content: "Foam tiles or carpet over a pad make falls softer, and low open shelves allow children to put toys away. Use bins with picture labels so younger kids can sort.\n\nKeep the area visible from the stairs, so you can supervise. Cover outlets and anchor shelves to the wall.",
         image: "/assets/basement-06.webp"
       },
       {
         title: "7. Media and TV Room",
-        content: "Unlike a formal theater, a media room offers casual seating and multipurpose use. Sectionals, layered lighting, and sound panels improve comfort.\n\nThis flexible design attracts buyers who want relaxed entertainment spaces. It also adapts easily for gaming, sports nights, or family viewing.",
+        content: "Use a wall with no windows for the screen, and add acoustic panels at the first reflection points and behind the seating. Dark paint on the walls and ceiling cuts glare.\n\nA 65-inch TV with a soundbar suits most basements. A projector with a 100-inch screen works if you can darken the room.",
         image: "/assets/basement-07.webp"
       },
       {
         title: "8. Laundry Room Upgrade",
-        content: "A finished basement laundry room can be both stylish and functional. Cabinets, folding counters, and good lighting transform chores into a smoother routine.\n\nUpgraded laundry spaces add everyday value. Buyers appreciate organized, clean laundry areas that don't feel like an afterthought.",
+        content: "A laundry room needs a floor drain, a utility sink and a dryer vent, and you must route the vent outside. Counters above the machines at 36 inches make folding easy.\n\nPut the machines on a drain pan, and keep an eye on the water supply hoses. A leak in a basement can go unnoticed for days.",
         image: "/assets/basement-08.webp"
       },
       {
         title: "9. Craft or Hobby Room",
-        content: "A basement craft room gives you space for creativity without clutter. Adjustable storage and large work surfaces support different hobbies.\n\nThis idea adds personal value while keeping the home organized. It's also easy to convert into an office or guest room later.",
+        content: "A long worktable, wall pegboards and shelves with labeled bins support sewing, painting or model-making. Bright lighting is essential: use 4000K to 5000K LED panels to see colors accurately.\n\nChoose a washable floor such as sealed concrete or vinyl, and keep the room ventilated for paint and glue.",
         image: "/assets/basement-09.webp"
       },
       {
-        title: "10. Minimalist Lounge",
-        content: "A minimalist basement lounge uses clean lines, neutral colors, and simple furniture to create a calm retreat. Strategic lighting keeps it from feeling closed in.\n\nMinimal design appeals to modern buyers. It highlights space and functionality while maintaining a timeless aesthetic.",
+        title: "10. Plain, Uncluttered Lounge",
+        content: "A clean, simple room with a sofa, a low table and a few lamps. Keep the colors close together, such as warm white walls, a light gray rug and wood furniture.\n\nLeave the ceiling pipes exposed and painted, or box them in, instead of trying to hide them with a drop ceiling that lowers the height.",
         image: "/assets/basement-10.webp"
       },
       {
         title: "11. Basement Apartment",
-        content: "Convert your basement into a small apartment with a bedroom, kitchenette, and bathroom. Smart layouts maximize comfort and independence.\n\nBasement apartments add strong financial value through rental income. They also attract buyers looking for multi-generational living solutions.",
+        content: "A suite with a bedroom, a bathroom and a kitchenette needs a separate entrance, an egress window, fire separation and usually a permit. Rules on rental use vary widely by city, so check zoning before you begin.\n\nPlan the plumbing early, since a bathroom below the sewer line may need a sewage ejector pump.",
         image: "/assets/basement-11.webp"
       },
       {
         title: "12. Reading and Library Space",
-        content: "A basement reading nook creates a peaceful escape. Built-in shelves, cozy chairs, and warm lighting make it inviting.\n\nThis idea adds character and charm. It's a low-cost way to personalize your basement while increasing usable square footage.",
+        content: "Build shelves from floor to ceiling on one wall, and add a deep chair, a floor lamp and a small side table. Basements are quiet, which suits reading.\n\nKeep books off an exterior wall that can get damp, and use a hygrometer to check humidity stays between 30% and 50%.",
         image: "/assets/basement-12.webp"
       },
       {
         title: "13. Storage-Focused Design",
-        content: "Finished basements can still prioritize storage with built-ins and hidden cabinets. Clean layouts keep the space clutter-free.\n\nSmart storage solutions increase functional value. Buyers appreciate organized homes that maximize every available inch.",
+        content: "Use the walls under the stairs and the dead space under low ceilings for built-in cabinets with doors. Shelving units on wheels allow you to move boxes without lifting.\n\nKeep storage at least 4 inches off the floor, and avoid cardboard boxes in case of a leak.",
         image: "/assets/basement-13.webp"
       },
       {
         title: "14. Playful Teen Hangout",
-        content: "Design a basement hangout with modular seating, LED lighting, and entertainment zones. It gives teens independence while staying close to home.\n\nThis feature adds family appeal and flexibility. Over time, it can evolve into a lounge or media room.",
+        content: "A hangout space for teens with a sectional, a console and a mini-fridge keeps friends close but out of the main living room. Use a durable fabric and a washable floor.\n\nPut sound-absorbing panels or a thick rug in the room, and keep the door within earshot of the stairs.",
         image: "/assets/basement-14.webp"
       },
       {
         title: "15. Multi-Purpose Flex Space",
-        content: "A flex basement combines lounging, working, and entertaining in one adaptable layout. Movable furniture allows easy reconfiguration.\n\nFlex spaces add long-term value by adapting to changing needs. They make your basement future-proof and highly attractive to buyers.",
+        content: "Furniture on wheels, a sofa bed and a fold-down desk let one room be a guest room, an office and a play area. Keep the center of the room clear.\n\nRun power to the middle of the floor with a floor outlet, so you can rearrange without cords across the floor.",
         image: "/assets/basement-15.webp"
       },
       {
-        title: "16. Wellness & Meditation Retreat",
-        content: "Turn your finished basement into a calming wellness space with soft lighting, neutral colors, and natural textures. Floor cushions, yoga mats, and minimal décor create a peaceful atmosphere that feels separate from daily stress.\n\nThis idea adds lifestyle value by supporting mental and physical wellness at home. Buyers increasingly appreciate dedicated relaxation spaces, making this a subtle but meaningful upgrade.",
+        title: "16. Meditation and Stretching Room",
+        content: "A quiet room for yoga, stretching or meditation needs a soft floor, calm lighting and little else. Cork, wood-look vinyl or a thick mat suit.\n\nPut a speaker or a diffuser in the room, and use a dimmer with warm bulbs. Keep a heater or fan in reach.",
         image: "/assets/basement-16.webp"
       },
       {
         title: "17. Basement Bathroom Spa",
-        content: "Adding a spa-inspired basement bathroom elevates both comfort and home value. Features like walk-in showers, stone tiles, and warm lighting create a luxurious feel even in a compact space.\n\nA finished basement bathroom significantly boosts usability, especially for guests or basement apartments. It's a practical upgrade that also increases resale appeal.",
+        content: "A bathroom downstairs needs a plan for drainage. If the basement is below the sewer line, a macerating toilet or an ejector pump will be required. Fit a ventilation fan that vents outside.\n\nUse porcelain tile on the floor and walls, and a waterproof membrane under the tile in the shower.",
         image: "/assets/basement-17.webp"
       },
       {
         title: "18. Indoor Entertainment & Arcade Zone",
-        content: "Design a small arcade-style entertainment zone with classic games, seating, and accent lighting. This playful setup adds character without overwhelming the basement.\n\nEntertainment zones boost lifestyle appeal and make the home feel unique. They're especially attractive for families and buyers looking for memorable spaces.",
+        content: "A small arcade corner with a pinball machine, a dartboard or two cabinets needs a dedicated circuit and a floor that can carry the weight. A pinball machine weighs around 250 pounds.\n\nSet it apart with dark paint and warm accent lights, and keep it away from the damp areas.",
         image: "/assets/basement-18.webp"
+      },
+      {
+        title: "Before You Start Building",
+        content: "Test for moisture first. Tape a 2 foot square of plastic sheeting to the concrete floor for two days. If condensation forms underneath, the floor needs sealing or drainage work before it can be covered.\n\nThen call your local building department. You will likely need permits for electrical, plumbing and any wall that carries load, and an inspection can protect you when you sell.\n\nPlan the ceiling last. Pipes, ducts and a panel that need access should not be sealed away behind drywall."
       }
     ],
     faqs: [
       {
         question: "How much does it cost to finish a basement?",
-        answer: "Finishing a basement typically costs between $20,000 and $50,000 depending on size, finishes, and features like bathrooms or kitchens. Basic finishes are more affordable, while high-end designs with custom features can exceed $70,000."
+        answer: "Most projects cost between $20,000 and $50,000 for a basic job, depending on size and local labor rates. Adding a bathroom or kitchen can raise the total well above that."
       },
       {
-        question: "Does a finished basement add home value?",
-        answer: "Yes, a finished basement can add significant value to your home. On average, homeowners recoup 70-75% of their investment. The actual value depends on quality, functionality, and local market conditions."
+        question: "Does a finished basement add value?",
+        answer: "It can, but typically a finished basement returns only part of its cost when you sell, and the return depends on the market, the quality of work and whether the space is legal living area. Ask a local agent for figures."
       },
       {
-        question: "What is the best flooring for a basement?",
-        answer: "Luxury vinyl plank, tile, and engineered hardwood are excellent choices for basements due to their moisture resistance. Avoid solid hardwood and carpet in areas prone to dampness."
+        question: "What flooring is best for a basement?",
+        answer: "Luxury vinyl plank, porcelain tile and carpet tiles tolerate moisture better than solid hardwood or glued laminate. Use a subfloor system with a vapor barrier if the slab is damp."
       },
       {
-        question: "How can I make my basement feel less like a basement?",
-        answer: "Use light colors, ample lighting, and mirrors to brighten the space. Add cozy textures, artwork, and proper ventilation to create a warm and inviting atmosphere."
+        question: "How do I stop a basement feeling like a basement?",
+        answer: "Use light colors, layered warm lighting, mirrors and glass doors where possible. A dehumidifier keeps the air fresh, and avoiding a low drop ceiling keeps the height."
       },
       {
         question: "Do I need a permit to finish my basement?",
-        answer: "In most areas, yes. Permits are typically required for electrical, plumbing, and structural work. Check with your local building department before starting any basement renovation project."
+        answer: "In most places, yes, for electrical, plumbing, framing and any bedroom or bathroom. Contact your local building department before you start, because unpermitted work can cause trouble when you sell."
+      },
+      {
+        question: "Can a basement bedroom be legal?",
+        answer: "Generally it needs an egress window or door, smoke and carbon monoxide alarms, and a minimum ceiling height, often 7 feet. Rules vary by location, so check yours."
       }
     ]
   },
@@ -2048,118 +2062,127 @@ export const articles: Article[] = [
     id: "27",
     slug: "luxury-master-bathroom-spa-ideas",
     date: "2026-02-02",
-    title: "Luxury Master Bathroom: 17 Spa-Like Ideas",
-    excerpt: "Transform your master bathroom into a personal spa retreat with these 17 luxurious design ideas that blend comfort, elegance, and timeless style.",
+    title: "17 Master Bathroom Upgrades for a Spa Feel: Tubs, Showers, Stone and Heat",
+    excerpt: "A soaking tub, a curbless shower, heated floors and warm lighting: 17 master bathroom upgrades with sizes and practical notes.",
+    intro: "A spa-style bathroom is mostly about a few big choices: how you bathe, how the room is lit and what the surfaces feel like underfoot. The rest is tidy storage and a calm color palette.\n\nSome of these upgrades are structural and need a plumber or electrician. Others, like lighting, textiles and plants, can be done in a weekend. We have marked which is which where it matters.",
     category: "Bathroom",
     image: "/assets/placeholder.svg",
     imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Freestanding Soaking Tub",
-        content: "A freestanding soaking tub instantly creates a spa-like focal point in a luxury master bathroom. Sculptural shapes paired with soft lighting make the tub feel like a personal retreat designed for deep relaxation.\n\nBeyond aesthetics, soaking tubs add strong resale value. They signal luxury and wellness while encouraging slower, more mindful routines at home.",
+        content: "A freestanding tub in acrylic, stone resin or cast iron, 60 to 72 inches long, gives the room a clear center. Allow at least 6 inches around it for cleaning, and 24 inches in front for stepping in.\n\nCast iron holds heat the longest but weighs 300 pounds or more, so the floor may need reinforcing. Floor-mounted fillers are tall and need a separate supply line.",
         image: "/assets/luxury-master-bathroom-01.webp"
       },
       {
         title: "2. Walk-In Rain Shower",
-        content: "A walk-in rain shower delivers a hotel-inspired experience with overhead rainfall and seamless glass walls. Minimal framing keeps the space open and visually calming.\n\nThis feature increases both comfort and home value. It's practical, luxurious, and ideal for creating a daily spa ritual.",
+        content: "A walk-in shower with a 10 to 12 inch overhead head feels like rainfall. The minimum comfortable size is 36 by 48 inches, and 36 by 60 is better.\n\nA curbless entry, with the floor sloped to a linear drain, makes cleaning easier and removes the step. It requires a skilled tiler and careful waterproofing.",
         image: "/assets/luxury-master-bathroom-02.webp"
       },
       {
         title: "3. Natural Stone Surfaces",
-        content: "Marble, travertine, or limestone surfaces elevate the bathroom with organic texture and timeless beauty. Stone walls and countertops bring depth and warmth.\n\nNatural stone adds durability and long-term value. Its luxurious appearance makes the bathroom feel curated and high-end.",
+        content: "Marble, travertine and limestone suit a bathroom, but they are porous and need to be sealed once or twice a year. Honed finishes hide water spots better than polished ones.\n\nIf the budget is tight, porcelain tile in a stone look is cheaper, doesn't stain and needs no sealing.",
         image: "/assets/luxury-master-bathroom-03.webp"
       },
       {
         title: "4. Heated Flooring",
-        content: "Heated floors transform cold mornings into a cozy, spa-like experience. Radiant heat works beautifully with stone or tile flooring.\n\nThis upgrade improves daily comfort and efficiency. It's a subtle luxury buyers instantly appreciate.",
+        content: "Electric radiant mats under the tile run on a dedicated circuit, and a thermostat with a timer keeps the running cost down. Stone and porcelain conduct heat well.\n\nIt must be installed before the tile, so it is a project for a remodel. A floor sensor and a programmable thermostat stop it running all day.",
         image: "/assets/luxury-master-bathroom-04.webp"
       },
       {
         title: "5. Soft Ambient Lighting",
-        content: "Layered lighting using sconces, recessed lights, and dimmers creates a soothing atmosphere. Warm light tones enhance relaxation.\n\nGood lighting elevates both function and mood. It also highlights finishes and architectural details.",
+        content: "Use three layers: a dimmable ceiling light for general use, sconces at head height beside the mirror and a soft light in the shower. Bulbs of 2700K with a high color rendering index (CRI 90+) flatter skin.\n\nMount sconces about 60 inches from the floor, 30 to 36 inches apart. All fixtures in a wet area must be rated for damp or wet locations.",
         image: "/assets/luxury-master-bathroom-05.webp"
       },
       {
         title: "6. Double Vanity Elegance",
-        content: "A double vanity adds balance, symmetry, and practicality. Custom cabinetry with stone tops enhances luxury.\n\nThis feature boosts daily convenience and resale appeal. It's especially valuable in shared master bathrooms.",
+        content: "Two sinks need a vanity of at least 60 inches, and 72 inches or more is more comfortable. Allow 30 inches between the centers of the sinks.\n\nDrawers below the sinks hold more than doors, and a center tower gives each person their own zone.",
         image: "/assets/luxury-master-bathroom-06.webp"
       },
       {
-        title: "7. Spa-Inspired Color Palette",
-        content: "Soft neutrals, warm beiges, and muted earth tones calm the senses. These colors reflect light beautifully.\n\nA serene palette creates a timeless spa feel. It also keeps the bathroom feeling open and airy.",
+        title: "7. A Calm Color Scheme",
+        content: "Warm whites, pale sand, stone gray and soft green keep the room light and calm. Stay within two or three colors and let the texture, such as stone, wood and linen, supply variety.\n\nPaint with a semi-gloss or satin finish rated for bathrooms, because a flat finish will mark.",
         image: "/assets/luxury-master-bathroom-07.webp"
       },
       {
         title: "8. Frameless Glass Enclosures",
-        content: "Frameless glass showers maintain a clean, uninterrupted visual flow. They enhance the sense of space.\n\nThis minimalist feature feels modern and luxurious. It's also easy to maintain and timeless.",
+        content: "A shower screen made of 3/8 or 1/2 inch tempered glass held with small brackets looks open and is easier to clean than a framed one. Coat the glass with a water-repellent treatment and squeegee after use.\n\nHave the glass measured by the supplier after the tiles are in. Walls are rarely perfectly square.",
         image: "/assets/luxury-master-bathroom-08.webp"
       },
       {
         title: "9. Statement Mirrors",
-        content: "Oversized or backlit mirrors add drama and functionality. They reflect light and enlarge the room visually.\n\nStatement mirrors create a boutique hotel aesthetic. They instantly elevate the space without heavy remodeling.",
+        content: "A large mirror above the vanity doubles the light. A backlit or edge-lit mirror gives even light without shadows, and some come with defogging.\n\nHang the mirror with the bottom 4 to 5 inches above the counter. Frameless mirrors are the simplest to style.",
         image: "/assets/luxury-master-bathroom-09.webp"
       },
       {
         title: "10. Built-In Storage Solutions",
-        content: "Custom drawers, niches, and cabinets keep surfaces clutter-free. Hidden storage enhances the spa experience.\n\nSmart storage adds organization and luxury. A clean bathroom feels calmer and more expensive.",
+        content: "Recessed wall niches in the shower, a vanity with deep drawers and a linen tower hold products out of sight. A niche is usually 12 inches wide and 24 inches high, set between studs.\n\nPlan niches before tiling, and slope the bottom slightly so water drains out.",
         image: "/assets/luxury-master-bathroom-10.webp"
       },
       {
         title: "11. Indoor Plants",
-        content: "Moisture-loving plants soften hard surfaces and add life. Greenery enhances the spa atmosphere.\n\nPlants improve air quality and visual warmth. They make the bathroom feel more organic and serene.",
+        content: "Ferns, pothos, orchids and peace lilies tolerate humidity. Hang them near a window or on a shelf away from the shower spray.\n\nIf the room has no window, choose a grow light bulb or use artificial greenery.",
         image: "/assets/luxury-master-bathroom-11.webp"
       },
       {
         title: "12. Luxury Towels & Textiles",
-        content: "Plush towels, bath mats, and robes add hotel-level comfort. Neutral fabrics enhance the spa look.\n\nHigh-quality textiles elevate daily routines. They also add a subtle layer of indulgence.",
+        content: "Thick cotton or Turkish towels in white or oatmeal, a heavy bath mat and a waffle-weave robe add comfort. Look for towels of 600 gsm or more, which are plusher and last longer.\n\nWash the towels before first use, and avoid fabric softener, which reduces absorbency.",
         image: "/assets/luxury-master-bathroom-12.webp"
       },
       {
         title: "13. Accent Wall Features",
-        content: "Textured tiles or stone accent walls create a focal point. They add visual interest without overwhelming the space.\n\nAccent walls increase design impact. They bring depth and personality to luxury bathrooms.",
+        content: "A single wall of large-format tile, 3D tile or stone behind the tub or the vanity gives the room a focal point. Keep the other walls plain.\n\nLight the feature wall with a spotlight or a wall wash to bring out the texture.",
         image: "/assets/luxury-master-bathroom-13.webp"
       },
       {
         title: "14. Integrated Technology",
-        content: "Smart mirrors, touchless faucets, and digital showers enhance comfort. Technology blends seamlessly into modern luxury.\n\nThese features increase convenience and long-term value. They also future-proof the bathroom.",
+        content: "A heated mirror, a touchless faucet, a programmable shower system and a smart toilet seat add convenience. A digital shower controller stores your preferred temperature.\n\nFit extra outlets and a GFCI circuit during the build. Wiring is much harder to add after tiling.",
         image: "/assets/luxury-master-bathroom-14.webp"
       },
       {
         title: "15. Private Toilet Room",
-        content: "A separate water closet improves privacy and cleanliness. It maintains a peaceful spa environment.\n\nThis layout adds practical luxury. It's highly desirable in high-end homes.",
+        content: "A separate enclosure for the toilet, with a door and its own fan, adds privacy for couples. The minimum size is about 36 by 66 inches, with at least 15 inches from the center of the toilet to each side wall.\n\nA pocket door saves swing space.",
         image: "/assets/luxury-master-bathroom-15.webp"
       },
       {
-        title: "16. Aromatherapy Elements",
-        content: "Essential oil diffusers and scented candles engage the senses. Natural fragrances enhance relaxation.\n\nAromatherapy completes the spa experience. It transforms everyday routines into rituals.",
+        title: "16. Scent",
+        content: "A diffuser with a few drops of essential oil, a eucalyptus bundle in the shower or a good candle adds scent. Hang fresh eucalyptus from the shower head, where the steam releases the oils.\n\nAvoid candles on the edge of the tub, and keep oils away from children and pets.",
         image: "/assets/luxury-master-bathroom-16.webp"
       },
       {
-        title: "17. Seating or Lounge Area",
-        content: "A small bench or ottoman adds comfort and elegance. It enhances relaxation and usability.\n\nSeating areas create a true retreat feel. They elevate the master bathroom beyond functionality.",
+        title: "17. A Place to Sit",
+        content: "A small bench, a stool or an upholstered ottoman by the tub or at the vanity gives you somewhere to sit while you dry your hair or put on lotion. Choose water-resistant material such as teak or a performance fabric.\n\nA teak bench inside a wet shower is an inexpensive way to give the shower a spa look.",
         image: "/assets/luxury-master-bathroom-17.webp"
+      },
+      {
+        title: "Where to Spend First",
+        content: "Start with the things that are hard to change later: waterproofing, the shower layout, plumbing positions, electrical circuits and ventilation. An exhaust fan rated at 1 CFM per square foot, vented outside, protects the whole room.\n\nThen choose tile, the tub and the vanity.\n\nLeave towels, plants and scent for last. They cost little, and they make the room feel finished."
       }
     ],
     faqs: [
       {
         question: "What makes a bathroom feel like a spa?",
-        answer: "A spa-like bathroom combines natural materials, soft lighting, neutral colors, and clutter-free surfaces. Features like freestanding tubs, rain showers, and aromatherapy elements enhance relaxation and create a retreat atmosphere."
+        answer: "Warm, layered lighting, calm colors, natural materials such as stone and wood, good towels and little clutter. A good shower or soaking tub is the main feature."
       },
       {
-        question: "How much does a luxury bathroom renovation cost?",
-        answer: "A luxury master bathroom renovation typically costs between $30,000 and $75,000 depending on size, materials, and features. High-end finishes like natural stone and custom cabinetry can increase costs significantly."
+        question: "How much does a master bathroom remodel cost?",
+        answer: "A mid-range remodel often costs $25,000 to $60,000, depending on size, materials and location. Moving plumbing, adding a curbless shower and using natural stone raise the cost significantly."
       },
       {
-        question: "What are the best colors for a luxury bathroom?",
-        answer: "Soft neutrals, warm whites, beiges, and muted earth tones work best for luxury bathrooms. These colors create a calming atmosphere, reflect light, and provide a timeless backdrop for elegant finishes."
+        question: "Is heated flooring worth it?",
+        answer: "For many people, yes. Electric mats are inexpensive to run with a timer, and they make tile comfortable in cold weather. They need to be installed with the tile, so they suit a full remodel."
       },
       {
-        question: "Is heated flooring worth it in a bathroom?",
-        answer: "Yes, heated flooring adds significant comfort and value. It keeps feet warm on cold mornings, works efficiently with stone or tile, and is a desirable feature for homebuyers seeking luxury amenities."
+        question: "What lighting is best for a bathroom?",
+        answer: "Layer a ceiling light, sconces at face height beside the mirror and a light in the shower. Use dimmers and 2700K bulbs with a high CRI, all rated for damp locations."
       },
       {
-        question: "What type of lighting is best for a master bathroom?",
-        answer: "Layered lighting with a mix of ambient, task, and accent lighting works best. Use dimmers for flexibility, sconces for flattering light near mirrors, and recessed lights for overall illumination."
+        question: "What size shower is comfortable?",
+        answer: "At least 36 by 48 inches, with 36 by 60 inches a more comfortable size. A curbless entry looks cleaner, and it needs careful waterproofing."
+      },
+      {
+        question: "How do I keep natural stone looking good?",
+        answer: "Seal it once or twice a year, wipe up spills quickly and use pH-neutral cleaners. Avoid acidic cleaners such as vinegar, which damage marble and limestone."
       }
     ]
   },
