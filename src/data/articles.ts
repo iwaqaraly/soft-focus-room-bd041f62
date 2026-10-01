@@ -12,6 +12,7 @@ export interface FAQ {
 export interface Article {
   id: string;
   slug: string;
+  date: string;
   title: string;
   excerpt: string;
   category: string;
@@ -25,6 +26,7 @@ export const articles: Article[] = [
   {
     id: "7",
     slug: "king-size-bed-guide-dimensions",
+    date: "2026-01-25",
     title: "King Size Bed Guide: 21 Dimensions & Benefits",
     excerpt: "Explore the complete guide to king size beds including standard, California, split, European, and custom options for every bedroom.",
     category: "Bedroom",
@@ -182,6 +184,7 @@ export const articles: Article[] = [
   {
     id: "13",
     slug: "best-jacuzzi-ideas-backyard",
+    date: "2026-01-25",
     title: "Best Jacuzzi Ideas for Your Backyard: 24 Ways",
     excerpt: "Transform your outdoor space into a luxurious retreat with these inspiring jacuzzi designs, from modern minimalist to tropical paradise.",
     category: "Garden",
@@ -354,6 +357,7 @@ export const articles: Article[] = [
   {
     id: "14",
     slug: "bedroom-earth-tones-neutral-ideas",
+    date: "2026-01-25",
     title: "Bedroom Earth Tones: 22 Cozy Neutral Ideas",
     excerpt: "Discover warm, grounding color palettes that transform your bedroom into a peaceful retreat with timeless earth-inspired neutrals.",
     category: "Bedroom",
@@ -516,6 +520,7 @@ export const articles: Article[] = [
   {
     id: "15",
     slug: "romantic-moody-bedroom-tips-design-ideas",
+    date: "2026-01-27",
     title: "Romantic Moody Bedroom Tips: 25 Design Ideas",
     excerpt: "Create an intimate and cozy retreat with deep tones, soft textures, and warm lighting for the ultimate romantic bedroom atmosphere.",
     category: "Bedroom",
@@ -693,6 +698,7 @@ export const articles: Article[] = [
   {
     id: "16",
     slug: "modern-living-room-ideas-2026-trends",
+    date: "2026-01-27",
     title: "Modern Living Room Ideas 2026: 21 Trends",
     excerpt: "Discover the top living room trends for 2026, from warm neutrals and curved furniture to layered textures and timeless modern comfort.",
     category: "Living Room",
@@ -850,6 +856,7 @@ export const articles: Article[] = [
   {
     id: "18",
     slug: "small-room-bedroom-ideas-easy-tips",
+    date: "2026-01-29",
     title: "Small Room Bedroom Ideas: 23 Easy Tips",
     excerpt: "Discover 23 practical tips to maximize space, style, and functionality in small bedrooms without sacrificing comfort.",
     category: "Bedroom",
@@ -1002,6 +1009,7 @@ export const articles: Article[] = [
   {
     id: "21",
     slug: "diy-wall-decor-easy-budget-projects",
+    date: "2026-01-29",
     title: "DIY Wall Decor: 23 Easy Budget Projects",
     excerpt: "Discover 23 affordable and creative DIY wall décor ideas to transform blank walls without breaking the bank.",
     category: "Living Room",
@@ -1154,6 +1162,7 @@ export const articles: Article[] = [
   {
     id: "22",
     slug: "home-gym-inspiration-easy-space-ideas",
+    date: "2026-01-29",
     title: "Home Gym Inspiration: 24 Easy Space Ideas",
     excerpt: "Discover 24 smart ideas to create an efficient home gym in any space, from compact corners to multi-purpose rooms.",
     category: "Living Room",
@@ -1311,6 +1320,7 @@ export const articles: Article[] = [
   {
     id: "23",
     slug: "room-decor-diy-easy-project-ideas",
+    date: "2026-01-29",
     title: "Room Decor DIY: 20 Easy Project Ideas",
     excerpt: "Discover 20 creative and budget-friendly DIY décor projects to personalize any room with style and charm.",
     category: "Living Room",
@@ -1448,6 +1458,7 @@ export const articles: Article[] = [
   {
     id: "24",
     slug: "kitchen-counter-decor-ideas-transform-space",
+    date: "2026-01-29",
     title: "Kitchen Counter Decor: 21 Ideas to Transform Your Space",
     excerpt: "Discover 21 stylish and functional ideas to elevate your kitchen countertops with décor that balances beauty and practicality.",
     category: "Kitchen",
@@ -1590,6 +1601,7 @@ export const articles: Article[] = [
   {
     id: "25",
     slug: "modern-farmhouse-kitchen-ideas",
+    date: "2026-01-29",
     title: "Modern Farmhouse Kitchen 2026: 23 Ideas",
     excerpt: "Discover 23 inspiring ideas to create a modern farmhouse kitchen that blends rustic charm with contemporary functionality.",
     category: "Kitchen",
@@ -1742,6 +1754,7 @@ export const articles: Article[] = [
   {
     id: "26",
     slug: "small-kitchen-decor-maximize-space",
+    date: "2026-01-29",
     title: "Small Kitchen Decor: 20 Ways to Maximize Space",
     excerpt: "Discover 20 smart décor ideas to make the most of your small kitchen with style, organization, and efficiency.",
     category: "Kitchen",
@@ -1878,6 +1891,7 @@ export const articles: Article[] = [
   {
     id: "26",
     slug: "finished-basement-ideas",
+    date: "2026-02-02",
     title: "Finished Basement Ideas: 18 Add Style & Value",
     excerpt: "Transform your basement into a stylish and functional space that adds real value to your home with these 18 inspiring design ideas.",
     category: "Basement",
@@ -2001,6 +2015,7 @@ export const articles: Article[] = [
   {
     id: "27",
     slug: "luxury-master-bathroom-spa-ideas",
+    date: "2026-02-02",
     title: "Luxury Master Bathroom: 17 Spa-Like Ideas",
     excerpt: "Transform your master bathroom into a personal spa retreat with these 17 luxurious design ideas that blend comfort, elegance, and timeless style.",
     category: "Bathroom",
@@ -2119,6 +2134,7 @@ export const articles: Article[] = [
   {
     id: "28",
     slug: "floating-nightstand-ideas-small-room",
+    date: "2026-02-03",
     title: "Floating Nightstand Ideas 2026: 20 Small Room Solutions",
     excerpt: "Discover 20 space-saving floating nightstand ideas perfect for small bedrooms. From minimal wood shelves to built-in charging stations.",
     category: "Bedroom",
@@ -2252,6 +2268,7 @@ export const articles: Article[] = [
   {
     id: "29",
     slug: "boho-gallery-wall-decor-ideas",
+    date: "2026-09-25",
     title: "Boho Gallery Wall Decor: 15 Ideas for a Stylish Home",
     excerpt: "Learn how to build an effortless, collected-over-years boho gallery wall with 15 ideas that layer texture, shape, and natural materials.",
     category: "Living Room",
@@ -2361,6 +2378,7 @@ export const articles: Article[] = [
   {
     "id": "30",
     "slug": "home-office-ideas-stylish-productive-space",
+    "date": "2026-09-25",
     "title": "17 Home Office Ideas for a Stylish and Productive Space",
     "excerpt": "Working from home is easier when your space feels good. Explore 17 home office ideas covering desks, lighting, storage, and decor for any size of space.",
     "category": "Home Office",
@@ -2464,6 +2482,7 @@ export const articles: Article[] = [
   {
     id: "31",
     slug: "small-apartment-ideas-make-the-most-of-your-space",
+    date: "2026-09-27",
     title: "19 Small Apartment Ideas to Make the Most of Your Space",
     excerpt: "Living in a small apartment doesn't mean sacrificing comfort or style. Explore 19 small apartment ideas covering furniture, storage, layout, and decor to help every square foot work harder.",
     category: "Living Room",
@@ -2574,6 +2593,7 @@ export const articles: Article[] = [
   {
     id: "32",
     slug: "trendy-apartment-decor-ideas-this-year",
+    date: "2026-09-27",
     title: "15 Trendy Apartment Decor Ideas to Try This Year",
     excerpt: "Refresh your space with these 15 apartment decor ideas for this year, from warm color palettes to curved furniture, arched mirrors, and renter friendly upgrades.",
     category: "Living Room",
@@ -2663,6 +2683,7 @@ export const articles: Article[] = [
   {
     id: "33",
     slug: "first-apartment-tips-everyone-should-know",
+    date: "2026-09-28",
     title: "16 First Apartment Tips Everyone Should Know",
     excerpt: "Practical, no-fuss advice for moving into your first apartment, from measuring furniture to setting up storage and feeling at home faster.",
     category: "Apartment",
@@ -2780,6 +2801,7 @@ export const articles: Article[] = [
   {
     id: "34",
     slug: "first-apartment-essentials-list",
+    date: "2026-09-28",
     title: "The Ultimate 17 Item First Apartment Essentials List",
     excerpt: "A practical shopping checklist covering the bedroom, kitchen, bathroom, and storage items every first apartment actually needs.",
     category: "Apartment",
@@ -2902,6 +2924,7 @@ export const articles: Article[] = [
   {
     id: "35",
     slug: "eucalyptus-vase-decor-ideas",
+    date: "2026-09-29",
     title: "18 Eucalyptus Vase Decor Ideas for a Fresh, Natural Look",
     excerpt: "Bring a fresh, natural feel into your home with these simple eucalyptus arrangement ideas for every room and style.",
     category: "Living Room",
@@ -3024,6 +3047,7 @@ export const articles: Article[] = [
   {
     id: "36",
     slug: "kitchen-organization-ideas-functional-space",
+    date: "2026-09-29",
     title: "16 Kitchen Organization Ideas for a More Functional Space",
     excerpt: "Simple, practical ways to organize drawers, cabinets, and countertops so your kitchen is easier to use every day.",
     category: "Kitchen",
@@ -3136,6 +3160,7 @@ export const articles: Article[] = [
   {
     id: "37",
     slug: "cloffice-ideas-home-office",
+    date: "2026-09-30",
     title: "13 Cloffice Ideas to Inspire Your Home Office",
     excerpt: "Turn an unused closet into a functional home office with these desk, lighting, storage, and decor ideas for compact workspaces.",
     category: "Home Office",
@@ -3238,6 +3263,7 @@ export const articles: Article[] = [
   {
     id: "38",
     slug: "affordable-apartment-essentials-worth-buying",
+    date: "2026-09-30",
     title: "21 Affordable Apartment Essentials Worth Buying",
     excerpt: "Practical, budget-friendly picks for storage, the kitchen, cleaning, and everyday comfort that make a new apartment feel like home.",
     category: "Apartment",
@@ -3380,6 +3406,7 @@ export const articles: Article[] = [
   {
     id: "39",
     slug: "small-space-pantry-ideas",
+    date: "2026-10-01",
     title: "13 Pantry Ideas for Small Spaces",
     excerpt: "Clever ways to turn narrow cabinets, empty walls, and awkward corners into organized pantry storage for a small kitchen.",
     category: "Kitchen",
@@ -3481,6 +3508,7 @@ export const articles: Article[] = [
   {
     id: "40",
     slug: "affordable-couches-stylish-living-room",
+    date: "2026-10-01",
     title: "12 Best Affordable Couches for Stylish Living Rooms",
     excerpt: "Budget-friendly couch ideas in versatile colors and shapes that make a living room feel stylish without a big furniture bill.",
     category: "Living Room",

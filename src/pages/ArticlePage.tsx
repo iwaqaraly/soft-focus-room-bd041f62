@@ -16,6 +16,9 @@ const isNumbered = (title: string) => /^\d+\.\s/.test(title);
 // Describes the image by its own subject ("Soft Beige Sofa") rather than the article title.
 const imageAlt = (sectionTitle: string) => sectionTitle.replace(/^\d+\.\s*/, "");
 
+const formatDate = (iso: string) =>
+  new Date(`${iso}T00:00:00`).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+
 const ArticlePage = () => {
   const { slug } = useParams<{ slug: string }>();
   const article = articles.find((a) => a.slug === slug);
@@ -52,9 +55,13 @@ const ArticlePage = () => {
             <span className="text-xs font-medium text-muted-foreground uppercase tracking-wider">
               {article.category}
             </span>
-            <h1 className="text-3xl md:text-5xl font-light text-foreground mt-2 mb-6 leading-tight">
+            <h1 className="text-3xl md:text-5xl font-light text-foreground mt-2 mb-4 leading-tight">
               {article.title}
             </h1>
+            <p className="text-sm text-muted-foreground mb-6">
+              By CozzyAbode · Published{" "}
+              <time dateTime={article.date}>{formatDate(article.date)}</time>
+            </p>
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-2xl">
               {article.excerpt}
             </p>
