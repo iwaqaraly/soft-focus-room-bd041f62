@@ -1017,152 +1017,157 @@ export const articles: Article[] = [
     id: "21",
     slug: "diy-wall-decor-easy-budget-projects",
     date: "2026-01-29",
-    title: "DIY Wall Decor: 23 Easy Budget Projects",
-    excerpt: "Discover 23 affordable and creative DIY wall décor ideas to transform blank walls without breaking the bank.",
+    title: "23 DIY Wall Decor Projects You Can Make for Under $30",
+    excerpt: "Washi tape patterns, rope shelves, painted shapes and framed fabric: 23 wall projects that use cheap materials and need no special skills.",
+    intro: "Most of these projects need a few basic supplies: painter's tape, a pencil, a tape measure, a level and some paint or adhesive. Many cost under $30 and take an afternoon.\n\nIf you rent, start with the ones marked removable, such as washi tape, adhesive strips and leaning ledges. Test any adhesive on a hidden patch of wall first.",
     category: "Living Room",
     image: "/assets/placeholder.svg",
     imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Washi Tape Wall Patterns",
-        content: "Washi tape allows for creative, temporary wall designs. Geometric shapes, stripes, or abstract patterns add personality without commitment. It's budget-friendly and easy to remove or adjust.\n\nThis technique works in bedrooms, living rooms, or office spaces. With colorful or metallic tapes, you can mimic expensive wallpaper designs and create a fun focal wall at a fraction of the cost.",
+        content: "Washi tape peels off most painted walls without damage. Lay out stripes, triangles or a grid with a level and a pencil, then press the tape on firmly.\n\nA 15 mm roll covers about 10 meters, so a wall panel of 4 by 4 feet takes two or three rolls. Remove it within a few weeks, since the adhesive gets stronger over time.",
         image: "/assets/diy-wall-decor-01.webp"
       },
       {
         title: "2. DIY Floating Shelves",
-        content: "Floating shelves offer both style and storage. Use inexpensive plywood or reclaimed wood to mount on walls and display decor, plants, or books.\n\nThey save floor space and make the room feel organized. DIY shelves allow customization of length, color, and arrangement to fit your style and room size.",
+        content: "Cut a 1 by 8 inch pine board to length, sand it and finish it with stain or paint. Fix it to the wall with hidden floating shelf brackets, or with L-brackets painted to match the wall.\n\nAnchor at least one bracket into a stud, or use heavy-duty wall anchors rated for the load. A 3-foot shelf holds around 15 pounds on drywall anchors.",
         image: "/assets/diy-wall-decor-02.webp"
       },
       {
         title: "3. Mason Jar Wall Vases",
-        content: "Transform mason jars into wall-mounted vases with paint, ribbons, or twine. Display fresh or dried flowers for a charming, rustic vibe.\n\nThis simple project adds color, texture, and personality to any room. Mason jars are affordable and versatile, ideal for budget-conscious décor enthusiasts.",
+        content: "Screw a pipe clamp or metal hose clamp to a board, then slot a clean jar into it. Three jars at different heights make a small display. Fill with dried stems, which last longer than fresh flowers.\n\nPaint the jars with chalk paint for a matte finish, or leave them clear and let the stems show.",
         image: "/assets/diy-wall-decor-03.webp"
       },
       {
         title: "4. String Light Photo Display",
-        content: "Hang string lights along a wall and attach photos with mini clothespins. The soft glow creates ambiance and highlights memories.\n\nThis DIY adds warmth and personalization. It's perfect for bedrooms or dorms, offering a cozy, budget-friendly, and visually appealing décor solution.",
+        content: "String a strand of warm white LED lights across a wall and clip photos to the wire with mini clothespins. Battery-powered strands avoid the need for an outlet nearby.\n\nUse small adhesive hooks at each end, and print photos at 4 by 6 inches so they hang flat.",
         image: "/assets/diy-wall-decor-04.webp"
       },
       {
         title: "5. Living Plant Wall",
-        content: "Create a stunning living wall using mounted planters or a pegboard system. Display various plants in decorative pots for a lush, green focal point.\n\nThis project adds life, color, and natural beauty to any room. It's perfect for plant lovers and creates an impressive statement piece.",
+        content: "Mount a pegboard or a set of wall planters, then fill with small, light plants such as pothos, spider plants and ferns. Use pots with a drainage tray, or line a felt pocket planter with plastic.\n\nWater runs down, so put a waterproof backing or a shelf at the bottom. Choose the wall away from direct afternoon sun.",
         image: "/assets/diy-wall-decor-05.webp"
       },
       {
         title: "6. Macrame Wall Hanging",
-        content: "Macrame wall hangings add texture and boho charm to any room. Use affordable cotton rope or yarn and follow simple knotting patterns.\n\nThey bring warmth and handmade character to blank walls. Even beginners can create layered, cozy pieces that feel custom-made without spending on expensive décor.",
+        content: "A basic wall hanging uses a dowel, cotton cord and a handful of knots. Start with 3 mm single-twist cotton, cut lengths of about 4 feet, and learn the square knot and the lark's head knot.\n\nBeginners can finish a 12-inch piece in an hour or two. Brush out the fringe and trim it straight with fabric scissors.",
         image: "/assets/diy-wall-decor-06.webp"
       },
       {
         title: "7. Framed Textile Art",
-        content: "Frame woven textiles, fabric pieces, or handmade tapestries to create gallery-worthy wall art. Mix textures and neutral tones for a cohesive look.\n\nThis method transforms inexpensive materials into stylish décor. It's perfect for creating a curated, artisanal aesthetic.",
+        content: "Stretch a piece of woven fabric or a scarf over a canvas frame, staple it at the back and hang it. Vintage tea towels, block-printed cloth and linen offsets all work.\n\nChoose a fabric with a clear pattern, and press it before you stretch it. Fix it with a staple gun every inch or so.",
         image: "/assets/diy-wall-decor-07.webp"
       },
       {
         title: "8. Inspiration Board Wall",
-        content: "Create a large inspiration or mood board using cork, linen, or burlap. Pin photos, notes, artwork, and mementos for a personalized display.\n\nThis functional art piece keeps you organized while adding visual interest. It's perfect for home offices or creative spaces.",
+        content: "Cover a sheet of plywood or a ready-made cork board with linen or burlap, stretch it tight and staple it to the back. Add a simple wood frame or leave the edges raw.\n\nMount it over a desk or by the door and pin cards, receipts and swatches to it. Use push pins with a flat head so they do not snag the fabric.",
         image: "/assets/diy-wall-decor-08.webp"
       },
       {
         title: "9. Geometric Painted Wall",
-        content: "Use painter's tape to create bold geometric patterns on your wall. Choose complementary colors for a modern, artistic statement.\n\nThis DIY accent wall transforms any room without wallpaper. It's customizable, affordable, and creates a stunning focal point.",
+        content: "Tape off triangles, chevrons or a big grid with painter's tape, press the edges down with a credit card and paint over it. Pull the tape off while the paint is still slightly wet for the cleanest lines.\n\nUse two colors at most, such as a deep green and cream. Paint the base color first and let it dry for 24 hours before you tape over it.",
         image: "/assets/diy-wall-decor-09.webp"
       },
       {
         title: "10. Hanging Rope Shelves",
-        content: "Create rustic hanging shelves using wooden boards and thick rope. Display plants, books, and decorative objects for a bohemian touch.\n\nThese shelves add vertical interest and keep surfaces free. They work well in living rooms, bedrooms, or small spaces.",
+        content: "Drill a hole near each corner of a pine board, thread rope through and knot it beneath. Use rope 10 to 12 mm thick, and hang from a ceiling hook rated for the load.\n\nThe maximum is usually 10 to 15 pounds per shelf, so use them for plants in light pots and books, not heavy objects.",
         image: "/assets/diy-wall-decor-10.webp"
       },
       {
         title: "11. Upcycled Frame Gallery",
-        content: "Repurpose old frames by painting or embellishing them. Create a gallery wall with prints, photos, or fabric inserts.\n\nUpcycled frames are sustainable and cost-effective. They add personality and make blank walls visually engaging while staying budget-friendly.",
+        content: "Collect mismatched frames from thrift stores. Spray paint them all in one color, such as matte black or white, remove the glass and replace the backing with a print or a piece of fabric.\n\nArrange them on the floor first, then mark the wall with paper templates before you put any nails in.",
         image: "/assets/diy-wall-decor-11.webp"
       },
       {
         title: "12. Abstract Wall Mural",
-        content: "Create a modern abstract mural using geometric shapes and neutral tones. Use painter's tape to achieve clean lines and edges.\n\nThis project transforms a plain wall into a statement piece. It's customizable, affordable, and creates a sophisticated focal point.",
+        content: "Sketch a design on paper first, then use a pencil and a level to transfer it to the wall. Tape off the shapes and paint them in two or three muted colors, with an arch, a half circle and a rectangle as a common starting set.\n\nUse sample pots of paint, which cost less than a full can and are enough for a single wall section.",
         image: "/assets/diy-wall-decor-12.webp"
       },
       {
         title: "13. Decorative Bottle Display",
-        content: "Paint or wrap bottles and jars in decorative patterns. Display them on wall-mounted shelves for a colorful, eclectic look.\n\nThis project adds charm and functionality. Upcycling everyday items into décor elements is inexpensive and versatile for any room.",
+        content: "Wash old bottles and jars, then paint them with a mix of acrylic and a bit of water or wrap with twine. Set them on a shelf, in a row, or hang them from a rail.\n\nSpray paint gives a smooth finish, but needs a ventilated space. Fill them with dried grasses or leave them empty.",
         image: "/assets/diy-wall-decor-13.webp"
       },
       {
         title: "14. Cork World Map",
-        content: "Create a world map using corkboard pieces. Pin travel memories, notes, or photos to mark your adventures.\n\nThis project is both decorative and interactive. It personalizes the space while inspiring wanderlust and remains affordable to make.",
+        content: "Glue sheets of cork to a backing board in the shape of the continents, which you can trace from a printed map. Pin photos, tickets and postcards to mark places you have been.\n\nCork tiles 12 by 12 inches are inexpensive and easy to cut with a craft knife. Seal the edges with a thin line of paint.",
         image: "/assets/diy-wall-decor-14.webp"
       },
       {
         title: "15. Rope Wall Letters",
-        content: "Form letters, initials, or words using rope glued onto wooden boards. Hang them as statement pieces in bedrooms or living areas.\n\nRope wall letters add texture and a rustic touch. They're easy to craft, customizable, and budget-friendly.",
+        content: "Draw a letter on a plywood board, trace the outline with hot glue and wind rope tightly around the shape. Start from one end, and add glue as you go.\n\nSand the board first so the glue holds. Natural jute rope gives a light brown, and white cotton rope a clean look.",
         image: "/assets/diy-wall-decor-15.webp"
       },
       {
         title: "16. Washi Tape Gallery Wall",
-        content: "Combine photos, prints, and washi tape borders to make a gallery wall. It's a flexible, removable option for renters.\n\nThis allows frequent updates without nails or paint. The colorful tape frames images while maintaining a playful aesthetic.",
+        content: "Print photos or art in a few sizes, then stick them on the wall with washi tape borders or squares of tape at the corners. Keep 2 inches between pieces and align the center line.\n\nWashi tape is removable, so you can change the display as often as you like.",
         image: "/assets/diy-wall-decor-16.webp"
       },
       {
         title: "17. Floating Book Ledge",
-        content: "Install a narrow floating ledge to display books, art, or decorative objects. Paint or stain it to match the room décor.\n\nFloating ledges save floor space and add visual interest. They're simple to DIY and perfect for organized, stylish displays.",
+        content: "A picture ledge is a narrow shelf, 3 to 4 inches deep, with a lip. Cut a length of pine, add a thin strip along the front and fix it to the wall with brackets.\n\nIt lets you lean art against the wall, change it without more nail holes and stack a few books.",
         image: "/assets/diy-wall-decor-17.webp"
       },
       {
         title: "18. Paper Lantern Display",
-        content: "Create paper lanterns from craft paper or repurpose store-bought ones. Hang them at varying heights for dimension and ambient lighting.\n\nLanterns provide soft, warm lighting and playful décor. They're affordable, lightweight, and easy to customize.",
+        content: "Make a paper lantern with craft paper, folded and cut with slits, or buy inexpensive rice paper lanterns. Use battery LED tealights rather than a bulb to avoid heat.\n\nHang several at different heights from the ceiling or on a wall hook. Keep them 6 inches clear of the wall.",
         image: "/assets/diy-wall-decor-18.webp"
       },
       {
         title: "19. DIY Chalkboard Wall",
-        content: "Paint a section of a wall with chalkboard paint. Use it for notes, calendars, quotes, or seasonal art that changes anytime.\n\nChalkboard walls add interactive functionality. They're perfect for kitchens, offices, or kids' rooms.",
+        content: "Roll chalkboard paint on a masked rectangle of wall in two thin coats, with a day to dry between. Rub chalk over the whole surface and wipe it off before first use, which prevents ghost marks.\n\nA 2 by 3 foot panel suits a kitchen calendar or a shopping list. Use chalk markers for a cleaner line.",
         image: "/assets/diy-wall-decor-19.webp"
       },
       {
         title: "20. Fabric-Covered Pin Boards",
-        content: "Cover cork boards with colorful fabric for a stylish, textured wall display. Pin photos, notes, or small art pieces.\n\nFabric-covered boards blend utility with décor. They allow personalization through fabric choice and make budget-friendly statement pieces.",
+        content: "Stretch fabric over a cork board, staple it behind and add a ribbon in a cross pattern to hold photos or cards. Use a medium-weight cotton or linen so the cork doesn't show through.\n\nFinish it with decorative upholstery tacks around the edge for a polished look.",
         image: "/assets/diy-wall-decor-20.webp"
       },
       {
-        title: "21. Chalkboard Wall",
-        content: "Paint a section of the wall with chalkboard paint. Draw seasonal art, notes, or messages.\n\nChalkboard walls are interactive and budget-friendly. They transform blank spaces into customizable art areas and are perfect for kids or creative spaces.",
+        title: "21. Painted Arch Accent",
+        content: "Draw an arch on the wall, using a string tied to a pencil as a compass, then paint it in a contrasting color. The shape works behind a bed, a desk or a console table.\n\nAn arch 36 inches wide and 70 inches tall suits a bed. Tape the outline and seal the edge with a base-coat color for sharp lines.",
         image: "/assets/diy-wall-decor-21.webp"
       },
       {
         title: "22. Upcycled Tin Art",
-        content: "Repurpose tin cans or trays with paint, stencils, or embossing to create wall art. Mount in grids or patterns for effect.\n\nTin art adds texture and vintage charm. It's cost-effective, creative, and provides a unique touch for walls without spending on store-bought décor.",
+        content: "Clean the cans well, file down the edges, paint them or cover them with fabric, and mount them side by side on a board to hold pens, brushes or small plants.\n\nPunch a pattern into the sides with a hammer and nail for a lantern effect. Fill the can with water or sand before you punch, which stops it from collapsing.",
         image: "/assets/diy-wall-decor-22.webp"
       },
       {
-        title: "23. String Photo Display",
-        content: "Hang photos from twine using mini clothespins. Arrange them vertically, horizontally, or in patterns for a dynamic wall display.\n\nThis project is extremely budget-friendly and personal. It allows frequent updates and adds a warm, homemade feel to your space.",
+        title: "23. Twine and Branch Photo Hanger",
+        content: "Hang a length of twine from a branch or a dowel, then clip on photos or postcards with wooden pegs. Several strands of different lengths make a mobile-like display.\n\nThe branch sits on two hooks, so the whole thing can be taken down when you move. Choose a dry branch that has been cleaned and sanded.",
         image: "/assets/diy-wall-decor-23.webp"
+      },
+      {
+        title: "Before You Start",
+        content: "Measure the wall and sketch the project on paper. Many wall projects fail because the proportions were not checked.\n\nUse a level for anything with straight lines, and mark the wall lightly in pencil. If you rent, check your lease before you paint or drill, and test any tape or strip on a hidden spot.\n\nBuy supplies for one project first. If it works, you can repeat it in another room."
       }
     ],
     faqs: [
       {
-        question: "What are the cheapest DIY wall décor ideas?",
-        answer: "The cheapest options include washi tape patterns, printable quotes, string photo displays, and upcycled picture frames. These projects use materials you likely already have or can purchase for just a few dollars."
+        question: "What are the cheapest DIY wall decor ideas?",
+        answer: "Washi tape patterns, string photo displays, framed fabric and thrifted frames painted in one color all cost under $15. Most use materials you may already have at home."
       },
       {
-        question: "How can renters decorate walls without damaging them?",
-        answer: "Use removable options like washi tape, command strips, leaning frames on shelves, or hanging lightweight items with removable hooks. These methods avoid nail holes and paint damage while still creating stylish walls."
+        question: "How can renters decorate walls without damage?",
+        answer: "Use washi tape, removable adhesive strips, picture ledges that lean art against the wall and lightweight items on removable hooks. Test each product on a hidden patch of wall first."
       },
       {
-        question: "What DIY wall décor is best for beginners?",
-        answer: "Washi tape projects, printable quotes, string photo displays, and yarn tassels are perfect for beginners. They require minimal tools, no special skills, and can be completed in under an hour."
+        question: "Which projects are best for beginners?",
+        answer: "Washi tape patterns, photo strings, framed fabric and painted frames need only basic tools and take an hour or two. Macrame and painted shapes take a little more practice."
       },
       {
-        question: "How do I create a cohesive gallery wall on a budget?",
-        answer: "Choose a consistent color palette or frame style. Mix DIY art, printables, and photos. Use washi tape borders or thrifted frames painted the same color. Plan the layout on the floor before hanging."
+        question: "How do I plan a gallery wall?",
+        answer: "Lay the pieces out on the floor, then trace each frame on paper and tape the paper templates on the wall. Adjust until it looks right, then hammer the nails through the paper. Keep 2 inches between frames."
       },
       {
-        question: "What materials do I need for budget DIY wall art?",
-        answer: "Common materials include washi tape, yarn, scrap wood, fabric scraps, paper, acrylic paint, old frames, and recycled containers. Most items can be found at dollar stores, thrift shops, or around your home."
+        question: "What basic tools do I need for DIY wall decor?",
+        answer: "A tape measure, a level, a pencil, painter's tape, a drill or hammer, wall anchors and a utility knife cover most projects. Add a staple gun for fabric work and a hot glue gun for craft projects."
       },
       {
-        question: "How can I make DIY wall décor look professional?",
-        answer: "Focus on clean lines, consistent spacing, and a cohesive color scheme. Frame your work, even if it's simple. Take time with measurements and use a level. Quality materials like thick paper or proper canvases also elevate the finished look."
+        question: "How do I make DIY wall art look polished?",
+        answer: "Use a level, measure spacing between pieces and limit yourself to two or three colors. A simple frame or a clean border makes a handmade piece look finished."
       }
     ]
   },
@@ -1170,157 +1175,162 @@ export const articles: Article[] = [
     id: "22",
     slug: "home-gym-inspiration-easy-space-ideas",
     date: "2026-01-29",
-    title: "Home Gym Inspiration: 24 Easy Space Ideas",
-    excerpt: "Discover 24 smart ideas to create an efficient home gym in any space, from compact corners to multi-purpose rooms.",
+    title: "24 Small Home Gym Ideas for Apartments and Spare Rooms",
+    excerpt: "Folding racks, wall-mounted bars, adjustable dumbbells and rolling carts: 24 ideas for a home gym that fits a corner or a spare room.",
+    intro: "A home gym works best when setting up takes less than two minutes. The ideas below focus on gear that folds, hangs on a wall or rolls away, so a living room or spare bedroom can switch between exercise and everyday use.\n\nBefore you buy anything, mark out the space on the floor with tape. A 6 by 6 foot square is enough for most bodyweight workouts, and 7 by 8 feet is better if you want a bench or a barbell.",
     category: "Living Room",
     image: "/assets/placeholder.svg",
     imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Corner Workout Nook",
-        content: "Transform a small corner into a dedicated workout space. Add a yoga mat, small dumbbells, and a stability ball to maximize unused areas.\n\nThis approach makes home fitness accessible without a large footprint. By keeping equipment minimal and organized, your corner gym can be functional, stylish, and motivating.",
+        content: "A 4 by 6 foot corner is enough for a mat, a pair of dumbbells and a kettlebell. Keep everything in a basket or on a shelf so the corner looks tidy when you are not training.\n\nPut a small rug or a rubber tile under the gear to protect the floor and reduce noise.",
         image: "/assets/home-gym-01.webp"
       },
       {
-        title: "2. Mirror Wall for Motivation",
-        content: "Install a mirror on one wall to track form and technique. Mirrors also make the space feel larger and brighter.\n\nReflected light improves mood and focus. A mirrored wall is perfect for bodyweight exercises, yoga, or pilates, helping you maintain motivation and proper posture.",
+        title: "2. Mirror Panel",
+        content: "A mirror lets you check your form on squats, lunges and yoga poses. Use shatterproof, wall-mounted mirror panels or a leaning floor mirror at least 24 by 60 inches.\n\nMount it on the wall securely with the manufacturer's hardware, and never lean a heavy glass mirror in a space where weights are swung around.",
         image: "/assets/home-gym-02.webp"
       },
       {
         title: "3. Foldable Equipment",
-        content: "Use foldable treadmills, benches, or bikes to save space. Foldable gear can be tucked away after workouts, keeping the room versatile.\n\nThis strategy allows flexibility in small rooms. You can create a dedicated gym when needed and reclaim space afterward for other activities.",
+        content: "A folding treadmill, bench or exercise bike can be stored upright against a wall or under a bed. Check the folded size and the weight before you buy, since a 100-pound treadmill is hard to move alone.\n\nLook for models with transport wheels and a locking mechanism that stops them from unfolding.",
         image: "/assets/home-gym-03.webp"
       },
       {
         title: "4. Vertical Storage Racks",
-        content: "Install vertical racks to store dumbbells, resistance bands, or yoga mats. This keeps the floor clear and organized.\n\nVertical storage enhances accessibility while saving space. A tidy area improves efficiency and makes workouts feel more professional and inviting.",
+        content: "A wall-mounted rack or a vertical dumbbell stand stores weights on a footprint of about 2 square feet. Keep the heaviest weights lowest.\n\nFix a wall rack into studs, and never hang weights from drywall alone.",
         image: "/assets/home-gym-04.webp"
       },
       {
         title: "5. Wall-Mounted Pull-Up Bar",
-        content: "A wall-mounted pull-up bar offers strength training without taking up floor space. Many models fold flat when not in use.\n\nThis allows for a versatile upper-body workout in compact spaces. Pair it with resistance bands for a full-body routine.",
+        content: "A doorway pull-up bar costs around $30 and needs no tools, while a wall-mounted bar needs to be fixed into studs and holds more weight. Check the door frame is solid wood before you use a doorway model.\n\nPair it with resistance bands to start if you can't yet do a full pull-up.",
         image: "/assets/home-gym-05.webp"
       },
       {
         title: "6. Multi-Purpose Furniture",
-        content: "Use benches that double as storage or seating. Ottomans or shelves can hold weights, yoga blocks, or mats.\n\nThis combines practicality and design. Multi-purpose furniture ensures your gym is both stylish and efficient, even in limited space.",
+        content: "A lidded bench, an ottoman or a sideboard can hold mats and bands and double as seating. This lets the gym corner blend with the rest of the room.\n\nA flat bench rated for 600 pounds works as a seat, a step and a workout bench in one.",
         image: "/assets/home-gym-06.webp"
       },
       {
-        title: "7. Inspiring Wall Art",
-        content: "Add motivational quotes or posters to boost energy. Colorful prints or vinyl lettering can create a dynamic atmosphere.\n\nVisual inspiration enhances focus and keeps workouts fun. Wall art is an inexpensive way to personalize your home gym.",
+        title: "7. Wall Art You Like",
+        content: "Hang a few posters or a framed print that you enjoy looking at, such as a landscape or a typographic piece. It gives the corner a personality and makes it feel less like a storage area.\n\nA whiteboard on the wall for tracking workouts also works as decoration.",
         image: "/assets/home-gym-07.webp"
       },
       {
         title: "8. Compact Cardio Machines",
-        content: "Opt for compact exercise bikes, rowers, or mini steppers. These machines provide cardio benefits without dominating the room.\n\nCompact equipment is ideal for apartments or small rooms. It keeps your home gym functional while leaving space for other exercises.",
+        content: "Under-desk bikes, mini steppers and folding rowers range from $60 to a few hundred dollars. A water rower stands upright and is quieter than a fan rower.\n\nChoose based on the noise level, particularly in an apartment, and on how much floor it takes when folded.",
         image: "/assets/home-gym-08.webp"
       },
       {
         title: "9. Free-Weight Station",
-        content: "Designate a small area for free weights. Use a compact rack or shelf for dumbbells, kettlebells, and medicine balls.\n\nA focused free-weight area allows strength training in a minimal space. Proper organization keeps the gym safe and visually tidy.",
+        content: "A small rack, a shelf or even a milk crate holds dumbbells, kettlebells and a medicine ball. Keep an area of about 3 by 3 feet clear around it for swinging movements.\n\nBuy a kettlebell with a flat base so it does not roll, and a set of dumbbells with hexagonal heads so they stay put.",
         image: "/assets/home-gym-09.webp"
       },
       {
         title: "10. Resistance Band Wall Hooks",
-        content: "Install hooks for resistance bands, jump ropes, and TRX straps. Wall hooks maintain order and prevent clutter.\n\nThis simple solution increases accessibility. Easy-to-reach bands encourage daily workouts and reduce setup time.",
+        content: "Screw a row of heavy-duty hooks into the wall at shoulder height and hang bands, a jump rope and a lifting belt from them. Mark the location of studs first.\n\nA hook rail is cheaper than a custom rack and lets you reach everything in a few seconds.",
         image: "/assets/home-gym-10.webp"
       },
       {
         title: "11. Fold-Down Bench",
-        content: "A fold-down bench is ideal for compact spaces. It can be stowed against the wall after strength or bench workouts.\n\nFoldable solutions maximize floor area while allowing versatile training. This option is perfect for small rooms or multi-purpose spaces.",
+        content: "A wall-mounted fold-down bench sits flat against the wall when you finish, projecting only about 4 inches. It must be fixed into studs and carry your body weight plus the dumbbells.\n\nPick one with a locking leg and a padded seat at least 10 inches wide.",
         image: "/assets/home-gym-11.webp"
       },
       {
         title: "12. Minimalist Floor Mat",
-        content: "Use a quality yoga or exercise mat as the central workout zone. Mats define space and provide cushioning for bodyweight exercises.\n\nA minimalist mat setup ensures your gym remains open and uncluttered. It's essential for stretching, yoga, or HIIT routines.",
+        content: "A 6 to 8 mm yoga mat is enough for stretching and floor work, and a thicker 15 mm mat suits core exercises and Pilates. Roll it up and store it in a corner or in a wall holder.\n\nPut it on a hard floor, not a thick carpet, which makes poses unstable.",
         image: "/assets/home-gym-12.webp"
       },
       {
         title: "13. Ceiling-Mounted TRX Straps",
-        content: "Install TRX or suspension straps from the ceiling for full-body workouts. They require minimal space and add versatility.\n\nSuspension training increases functional strength while keeping the area open. Ceiling mounts are perfect for small spaces needing multi-use solutions.",
+        content: "Suspension straps attach to a door anchor, a beam or a ceiling joist, and let you do rows, push-ups and lunges using body weight. They pack into a small bag and cost under $100.\n\nThe anchor point must be able to carry your weight with a margin. Use a joist, a structural beam or the door anchor that comes with the straps.",
         image: "/assets/home-gym-13.webp"
       },
       {
         title: "14. Storage Bench Combo",
-        content: "Combine storage with seating using a gym bench. Store mats, dumbbells, or resistance bands inside to reduce clutter.\n\nMulti-functional storage keeps the gym tidy. It's practical for small apartments while maintaining a professional look.",
+        content: "A bench with a hinged seat can hold mats, bands, foam rollers and a few light weights inside, hiding the gear when you finish. Check the lid has a soft-close hinge so it doesn't slam on your fingers.\n\nSome benches are rated for lifting, but others are only for sitting. Look at the weight rating.",
         image: "/assets/home-gym-14.webp"
       },
       {
         title: "15. Rolling Carts for Gear",
-        content: "A rolling cart holds yoga blocks, dumbbells, and bands. Move it aside when not in use to free floor space.\n\nMobile storage improves flexibility and keeps workouts organized. It's especially useful in multi-purpose rooms or shared spaces.",
+        content: "A three-tier utility cart on wheels carries yoga blocks, bands, a foam roller and a few dumbbells. Roll it out for a workout and back to the corner afterward.\n\nLock the wheels while you train, and load heavy items on the bottom shelf.",
         image: "/assets/home-gym-15.webp"
       },
       {
         title: "16. Wall-Mounted TV or Tablet",
-        content: "Install a TV or tablet mount for guided workouts or streaming classes. Mounting keeps surfaces clear and improves visibility.\n\nDigital displays enhance motivation. Watching classes or tutorials adds variety, making home workouts more engaging and efficient.",
+        content: "A TV mount or a tablet holder at eye level lets you follow a class without holding your phone. A swivel mount lets you turn the screen toward the mat or the bike.\n\nIf you work out in the living room, a TV you already have is enough. Cast a class from your phone.",
         image: "/assets/home-gym-16.webp"
       },
       {
         title: "17. Vertical Foam Roller Rack",
-        content: "Store foam rollers, massage sticks, and yoga props vertically. This reduces floor clutter while keeping essential recovery tools accessible.\n\nVertical storage allows easy retrieval, improving workout efficiency. It also maintains a neat, inviting home gym environment.",
+        content: "A simple rack of three or four pegs on the wall holds foam rollers, massage balls and stretching straps. This is a quick addition and keeps recovery tools in view so you use them.\n\nHang them at about waist height so you can grab them without bending.",
         image: "/assets/home-gym-17.webp"
       },
       {
         title: "18. Adjustable Dumbbells",
-        content: "Use adjustable dumbbells instead of multiple sets. They save space and provide a full weight range for all exercises.\n\nThis compact solution ensures strength training versatility. Adjustable equipment keeps small gyms functional without sacrificing effectiveness.",
+        content: "Adjustable dumbbells replace a rack of 10 or more pairs, with a range of about 5 to 50 pounds. A set takes up the space of a shoebox.\n\nSelector dials are the fastest to change. Make sure the weights stay secure when you swing or drop them.",
         image: "/assets/home-gym-18.webp"
       },
       {
         title: "19. Wall-Mounted Ballet Bar",
-        content: "Install a ballet or barre for stretching, strength, and flexibility. It requires minimal space and adds elegance.\n\nA barre allows for full-body workouts, yoga stretches, and balance exercises. Wall-mounting maximizes floor area while keeping training options diverse.",
+        content: "A ballet barre or wall-mounted rail, mounted at around 40 to 42 inches, supports balance work, leg raises and stretching. It is also a decent grab handle for stretching hamstrings.\n\nFix it into studs and give yourself at least 3 feet of floor in front of it.",
         image: "/assets/home-gym-19.webp"
       },
       {
         title: "20. Foldable Treadmill Desk",
-        content: "Combine a treadmill and desk for cardio while working. Foldable designs maintain floor space when not in use.\n\nThis innovation encourages multitasking, making small spaces efficient. It's ideal for home offices or apartments with limited square footage.",
+        content: "A walking pad under a standing desk gives you steady low-speed movement at 2 to 3 mph while you work. Many fold flat and slide under a sofa or bed.\n\nA treadmill desk is not a replacement for a full workout, but it adds steps. Check the noise level before you use it on a call.",
         image: "/assets/home-gym-20.webp"
       },
       {
         title: "21. Indoor Cycling Corner",
-        content: "Dedicate a small corner for a stationary bike. Use mirrors or wall art to visually expand the space.\n\nCycling corners maximize floor efficiency. Compact cardio stations allow regular workouts without dominating the room.",
+        content: "A spin bike or foldable exercise bike takes up around 2 by 4 feet. Put a mat under it, a fan nearby and a tablet on the handlebars.\n\nMagnetic resistance bikes are quieter than friction ones. Check the seat height range if more than one person will use it.",
         image: "/assets/home-gym-21.webp"
       },
       {
         title: "22. DIY Wall Pegboard for Equipment",
-        content: "Pegboards hold jump ropes, bands, and smaller equipment. Pegboards allow customization and organization for multiple tools.\n\nThis inexpensive solution keeps walls functional and visually organized. Everything has a spot, ensuring the gym remains clutter-free.",
+        content: "A pegboard with hooks and shelves holds jump ropes, bands, gloves and straps, and you can rearrange it as the kit changes. A 2 by 4 foot board is enough for a small corner.\n\nFix it to the wall with spacers so the hooks have room behind the board.",
         image: "/assets/home-gym-22.webp"
       },
       {
         title: "23. Foldable Mat Storage",
-        content: "Store exercise mats vertically in a wall holder or corner. This keeps them accessible without cluttering the floor.\n\nFoldable mat storage ensures efficient use of space. It's ideal for homes where floor area is at a premium, maintaining a clean gym aesthetic.",
+        content: "A wall-mounted mat holder or a simple basket keeps mats upright and off the floor. A rolled mat fits in a corner and takes 6 inches of floor space.\n\nUse a strap or an elastic loop to keep it from unrolling.",
         image: "/assets/home-gym-23.webp"
       },
       {
-        title: "24. Motivational Wall Decals",
-        content: "Add vinyl wall decals with phrases like \"Strong Today\" or \"Push Yourself.\" Decals are removable and affordable.\n\nVisual cues boost motivation during workouts. They personalize the home gym while remaining budget-friendly and easy to install.",
+        title: "24. Wall Decals and Workout Plan",
+        content: "Peel-and-stick vinyl decals with a phrase you like or a workout plan are cheap and come off cleanly. Put one at eye level in front of where you train.\n\nA printed weekly workout schedule works in a similar way and also serves as a reminder.",
         image: "/assets/home-gym-24.webp"
+      },
+      {
+        title: "Starting a Small Home Gym",
+        content: "Begin with the kind of exercise you will actually do. If it is yoga or bodyweight training, a mat and a few bands are enough. If it is strength training, a set of adjustable dumbbells and a bench go a long way.\n\nCheck the floor, the ceiling height and your neighbors. A concrete floor handles weights easily, while an upstairs apartment calls for rubber flooring and quieter equipment.\n\nAdd gear one piece at a time, and keep the ones you use the most within arm's reach."
       }
     ],
     faqs: [
       {
         question: "How much space do I need for a home gym?",
-        answer: "You can create an effective home gym in as little as 6x6 feet. Focus on vertical storage, foldable equipment, and multi-purpose furniture to maximize small spaces. Even a corner can serve as a functional workout area."
+        answer: "A 6 by 6 foot area is enough for bodyweight workouts, bands and dumbbells. If you want a bench or a bike, plan for about 7 by 8 feet. Ceiling height matters for overhead presses and pull-ups, where 8 feet is a comfortable minimum."
       },
       {
-        question: "What essential equipment should a small home gym have?",
-        answer: "Start with a yoga mat, resistance bands, adjustable dumbbells, and a pull-up bar. These items offer versatile workouts without taking much space. Add equipment gradually based on your fitness goals."
+        question: "What equipment should I buy first?",
+        answer: "A good mat, a set of resistance bands and adjustable dumbbells cover most routines. Add a pull-up bar or a bench after a few weeks, once you know what you use."
       },
       {
-        question: "How can I make a small gym feel bigger?",
-        answer: "Use mirrors to reflect light and create depth. Keep the floor clear with vertical storage and foldable equipment. Light colors on walls and good lighting also help the space feel more open."
+        question: "What is the best flooring for a home gym?",
+        answer: "Rubber mats or interlocking rubber tiles, 8 to 12 mm thick, protect the floor and reduce noise. For yoga and bodyweight work, a mat on a hard floor is enough."
       },
       {
-        question: "What flooring is best for a home gym?",
-        answer: "Rubber tiles or interlocking foam mats work best. They protect floors, reduce noise, and provide cushioning. For small spaces, a quality yoga mat may be sufficient for bodyweight exercises."
+        question: "How do I keep a home gym quiet in an apartment?",
+        answer: "Choose bands, kettlebells and low-impact cardio. Put a rubber mat or a plywood board with rubber on top under any weights, and avoid dropping weights or jumping when others are below you."
       },
       {
-        question: "How do I organize gym equipment in a small space?",
-        answer: "Use vertical storage racks, wall hooks, and rolling carts. Pegboards are excellent for smaller items. Keep frequently used equipment accessible and store less-used items in bins or cabinets."
+        question: "Can I mount a pull-up bar in a rental?",
+        answer: "A doorway bar that braces against the frame leaves no marks if the frame is solid. Wall-mounted bars need drilling into studs, which most leases do not allow without permission."
       },
       {
-        question: "Can I create a home gym in an apartment?",
-        answer: "Absolutely. Focus on quiet equipment like resistance bands, yoga, and adjustable dumbbells. Use foldable machines and wall-mounted solutions. Consider noise-reducing mats and workout during appropriate hours."
+        question: "How do I store gym gear in a living room?",
+        answer: "Use a lidded bench, a rolling cart or a closed cabinet, and hang bands on wall hooks. A folding rack or a wall-mounted pull-up bar is less obvious than a floor-standing one."
       }
     ]
   },
