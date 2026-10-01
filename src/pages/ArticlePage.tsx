@@ -9,6 +9,10 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 
+// Only sections titled "1. ...", "2. ..." get a number badge; closing sections
+// such as "Final Thoughts" are plain headings.
+const isNumbered = (title: string) => /^\d+\.\s/.test(title);
+
 const ArticlePage = () => {
   const { slug } = useParams<{ slug: string }>();
   const article = articles.find((a) => a.slug === slug);
@@ -70,14 +74,16 @@ const ArticlePage = () => {
                       {/* Content */}
                       <div className={`flex flex-col justify-center py-4 ${isEven ? 'md:order-1' : 'md:order-2'}`}>
                         <div className="flex items-center gap-3 mb-4">
-                          <span className="flex items-center justify-center w-10 h-10 rounded-full bg-primary/10 text-primary font-semibold text-sm">
-                            {index + 1}
-                          </span>
+                          {isNumbered(section.title) && (
+                            <span className="flex items-center justify-center w-10 h-10 rounded-full bg-primary/10 text-primary font-semibold text-sm">
+                              {index + 1}
+                            </span>
+                          )}
                           <h2 className="text-xl md:text-2xl font-medium text-foreground leading-tight">
                             {section.title.replace(/^\d+\.\s*/, '')}
                           </h2>
                         </div>
-                        <div className="text-muted-foreground leading-relaxed whitespace-pre-line pl-[52px]">
+                        <div className={`text-muted-foreground leading-relaxed whitespace-pre-line ${isNumbered(section.title) ? "pl-[52px]" : ""}`}>
                           {section.content}
                         </div>
                       </div>
@@ -116,9 +122,11 @@ const ArticlePage = () => {
                       className={`py-10 md:py-12 ${index !== 0 ? "border-t border-border/60" : "pt-0"}`}
                     >
                       <div className="flex items-center gap-3 mb-6">
-                        <span className="flex items-center justify-center w-10 h-10 rounded-full bg-primary/10 text-primary font-semibold text-sm shrink-0">
-                          {index + 1}
-                        </span>
+                        {isNumbered(section.title) && (
+                          <span className="flex items-center justify-center w-10 h-10 rounded-full bg-primary/10 text-primary font-semibold text-sm shrink-0">
+                            {index + 1}
+                          </span>
+                        )}
                         <h2 className="text-xl md:text-2xl font-medium text-foreground leading-tight">
                           {section.title.replace(/^\d+\.\s*/, "")}
                         </h2>
@@ -136,7 +144,7 @@ const ArticlePage = () => {
                         </div>
                       )}
 
-                      <div className="space-y-4 pl-[52px]">
+                      <div className={`space-y-4 ${isNumbered(section.title) ? "pl-[52px]" : ""}`}>
                         {bodyParagraphs.map((paragraph, pIndex) => (
                           <p key={pIndex} className="text-muted-foreground leading-relaxed">
                             {paragraph}
@@ -145,7 +153,7 @@ const ArticlePage = () => {
                       </div>
 
                       {tips.length > 0 && (
-                        <div className="mt-6 ml-[52px] rounded-xl bg-muted/40 border border-border/60 p-6">
+                        <div className={`mt-6 ${isNumbered(section.title) ? "ml-[52px]" : ""} rounded-xl bg-muted/40 border border-border/60 p-6`}>
                           <p className="text-xs font-semibold text-foreground uppercase tracking-wider mb-4">
                             Tips
                           </p>
