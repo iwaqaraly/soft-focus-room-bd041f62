@@ -18,7 +18,7 @@ const Navbar = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   const navLinkClass = ({ isActive }: { isActive: boolean }) =>
-    `text-sm font-medium transition-all duration-300 px-3 py-1.5 rounded-full ${
+    `whitespace-nowrap text-sm font-medium transition-all duration-300 px-3 py-1.5 rounded-full ${
       isActive 
         ? "text-primary-foreground bg-primary" 
         : "text-muted-foreground hover:text-foreground hover:bg-secondary"
@@ -37,7 +37,7 @@ const Navbar = () => {
         <NavLink to="/" className="text-xl font-display tracking-tight text-foreground hover:text-primary transition-colors">
           CozzyAbode
         </NavLink>
-        <div className="hidden md:flex items-center gap-2">
+        <div className="hidden xl:flex items-center gap-2">
           {navItems.map((item) => (
             <NavLink key={item.to} to={item.to} className={navLinkClass}>
               {item.label}
@@ -45,7 +45,7 @@ const Navbar = () => {
           ))}
         </div>
         <button
-          className="md:hidden p-2 rounded-lg text-foreground hover:bg-secondary transition-colors"
+          className="xl:hidden p-2 rounded-lg text-foreground hover:bg-secondary transition-colors"
           onClick={() => setMobileOpen(!mobileOpen)}
           aria-label={mobileOpen ? "Close menu" : "Open menu"}
         >
@@ -53,7 +53,7 @@ const Navbar = () => {
         </button>
       </div>
       {mobileOpen && (
-        <div className="md:hidden bg-card/95 backdrop-blur-sm border-b border-border/50 shadow-warm px-4 py-3 flex flex-col gap-1">
+        <div className="xl:hidden bg-card/95 backdrop-blur-sm border-b border-border/50 shadow-warm px-4 py-3 flex flex-col gap-1">
           {navItems.map((item) => (
             <NavLink
               key={item.to}
