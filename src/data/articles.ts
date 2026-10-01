@@ -179,7 +179,7 @@ export const articles: Article[] = [
       },
       {
         question: "What is the largest king size bed available?",
-        answer: "The Alaska King bed is among the largest commonly known mattress sizes, offering exceptional width and length. It's ideal for very large rooms, families, or luxury homes. However, it requires custom bedding and significant floor space, making it unsuitable for average-sized bedrooms."
+        answer: "The Alaska King bed is among the largest commonly known mattress sizes, offering exceptional width and length. It suits very large rooms, families and large homes. However, it requires custom bedding and significant floor space, making it unsuitable for average-sized bedrooms."
       },
       {
         question: "How do I choose the right king size bed for my home?",
@@ -485,19 +485,19 @@ export const articles: Article[] = [
     faqs: [
       {
         question: "What are earth tones in bedroom design?",
-        answer: "Earth tones are colors inspired by nature, such as beige, taupe, brown, clay, sand, olive, and warm gray. In bedroom design, these tones create a calming and cozy atmosphere. They help the space feel grounded and balanced, making them ideal for restful environments where relaxation and comfort are priorities."
+        answer: "Earth tones are colors inspired by nature, such as beige, taupe, brown, clay, sand, olive, and warm gray. In a bedroom, these tones make a calm, warm room. They help the space feel grounded and balanced, making them ideal for restful environments where relaxation and comfort are priorities."
       },
       {
         question: "Are earth tones good for small bedrooms?",
-        answer: "Yes, earth tones work very well in small bedrooms, especially lighter shades like cream, sand, and warm beige. These colors reflect light and make the room feel more open while maintaining warmth. Using layered textures instead of dark colors helps add depth without making the space feel cramped."
+        answer: "Yes. Lighter earth tones such as cream, sand and warm beige work best in small bedrooms. These colors reflect light and make the room feel more open while maintaining warmth. Using layered textures instead of dark colors helps add depth without making the space feel cramped."
       },
       {
-        question: "How do I make an earth-tone bedroom feel cozy and not boring?",
+        question: "How do I stop an earth-tone bedroom from looking boring?",
         answer: "Layer texture and vary the shades. Combine linen bedding, a wool throw, a woven rug and a wood nightstand, and use two or three tones of the same color family. Warm bulbs and one plant also help."
       },
       {
         question: "What colors pair best with earth tones in a bedroom?",
-        answer: "Earth tones pair beautifully with cream, off-white, soft black accents, muted greens, and natural wood finishes. These combinations keep the palette cohesive and calming. Avoid overly bright or neon colors, as they disrupt the natural and cozy feel of an earth-tone bedroom."
+        answer: "Earth tones pair beautifully with cream, off-white, soft black accents, muted greens, and natural wood finishes. These combinations keep the palette cohesive and calming. Avoid bright or neon colors, which clash with the natural palette."
       },
       {
         question: "Can earth tones work in modern bedroom designs?",
@@ -505,7 +505,7 @@ export const articles: Article[] = [
       },
       {
         question: "What materials enhance an earth-tone bedroom?",
-        answer: "Natural materials work best, including wood, linen, cotton, wool, jute, clay, and stone. These materials complement earth tones and add texture and warmth. Using organic finishes helps create a cohesive, grounded look that feels both cozy and timeless."
+        answer: "Natural materials work best, including wood, linen, cotton, wool, jute, clay, and stone. These materials complement earth tones and add texture and warmth. Using organic finishes gives the room a cohesive, grounded look."
       },
       {
         question: "Is an earth-tone bedroom suitable for all seasons?",
@@ -521,7 +521,7 @@ export const articles: Article[] = [
       },
       {
         question: "How do I start transitioning my bedroom to earth tones?",
-        answer: "Start with small changes, such as neutral bedding, earth-tone cushions, or a textured rug. Gradually introduce wall colors, wooden furniture, and natural decor. This step-by-step approach makes the transition affordable and allows you to build a cozy, balanced look over time."
+        answer: "Start with small changes, such as neutral bedding, earth-tone cushions, or a textured rug. Gradually introduce wall colors, wooden furniture, and natural decor. This step-by-step approach keeps the cost down and lets you adjust as you go."
       }
     ]
   },
@@ -1352,7 +1352,7 @@ export const articles: Article[] = [
       },
       {
         title: "2. DIY Floating Shelves",
-        content: "Time: 1 to 2 hours. Cost: $10 to $25 in lumber. Cut a pine board, sand it and finish it, then fix it above a desk, a bed or a sofa.\n\nIn a living room, a shelf 6 feet up holds a plant and a few books. In a bedroom, it replaces a nightstand if mounted next to the bed.",
+        content: "Time: 1 to 2 hours. Cost: $10 to $25 in lumber.\n\nCut a pine board, sand it and finish it, then fix it above a desk, a bed or a sofa.\n\nIn a living room, a shelf 6 feet up holds a plant and a few books. In a bedroom, it replaces a nightstand if mounted next to the bed.",
         image: "/assets/room-decor-diy-02.webp"
       },
       {
@@ -1555,7 +1555,7 @@ export const articles: Article[] = [
       },
       {
         title: "14. Statement Bowl or Vase",
-        content: "A single large bowl or vase, around 10 to 12 inches wide, works as a focal point on a kitchen island or a counter. Fill it with lemons, eucalyptus or a branch.\n\nPick one that suits your taps and cabinets. A simple ceramic or glass shape lasts longer than a trendy one.",
+        content: "A single large bowl or vase, around 10 to 12 inches wide, stands out on a kitchen island or a counter. Fill it with lemons, eucalyptus or a branch.\n\nPick one that suits your taps and cabinets. A simple ceramic or glass shape lasts longer than a trendy one.",
         image: "/assets/kitchen-counter-14.webp"
       },
       {
@@ -2131,7 +2131,7 @@ export const articles: Article[] = [
       },
       {
         title: "13. Accent Wall Features",
-        content: "A single wall of large-format tile, 3D tile or stone behind the tub or the vanity gives the room a focal point. Keep the other walls plain.\n\nLight the feature wall with a spotlight or a wall wash to bring out the texture.",
+        content: "A single wall of large-format tile, 3D tile or stone behind the tub or the vanity gives the room a feature. Keep the other walls plain.\n\nLight the feature wall with a spotlight or a wall wash to bring out the texture.",
         image: "/assets/luxury-master-bathroom-13.webp"
       },
       {
@@ -2357,7 +2357,7 @@ export const articles: Article[] = [
       },
       {
         title: "4. A Cluster of Woven Baskets",
-        content: "Flat woven baskets grouped together add real texture and dimension without taking up floor space. They work especially well on a warm terracotta or clay colored wall, where the shadows they cast become part of the look.",
+        content: "Flat woven baskets grouped together add real texture and dimension without taking up floor space. They suit a warm terracotta or clay colored wall, where the shadows they cast become part of the look.",
         image: "/assets/boho-gallery-wall-04.webp"
       },
       {
@@ -2372,7 +2372,7 @@ export const articles: Article[] = [
       },
       {
         title: "7. Layered Textiles Behind Frames",
-        content: "Small tapestries, woven rugs, or leftover fabric scraps layered in among your frames add pattern and softness. This works particularly well in a bedroom, where you want the wall to feel warm rather than gallery cold.",
+        content: "Small tapestries, woven rugs, or leftover fabric scraps layered in among your frames add pattern and softness. This suits a bedroom, where you want the wall to feel warm rather than gallery cold.",
         image: "/assets/boho-gallery-wall-07.webp"
       },
       {
@@ -2382,7 +2382,7 @@ export const articles: Article[] = [
       },
       {
         title: "9. Sun and Moon Wall Hangings",
-        content: "A carved wooden or rattan sun paired with a smaller moon phase piece is a classic boho combination. It adds a bit of whimsy and works as a focal point on its own if you want to keep the rest of the wall simple.",
+        content: "A carved wooden or rattan sun paired with a smaller moon phase piece is a classic boho combination. It adds a bit of whimsy and works as the main feature on its own if you want to keep the rest of the wall simple.",
         image: "/assets/boho-gallery-wall-09.webp"
       },
       {
@@ -2402,7 +2402,7 @@ export const articles: Article[] = [
       },
       {
         title: "13. One Large Woven Piece as the Anchor",
-        content: "Instead of many small pieces of equal size, let one big macrame or woven hanging be the star, then build smaller frames and botanicals around it. This gives the wall a clear focal point instead of competing for attention.",
+        content: "Instead of many small pieces of equal size, let one big macrame or woven hanging be the star, then build smaller frames and botanicals around it. This gives the wall one clear center instead of competing pieces.",
         image: "/assets/boho-gallery-wall-13.webp"
       },
       {
@@ -2588,7 +2588,7 @@ export const articles: Article[] = [
       },
       {
         title: "2. Take Advantage of Vertical Space",
-        content: "When you do not have much floor space, look up. Tall bookcases, wall mounted shelves, vertical cabinets, and hanging storage can provide valuable space without taking up much room.\n\nA tall shelving unit can also draw the eye upward, making a room appear taller.",
+        content: "When you do not have much floor space, look up. Tall bookcases, wall mounted shelves, vertical cabinets, and hanging storage can provide valuable space without taking up much room. A tall shelving unit can also draw the eye upward, making a room appear taller.",
         image: "/assets/small-apartment-02.webp"
       },
       {
@@ -2598,7 +2598,7 @@ export const articles: Article[] = [
       },
       {
         title: "4. Create a Small Home Office",
-        content: "A full sized office is not necessary when you live in a small apartment. A narrow desk can fit against a wall, beside a window, or even inside an unused corner.\n\nAdd a comfortable chair, a small lamp, and a few shelves above the desk to create a practical workspace without taking over the room.",
+        content: "A full sized office is not necessary when you live in a small apartment. A narrow desk can fit against a wall, beside a window, or even inside an unused corner. Add a comfortable chair, a small lamp, and a few shelves above the desk to create a practical workspace without taking over the room.",
         image: "/assets/small-apartment-04.webp"
       },
       {
@@ -2608,7 +2608,7 @@ export const articles: Article[] = [
       },
       {
         title: "6. Make Use of the Space Under Your Bed",
-        content: "The area underneath your bed is valuable storage space that is often overlooked. Use shallow storage boxes, rolling containers, or a bed frame with built in drawers to store seasonal clothing, extra bedding, shoes, and other items.\n\nKeeping these belongings out of sight can also make the bedroom feel much less cluttered.",
+        content: "The area underneath your bed is valuable storage space that is often overlooked. Use shallow storage boxes, rolling containers, or a bed frame with built in drawers to store seasonal clothing, extra bedding, shoes, and other items. Keeping these belongings out of sight can also make the bedroom feel much less cluttered.",
         image: "/assets/small-apartment-06.webp"
       },
       {
@@ -2628,7 +2628,7 @@ export const articles: Article[] = [
       },
       {
         title: "10. Choose Furniture With Exposed Legs",
-        content: "Furniture with visible legs allows more of the floor to remain visible, which can make a small room feel lighter and less crowded.\n\nInstead of bulky furniture that reaches all the way to the floor, consider sofas, chairs, cabinets, and beds with a raised design.",
+        content: "Furniture with visible legs allows more of the floor to remain visible, which can make a small room feel lighter and less crowded. Instead of bulky furniture that reaches all the way to the floor, consider sofas, chairs, cabinets, and beds with a raised design.",
         image: "/assets/small-apartment-10.webp"
       },
       {
@@ -2638,17 +2638,17 @@ export const articles: Article[] = [
       },
       {
         title: "12. Keep the Floor Clear",
-        content: "One of the simplest ways to make an apartment feel larger is to keep as much of the floor visible as possible. Wall mounted cabinets, floating consoles, hanging planters, and elevated furniture can help create this effect.\n\nA clear floor also makes cleaning easier and gives the room a more organized appearance.",
+        content: "One of the simplest ways to make an apartment feel larger is to keep as much of the floor visible as possible. Wall mounted cabinets, floating consoles, hanging planters, and elevated furniture all help. A clear floor also makes cleaning easier and gives the room a more organized appearance.",
         image: "/assets/small-apartment-12.webp"
       },
       {
         title: "13. Use the Space Above Cabinets",
-        content: "The area above kitchen cabinets can provide additional storage for items that are not used every day. Attractive baskets and matching containers can keep this space organized while adding visual interest.\n\nJust make sure the area does not become a dumping ground for random belongings.",
+        content: "The area above kitchen cabinets can provide additional storage for items that are not used every day. Attractive baskets and matching containers can keep this space organized while adding visual interest. Just make sure the area does not become a dumping ground for random belongings.",
         image: "/assets/small-apartment-13.webp"
       },
       {
         title: "14. Create a Gallery Wall Without Overcrowding",
-        content: "Artwork can add personality to a small apartment without taking up floor space. Instead of placing large decorative objects around the room, use the walls.\n\nA gallery wall gives the room a feature and lets you keep the rest of it plain.",
+        content: "Artwork can add personality to a small apartment without taking up floor space. Instead of placing large decorative objects around the room, use the walls. A gallery wall gives the room a feature and lets you keep the rest of it plain.",
         image: "/assets/small-apartment-14.webp"
       },
       {
@@ -2658,7 +2658,7 @@ export const articles: Article[] = [
       },
       {
         title: "16. Make Your Entryway Work Harder",
-        content: "Even a tiny entrance can provide useful storage. Add wall hooks for coats and bags, a narrow shoe cabinet, a small mirror, and a tray for keys.\n\nKeeping these everyday items organized at the entrance prevents them from spreading throughout the apartment.",
+        content: "Even a tiny entrance can provide useful storage. Add wall hooks for coats and bags, a narrow shoe cabinet, a small mirror, and a tray for keys. Keeping these everyday items organized at the entrance prevents them from spreading throughout the apartment.",
         image: "/assets/small-apartment-16.webp"
       },
       {
@@ -2731,7 +2731,7 @@ export const articles: Article[] = [
       },
       {
         title: "4. Textured Removable Wallpaper",
-        content: "Since most renters can't paint or install permanent wallpaper, textured peel and stick options are one of the easiest ways to add depth to a wall. Grasscloth style textures, subtle geometric patterns, and soft plaster effects work well because they add dimension without looking loud.\n\nTips:\n\nStick to one accent wall so the effect reads as intentional\n\nChoose a texture based wallpaper over a bold print if you want it to feel timeless\n\nTest a sample patch before committing, textures can look different once installed",
+        content: "Since most renters can't paint or install permanent wallpaper, textured peel and stick options are one of the easiest ways to add depth to a wall. Grasscloth style textures, subtle geometric patterns, and soft plaster effects work well because they add dimension without looking loud.\n\nTips:\n\nStick to one accent wall so the effect reads as intentional\n\nChoose a texture based wallpaper over a bold print if you want it to last\n\nTest a sample patch before committing, textures can look different once installed",
         image: "/assets/trendy-apartment-decor-04.webp"
       },
       {
@@ -2771,12 +2771,12 @@ export const articles: Article[] = [
       },
       {
         title: "12. Sculptural Statement Lighting",
-        content: "Lighting can be a design feature: sculptural table lamps, woven pendant shades and mushroom-shaped lamps work as the centerpiece of a room rather than an afterthought. A distinctive lamp can do the same work as a piece of art.\n\nTips:\n\nChoose one statement lamp per room rather than several competing pieces\n\nWarm toned bulbs suit the sculptural, cozy look better than bright white light\n\nA plug in pendant is a good option if you can't install permanent lighting",
+        content: "Lighting can be a design feature: sculptural table lamps, woven pendant shades and mushroom-shaped lamps work as the centerpiece of a room rather than an afterthought. A distinctive lamp can do the same work as a piece of art.\n\nTips:\n\nChoose one statement lamp per room rather than several competing pieces\n\nWarm toned bulbs suit the sculptural look better than bright white light\n\nA plug in pendant is a good option if you can't install permanent lighting",
         image: "/assets/trendy-apartment-decor-12.webp"
       },
       {
         title: "13. Layered Textiles and Boucle Fabrics",
-        content: "Boucle fabric, chunky knit throws, and layered textiles continue to be a favorite way to make a room feel warmer without changing any furniture. This works especially well over neutral or plain colored sofas and beds that could otherwise feel a bit flat.\n\nTips:\n\nLayer at least two textures, like a knit throw over a smooth linen sofa\n\nStick to a tight color range if you're layering more than three textiles at once\n\nBoucle throw pillows are an easy, low commitment way to try this trend",
+        content: "Boucle fabric, chunky knit throws, and layered textiles continue to be a favorite way to make a room feel warmer without changing any furniture. This suits neutral or plain colored sofas and beds that could otherwise feel a bit flat.\n\nTips:\n\nLayer at least two textures, like a knit throw over a smooth linen sofa\n\nStick to a tight color range if you're layering more than three textiles at once\n\nBoucle throw pillows are an easy, low commitment way to try this trend",
         image: "/assets/trendy-apartment-decor-13.webp"
       },
       {
@@ -2786,7 +2786,7 @@ export const articles: Article[] = [
       },
       {
         title: "15. Curated Shelf and Tablescape Displays",
-        content: "The last idea is an intentional display on open shelves and side tables, mixing books, ceramics, small art objects and personal items instead of leaving shelves empty or cluttered. It's a simple way to make a rented apartment feel personal without any construction.\n\nTips:\n\nGroup objects in odd numbers, like three or five, for a more natural look\n\nMix heights and textures, a tall vase next to a stack of books next to a small sculpture\n\nLeave some negative space so the display doesn't feel crowded",
+        content: "The last idea is an intentional display on open shelves and side tables, mixing books, ceramics, small art objects and personal items instead of leaving shelves empty or cluttered. It makes a rented apartment feel personal with no construction.\n\nTips:\n\nGroup objects in odd numbers, like three or five, for a more natural look\n\nMix heights and textures, a tall vase next to a stack of books next to a small sculpture\n\nLeave some negative space so the display doesn't feel crowded",
         image: "/assets/trendy-apartment-decor-15.webp"
       },
       {
@@ -2845,7 +2845,7 @@ export const articles: Article[] = [
       },
       {
         title: "4. Check Every Room Before Unpacking",
-        content: "Before bringing everything inside, walk through the apartment and check the condition of each room.\n\nLook at the walls, floors, windows, doors, cabinets, appliances, sinks, and bathrooms. Take photos of anything that already has damage and keep them for your records.\n\nThis can be especially useful when you eventually move out and need to show that existing damage was already there.",
+        content: "Before bringing everything inside, walk through the apartment and check the condition of each room.\n\nLook at the walls, floors, windows, doors, cabinets, appliances, sinks, and bathrooms. Take photos of anything that already has damage and keep them for your records.\n\nThis helps when you eventually move out and need to show that existing damage was already there.",
         image: "/assets/apartment-tips-04.webp"
       },
       {
@@ -2865,7 +2865,7 @@ export const articles: Article[] = [
       },
       {
         title: "8. Keep a Basic Tool Kit at Home",
-        content: "You do not need a professional workshop, but a small tool kit can save you from a lot of frustration.\n\nKeep a screwdriver set, measuring tape, hammer, pliers, scissors, utility knife, level, and a few commonly used screws and wall anchors.\n\nYou will probably need these sooner than you expect, especially when assembling furniture or hanging things on the wall.",
+        content: "You do not need a professional workshop, but a small tool kit can save you from a lot of frustration.\n\nKeep a screwdriver set, measuring tape, hammer, pliers, scissors, utility knife, level, and a few commonly used screws and wall anchors.\n\nYou will probably need these sooner than you expect, when assembling furniture or hanging things on the wall.",
         image: "/assets/apartment-tips-08.webp"
       },
       {
@@ -2959,7 +2959,7 @@ export const articles: Article[] = [
       },
       {
         title: "3. Basic Cookware",
-        content: "You do not need a huge cookware collection when you first move in. A few versatile pieces can handle most everyday meals.\n\nStart with a frying pan, saucepan, larger cooking pot, baking sheet, and a couple of cooking utensils. Choose pieces that are easy to clean and suitable for your stove.",
+        content: "You do not need a huge cookware collection when you first move in. A few basic pieces can handle most everyday meals.\n\nStart with a frying pan, saucepan, larger cooking pot, baking sheet, and a couple of cooking utensils. Choose pieces that are easy to clean and suitable for your stove.",
         image: "/assets/apartment-essentials-03.webp"
       },
       {
@@ -2979,7 +2979,7 @@ export const articles: Article[] = [
       },
       {
         title: "7. Food Storage Containers",
-        content: "Food storage containers make leftovers, meal preparation, and opened ingredients much easier to manage.\n\nLook for containers that stack well and have secure lids. Clear containers let you see what is inside without opening each one.",
+        content: "Food storage containers make leftovers, meal preparation, and opened ingredients much easier to manage. Look for containers that stack well and have secure lids. Clear containers let you see what is inside without opening each one.",
         image: "/assets/apartment-essentials-07.webp"
       },
       {
@@ -2994,7 +2994,7 @@ export const articles: Article[] = [
       },
       {
         title: "10. Vacuum or Broom",
-        content: "You need a simple way to clean your floors regularly. The right choice depends on your apartment.\n\nA compact vacuum works well for carpets, rugs, and mixed flooring. A broom and dustpan may be enough for a smaller apartment with mostly hard floors.",
+        content: "You need a simple way to clean your floors regularly. The right choice depends on your apartment. A compact vacuum works well for carpets, rugs, and mixed flooring. A broom and dustpan may be enough for a smaller apartment with mostly hard floors.",
         image: "/assets/apartment-essentials-10.webp"
       },
       {
@@ -3009,7 +3009,7 @@ export const articles: Article[] = [
       },
       {
         title: "13. Basic Tool Kit",
-        content: "A small tool kit can save you from a lot of frustration during your first few weeks in an apartment.\n\nA basic kit should include a screwdriver set, hammer, measuring tape, pliers, adjustable wrench, utility knife, and a few common screws and wall anchors.",
+        content: "A small tool kit can save you from a lot of frustration during your first few weeks in an apartment. A basic kit should include a screwdriver set, hammer, measuring tape, pliers, adjustable wrench, utility knife, and a few common screws and wall anchors.",
         image: "/assets/apartment-essentials-13.webp"
       },
       {
@@ -3019,7 +3019,7 @@ export const articles: Article[] = [
       },
       {
         title: "15. Laundry Basket",
-        content: "A laundry basket gives dirty clothes a designated place instead of allowing them to pile up on the bedroom floor.\n\nChoose a size that fits your laundry routine and apartment. A lightweight basket with handles can also make trips to a shared laundry room easier.",
+        content: "A laundry basket gives dirty clothes a designated place instead of allowing them to pile up on the bedroom floor. Choose a size that fits your laundry routine and apartment. A lightweight basket with handles can also make trips to a shared laundry room easier.",
         image: "/assets/apartment-essentials-15.webp"
       },
       {
@@ -3076,12 +3076,12 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Eucalyptus in a Clear Glass Vase",
-        content: "A clear glass vase keeps the look simple and airy. Place several eucalyptus stems inside and let the natural shape of the leaves become the main decoration. It suits dining tables, kitchen counters and coffee tables.\n\nFor a relaxed appearance, choose stems with different heights rather than trimming everything to exactly the same length.",
+        content: "A clear glass vase keeps the look simple and airy. Place several eucalyptus stems inside and let the natural shape of the leaves become the main decoration.\n\nIt suits dining tables, kitchen counters and coffee tables.\n\nFor a relaxed appearance, choose stems with different heights rather than trimming everything to exactly the same length.",
         image: "/assets/eucalyptus-vase-decor-01.jpg"
       },
       {
         title: "2. Eucalyptus in a White Ceramic Vase",
-        content: "White ceramic and eucalyptus make a classic combination. The clean surface of the vase creates a beautiful contrast against the soft green leaves.\n\nPlace the arrangement on a console table, sideboard, or bedroom dresser. Add a few neutral accessories nearby to create a calm and cohesive display.",
+        content: "White ceramic and eucalyptus make a classic combination. The clean surface of the vase creates a beautiful contrast against the soft green leaves. Place the arrangement on a console table, sideboard, or bedroom dresser. Add a few neutral accessories nearby to create a calm and cohesive display.",
         image: "/assets/eucalyptus-vase-decor-02.jpg"
       },
       {
@@ -3091,22 +3091,22 @@ export const articles: Article[] = [
       },
       {
         title: "4. Eucalyptus in a Vintage Vase",
-        content: "For a more collected look, place eucalyptus stems in a vintage glass or ceramic vase. Slight imperfections, aged finishes, and muted colors can give the arrangement more character.\n\nThis suits traditional, cottage, farmhouse and vintage-style rooms.",
+        content: "For a more collected look, place eucalyptus stems in a vintage glass or ceramic vase. Slight imperfections, aged finishes, and muted colors can give the arrangement more character. This suits traditional, cottage, farmhouse and vintage-style rooms.",
         image: "/assets/eucalyptus-vase-decor-04.jpg"
       },
       {
         title: "5. Eucalyptus on a Bedside Table",
-        content: "A small eucalyptus arrangement can add a natural touch to a bedroom without taking up much space. Use a compact vase with a few shorter stems and place it beside your bed.\n\nPair it with a small lamp, a stack of books, or a candle for a simple bedside display.",
+        content: "A small eucalyptus arrangement can add a natural touch to a bedroom without taking up much space. Use a compact vase with a few shorter stems and place it beside your bed. Pair it with a small lamp, a stack of books, or a candle for a simple bedside display.",
         image: "/assets/eucalyptus-vase-decor-05.jpg"
       },
       {
         title: "6. Eucalyptus Vase on a Coffee Table",
-        content: "A vase of eucalyptus is an easy way to soften a coffee table. Choose a low or medium height vase so the greenery does not block the view across the room.\n\nYou can place the vase on a tray alongside books, a small candle, and one decorative object. The result feels intentional without looking overly styled.",
+        content: "A vase of eucalyptus is an easy way to soften a coffee table. Choose a low or medium height vase so the greenery does not block the view across the room. You can place the vase on a tray alongside books, a small candle, and one decorative object. The result feels intentional without looking overly styled.",
         image: "/assets/eucalyptus-vase-decor-06.jpg"
       },
       {
         title: "7. Eucalyptus with Dried Flowers",
-        content: "Mix eucalyptus with a few dried flowers for added texture and visual interest. Neutral dried flowers work best, because they leave the green leaves as the focus.\n\nTry adding dried pampas grass, baby's breath, or small beige flowers to create a soft natural arrangement.",
+        content: "Mix eucalyptus with a few dried flowers for added texture and visual interest. Neutral dried flowers work best, because they leave the green leaves as the focus. Try adding dried pampas grass, baby's breath, or small beige flowers to create a soft natural arrangement.",
         image: "/assets/eucalyptus-vase-decor-07.jpg"
       },
       {
@@ -3116,7 +3116,7 @@ export const articles: Article[] = [
       },
       {
         title: "9. Eucalyptus in a Small Bud Vase",
-        content: "You do not need a large bouquet to decorate with eucalyptus. A single stem or a few small branches can look beautiful in a tiny bud vase.\n\nPlace several small vases together on a shelf or dining table. Vary the heights slightly to create a simple layered display.",
+        content: "You do not need a large bouquet to decorate with eucalyptus. A single stem or a few small branches can look beautiful in a tiny bud vase. Place several small vases together on a shelf or dining table. Vary the heights slightly to create a simple layered display.",
         image: "/assets/eucalyptus-vase-decor-09.jpg"
       },
       {
@@ -3126,7 +3126,7 @@ export const articles: Article[] = [
       },
       {
         title: "11. Eucalyptus with White Flowers",
-        content: "For a fresh and elegant arrangement, combine eucalyptus with white flowers. Roses, hydrangeas, tulips, and baby's breath can all work beautifully with the greenery.\n\nThe white flowers brighten the arrangement while the eucalyptus adds texture and movement.",
+        content: "For a fresh arrangement, combine eucalyptus with white flowers. Roses, hydrangeas, tulips, and baby's breath can all work beautifully with the greenery. The white flowers brighten the arrangement while the eucalyptus adds texture and movement.",
         image: "/assets/eucalyptus-vase-decor-11.jpg"
       },
       {
@@ -3136,27 +3136,27 @@ export const articles: Article[] = [
       },
       {
         title: "13. Eucalyptus Bathroom Decor",
-        content: "Eucalyptus can bring a spa inspired feeling to a bathroom. Place a small arrangement in a vase beside the sink, on a bathroom shelf, or near the bathtub.\n\nChoose a simple ceramic or glass vase to keep the space looking clean. A few eucalyptus stems can add just enough greenery without making the bathroom feel cluttered.",
+        content: "Eucalyptus can bring a spa inspired feeling to a bathroom. Place a small arrangement in a vase beside the sink, on a bathroom shelf, or near the bathtub. Choose a simple ceramic or glass vase to keep the space looking clean. A few eucalyptus stems can add just enough greenery without making the bathroom feel cluttered.",
         image: "/assets/eucalyptus-vase-decor-13.jpg"
       },
       {
         title: "14. Eucalyptus on a Kitchen Counter",
-        content: "A small eucalyptus vase can make a kitchen feel warmer and more lived in. Place it near a window, beside a coffee station, or on an open shelf.\n\nBecause eucalyptus has a simple shape, it can add greenery without overwhelming the practical nature of the kitchen.",
+        content: "A small eucalyptus vase can make a kitchen feel warmer and more lived in. Place it near a window, beside a coffee station, or on an open shelf. Because eucalyptus has a simple shape, it can add greenery without overwhelming the practical nature of the kitchen.",
         image: "/assets/eucalyptus-vase-decor-14.jpg"
       },
       {
         title: "15. Tall Eucalyptus Arrangement",
-        content: "Use tall eucalyptus stems in a large floor vase when you want to create a stronger statement. This fills an empty corner or the side of a console or large piece of furniture.\n\nAllow the stems to curve naturally instead of forcing them into a rigid arrangement. The movement of the branches is part of what makes eucalyptus so attractive.",
+        content: "Use tall eucalyptus stems in a large floor vase when you want to create a stronger statement. This fills an empty corner or the side of a console or large piece of furniture. Allow the stems to curve naturally instead of forcing them into a rigid arrangement. The movement of the branches is part of what makes eucalyptus so attractive.",
         image: "/assets/eucalyptus-vase-decor-15.jpg"
       },
       {
         title: "16. Eucalyptus with Neutral Home Decor",
-        content: "Eucalyptus fits naturally into neutral interiors. Combine it with beige, cream, white, light brown, and soft gray accessories for a calm and understated look.\n\nA simple eucalyptus arrangement can become the small touch of color that keeps a neutral room from feeling flat.",
+        content: "Eucalyptus fits naturally into neutral interiors. Combine it with beige, cream, white, light brown, and soft gray accessories for a calm and understated look. A simple eucalyptus arrangement can become the small touch of color that keeps a neutral room from feeling flat.",
         image: "/assets/eucalyptus-vase-decor-16.jpg"
       },
       {
         title: "17. Eucalyptus and Candle Display",
-        content: "Pair a eucalyptus vase with candles. Place the vase on a dining table, coffee table, or console and surround it with candles in simple holders.\n\nUse warm neutral tones for the holders and keep the flames away from the leaves, which can burn.",
+        content: "Pair a eucalyptus vase with candles. Place the vase on a dining table, coffee table, or console and surround it with candles in simple holders. Use warm neutral tones for the holders and keep the flames away from the leaves, which can burn.",
         image: "/assets/eucalyptus-vase-decor-17.jpg"
       },
       {
@@ -3204,12 +3204,12 @@ export const articles: Article[] = [
     sections: [
       {
         title: "1. Use Drawer Dividers for Utensils",
-        content: "Kitchen drawers can quickly become messy when forks, spoons, knives, and cooking utensils are all stored together. Drawer dividers create separate sections so everything stays organized.\n\nChoose adjustable dividers so you can size each section to your utensils. Keep the items you use most often toward the front of the drawer for easy access.",
+        content: "Kitchen drawers can quickly become messy when forks, spoons, knives, and cooking utensils are all stored together. Drawer dividers create separate sections so everything stays organized. Choose adjustable dividers so you can size each section to your utensils. Keep the items you use most often toward the front of the drawer for easy access.",
         image: "/assets/kitchen-organization-01.jpg"
       },
       {
         title: "2. Add a Shelf Riser Inside Cabinets",
-        content: "Cabinet shelves often leave unused vertical space. A shelf riser can create an additional level for plates, bowls, mugs, or small serving dishes.\n\nThis helps in cabinets where tall stacks are hard to reach. Instead of having everything in one large pile, you can create two accessible storage levels.",
+        content: "Cabinet shelves often leave unused vertical space. A shelf riser can create an additional level for plates, bowls, mugs, or small serving dishes. This helps in cabinets where tall stacks are hard to reach. Instead of having everything in one large pile, you can create two accessible storage levels.",
         image: "/assets/kitchen-organization-02.jpg"
       },
       {
@@ -3244,7 +3244,7 @@ export const articles: Article[] = [
       },
       {
         title: "9. Add Pull Out Storage to Deep Cabinets",
-        content: "Deep cabinets can look spacious but often become difficult to use. Items pushed toward the back may eventually be forgotten because they are hard to reach.\n\nPull out shelves or baskets allow you to bring stored items toward you instead of reaching deep into the cabinet. This can make lower cabinets much more practical.",
+        content: "Deep cabinets can look spacious but often become difficult to use. Items pushed toward the back may eventually be forgotten because they are hard to reach. Pull out shelves or baskets allow you to bring stored items toward you instead of reaching deep into the cabinet. This can make lower cabinets much more practical.",
         image: "/assets/kitchen-organization-09.jpg"
       },
       {
@@ -3254,7 +3254,7 @@ export const articles: Article[] = [
       },
       {
         title: "11. Use Baskets to Group Similar Items",
-        content: "Baskets can prevent small kitchen items from becoming scattered across cabinets and shelves.\n\nUse one basket for baking supplies, another for snacks, and another for items you use less frequently. Grouping similar products together also makes it easier to take everything out when you need it.",
+        content: "Baskets can prevent small kitchen items from becoming scattered across cabinets and shelves. Use one basket for baking supplies, another for snacks, and another for items you use less frequently. Grouping similar products together also makes it easier to take everything out when you need it.",
         image: "/assets/kitchen-organization-11.jpg"
       },
       {
@@ -3269,12 +3269,12 @@ export const articles: Article[] = [
       },
       {
         title: "14. Declutter Your Kitchen Counters",
-        content: "A clean countertop can make an entire kitchen feel more organized. Start by removing appliances and items that you rarely use.\n\nKeep only the things you use regularly on the counter. Appliances such as coffee makers, toasters, or air fryers can stay out if you use them frequently. Everything else can be stored in cabinets or a pantry.",
+        content: "A clean countertop can make an entire kitchen feel more organized. Start by removing appliances and items that you rarely use. Keep only the things you use regularly on the counter. Appliances such as coffee makers, toasters, or air fryers can stay out if you use them frequently. Everything else can be stored in cabinets or a pantry.",
         image: "/assets/kitchen-organization-14.jpg"
       },
       {
         title: "15. Label Pantry Shelves and Containers",
-        content: "Labels can make an organized kitchen much easier to maintain. They help everyone in the household know where items belong and make it easier to return things to their proper place.\n\nYou can label individual containers or entire pantry sections. Simple labels such as grains, baking supplies, snacks, and canned foods can make a big difference.",
+        content: "Labels can make an organized kitchen much easier to maintain. They help everyone in the household know where items belong and make it easier to return things to their proper place. You can label individual containers or entire pantry sections. Simple labels such as grains, baking supplies, snacks, and canned foods can make a big difference.",
         image: "/assets/kitchen-organization-15.jpg"
       },
       {
@@ -3333,7 +3333,7 @@ export const articles: Article[] = [
       },
       {
         title: "3. Create a Built-In Office",
-        content: "If you own your home or are comfortable making permanent changes, consider turning the closet into a built in workspace. A fitted desk, wall shelving, and integrated cabinets can make the entire area look like it was designed specifically for working.\n\nChoose materials that complement the surrounding room so the cloffice feels connected to the rest of your home.",
+        content: "If you own your home or are comfortable making permanent changes, consider turning the closet into a built in workspace. A fitted desk, wall shelving, and integrated cabinets can make the entire area look like it was designed specifically for working. Choose materials that complement the surrounding room so the cloffice feels connected to the rest of your home.",
         image: "/assets/cloffice-03.webp"
       },
       {
@@ -3348,17 +3348,17 @@ export const articles: Article[] = [
       },
       {
         title: "6. Choose a Comfortable Chair",
-        content: "A beautiful desk does not help much if the chair is uncomfortable. Look for a chair that fits the proportions of your cloffice while still providing enough support for your back.\n\nIf space is limited, a compact upholstered chair can provide a softer look than a traditional office chair.",
+        content: "A beautiful desk does not help much if the chair is uncomfortable. Look for a chair that fits the proportions of your cloffice while still providing enough support for your back. If space is limited, a compact upholstered chair can provide a softer look than a traditional office chair.",
         image: "/assets/cloffice-06.webp"
       },
       {
         title: "7. Add Closed Storage",
-        content: "Open shelving looks attractive, but too many visible items can quickly make a small cloffice look cluttered. Add baskets, drawers, or cabinets to hide paperwork, cables, stationery, and other supplies.\n\nUsing matching storage containers can also create a more cohesive appearance.",
+        content: "Open shelving looks attractive, but too many visible items can quickly make a small cloffice look cluttered. Add baskets, drawers, or cabinets to hide paperwork, cables, stationery, and other supplies. Using matching storage containers can also create a more cohesive appearance.",
         image: "/assets/cloffice-07.webp"
       },
       {
         title: "8. Try a Moody Cloffice",
-        content: "A cloffice does not have to be bright and minimalist. Darker colors work well in a small closet, especially with warm lighting and natural wood.\n\nDeep green, charcoal, navy and warm brown give the space a library feel without much decoration.",
+        content: "A cloffice does not have to be bright and minimalist. Darker colors work well in a small closet, especially with warm lighting and natural wood. Deep green, charcoal, navy and warm brown give the space a library feel without much decoration.",
         image: "/assets/cloffice-08.webp"
       },
       {
@@ -3373,7 +3373,7 @@ export const articles: Article[] = [
       },
       {
         title: "11. Use a Pegboard for Organization",
-        content: "A pegboard can provide flexible storage without taking up valuable desk space. Use it to organize headphones, scissors, notebooks, cables, small baskets, and other frequently used items.\n\nThe biggest advantage is flexibility. You can move the hooks and shelves around as your needs change.",
+        content: "A pegboard can provide flexible storage without taking up valuable desk space. Use it to organize headphones, scissors, notebooks, cables, small baskets, and other frequently used items. The biggest advantage is flexibility. You can move the hooks and shelves around as your needs change.",
         image: "/assets/cloffice-11.webp"
       },
       {
@@ -3420,28 +3420,29 @@ export const articles: Article[] = [
     date: "2026-09-30",
     title: "21 Affordable Apartment Essentials Worth Buying",
     excerpt: "Practical, budget-friendly picks for storage, the kitchen, cleaning, and everyday comfort that make a new apartment feel like home.",
+    intro: "These are the low-cost items that tend to earn their place in a small apartment. Most are under $25, and many replace something more expensive, such as a second storage cabinet or a gadget you would use twice.\n\nThe list leans toward storage, the kitchen and cleaning, because those are the areas where a few cheap items make the biggest daily difference.",
     category: "Apartment",
     image: "/assets/affordable-apartment-essentials-01.webp",
     imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Storage Baskets",
-        content: "Storage baskets are one of the easiest ways to control everyday clutter. They can hold blankets, towels, cleaning supplies, accessories, or anything else that tends to end up scattered around your apartment.\n\nLook for simple baskets that can slide onto shelves, fit inside cabinets, or sit neatly beside furniture. Neutral colors also make them easy to work into almost any room.",
+        content: "Storage baskets are one of the easiest ways to control everyday clutter. They can hold blankets, towels, cleaning supplies, accessories, or anything else that tends to end up scattered around your apartment. Look for simple baskets that can slide onto shelves, fit inside cabinets, or sit neatly beside furniture. Neutral colors also make them easy to work into almost any room.",
         image: "/assets/affordable-apartment-essentials-01.webp"
       },
       {
         title: "2. Over the Door Hooks",
-        content: "Over the door hooks give you extra storage without requiring drilling or permanent installation. They are particularly useful in small apartments where wall and closet space can be limited.\n\nUse them for jackets, handbags, towels, robes, hats, or everyday items you want to keep within easy reach.",
+        content: "Over the door hooks give you extra storage without requiring drilling or permanent installation. They suit small apartments, where wall and closet space is short. Use them for jackets, handbags, towels, robes, hats, or everyday items you want to keep within easy reach.",
         image: "/assets/affordable-apartment-essentials-02.webp"
       },
       {
         title: "3. A Compact Shoe Rack",
-        content: "Shoes can make an entryway look messy surprisingly quickly. A compact shoe rack gives every pair a designated place while keeping the floor easier to clean.\n\nChoose a narrow design if your entrance is small. A vertical shoe rack can be especially useful when floor space is limited.",
+        content: "Shoes can make an entryway look messy surprisingly quickly. A compact shoe rack gives every pair a designated place while keeping the floor easier to clean. Choose a narrow design if your entrance is small. A vertical rack takes up less floor than a flat one.",
         image: "/assets/affordable-apartment-essentials-03.webp"
       },
       {
         title: "4. Reusable Food Storage Containers",
-        content: "A good set of food storage containers can make your kitchen more organized and reduce food waste. They are useful for leftovers, meal preparation, snacks, dry ingredients, and packed lunches.\n\nClear containers are particularly convenient because you can see what is inside without opening every container.",
+        content: "A good set of food storage containers can make your kitchen more organized and reduce food waste. They are useful for leftovers, meal preparation, snacks, dry ingredients, and packed lunches. Clear containers let you see what is inside without opening each one.",
         image: "/assets/affordable-apartment-essentials-04.webp"
       },
       {
@@ -3451,67 +3452,67 @@ export const articles: Article[] = [
       },
       {
         title: "6. Multipurpose Cleaning Spray",
-        content: "A reliable multipurpose cleaner is an inexpensive apartment essential that earns its place quickly. It can be used on many common household surfaces, including countertops, tables, and other washable areas.\n\nKeeping one bottle in an easy to reach location makes it simpler to deal with spills and everyday messes before they build up.",
+        content: "A reliable multipurpose cleaner is an inexpensive apartment essential that earns its place quickly. It can be used on many common household surfaces, including countertops, tables, and other washable areas. Keeping one bottle in an easy to reach location makes it simpler to deal with spills and everyday messes before they build up.",
         image: "/assets/affordable-apartment-essentials-06.webp"
       },
       {
         title: "7. Microfiber Cleaning Cloths",
-        content: "Microfiber cloths are inexpensive, reusable, and useful throughout the apartment. Keep a few in the kitchen, bathroom, and cleaning cupboard so you always have one available.\n\nThey can be used for wiping counters, cleaning mirrors, dusting furniture, and handling small spills.",
+        content: "Microfiber cloths are inexpensive, reusable, and useful throughout the apartment. Keep a few in the kitchen, bathroom, and cleaning cupboard so you always have one available. They can be used for wiping counters, cleaning mirrors, dusting furniture, and handling small spills.",
         image: "/assets/affordable-apartment-essentials-07.webp"
       },
       {
         title: "8. A Small Toolkit",
-        content: "Every apartment needs a basic toolkit. Even if you are not particularly handy, a screwdriver, hammer, measuring tape, pliers, and a few common screws can solve many small household problems.\n\nYou may not use the toolkit every week, but having one available can save you from searching for tools whenever something needs a quick fix.",
+        content: "Every apartment needs a basic toolkit. Even if you are not handy, a screwdriver, hammer, measuring tape, pliers, and a few common screws can solve many small household problems.\n\nYou may not use the toolkit every week, but having one available can save you from searching for tools whenever something needs a quick fix.",
         image: "/assets/affordable-apartment-essentials-08.webp"
       },
       {
         title: "9. Power Strip With USB Ports",
-        content: "Modern apartments often have more devices than available outlets. A power strip with USB ports can make it much easier to charge phones, tablets, laptops, and other electronics in one convenient location.\n\nChoose one with built in safety features and enough spacing between outlets for larger plugs.",
+        content: "Modern apartments often have more devices than available outlets. A power strip with USB ports can make it much easier to charge phones, tablets, laptops, and other electronics in one convenient location. Choose one with built in safety features and enough spacing between outlets for larger plugs.",
         image: "/assets/affordable-apartment-essentials-09.webp"
       },
       {
         title: "10. Bedside Lamp",
-        content: "A small bedside lamp can make a bedroom feel more comfortable while giving you softer lighting at night.\n\nIt is also more practical than relying entirely on a bright ceiling light when you want to read, use your phone, or get ready for bed.",
+        content: "A small bedside lamp can make a bedroom feel more comfortable while giving you softer lighting at night. It is also more practical than relying entirely on a bright ceiling light when you want to read, use your phone, or get ready for bed.",
         image: "/assets/affordable-apartment-essentials-10.webp"
       },
       {
         title: "11. Full Length Mirror",
-        content: "A full length mirror is both practical and decorative. It lets you check an outfit before leaving and can also make a smaller room feel brighter and more open.\n\nIf floor space is limited, consider a wall mounted or over the door mirror.",
+        content: "A full length mirror is both practical and decorative. It lets you check an outfit before leaving and can also make a smaller room feel brighter and more open. If floor space is limited, consider a wall mounted or over the door mirror.",
         image: "/assets/affordable-apartment-essentials-11.webp"
       },
       {
         title: "12. Shower Caddy",
-        content: "A shower caddy keeps shampoo, soap, skincare products, and other bathroom essentials organized in one place.\n\nIt is particularly useful if your apartment bathroom has limited storage. Choose a rust resistant option designed for damp environments.",
+        content: "A shower caddy keeps shampoo, soap, skincare products, and other bathroom essentials organized in one place.\n\nIt helps if your bathroom has little storage. Choose a rust resistant option designed for damp environments.",
         image: "/assets/affordable-apartment-essentials-12.webp"
       },
       {
         title: "13. Laundry Hamper",
-        content: "A laundry hamper gives dirty clothes a designated home instead of letting them collect on chairs, floors, or the side of the bed.\n\nA lightweight hamper with handles is especially convenient because you can easily carry it to the washing machine.",
+        content: "A laundry hamper gives dirty clothes a designated home instead of letting them collect on chairs, floors, or the side of the bed. A lightweight hamper with handles is easy to carry to the washing machine.",
         image: "/assets/affordable-apartment-essentials-13.webp"
       },
       {
         title: "14. Basic First Aid Kit",
-        content: "A basic first aid kit is one of those apartment essentials you may not think about until you need it.\n\nKeep common supplies such as adhesive bandages, gauze, antiseptic supplies, and other basic items together in one clearly labeled container. Check it occasionally and replace anything that has expired or been used.",
+        content: "A basic first aid kit is one of those apartment essentials you may not think about until you need it. Keep common supplies such as adhesive bandages, gauze, antiseptic supplies, and other basic items together in one clearly labeled container. Check it occasionally and replace anything that has expired or been used.",
         image: "/assets/affordable-apartment-essentials-14.webp"
       },
       {
         title: "15. Reusable Water Bottle",
-        content: "A reusable water bottle is useful at home, at work, and while running errands. Instead of buying individual bottles throughout the week, you can refill one whenever needed.\n\nChoose a bottle that is easy to clean and comfortable enough to carry every day.",
+        content: "A reusable water bottle is useful at home, at work, and while running errands. Instead of buying individual bottles throughout the week, you can refill one whenever needed. Choose a bottle that is easy to clean and comfortable enough to carry every day.",
         image: "/assets/affordable-apartment-essentials-15.webp"
       },
       {
         title: "16. Small Waste Bins",
-        content: "One large trash can is not always enough for an apartment. Smaller waste bins can be useful in the bathroom, bedroom, home office, or other rooms where you regularly generate small amounts of waste.\n\nCompact bins take up little space and make it easier to keep individual rooms tidy.",
+        content: "One large trash can is not always enough for an apartment. Smaller waste bins can be useful in the bathroom, bedroom, home office, or other rooms where you regularly generate small amounts of waste. Compact bins take up little space and make it easier to keep individual rooms tidy.",
         image: "/assets/affordable-apartment-essentials-16.webp"
       },
       {
         title: "17. Drawer Organizers",
-        content: "Drawers can quickly become chaotic when small items are thrown together. Drawer organizers divide the space into sections so you can keep things such as utensils, socks, accessories, stationery, or personal items separated.\n\nThey are inexpensive and particularly helpful when you are working with limited storage.",
+        content: "Drawers can quickly become chaotic when small items are thrown together. Drawer organizers divide the space into sections so you can keep things such as utensils, socks, accessories, stationery, or personal items separated.\n\nThey are inexpensive and help when storage is limited.",
         image: "/assets/affordable-apartment-essentials-17.webp"
       },
       {
         title: "18. Blackout Curtains",
-        content: "Blackout curtains can make a bedroom more comfortable by reducing incoming light. They can also provide additional privacy and help create a darker environment for sleeping.\n\nYou do not need expensive curtains to get the benefit. Look for simple, well fitting panels that complement the room.",
+        content: "Blackout curtains can make a bedroom more comfortable by reducing incoming light. They can also provide additional privacy and help create a darker environment for sleeping. You do not need expensive curtains to get the benefit. Look for simple, well fitting panels that complement the room.",
         image: "/assets/affordable-apartment-essentials-18.webp"
       },
       {
@@ -3521,12 +3522,12 @@ export const articles: Article[] = [
       },
       {
         title: "20. Basic Kitchen Utensils",
-        content: "A few reliable kitchen utensils can cover most everyday cooking tasks. Start with essentials such as a spatula, wooden spoon, tongs, can opener, peeler, and measuring cups.\n\nThere is no need to buy every kitchen gadget at once. Add specialized tools later when you know you actually need them.",
+        content: "A few reliable kitchen utensils can cover most everyday cooking tasks. Start with essentials such as a spatula, wooden spoon, tongs, can opener, peeler, and measuring cups. There is no need to buy every kitchen gadget at once. Add specialized tools later when you know you actually need them.",
         image: "/assets/affordable-apartment-essentials-20.webp"
       },
       {
         title: "21. A Comfortable Throw Blanket",
-        content: "A comfortable throw blanket is an inexpensive way to make a living room or bedroom feel more inviting. Keep one on the sofa for cooler evenings or use it as an extra layer on the bed.\n\nChoose a material that feels comfortable and a color that works with your existing furniture. A simple blanket can add warmth without requiring a major decorating budget.",
+        content: "A throw blanket is an inexpensive way to make a living room or bedroom more comfortable. Keep one on the sofa for cooler evenings or use it as an extra layer on the bed.\n\nChoose a material that feels comfortable and a color that works with your existing furniture. A simple blanket adds warmth for very little money.",
         image: "/assets/affordable-apartment-essentials-21.webp"
       },
       {
@@ -3561,101 +3562,102 @@ export const articles: Article[] = [
     id: "39",
     slug: "small-space-pantry-ideas",
     date: "2026-10-01",
-    title: "13 Pantry Ideas for Small Spaces",
-    excerpt: "Clever ways to turn narrow cabinets, empty walls, and awkward corners into organized pantry storage for a small kitchen.",
+    title: "13 Pantry Ideas for Small Kitchens: Carts, Door Racks and Pull-Out Shelves",
+    excerpt: "Slim carts, door racks, risers and wall shelves: thirteen ways to add pantry storage to a small kitchen without a walk-in pantry.",
+    intro: "You don't need a walk-in pantry to store food well. Most small kitchens have wasted space: a 6-inch gap beside the fridge, the back of a cabinet door, the wall above the cabinets.\n\nMeasure each gap before you shop. Pantry organizers are sold in specific widths, and a half inch can decide whether a cart fits.",
     category: "Kitchen",
     image: "/assets/small-space-pantry-ideas-01.webp",
     sections: [
       {
         title: "1. Use a Slim Rolling Pantry",
-        content: "A narrow rolling cart can turn an unused gap beside the refrigerator or cabinets into valuable pantry storage. Choose one with several shelves so you can store cans, spices, sauces, pasta, and dry ingredients without taking up much floor space.\n\nThe cart can slide completely out of sight when you are finished using it, making it particularly useful in a compact kitchen.",
+        content: "A rolling cart 6 to 9 inches wide fits into the gap between a fridge and a wall. Three or four shelves hold cans, bottles and jars, and it rolls out when you need to reach something.\n\nLook for locking wheels, a solid back panel and shelves with a lip, so bottles stay upright when you pull it out.",
         image: "/assets/small-space-pantry-ideas-01.webp"
       },
       {
         title: "2. Add Shelves to an Empty Wall",
-        content: "An empty kitchen wall can become a simple open pantry. Install a few sturdy shelves and use matching containers or baskets to keep everything organized.\n\nPlace frequently used ingredients on the middle shelves and less frequently used items higher up. This approach adds storage without taking up valuable counter space.",
+        content: "Fix two or three shelves, 10 to 12 inches deep, to a free wall. Place them 12 to 14 inches apart, which suits jars and boxes of cereal.\n\nHeavy items such as cans and oil go on the lowest shelf. Fix the brackets into studs, since a shelf full of jars is heavy.",
         image: "/assets/small-space-pantry-ideas-02.webp"
       },
       {
         title: "3. Turn the Pantry Door Into Storage",
-        content: "The back of a pantry or cabinet door is often wasted space. A slim door mounted organizer can provide several additional levels of storage without changing the main pantry area.\n\nUse it for spices, sauces, packets, snacks, and other small items that tend to get lost on deeper shelves.",
+        content: "A rack hung over the door, or screwed inside it, holds spices, packets and snacks in a space that normally stays empty. Choose a rack with shallow shelves, 3 to 4 inches deep, to avoid hitting the shelves inside the cabinet.\n\nCheck that the door still closes with the rack full, and that the rack does not hit anything inside.",
         image: "/assets/small-space-pantry-ideas-03.webp"
       },
       {
         title: "4. Make Use of Awkward Corners",
-        content: "Corners can be difficult to organize because items often become hidden behind one another. Corner shelves and rotating organizers can make these awkward areas much more useful.\n\nA rotating tray works especially well for bottles, condiments, jars, and other items that need to remain easy to reach.",
+        content: "A turntable (lazy Susan) in a corner cabinet brings everything round to the front. A 14-inch turntable fits most shelves, and a two-tier version doubles the use of the height.\n\nUse low-sided ones for oils and bottles and a higher lip for jars.",
         image: "/assets/small-space-pantry-ideas-04.webp"
       },
       {
         title: "5. Use Clear Containers and Shelf Risers",
-        content: "Clear containers make it easier to see what you already have, while shelf risers create additional levels inside cabinets and pantries. Together, they can make a small storage area feel considerably more spacious.\n\nUse clear containers for rice, flour, pasta, oats, and cereal. Place shorter jars and cans on shelf risers so everything remains visible.",
+        content: "Decant flour, rice, pasta and cereal into clear containers with airtight lids, which keep pests and moisture out. Square containers use shelf space better than round ones.\n\nAdd a shelf riser, 4 to 6 inches high, so the back row of jars is visible over the front one.",
         image: "/assets/small-space-pantry-ideas-05.webp"
       },
       {
         title: "6. Create a Pantry Inside a Cabinet",
-        content: "You do not necessarily need a separate pantry. One kitchen cabinet can be turned into a dedicated pantry by adding baskets, shelf risers, and small organizers.\n\nGroup similar ingredients together so you can quickly find what you need without pulling everything out.",
+        content: "Choose a single cabinet near the stove or the prep area, and fit it with baskets, a riser and a few small bins. Group by use: baking, breakfast, snacks, and cooking oils.\n\nPut a label on each shelf edge, so that other people in the household can put things back.",
         image: "/assets/small-space-pantry-ideas-06.webp"
       },
       {
         title: "7. Install Pull Out Shelves",
-        content: "Deep cabinets can waste a surprising amount of space because items at the back are difficult to reach. Pull out shelves bring those items forward, making the entire cabinet easier to use.\n\nThis solution is particularly useful for cans, jars, cooking ingredients, and larger pantry supplies.",
+        content: "Pull-out shelves slide on runners so you can see to the back of a deep cabinet. A kit for a standard 15-inch base cabinet costs around $40 to $120, and a competent DIYer can fit it.\n\nCheck the cabinet opening width, because the slides take up around an inch on each side.",
         image: "/assets/small-space-pantry-ideas-07.webp"
       },
       {
         title: "8. Use Stackable Bins",
-        content: "Stackable bins allow you to take advantage of vertical space without creating a messy pile of food packages. Use separate bins for snacks, baking supplies, breakfast foods, or packaged ingredients.\n\nChoose bins that are easy to pull forward so items at the back remain accessible.",
+        content: "Stackable bins in clear plastic or wicker let you build upwards on a shelf. Use one bin for snacks, one for baking and one for breakfast items.\n\nAvoid stacking more than three high, and keep the heaviest bin at the bottom.",
         image: "/assets/small-space-pantry-ideas-08.webp"
       },
       {
         title: "9. Use the Space Above the Cabinets",
-        content: "If your kitchen cabinets do not reach the ceiling, the area above them can provide extra storage. Attractive baskets or matching containers can hold items that you do not use every day.\n\nKeep seasonal supplies, serving items, and backup ingredients in this area rather than everyday essentials.",
+        content: "Use baskets or boxes with lids on top of the cabinets to store things you use a few times a year, such as a roasting pan, a punch bowl or bulk supplies. Choose matching ones to look neat.\n\nIf the cabinets don't reach the ceiling, check the gap is deep enough, and keep heavy items lower down.",
         image: "/assets/small-space-pantry-ideas-09.webp"
       },
       {
         title: "10. Add a Narrow Freestanding Pantry",
-        content: "A compact freestanding cabinet can add pantry storage without requiring a full kitchen renovation. Choose a tall and narrow design if floor space is limited.\n\nA cabinet with adjustable shelves gives you more flexibility because you can change the layout as your storage needs change.",
+        content: "A tall, narrow cabinet, 12 to 16 inches wide, can hold dry goods in a corner or beside a doorway. Adjustable shelves let you change the spacing as your stock changes.\n\nAnchor it to the wall with the strap that comes with it, since tall units can tip.",
         image: "/assets/small-space-pantry-ideas-10.webp"
       },
       {
         title: "11. Create a Pegboard Pantry Wall",
-        content: "A pegboard can turn a small section of wall into flexible storage. Use hooks, small shelves, and baskets to create a setup that can be rearranged whenever your needs change.\n\nIt is particularly useful for lightweight kitchen supplies and smaller pantry accessories.",
+        content: "A pegboard with hooks, small baskets and shelves can hold lightweight items such as towels, utensils, spice jars and measuring cups. The layout can be changed as often as you want.\n\nUse pegboard hooks that lock in place, and don't load heavy cans on it.",
         image: "/assets/small-space-pantry-ideas-11.webp"
       },
       {
         title: "12. Organize Pantry Items by Category",
-        content: "Good organization can make a small pantry feel much larger. Instead of arranging everything wherever there is room, create dedicated sections for categories such as baking ingredients, snacks, grains, canned foods, and breakfast items.\n\nSmall baskets can help keep each category contained and prevent individual packages from spreading across the shelves.",
+        content: "Sort food into groups: baking, grains, snacks, canned goods, breakfast. Put each group in its own bin or on its own shelf, and keep it in the same place.\n\nCheck the dates every few months and move older items to the front.",
         image: "/assets/small-space-pantry-ideas-12.webp"
       },
       {
         title: "13. Keep Everyday Items at Eye Level",
-        content: "When space is limited, organization should focus on accessibility as well as storage. Keep the ingredients you use most often at eye level or within easy reach.\n\nLess frequently used items can go on higher shelves, while heavier supplies should stay lower down. This simple arrangement can make even a very small pantry feel easier to use.",
+        content: "The items you use daily go between waist and eye height. Heavy items such as bags of flour and cans go on the lowest shelf, and light, rarely used ones go high up.\n\nA stool in the kitchen makes the top shelf usable, and a pull-down basket is an option for a high shelf.",
         image: "/assets/small-space-pantry-ideas-13.webp"
       },
       {
-        title: "Final Thoughts",
-        content: "A small pantry can still be highly functional when every part of the space has a purpose. Slim storage carts, door organizers, clear containers, vertical shelving, and smart cabinet layouts can help you make the most of limited kitchen space.\n\nStart by identifying areas that are currently being wasted, then choose storage solutions that fit the space. With a little planning, even a tiny pantry can stay organized, accessible, and easy to maintain."
+        title: "Planning Your Pantry Space",
+        content: "Take everything out of the cupboard and throw away what is expired or that you won't eat. Most people find they can remove a third of the contents.\n\nThen measure the space, including the door clearances, and decide what to store where. Use the zones nearest the stove and the prep area for what you use every day.\n\nBuy the organizers last. They are inexpensive, but a wrong size is a waste of money."
       }
     ],
     faqs: [
       {
-        question: "How do I add pantry storage to a small kitchen with no pantry?",
-        answer: "Turn a single cabinet into a dedicated pantry with shelf risers and baskets, or add a slim rolling cart, a narrow freestanding cabinet, or wall shelves. Even a gap beside the refrigerator can hold a narrow cart."
+        question: "How can I add pantry storage to a small kitchen with no pantry?",
+        answer: "Turn a base or wall cabinet into a pantry with baskets and risers, fit a slim rolling cart beside the fridge, hang a door rack or fix shelves to a free wall."
       },
       {
         question: "What is the best way to use vertical space in a small pantry?",
-        answer: "Use stackable bins, shelf risers, and tall narrow shelving, and consider the area above your cabinets for items you use less often. Keep everyday items at eye level and heavier supplies on lower shelves."
+        answer: "Use shelf risers, stackable bins and tall narrow shelves, and use the top of the cabinets for rarely used items. Keep daily items at eye level and heavy ones low."
       },
       {
-        question: "Are clear containers worth using in a small pantry?",
-        answer: "Yes. Clear containers let you see what you have at a glance, which cuts down on duplicate purchases and wasted food. They work especially well for rice, flour, pasta, oats, and cereal."
+        question: "Are clear containers worth it?",
+        answer: "Yes. You can see what you have, which reduces duplicates and waste, and airtight lids keep food fresh. Square containers use shelf space best."
       },
       {
-        question: "How can I make use of awkward corners in a pantry?",
-        answer: "Corner shelves and rotating organizers bring hidden items within reach. A rotating tray is particularly good for bottles, jars, and condiments."
+        question: "How do I use a corner cabinet?",
+        answer: "Fit a lazy Susan, a two-tier turntable or a pull-out corner unit. Use it for oils, bottles, jars and anything you reach for often."
       },
       {
-        question: "How should I organize a small pantry so it stays tidy?",
-        answer: "Group items by category, such as baking, snacks, grains, canned foods, and breakfast, and use small baskets to contain each group. Putting your most-used ingredients within easy reach keeps the system easy to maintain."
+        question: "How do I keep a small pantry tidy?",
+        answer: "Group items by category, use labeled bins and check dates every few months. Put new items behind old ones so the older ones get used first."
       }
     ]
   },
@@ -3663,100 +3665,97 @@ export const articles: Article[] = [
     id: "40",
     slug: "affordable-couches-stylish-living-room",
     date: "2026-10-01",
-    title: "12 Best Affordable Couches for Stylish Living Rooms",
-    excerpt: "Budget-friendly couch ideas in versatile colors and shapes that make a living room feel stylish without a big furniture bill.",
+    title: "12 Affordable Couch Styles for a Living Room, With Sizes and Fabric Tips",
+    excerpt: "Beige, gray, bouclé, green and slipcovered: twelve affordable sofa styles, with typical sizes and what to check before you buy.",
+    intro: "Price is only part of what makes a couch good value. Frame, cushion fill and fabric decide how long it lasts, and size decides whether you can live with it. A typical three-seat sofa is 80 to 90 inches wide and 35 to 40 inches deep, while an apartment sofa is 70 to 80 inches wide.\n\nMeasure your room, the doorway and any stairs before you look at colors. Then pick the style and fabric that suit how you use the room.",
     category: "Living Room",
     image: "/assets/affordable-couches-living-room-01.webp",
     sections: [
       {
         title: "1. Soft Beige Sofa",
-        content: "A beige sofa is one of the easiest choices for creating a warm and inviting living room. Its neutral color works beautifully with wood furniture, woven accessories, cream rugs, and muted artwork.\n\nLook for a simple sofa with clean lines and comfortable cushions. You can make an affordable beige couch look more sophisticated by pairing it with textured pillows and a soft area rug.",
+        content: "Beige or oatmeal is the easiest color to place, as it works with wood, black metal and most rug colors. A warm beige looks better than a gray-beige next to cream walls.\n\nChoose a performance fabric if you have children or pets. Add texture with a wool or linen-blend throw and a rug in a similar tone.",
         image: "/assets/affordable-couches-living-room-01.webp"
       },
       {
         title: "2. Compact Apartment Sofa",
-        content: "If you are working with limited space, a compact sofa can give you comfortable seating without overwhelming the room. Look for a design with a narrow frame and raised legs, which can make a small living room feel more open.\n\nA compact couch works particularly well in apartments, studios, and smaller family rooms where every inch matters.",
+        content: "An apartment sofa 70 to 80 inches wide seats two comfortably and three snugly. Look for a depth of about 32 to 36 inches, a seat height around 17 inches and legs that lift it 6 inches off the floor.\n\nA narrow arm saves a few inches, but a rolled arm gives you somewhere to rest your head.",
         image: "/assets/affordable-couches-living-room-02.webp"
       },
       {
         title: "3. Modern Gray Couch",
-        content: "Gray is a practical choice if you want a couch that can work with several decorating styles. A medium gray sofa can look contemporary with black accents or feel softer when paired with cream, beige, and natural wood.\n\nChoose a straightforward shape rather than an overly complicated design. This makes it easier to change your decor later without replacing the sofa.",
+        content: "Medium gray hides dirt, and a warm gray looks softer than a blue-gray. It suits both black and brass accents, and survives a change of rug or curtains.\n\nKeep the shape plain, with square arms and a straight back, so it doesn't date.",
         image: "/assets/affordable-couches-living-room-03.webp"
       },
       {
         title: "4. Bouclé Style Couch",
-        content: "Bouclé furniture has become popular for its soft texture and cozy appearance. You do not need a designer sofa to bring the look into your living room.\n\nAn affordable cream or ivory couch with a textured fabric can create a similar warm effect. Keep the rest of the room relatively simple so the texture of the sofa becomes one of the main features.",
+        content: "Bouclé is a looped, nubby fabric that gives a plain shape character. Cheaper versions use polyester loops, which wear better than natural fibers and are easier to clean.\n\nCream bouclé shows marks, so pick one with a stain-resistant treatment. Test a swatch with a light rub before you buy.",
         image: "/assets/affordable-couches-living-room-04.webp"
       },
       {
         title: "5. Caramel Brown Sofa",
-        content: "A caramel brown couch can add warmth and character to a living room without requiring much decoration. The color works especially well with natural wood, cream textiles, black accents, and earthy tones.\n\nFor a more relaxed look, combine the sofa with a woven rug and a wooden coffee table. The result feels comfortable and collected without looking overly decorated.",
+        content: "Caramel or cognac in faux leather or microfiber warms up a plain room and goes with cream, black and olive. Faux leather in the cheaper ranges can peel after a few years, so look for a bonded or polyurethane type with a warranty.\n\nA jute rug and a wood coffee table complete the combination.",
         image: "/assets/affordable-couches-living-room-05.webp"
       },
       {
         title: "6. Small Loveseat",
-        content: "A loveseat can be a smart alternative to a full size couch when you need seating for one or two people. It works well in small living rooms, bedrooms, reading corners, and apartments.\n\nChoose a loveseat with a simple shape and comfortable cushions. Adding a small side table and floor lamp can turn the area into a complete seating arrangement.",
+        content: "A loveseat is 55 to 65 inches wide and seats two. It suits a small room, a bedroom corner, or a pair arrangement facing each other.\n\nMeasure the doorway as well as the room. Loveseats are easy to move, which is an advantage when renting.",
         image: "/assets/affordable-couches-living-room-06.webp"
       },
       {
         title: "7. Deep Green Sofa",
-        content: "If you want your couch to become a focal point, consider a deep green sofa. Forest and olive shades can bring color into the room while still feeling sophisticated.\n\nBalance the stronger sofa color with neutral walls, light curtains, and natural materials. A few cream or tan cushions can soften the overall look.",
+        content: "Deep green, such as forest or olive, works as the room's main color. It looks good next to cream walls, wood and brass, and hides wear better than a pale fabric.\n\nVelvet looks rich in this color but marks easily, so for a busy household choose a woven polyester.",
         image: "/assets/affordable-couches-living-room-07.webp"
       },
       {
         title: "8. Slipcovered Sofa",
-        content: "A slipcovered sofa offers a relaxed look that works particularly well in casual and traditional living rooms. The removable cover also makes this style appealing for homes where practicality matters.\n\nWhite, oatmeal, and light beige covers can create a bright interior, while darker neutral covers are easier to style in a busier household.",
+        content: "A slipcover can be removed and washed, which makes it useful for households with children, pets or red wine. White cotton and linen blends look relaxed but wrinkle, and a darker oatmeal or gray hides more.\n\nCheck that the cover is machine washable and that a replacement is available. Some brands sell spare covers.",
         image: "/assets/affordable-couches-living-room-08.webp"
       },
       {
-        title: "9. Mid Century Style Couch",
-        content: "A mid century style couch can give an affordable living room a polished appearance without making the space feel formal. Look for tapered legs, a structured back, and a relatively slim profile.\n\nPair it with a simple wooden coffee table, a vintage inspired rug, and a few carefully chosen accessories. You can create a stylish room without filling it with furniture.",
+        title: "9. Mid-Century Style Couch",
+        content: "Look for tapered wooden legs, a slim back and cushions that are firm rather than puffy. A seat depth of 20 to 22 inches is typical and suits people who sit upright.\n\nFrames with solid hardwood corners last longer than all-particleboard ones. Ask what the frame is made of.",
         image: "/assets/affordable-couches-living-room-09.webp"
       },
       {
         title: "10. Navy Blue Sofa",
-        content: "Navy is another versatile color for an affordable couch. It has more visual depth than a typical neutral but is still easy to decorate around.\n\nA navy sofa looks particularly good with warm wood, brass details, cream cushions, and light colored walls. It can work in both contemporary and traditional interiors.",
+        content: "Navy hides dirt better than most light colors, and it works with brass, cream, wood and gray. A mid-tone blue is easier to match than a very dark one.\n\nCompare the sample in daylight and in the evening, because navy can look black at night.",
         image: "/assets/affordable-couches-living-room-10.webp"
       },
       {
         title: "11. Light Gray Sectional",
-        content: "If your living room needs plenty of seating, an affordable sectional can be a practical choice. A light gray sectional keeps the room feeling bright while providing enough space for several people.\n\nBefore buying one, measure the room carefully and check the dimensions of doorways and hallways. A sectional may look compact online but take up considerably more space once delivered.",
+        content: "A sectional seats five or more and defines a seating area. A typical L-shaped sectional is 100 to 120 inches on the long side, so it needs a room of at least 12 feet wide.\n\nLook for a reversible chaise, which lets you change sides when you move. Check that it comes apart into pieces that fit your stairs.",
         image: "/assets/affordable-couches-living-room-11.webp"
       },
       {
         title: "12. Simple White Sofa",
-        content: "A simple white sofa can create a fresh and airy living room. It works especially well with natural textures such as linen curtains, wooden furniture, woven baskets, and jute rugs.\n\nIf you are concerned about keeping a white couch clean, look for a removable or washable cover. You can also add darker throw pillows and a textured blanket to make the room feel more relaxed.",
+        content: "White and off-white make a small room brighter, and the look is clean. They show marks quickly, so a removable cover that can be washed is a sensible choice.\n\nA performance fabric treated for stains is an alternative. Add a dark throw or cushions to disguise any marks.",
         image: "/assets/affordable-couches-living-room-12.webp"
       },
       {
-        title: "How to Choose an Affordable Couch",
-        content: "The cheapest couch is not always the best value. Before buying, consider how often the sofa will be used, how much space you have, and whether the fabric will suit your lifestyle.\n\nStart by measuring the area where the couch will go. Then consider the width, depth, seat height, and overall shape. A sofa that looks beautiful in a showroom may not feel comfortable or fit properly in your room.\n\nIt is also worth paying attention to the fabric and frame. Neutral upholstery can be easier to decorate around, while removable covers can make maintenance simpler. If you have children or pets, durability and cleaning should be higher priorities than appearance alone."
-      },
-      {
-        title: "Final Thoughts",
-        content: "Finding an affordable couch does not mean settling for a boring living room. Beige sofas, compact couches, textured upholstery, colorful sectionals, and classic silhouettes can all create a stylish space at a reasonable price.\n\nThe best choice depends on the size of your room, your decorating style, and how you plan to use the sofa. Focus on comfort, proportions, and a color that works with the rest of your home. With those basics in place, even a budget friendly couch can become the centerpiece of a beautiful living room."
+        title: "Checking a Couch Before You Buy",
+        content: "Measure the room, the doorway, the hallway and any stairs. Many couches don't fit because they cannot get in, not because they are too big for the room.\n\nCheck the frame: kiln-dried hardwood is the best, plywood is acceptable and particleboard is the weakest. Sit on the sofa in the store if you can, and check the seat height and depth.\n\nLook at the cushions. High-density foam wrapped in a fiber layer holds its shape longer than soft foam. Ask about the fabric's durability rating, which is often measured in double rubs, and aim for at least 15,000 for a sofa that is used daily."
       }
     ],
     faqs: [
       {
-        question: "How do I choose an affordable couch that still looks stylish?",
-        answer: "Focus on a simple shape, a versatile color, and good proportions rather than price alone. Neutral upholstery and clean lines are easy to decorate around and stay useful when you change the rest of the room."
+        question: "How do I choose an affordable couch that still looks good?",
+        answer: "Pick a simple shape, a neutral or mid-tone color and a durable fabric. Check the frame and cushion fill rather than the price tag, since those decide how long the couch lasts."
       },
       {
-        question: "What couch color is the most versatile?",
-        answer: "Beige, gray, and white are the easiest to style, while navy and caramel brown add depth without being hard to decorate around. Pick a color that works with your walls, rugs, and existing furniture."
+        question: "What couch color is the easiest to style?",
+        answer: "Beige, oatmeal, gray and navy go with the widest range of rugs, walls and accessories. Green and caramel add color without being hard to match."
       },
       {
-        question: "What size couch is best for a small living room?",
-        answer: "A compact sofa or loveseat with a narrow frame and raised legs keeps the room feeling open. Measure the space first, including doorways and hallways, before you buy."
+        question: "What size couch fits a small living room?",
+        answer: "An apartment sofa 70 to 80 inches wide or a loveseat 55 to 65 inches wide is enough for most small rooms. Leave at least 30 inches of walkway around the couch."
       },
       {
-        question: "Is a slipcovered sofa a good choice for a busy household?",
-        answer: "Yes. Removable covers make cleaning easier, which suits homes with children or pets. Darker neutral covers also hide wear better than white ones."
+        question: "Is a slipcovered sofa a good choice for a busy home?",
+        answer: "Yes. The cover can be removed and washed, which helps with children and pets. Darker neutral covers hide marks better than white."
       },
       {
         question: "What should I check before buying a sectional?",
-        answer: "Measure the room, doorways, and hallways carefully. A sectional that looks compact online can take up much more space once it arrives, so check the width, depth, and seat height too."
+        answer: "Measure the room, doorways, hallways and stairs, and check how the sections separate. Make sure the chaise side suits your layout, and leave space around it."
       }
     ]
   }
