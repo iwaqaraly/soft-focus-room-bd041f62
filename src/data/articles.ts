@@ -2940,8 +2940,9 @@ export const articles: Article[] = [
     id: "34",
     slug: "first-apartment-essentials-list",
     date: "2026-09-28",
-    title: "The Ultimate 17 Item First Apartment Essentials List",
-    excerpt: "A practical shopping checklist covering the bedroom, kitchen, bathroom, and storage items every first apartment actually needs.",
+    title: "17 First Apartment Essentials to Buy Before Move-In Day",
+    excerpt: "A short checklist for the bedroom, kitchen, bathroom and cleaning cupboard, ordered by what you need on the first night.",
+    intro: "On your first night in a new apartment, you need a bed to sleep in, something to eat from and a way to clean up. Everything else can wait a week or two.\n\nThe list below is ordered roughly by how soon you need each item. The first five or six are for day one; the rest can be bought as you settle in.",
     category: "Apartment",
     image: "/assets/apartment-essentials-01.webp",
     imageAspectRatio: "1:1",
@@ -2953,7 +2954,7 @@ export const articles: Article[] = [
       },
       {
         title: "2. Pillows and Bedding",
-        content: "A mattress alone is not enough to make your bedroom comfortable. You will also need pillows, sheets, pillowcases, a comforter or duvet, and a blanket.\n\nHaving at least two sets of sheets is particularly useful. You can put one set in the wash while using the other.",
+        content: "A mattress alone does not make a bed. You will also need pillows, sheets, pillowcases, a comforter or duvet, and a blanket.\n\nTwo sets of sheets are enough to start with. You can put one set in the wash while using the other.",
         image: "/assets/apartment-essentials-02.webp"
       },
       {
@@ -2978,7 +2979,7 @@ export const articles: Article[] = [
       },
       {
         title: "7. Food Storage Containers",
-        content: "Food storage containers make leftovers, meal preparation, and opened ingredients much easier to manage.\n\nLook for containers that stack well and have secure lids. Clear containers are especially convenient because you can see what is inside without opening every container.",
+        content: "Food storage containers make leftovers, meal preparation, and opened ingredients much easier to manage.\n\nLook for containers that stack well and have secure lids. Clear containers let you see what is inside without opening each one.",
         image: "/assets/apartment-essentials-07.webp"
       },
       {
@@ -3030,32 +3031,36 @@ export const articles: Article[] = [
         title: "17. Small Storage Solutions",
         content: "Your first apartment may not have as much storage as you expect. Before buying large furniture, look for simple ways to use the space you already have.\n\nUnder bed storage boxes, drawer organizers, shelf baskets, hooks, and stackable containers can help keep everyday items organized without taking up much floor space.",
         image: "/assets/apartment-essentials-17.webp"
+      },
+      {
+        title: "What Can Wait",
+        content: "You can delay most decorative items, a full set of cookware, a dining table, extra storage and anything that you are not sure you need. Living in the apartment for a few weeks shows you which of these matter.\n\nIt is also worth leaving a small budget for the things you discover you need after moving in, such as a shower curtain size you got wrong, an extra lamp or a missing key piece of kitchen equipment."
       }
     ],
     faqs: [
       {
-        question: "What are the most important items to buy for a first apartment?",
-        answer: "A comfortable mattress and bedding, basic cookware, tableware, cleaning supplies, and a few storage solutions cover most day-to-day needs. These essentials let you live comfortably while you gradually add furniture and decor over time."
+        question: "What should I buy first for a new apartment?",
+        answer: "Bedding and a mattress, basic cookware and tableware, cleaning supplies, towels and a few trash bins. These cover sleeping, eating, washing and cleaning from the first night."
       },
       {
-        question: "How much cookware do I really need when I first move in?",
-        answer: "You only need a few versatile pieces to start: a frying pan, a saucepan, a larger pot, a baking sheet, and a couple of utensils. Most everyday meals can be made with this small set, and you can expand your collection later as needed."
+        question: "How much cookware do I need to start?",
+        answer: "A frying pan, a saucepan, a larger pot, a baking sheet and a couple of utensils handle most meals. Add specialty items later as you learn what you cook."
       },
       {
-        question: "Do I need a vacuum or a broom for my first apartment?",
-        answer: "It depends on your flooring. A compact vacuum works best for carpets, rugs, and mixed flooring, while a broom and dustpan is usually enough for smaller apartments with mostly hard floors."
+        question: "Do I need a vacuum or a broom?",
+        answer: "It depends on your floors. A compact vacuum suits carpets and rugs, while a broom and dustpan work for small apartments with hard floors."
       },
       {
-        question: "How many towels and bedding sets should I buy?",
-        answer: "Two or three sets of towels per person and at least two sets of bedsheets give you enough flexibility to keep one set in the wash while using the other, without needing a large linen closet."
+        question: "How many towels and sheet sets should I buy?",
+        answer: "Two or three towel sets per person and two sheet sets are enough. That lets you wash one while using the other."
       },
       {
-        question: "What storage items help most in a first apartment?",
-        answer: "Under-bed storage boxes, drawer organizers, shelf baskets, hooks, and stackable containers make the most of limited space. It is best to choose storage based on what you actually own rather than buying organizers before you unpack."
+        question: "Do I need a first aid kit?",
+        answer: "Yes. A basic kit with bandages, gauze, antiseptic wipes, medical tape, scissors and gloves is inexpensive, and you will want it in an emergency."
       },
       {
-        question: "Do I need a first aid kit in my first apartment?",
-        answer: "Yes, a basic first aid kit with adhesive bandages, gauze, antiseptic wipes, medical tape, scissors, and disposable gloves is worth keeping on hand in an easily accessible spot, even if you rarely need it."
+        question: "What storage should I buy first?",
+        answer: "Under-bed boxes, drawer organizers, hooks and stackable containers cost little and make the most of small spaces. Buy them after you have unpacked, so that you know what you own."
       }
     ]
   },
@@ -3063,14 +3068,15 @@ export const articles: Article[] = [
     id: "35",
     slug: "eucalyptus-vase-decor-ideas",
     date: "2026-09-29",
-    title: "18 Eucalyptus Vase Decor Ideas for a Fresh, Natural Look",
-    excerpt: "Bring a fresh, natural feel into your home with these simple eucalyptus arrangement ideas for every room and style.",
+    title: "18 Eucalyptus Vase Ideas for Every Room",
+    excerpt: "Eighteen ways to style eucalyptus in a vase, with notes on vase shape, placement and how to make the stems last.",
+    intro: "Eucalyptus is inexpensive, smells good and keeps its shape in a vase for one to two weeks, or for months if you let it dry. Silver dollar, baby blue and spiral eucalyptus are the varieties most florists and grocery stores sell.\n\nThe ideas below are about the vase and the setting, since the eucalyptus does most of the work itself.",
     category: "Living Room",
     image: "/assets/eucalyptus-vase-decor-01.jpg",
     sections: [
       {
         title: "1. Eucalyptus in a Clear Glass Vase",
-        content: "A clear glass vase keeps the look simple and airy. Place several eucalyptus stems inside and let the natural shape of the leaves become the main decoration. This arrangement works especially well on dining tables, kitchen counters, and coffee tables.\n\nFor a relaxed appearance, choose stems with different heights rather than trimming everything to exactly the same length.",
+        content: "A clear glass vase keeps the look simple and airy. Place several eucalyptus stems inside and let the natural shape of the leaves become the main decoration. It suits dining tables, kitchen counters and coffee tables.\n\nFor a relaxed appearance, choose stems with different heights rather than trimming everything to exactly the same length.",
         image: "/assets/eucalyptus-vase-decor-01.jpg"
       },
       {
@@ -3085,7 +3091,7 @@ export const articles: Article[] = [
       },
       {
         title: "4. Eucalyptus in a Vintage Vase",
-        content: "For a more collected look, place eucalyptus stems in a vintage glass or ceramic vase. Slight imperfections, aged finishes, and muted colors can give the arrangement more character.\n\nThis idea works particularly well with traditional, cottage, farmhouse, and vintage inspired interiors.",
+        content: "For a more collected look, place eucalyptus stems in a vintage glass or ceramic vase. Slight imperfections, aged finishes, and muted colors can give the arrangement more character.\n\nThis suits traditional, cottage, farmhouse and vintage-style rooms.",
         image: "/assets/eucalyptus-vase-decor-04.jpg"
       },
       {
@@ -3100,7 +3106,7 @@ export const articles: Article[] = [
       },
       {
         title: "7. Eucalyptus with Dried Flowers",
-        content: "Mix eucalyptus with a few dried flowers for added texture and visual interest. Neutral dried flowers work particularly well because they allow the green eucalyptus leaves to remain the focus.\n\nTry adding dried pampas grass, baby's breath, or small beige flowers to create a soft natural arrangement.",
+        content: "Mix eucalyptus with a few dried flowers for added texture and visual interest. Neutral dried flowers work best, because they leave the green leaves as the focus.\n\nTry adding dried pampas grass, baby's breath, or small beige flowers to create a soft natural arrangement.",
         image: "/assets/eucalyptus-vase-decor-07.jpg"
       },
       {
@@ -3125,7 +3131,7 @@ export const articles: Article[] = [
       },
       {
         title: "12. Eucalyptus in a Dark Ceramic Vase",
-        content: "If you prefer a more dramatic interior, pair eucalyptus with a dark ceramic vase. Black, charcoal, and deep brown vases create a strong contrast with the pale green leaves.\n\nThis combination works especially well in modern, contemporary, and minimalist rooms.",
+        content: "If you prefer a more dramatic interior, pair eucalyptus with a dark ceramic vase. Black, charcoal, and deep brown vases create a strong contrast with the pale green leaves.\n\nIt suits modern and minimalist rooms.",
         image: "/assets/eucalyptus-vase-decor-12.jpg"
       },
       {
@@ -3140,7 +3146,7 @@ export const articles: Article[] = [
       },
       {
         title: "15. Tall Eucalyptus Arrangement",
-        content: "Use tall eucalyptus stems in a large floor vase when you want to create a stronger statement. This works particularly well in empty corners, beside a console, or next to a large piece of furniture.\n\nAllow the stems to curve naturally instead of forcing them into a rigid arrangement. The movement of the branches is part of what makes eucalyptus so attractive.",
+        content: "Use tall eucalyptus stems in a large floor vase when you want to create a stronger statement. This fills an empty corner or the side of a console or large piece of furniture.\n\nAllow the stems to curve naturally instead of forcing them into a rigid arrangement. The movement of the branches is part of what makes eucalyptus so attractive.",
         image: "/assets/eucalyptus-vase-decor-15.jpg"
       },
       {
@@ -3150,13 +3156,17 @@ export const articles: Article[] = [
       },
       {
         title: "17. Eucalyptus and Candle Display",
-        content: "Create a cozy arrangement by pairing a eucalyptus vase with candles. Place the vase on a dining table, coffee table, or console and surround it with candles in simple holders.\n\nUse warm neutral tones to keep the display natural and inviting. The greenery adds freshness while the candles create a softer atmosphere.",
+        content: "Pair a eucalyptus vase with candles. Place the vase on a dining table, coffee table, or console and surround it with candles in simple holders.\n\nUse warm neutral tones for the holders and keep the flames away from the leaves, which can burn.",
         image: "/assets/eucalyptus-vase-decor-17.jpg"
       },
       {
         title: "18. Minimalist Eucalyptus Vase Decor",
-        content: "Sometimes the simplest arrangement looks the best. Place a few eucalyptus stems in a plain vase and leave plenty of empty space around them.\n\nThis approach works especially well in minimalist homes where every decorative object has room to breathe. Choose a vase with a simple shape and let the eucalyptus provide the texture.",
+        content: "Sometimes the simplest arrangement looks the best. Place a few eucalyptus stems in a plain vase and leave plenty of empty space around them.\n\nIt suits minimalist homes, where every object needs room around it. Choose a vase with a simple shape and let the eucalyptus provide the texture.",
         image: "/assets/eucalyptus-vase-decor-18.jpg"
+      },
+      {
+        title: "Keeping Eucalyptus Fresh, or Drying It",
+        content: "Fresh stems last longest if you cut about an inch off the bottom at an angle, remove any leaves that would sit below the waterline and change the water every two to three days. Keep the vase out of direct sun and away from heaters.\n\nTo dry eucalyptus, tie a small bunch and hang it upside down in a dark, dry room for two to three weeks. Dried stems are brittle and last for months, though the color fades to a gray-green.\n\nMany people also use preserved or artificial stems for places such as a bathroom or high shelf."
       }
     ],
     faqs: [
