@@ -3196,19 +3196,20 @@ export const articles: Article[] = [
     id: "36",
     slug: "kitchen-organization-ideas-functional-space",
     date: "2026-09-29",
-    title: "16 Kitchen Organization Ideas for a More Functional Space",
-    excerpt: "Simple, practical ways to organize drawers, cabinets, and countertops so your kitchen is easier to use every day.",
+    title: "16 Kitchen Organization Ideas for Drawers, Cabinets and Pantry Shelves",
+    excerpt: "Drawer dividers, shelf risers, door racks and labels: sixteen low-cost ways to make a kitchen easier to cook in.",
+    intro: "Kitchen clutter usually comes from two things: items stored far from where they are used, and cabinets that waste their depth and height. Fixing both takes a few inexpensive organizers and an afternoon.\n\nBefore you buy anything, take everything out of one drawer or cabinet, throw away what is expired or broken, and measure the space. Organizers that don't fit end up in a drawer of their own.",
     category: "Kitchen",
     image: "/assets/kitchen-organization-01.jpg",
     sections: [
       {
         title: "1. Use Drawer Dividers for Utensils",
-        content: "Kitchen drawers can quickly become messy when forks, spoons, knives, and cooking utensils are all stored together. Drawer dividers create separate sections so everything stays organized.\n\nChoose adjustable dividers if possible so you can customize each section according to the size of your utensils. Keep the items you use most often toward the front of the drawer for easy access.",
+        content: "Kitchen drawers can quickly become messy when forks, spoons, knives, and cooking utensils are all stored together. Drawer dividers create separate sections so everything stays organized.\n\nChoose adjustable dividers so you can size each section to your utensils. Keep the items you use most often toward the front of the drawer for easy access.",
         image: "/assets/kitchen-organization-01.jpg"
       },
       {
         title: "2. Add a Shelf Riser Inside Cabinets",
-        content: "Cabinet shelves often leave unused vertical space. A shelf riser can create an additional level for plates, bowls, mugs, or small serving dishes.\n\nThis is especially useful in cabinets where stacking items too high makes them difficult to reach. Instead of having everything in one large pile, you can create two accessible storage levels.",
+        content: "Cabinet shelves often leave unused vertical space. A shelf riser can create an additional level for plates, bowls, mugs, or small serving dishes.\n\nThis helps in cabinets where tall stacks are hard to reach. Instead of having everything in one large pile, you can create two accessible storage levels.",
         image: "/assets/kitchen-organization-02.jpg"
       },
       {
@@ -3258,7 +3259,7 @@ export const articles: Article[] = [
       },
       {
         title: "12. Install Hooks Under Cabinets",
-        content: "The space underneath upper cabinets can provide additional storage without taking up counter space.\n\nSmall hooks can hold mugs, measuring cups, kitchen towels, or other lightweight items. This works particularly well in compact kitchens where every bit of available space matters.",
+        content: "The space underneath upper cabinets can provide additional storage without taking up counter space.\n\nSmall hooks can hold mugs, measuring cups, kitchen towels, or other lightweight items. This helps most in compact kitchens, where counter space is short.",
         image: "/assets/kitchen-organization-12.jpg"
       },
       {
@@ -3280,6 +3281,10 @@ export const articles: Article[] = [
         title: "16. Give Every Kitchen Item a Home",
         content: "One of the simplest kitchen organization ideas is also one of the most effective: give everything a designated place.\n\nWhen an item does not have a specific home, it is more likely to end up on the counter or in a random cabinet. Look at the way you use your kitchen and assign storage spaces based on frequency and convenience.\n\nOnce everything has a place, maintaining an organized kitchen becomes much easier.",
         image: "/assets/kitchen-organization-16.jpg"
+      },
+      {
+        title: "Keeping It Organized",
+        content: "Organize by where you use things. Pots and oils go near the stove, knives and boards near the prep area and everyday dishes close to the dishwasher.\n\nOnce a month, take a few minutes to check the fridge, the pantry and the spice shelf for expired items. When something new comes in, something old goes out.\n\nIf an organizer isn't working after a week, change it. The aim is a kitchen that is quick to put away, not one that looks perfect for a photo."
       }
     ],
     faqs: [
@@ -3309,8 +3314,9 @@ export const articles: Article[] = [
     id: "37",
     slug: "cloffice-ideas-home-office",
     date: "2026-09-30",
-    title: "13 Cloffice Ideas to Inspire Your Home Office",
-    excerpt: "Turn an unused closet into a functional home office with these desk, lighting, storage, and decor ideas for compact workspaces.",
+    title: "13 Cloffice Ideas: Turning a Closet Into a Home Office",
+    excerpt: "Thirteen ideas for a closet office, from floating desks and task lighting to curtains that hide the workspace after hours.",
+    intro: "A cloffice is a closet converted into a small office. A standard reach-in closet is 24 inches deep and 4 to 6 feet wide, which is enough for a shallow desk, a laptop and a few shelves. A walk-in closet leaves room for a proper chair.\n\nSince closets have little daylight and poor airflow, lighting and ventilation matter more than the finish. Remove the clothes rail and shelves first, then measure what you have.",
     category: "Home Office",
     image: "/assets/cloffice-01.webp",
     imageAspectRatio: "1:1",
@@ -3326,7 +3332,7 @@ export const articles: Article[] = [
         image: "/assets/cloffice-02.webp"
       },
       {
-        title: "3. Create a Cozy Built In Office",
+        title: "3. Create a Built-In Office",
         content: "If you own your home or are comfortable making permanent changes, consider turning the closet into a built in workspace. A fitted desk, wall shelving, and integrated cabinets can make the entire area look like it was designed specifically for working.\n\nChoose materials that complement the surrounding room so the cloffice feels connected to the rest of your home.",
         image: "/assets/cloffice-03.webp"
       },
@@ -3337,7 +3343,7 @@ export const articles: Article[] = [
       },
       {
         title: "5. Install Good Task Lighting",
-        content: "Closets often have limited natural light, which makes proper lighting especially important. Add a wall mounted lamp, adjustable desk lamp, or slim overhead fixture to brighten the workspace.\n\nWarm white lighting can create a comfortable atmosphere, while a brighter task light can make reading and computer work easier.",
+        content: "Closets get little daylight, so lighting matters. Add a wall mounted lamp, adjustable desk lamp, or slim overhead fixture to brighten the workspace.\n\nUse warm white (2700K to 3000K) for general light and a brighter task lamp over the desk for reading and screen work.",
         image: "/assets/cloffice-05.webp"
       },
       {
@@ -3352,12 +3358,12 @@ export const articles: Article[] = [
       },
       {
         title: "8. Try a Moody Cloffice",
-        content: "A cloffice does not have to be bright and minimalist. Darker colors can create a sophisticated workspace, particularly when combined with warm lighting and natural wood.\n\nDeep green, charcoal, navy, and warm brown can give the space a cozy library inspired feel without requiring much decoration.",
+        content: "A cloffice does not have to be bright and minimalist. Darker colors work well in a small closet, especially with warm lighting and natural wood.\n\nDeep green, charcoal, navy and warm brown give the space a library feel without much decoration.",
         image: "/assets/cloffice-08.webp"
       },
       {
         title: "9. Bring in Natural Elements",
-        content: "Plants, wood, woven baskets, and natural fabrics can soften the appearance of a compact office. Even a small potted plant on the desk or a trailing plant on a shelf can make the workspace feel more inviting.\n\nNatural materials work particularly well with neutral walls and simple furniture.",
+        content: "Plants, wood, woven baskets, and natural fabrics can soften the appearance of a compact office. Even a small potted plant on the desk or a trailing plant on a shelf can make the workspace feel more pleasant.\n\nNatural materials suit neutral walls and plain furniture.",
         image: "/assets/cloffice-09.webp"
       },
       {
@@ -3392,7 +3398,7 @@ export const articles: Article[] = [
       },
       {
         question: "How much space do I need for a cloffice?",
-        answer: "Most cloffices work in closets as narrow as two to three feet wide, as long as there is enough depth for a slim desk and a chair. Measuring the width, depth, and ceiling height first helps you choose furniture that actually fits."
+        answer: "A closet 30 inches wide is the minimum for a small desk and a chair, and 4 feet or more is more comfortable. Desk depth of 16 to 24 inches works for a laptop. Measure the width, depth and ceiling height first."
       },
       {
         question: "How do I add lighting to a closet office?",
