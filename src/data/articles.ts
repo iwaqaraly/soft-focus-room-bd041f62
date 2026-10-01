@@ -1338,137 +1338,142 @@ export const articles: Article[] = [
     id: "23",
     slug: "room-decor-diy-easy-project-ideas",
     date: "2026-01-29",
-    title: "Room Decor DIY: 20 Easy Project Ideas",
-    excerpt: "Discover 20 creative and budget-friendly DIY décor projects to personalize any room with style and charm.",
+    title: "20 Room Decor DIY Projects You Can Finish in a Weekend",
+    excerpt: "Twenty small decor projects sorted by time and cost, each with a suggestion for where it fits in the room.",
+    intro: "These are small projects, most of them under two hours and under $20. Each entry says roughly how long it takes and where it works best, so you can choose one for a spare Saturday morning.\n\nIf you want step-by-step wall projects with measurements, see our article on DIY wall decor. This one is more about finishing a room with small, handmade pieces.",
     category: "Living Room",
     image: "/assets/placeholder.svg",
     imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Washi Tape Wall Art",
-        content: "Washi tape can instantly transform blank walls into artistic canvases. Create geometric patterns, stripes, or abstract designs that match your color scheme.\n\nThis budget-friendly solution is removable and renter-friendly. It's perfect for adding personality and modern style to any bedroom, living room, or office without expensive materials.",
+        content: "Time: 30 minutes. Cost: about $5. A tape stripe behind a desk or a bed gives a plain wall a new look in less time than it takes to paint.\n\nPlan it on paper first, and press each line flat with a card. Take it down within a month or two, as the glue bonds more strongly the longer it sits.",
         image: "/assets/room-decor-diy-01.webp"
       },
       {
         title: "2. DIY Floating Shelves",
-        content: "Floating shelves offer both style and storage. Use inexpensive plywood or reclaimed wood to mount on walls and display decor, plants, or books.\n\nThey save floor space and make the room feel organized. DIY shelves allow customization of length, color, and arrangement to fit your style and room size.",
+        content: "Time: 1 to 2 hours. Cost: $10 to $25 in lumber. Cut a pine board, sand it and finish it, then fix it above a desk, a bed or a sofa.\n\nIn a living room, a shelf 6 feet up holds a plant and a few books. In a bedroom, it replaces a nightstand if mounted next to the bed.",
         image: "/assets/room-decor-diy-02.webp"
       },
       {
         title: "3. Mason Jar Vases",
-        content: "Transform mason jars into vases with paint, ribbons, or twine. Display fresh or dried flowers for a charming, rustic vibe.\n\nThis simple project adds color, texture, and personality to any room. Mason jars are affordable and versatile, ideal for budget-conscious décor enthusiasts.",
+        content: "Time: 20 minutes. Cost: under $5 per jar. Mason jars with a coat of chalk paint and a loop of twine hold a few stems on a windowsill or a dining table.\n\nA group of three in different heights looks better than a single jar. Keep the colors close, such as white, sage and sand.",
         image: "/assets/room-decor-diy-03.webp"
       },
       {
         title: "4. String Light Photo Display",
-        content: "Hang string lights along a wall and attach photos with mini clothespins. The soft glow creates ambiance and highlights memories.\n\nThis DIY adds warmth and personalization. It's perfect for bedrooms or dorms, offering a cozy, budget-friendly, and visually appealing décor solution.",
+        content: "Time: 15 minutes. Cost: $10 for a strand of LED lights. This is the quickest way to add light to a corner of a bedroom or a dorm.\n\nUse small adhesive hooks to hold the string and print the photos in a matching size.",
         image: "/assets/room-decor-diy-04.webp"
       },
       {
         title: "5. Painted Planters",
-        content: "Use paint or patterns to refresh plain terracotta or ceramic pots. Add plants to bring greenery and life to your space.\n\nPainted planters allow for creative expression while elevating natural elements in the room. They're inexpensive and can be tailored to match your interior palette.",
+        content: "Time: 1 hour plus drying. Cost: $4 to $10 per pot. Plain terracotta takes acrylic paint well. Seal it with a clear spray, or the paint will flake when it gets wet.\n\nPaint the rim only, or the lower half, for a simple modern look. Put a saucer under each pot.",
         image: "/assets/room-decor-diy-05.webp"
       },
       {
         title: "6. Decorative Wall Hangings",
-        content: "Create wall hangings using yarn, rope, or fabric scraps. Macrame or fringe designs add texture and a boho-chic vibe.\n\nThese pieces are easy to make and customize. Wall hangings fill empty spaces and provide cozy, handmade charm to any room without costing much.",
+        content: "Time: 2 to 3 hours. Cost: $10 to $15. Yarn, cord or rope tied on a dowel works as a wall hanging above a bed or a console.\n\nStart with a simple fringe if you are new to knotting. A neutral cotton looks calm in most rooms.",
         image: "/assets/room-decor-diy-06.webp"
       },
       {
         title: "7. Framed Fabric Art",
-        content: "Frame leftover fabric pieces or scarves to create unique wall art. Mix patterns, textures, and colors for a gallery-style display.\n\nThis project turns affordable materials into stylish décor. It allows personalization and makes blank walls interesting, perfect for any room style.",
+        content: "Time: 30 minutes. Cost: $10 to $20 for a frame. A piece of patterned fabric in a clip frame works as art in a hallway or a small bathroom.\n\nIron the fabric first, and look for scraps with large patterns that read well from across the room.",
         image: "/assets/room-decor-diy-07.webp"
       },
       {
         title: "8. DIY Bulletin Board",
-        content: "Create a bulletin board using cork, fabric, or foam boards. Pin notes, photos, or inspirational quotes for function and flair.\n\nBulletin boards add structure and organization while contributing to the décor. They are practical and visually appealing, ideal for workspaces or bedrooms.",
+        content: "Time: 1 hour. Cost: $10 to $20. A pinboard wrapped in linen or felt gives an office or a kitchen a place for lists and invitations.\n\nChoose a fabric color that matches the room, and place it near the door where you will use it.",
         image: "/assets/room-decor-diy-08.webp"
       },
       {
         title: "9. Painted Accent Wall",
-        content: "Use painter's tape and bold colors to create geometric shapes or stripes on a wall. This adds dimension without wallpaper.\n\nDIY accent walls refresh the space at low cost. They allow flexibility to change designs or colors as trends and preferences evolve.",
+        content: "Time: A weekend afternoon. Cost: $20 to $40 for sample paint and tape. A geometric pattern on one wall behind the bed or the sofa defines a zone.\n\nUse two colors from the same family and keep the edges crisp by sealing the tape with the base color first.",
         image: "/assets/room-decor-diy-09.webp"
       },
       {
         title: "10. Hanging Rope Shelf",
-        content: "Hang a shelf from the ceiling using rope or macrame cords. It's stylish, functional, and a great way to display plants or décor.\n\nThe hanging shelf adds vertical interest and keeps surfaces free. It works well in living rooms, bedrooms, or small spaces, maximizing design impact.",
+        content: "Time: 1 hour. Cost: $15 to $25. A hanging shelf takes up no floor space and suits a window corner or the end of a small room.\n\nCheck the ceiling hook is fixed into a joist, and keep the weight below the limit.",
         image: "/assets/room-decor-diy-10.webp"
       },
       {
         title: "11. Upcycled Frame Gallery",
-        content: "Repurpose old frames by painting or embellishing them. Create a gallery wall with prints, photos, or fabric inserts.\n\nUpcycled frames are sustainable and cost-effective. They add personality and make blank walls visually engaging while staying budget-friendly.",
+        content: "Time: 2 hours. Cost: $15 to $30 with thrifted frames. A set of mismatched frames in one color becomes a gallery on a staircase or above a sofa.\n\nPaint them all in the same finish, and fill them with prints in two or three colors.",
         image: "/assets/room-decor-diy-11.webp"
       },
       {
         title: "12. DIY Wall Decals",
-        content: "Create wall decals using contact paper, vinyl, or stencils. Designs can include shapes, quotes, or patterns for a personalized touch.\n\nWall decals are removable and renter-friendly. They allow for seasonal or style updates without investing in permanent changes.",
+        content: "Time: 1 hour. Cost: under $15. Cut shapes from adhesive vinyl or contact paper, and stick them on a wall, a mirror or a door. They come off cleanly if you peel them slowly.\n\nUse stencils to keep the shapes even, and try a few on a sheet of paper first.",
         image: "/assets/room-decor-diy-12.webp"
       },
       {
         title: "13. Decorative Jars and Bottles",
-        content: "Paint or wrap jars and bottles in twine, lace, or metallic accents. Use them as vases, candle holders, or storage containers.\n\nThis project adds charm and functionality. Upcycling everyday items into décor elements is inexpensive, creative, and versatile for any room.",
+        content: "Time: 1 hour. Cost: under $10. Wrap clean bottles with twine or lace or paint them with a matte finish for use as vases and candle holders.\n\nUse a candle that fits the neck, and stand the bottle on a tray so spills do not damage furniture.",
         image: "/assets/room-decor-diy-13.webp"
       },
       {
         title: "14. DIY Cork Map",
-        content: "Create a map using corkboard pieces. Pin travel memories, notes, or photos for an interactive wall display.\n\nThis project is both decorative and functional. It personalizes the space while inspiring travel or creativity and remains affordable to make.",
+        content: "Time: 2 to 3 hours. Cost: $15 to $25. Cork pieces cut to a map shape, mounted on a board, turn into a place to pin tickets and photos.\n\nTrace a printed map for the shapes, and glue the cork to a plywood backing so it stays flat.",
         image: "/assets/room-decor-diy-14.webp"
       },
       {
         title: "15. Rope Wall Letters",
-        content: "Form letters, initials, or words using rope glued onto wooden boards. Hang them as statement pieces in bedrooms or living areas.\n\nRope wall letters add texture and a rustic touch. They're easy to craft, customizable, and budget-friendly while enhancing room personality.",
+        content: "Time: 1 to 2 hours. Cost: $8 to $15. A rope-wrapped initial hangs in an entry, a nursery or over a bed.\n\nPlan for the glue to dry before you hang the letter. Use a hot glue gun, and wrap tightly.",
         image: "/assets/room-decor-diy-15.webp"
       },
       {
         title: "16. Washi Tape Picture Frames",
-        content: "Decorate photo frames with washi tape in patterns or colors that complement your décor. Create a cohesive gallery wall.\n\nThis inexpensive DIY refreshes old frames. It adds personality and ties together room themes without costly replacements.",
+        content: "Time: 30 minutes. Cost: $5. Washi tape on the edges of plain frames ties together a mixed group of pictures.\n\nUse the same tape on each frame, or alternate two patterns. Smooth out the bubbles with a card.",
         image: "/assets/room-decor-diy-16.webp"
       },
       {
         title: "17. Floating Book Ledge",
-        content: "Install a narrow floating ledge to display books or decorative objects. Paint or stain it to match the room décor.\n\nFloating ledges save floor space and add visual interest. They're simple to DIY and perfect for creating organized, stylish displays.",
+        content: "Time: 1 hour. Cost: $10 to $20. A narrow ledge above a desk or at the head of the bed holds a few books and a small plant.\n\nPaint it the same color as the wall to make it recede, or stain it to match your furniture.",
         image: "/assets/room-decor-diy-17.webp"
       },
       {
         title: "18. Hanging Paper Lanterns",
-        content: "Create paper lanterns from craft paper or repurpose store-bought ones. Hang them at varying heights for dimension.\n\nLanterns provide soft, ambient lighting and playful décor. They're affordable, lightweight, and easy to customize with paint or patterns.",
+        content: "Time: 1 hour. Cost: $10 to $20. Paper lanterns in a few sizes give a bedroom or a nursery a soft light. Use battery LED tealights inside.\n\nHang them from a ceiling hook or from a rod above a window.",
         image: "/assets/room-decor-diy-18.webp"
       },
       {
-        title: "19. DIY Chalkboard Wall",
-        content: "Paint a section of a wall with chalkboard paint. Use it for notes, quotes, or seasonal art that changes anytime.\n\nChalkboard walls add interactive functionality. They're perfect for kids' rooms, kitchens, or offices and are easy to update without additional costs.",
+        title: "19. Chalkboard Panel",
+        content: "Time: A weekend. Cost: $15 to $30. A chalkboard panel in a kitchen or entry works as a menu, a list or a message board.\n\nLet the first coat cure for the time on the can, then rub chalk over the whole surface and wipe before you write.",
         image: "/assets/room-decor-diy-19.webp"
       },
       {
-        title: "20. Fabric-Covered Bulletin Boards",
-        content: "Cover cork boards with fabric for a stylish, textured wall display. Pin photos, notes, or small art pieces.\n\nFabric-covered boards blend utility with décor. They allow personalization through fabric choice, pattern, and color, making them budget-friendly statement pieces.",
+        title: "20. Fabric-Covered Pinboard",
+        content: "Time: 1 hour. Cost: $10 to $20. A fabric board in a color that matches the room is a more attractive place for notes than a plain cork one.\n\nChoose a closely woven fabric that won't show the cork, and stretch it tight before stapling.",
         image: "/assets/room-decor-diy-20.webp"
+      },
+      {
+        title: "Choosing a First Project",
+        content: "Pick the one with the lowest cost and the shortest time, such as washi tape, jar vases or a photo string. If you like the result, move on to something that takes longer.\n\nLimit yourself to one or two projects per room. A few handmade pieces look intentional, but ten look crowded.\n\nIf you want to try a larger project, buy the materials first and plan a free weekend."
       }
     ],
     faqs: [
       {
-        question: "What are the easiest DIY room décor projects for beginners?",
-        answer: "Washi tape wall art, string light photo displays, and painted planters are perfect for beginners. They require minimal tools, no special skills, and can be completed in under an hour with affordable materials."
+        question: "What DIY decor projects are best for beginners?",
+        answer: "Washi tape designs, jar vases and string light photo displays need no special tools and take under an hour. Painted pots are also a safe first project."
       },
       {
-        question: "How can I decorate my room on a tight budget?",
-        answer: "Focus on upcycling items you already have, like jars, frames, and fabric scraps. Use washi tape, paint, and string lights for affordable transformations. Dollar stores and thrift shops are great sources for inexpensive materials."
+        question: "How can I decorate a room on a small budget?",
+        answer: "Reuse jars, frames and fabric scraps, and buy paint in sample sizes. Thrift stores are a good source of frames, shelves and planters."
       },
       {
-        question: "What DIY projects work best for renters?",
-        answer: "Removable options like washi tape, command strip shelves, leaning frames, and hanging decorations work best. Avoid permanent wall damage by using temporary adhesives and freestanding décor pieces."
+        question: "Which projects are safe for renters?",
+        answer: "Washi tape, removable vinyl decals, adhesive hooks and leaning ledges are all removable. Avoid painting the walls or drilling without your landlord's approval."
       },
       {
-        question: "How do I make my DIY décor look professional?",
-        answer: "Focus on clean lines, consistent color schemes, and quality finishing. Take time with measurements, use proper tools, and choose materials that complement each other. Framing even simple projects elevates the look."
+        question: "What supplies should I keep at home?",
+        answer: "Washi tape, acrylic paint, a few brushes, twine, a hot glue gun, painter's tape and a small level cover most of these projects."
       },
       {
-        question: "What materials should I keep on hand for DIY room décor?",
-        answer: "Stock up on washi tape, acrylic paint, brushes, twine, fabric scraps, mason jars, command strips, and basic craft tools. These versatile materials can be used for countless projects throughout the year."
+        question: "How do I make DIY pieces look finished?",
+        answer: "Use a level and a tape measure, keep to two or three colors and frame or mount the pieces. Simple materials look better when they are neatly put together."
       },
       {
-        question: "How often should I update my DIY room décor?",
-        answer: "Update seasonally or whenever you feel inspired. The beauty of DIY is flexibility: washi tape and removable projects make changes easy. Rotate pieces to keep the space fresh without spending more money."
+        question: "How often should I change my decor?",
+        answer: "Whenever you like. Washi tape, photo strings and removable decals are easy to change with the seasons, while painted pieces last longer."
       }
     ]
   },
