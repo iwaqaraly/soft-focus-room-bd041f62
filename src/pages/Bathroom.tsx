@@ -13,7 +13,7 @@ const Bathroom = () => {
         <header className="mb-12">
           <h1 className="text-3xl font-light text-foreground mb-2">Bathroom</h1>
           <p className="text-muted-foreground">
-            Spa-inspired designs and luxury bathroom ideas
+            Layouts, finishes and details for a master bathroom that feels like a spa
           </p>
         </header>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12">

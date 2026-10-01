@@ -13,7 +13,7 @@ const Apartment = () => {
         <header className="mb-12">
           <h1 className="text-3xl font-light text-foreground mb-2">Apartment</h1>
           <p className="text-muted-foreground">
-            Practical tips and essentials for settling into your first apartment
+            Tips, shopping lists and storage ideas for renters and first-time apartment dwellers
           </p>
         </header>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12">

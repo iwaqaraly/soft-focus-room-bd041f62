@@ -13,7 +13,7 @@ const Bedroom = () => {
         <header className="mb-12">
           <h1 className="text-3xl font-light text-foreground mb-2">Bedroom</h1>
           <p className="text-muted-foreground">
-            Create your perfect sanctuary for rest and relaxation
+            Bed sizes, color palettes and small-room fixes for better bedrooms
           </p>
         </header>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12">

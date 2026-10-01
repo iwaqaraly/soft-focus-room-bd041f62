@@ -8,20 +8,22 @@ const HeroSection = forwardRef<HTMLElement, Record<string, never>>((_, ref) => {
           {/* Left: Text Content */}
           <div className="max-w-xl order-2 lg:order-1 opacity-0 animate-fade-in">
             <span className="inline-block text-xs font-medium uppercase tracking-[0.25em] text-primary/80 mb-6 px-4 py-2 bg-primary/10 rounded-full">
-              Interior Design Journal
+              Home &amp; Interior Ideas
             </span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-display text-foreground leading-[1.15] tracking-tight mb-6">
-              Create spaces
+              Home ideas
               <br />
-              <span className="text-primary">that feel like home</span>
+              <span className="text-primary">you can actually use</span>
             </h1>
             <p className="text-muted-foreground text-lg font-light max-w-md leading-relaxed mb-10">
-              Discover curated inspiration and practical ideas for crafting warm,
-              inviting spaces that reflect your personal style.
+              Room-by-room ideas, buying guides and small fixes for apartments,
+              kitchens, bedrooms and everything in between.
             </p>
             <div className="flex items-center gap-6">
               <div className="h-px w-12 bg-primary/40 rounded-full" />
-              <span className="text-sm text-muted-foreground italic">Explore our latest ideas</span>
+              <a href="#latest" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+                See the latest articles
+              </a>
             </div>
           </div>
 

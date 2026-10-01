@@ -13,7 +13,7 @@ const Garden = () => {
         <header className="mb-12">
           <h1 className="text-3xl font-light text-foreground mb-2">Garden</h1>
           <p className="text-muted-foreground">
-            Transform your outdoor space into a beautiful retreat
+            Backyard ideas, from hot tubs to seating areas
           </p>
         </header>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12">

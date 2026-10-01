@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import PageLayout from "@/components/PageLayout";
 import ArticleCard from "@/components/ArticleCard";
 import HeroSection from "@/components/HeroSection";
@@ -9,16 +10,16 @@ const Index = () => {
       <HeroSection />
       
       {/* Latest Articles Section */}
-      <section className="container mx-auto px-6 py-20">
+      <section id="latest" className="container mx-auto px-6 py-20 scroll-mt-20">
         <header className="mb-14 text-center opacity-0 animate-fade-in">
           <span className="inline-block text-xs font-medium uppercase tracking-[0.25em] text-primary/80 mb-4 px-4 py-2 bg-primary/10 rounded-full">
-            Latest Inspiration
+            Latest Articles
           </span>
           <h2 className="text-3xl md:text-4xl font-display text-foreground mb-4">
-            Fresh Ideas for Your Home
+            New on CozzyAbode
           </h2>
           <p className="text-muted-foreground max-w-md mx-auto">
-            Curated inspiration and practical tips for every room in your home
+            The five most recent articles
           </p>
         </header>
         
@@ -40,20 +41,20 @@ const Index = () => {
         <div className="container mx-auto px-6 text-center">
           <div className="max-w-2xl mx-auto opacity-0 animate-fade-in">
             <h3 className="text-2xl md:text-3xl font-display text-foreground mb-4">
-              Find Your Style
+              Browse by Room
             </h3>
             <p className="text-muted-foreground mb-8 leading-relaxed">
-              Whether you're looking for minimalist elegance, cozy comfort, or bold statements—
-              we have inspiration for every taste and every space.
+              Pick a room to see every article we have on it.
             </p>
             <div className="flex items-center justify-center gap-4 flex-wrap">
               {["Living Room", "Bedroom", "Kitchen", "Bathroom", "Garden", "Basement", "Home Office", "Apartment"].map((room) => (
-                <span 
+                <Link
                   key={room}
-                  className="px-5 py-2.5 bg-card rounded-full text-sm font-medium text-foreground shadow-warm hover:shadow-warm-lg transition-shadow duration-300 cursor-pointer hover:-translate-y-0.5"
+                  to={`/${room.toLowerCase().replace(/ /g, "-")}`}
+                  className="px-5 py-2.5 bg-card rounded-full text-sm font-medium text-foreground shadow-warm hover:shadow-warm-lg transition-shadow duration-300 hover:-translate-y-0.5"
                 >
                   {room}
-                </span>
+                </Link>
               ))}
             </div>
           </div>

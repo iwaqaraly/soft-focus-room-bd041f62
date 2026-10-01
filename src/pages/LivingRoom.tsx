@@ -13,7 +13,7 @@ const LivingRoom = () => {
         <header className="mb-12">
           <h1 className="text-3xl font-light text-foreground mb-2">Living Room</h1>
           <p className="text-muted-foreground">
-            Design ideas to make your living space warm and inviting
+            Sofas, decor projects and trends for the room you spend the most time in
           </p>
         </header>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12">
