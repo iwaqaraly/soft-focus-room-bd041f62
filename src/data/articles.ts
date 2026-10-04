@@ -3997,93 +3997,76 @@ export const articles: Article[] = [
     excerpt: "Seventeen simple ways to organize a bathroom closet, from matching bins and rolled towels to shelf risers, door organizers and a restock basket.",
     intro: "A bathroom closet can easily become one of the most cluttered areas in a home. Towels, toiletries, cleaning supplies, toilet paper, and extra personal care products all need a place, but without a simple organization system, everything can quickly become difficult to find.\n\nThe good news is that you do not need a large bathroom closet to keep everything neat. A few smart storage choices can make even a small closet feel spacious and easy to use.\n\nHere are 17 bathroom closet organization ideas to help you create a cleaner and more functional space.",
     category: "Bathroom",
-    image: "/assets/bathroom-closet-organization-01.webp",
+    image: "/placeholder.svg",
     imageAspectRatio: "1:1",
     sections: [
       {
         title: "1. Group Similar Items Together",
-        content: "The easiest way to organize a bathroom closet is to give similar items their own sections. Keep towels together, toiletries together, and cleaning products in another area.\n\nThis makes everyday items easier to find and also makes it simpler to notice when something needs to be restocked.",
-        image: "/assets/bathroom-closet-organization-01.webp"
+        content: "The easiest way to organize a bathroom closet is to give similar items their own sections. Keep towels together, toiletries together, and cleaning products in another area.\n\nThis makes everyday items easier to find and also makes it simpler to notice when something needs to be restocked."
       },
       {
         title: "2. Use Matching Storage Bins",
-        content: "Matching bins can instantly make an ordinary bathroom closet look more organized. Choose a few different sizes so you can store everything from extra toiletries to hair care products.\n\nClear bins are especially useful when you want to see what is inside without opening every container.",
-        image: "/assets/bathroom-closet-organization-02.webp"
+        content: "Matching bins can instantly make an ordinary bathroom closet look more organized. Choose a few different sizes so you can store everything from extra toiletries to hair care products.\n\nClear bins are especially useful when you want to see what is inside without opening every container."
       },
       {
         title: "3. Roll Your Towels",
-        content: "Rolling towels instead of stacking them can save space and give your bathroom closet a more polished appearance. Rolled towels can also fit neatly into baskets or open cubbies.\n\nTry placing larger bath towels on the lower shelves and smaller hand towels toward the top.",
-        image: "/assets/bathroom-closet-organization-03.webp"
+        content: "Rolling towels instead of stacking them can save space and give your bathroom closet a more polished appearance. Rolled towels can also fit neatly into baskets or open cubbies.\n\nTry placing larger bath towels on the lower shelves and smaller hand towels toward the top."
       },
       {
         title: "4. Add Shelf Risers",
-        content: "Shelf risers are useful when your bathroom closet has tall shelves with unused vertical space. They create a second level for smaller items without requiring any permanent changes to the closet.\n\nUse them for folded washcloths, skincare products, or small containers.",
-        image: "/assets/bathroom-closet-organization-04.webp"
+        content: "Shelf risers are useful when your bathroom closet has tall shelves with unused vertical space. They create a second level for smaller items without requiring any permanent changes to the closet.\n\nUse them for folded washcloths, skincare products, or small containers."
       },
       {
         title: "5. Create a Dedicated Towel Section",
-        content: "Give your towels their own section instead of mixing them with toiletries and household supplies. Stack folded bath towels together and place hand towels and washcloths nearby.\n\nKeeping all your towels in one area makes them much easier to grab when needed.",
-        image: "/assets/bathroom-closet-organization-05.webp"
+        content: "Give your towels their own section instead of mixing them with toiletries and household supplies. Stack folded bath towels together and place hand towels and washcloths nearby.\n\nKeeping all your towels in one area makes them much easier to grab when needed."
       },
       {
         title: "6. Store Extra Toilet Paper in Baskets",
-        content: "Extra toilet paper does not have to take over an entire shelf. Place several rolls inside a large woven or fabric basket.\n\nThe basket keeps the rolls contained while making the closet look more intentional. It is also an easy way to move the supplies when cleaning.",
-        image: "/assets/bathroom-closet-organization-06.webp"
+        content: "Extra toilet paper does not have to take over an entire shelf. Place several rolls inside a large woven or fabric basket.\n\nThe basket keeps the rolls contained while making the closet look more intentional. It is also an easy way to move the supplies when cleaning."
       },
       {
         title: "7. Use Clear Containers for Small Products",
-        content: "Small bathroom products can quickly become difficult to manage because of their different shapes and sizes. Clear containers can help keep items such as cotton pads, travel toiletries, soaps, and small skincare products together.\n\nChoose containers that fit the depth of your shelves so you do not waste valuable space.",
-        image: "/assets/bathroom-closet-organization-07.webp"
+        content: "Small bathroom products can quickly become difficult to manage because of their different shapes and sizes. Clear containers can help keep items such as cotton pads, travel toiletries, soaps, and small skincare products together.\n\nChoose containers that fit the depth of your shelves so you do not waste valuable space."
       },
       {
         title: "8. Make Use of the Closet Door",
-        content: "If your bathroom closet has a door, do not overlook the storage space behind it. A slim over the door organizer can hold smaller items without taking up shelf space.\n\nThis area works particularly well for hair accessories, brushes, cleaning cloths, and other lightweight supplies.",
-        image: "/assets/bathroom-closet-organization-08.webp"
+        content: "If your bathroom closet has a door, do not overlook the storage space behind it. A slim over the door organizer can hold smaller items without taking up shelf space.\n\nThis area works particularly well for hair accessories, brushes, cleaning cloths, and other lightweight supplies."
       },
       {
         title: "9. Keep Everyday Items at Eye Level",
-        content: "The products you use most often should be placed where they are easiest to reach. Reserve the middle shelves for everyday toiletries, frequently used towels, and other essentials.\n\nLess frequently used items can go on the highest shelves.",
-        image: "/assets/bathroom-closet-organization-09.webp"
+        content: "The products you use most often should be placed where they are easiest to reach. Reserve the middle shelves for everyday toiletries, frequently used towels, and other essentials.\n\nLess frequently used items can go on the highest shelves."
       },
       {
         title: "10. Store Cleaning Supplies Separately",
-        content: "Bathroom cleaning products are best kept away from towels and personal care products. Give them their own basket or section toward the bottom of the closet.\n\nKeeping cleaning supplies together also makes it easier to take everything out when you need to clean the bathroom.",
-        image: "/assets/bathroom-closet-organization-10.webp"
+        content: "Bathroom cleaning products are best kept away from towels and personal care products. Give them their own basket or section toward the bottom of the closet.\n\nKeeping cleaning supplies together also makes it easier to take everything out when you need to clean the bathroom."
       },
       {
         title: "11. Add Labels to Storage Bins",
-        content: "Labels can make a bathroom closet much easier for everyone in the household to maintain. Label baskets according to their contents, such as towels, toiletries, hair care, or cleaning supplies.\n\nSimple labels are enough. The goal is to make it obvious where everything belongs.",
-        image: "/assets/bathroom-closet-organization-11.webp"
+        content: "Labels can make a bathroom closet much easier for everyone in the household to maintain. Label baskets according to their contents, such as towels, toiletries, hair care, or cleaning supplies.\n\nSimple labels are enough. The goal is to make it obvious where everything belongs."
       },
       {
         title: "12. Use Small Bins Inside Larger Shelves",
-        content: "Large shelves often leave small products scattered across the surface. Instead of allowing everything to spread out, place smaller bins on each shelf.\n\nYou can dedicate one bin to skincare, another to hair products, and another to travel size items.",
-        image: "/assets/bathroom-closet-organization-12.webp"
+        content: "Large shelves often leave small products scattered across the surface. Instead of allowing everything to spread out, place smaller bins on each shelf.\n\nYou can dedicate one bin to skincare, another to hair products, and another to travel size items."
       },
       {
         title: "13. Organize Products by Frequency of Use",
-        content: "Not everything in your bathroom closet needs to be equally accessible. Keep products you use every day near the front and items you only use occasionally farther back.\n\nSeasonal products and backup supplies can be stored on higher shelves where they will not interfere with your daily routine.",
-        image: "/assets/bathroom-closet-organization-13.webp"
+        content: "Not everything in your bathroom closet needs to be equally accessible. Keep products you use every day near the front and items you only use occasionally farther back.\n\nSeasonal products and backup supplies can be stored on higher shelves where they will not interfere with your daily routine."
       },
       {
         title: "14. Use a Lazy Susan for Bottles",
-        content: "A small lazy Susan can make bottles much easier to access, especially when several products are stored together.\n\nInstead of moving everything around to reach a bottle at the back, simply rotate the organizer until the product you need comes forward.",
-        image: "/assets/bathroom-closet-organization-14.webp"
+        content: "A small lazy Susan can make bottles much easier to access, especially when several products are stored together.\n\nInstead of moving everything around to reach a bottle at the back, simply rotate the organizer until the product you need comes forward."
       },
       {
         title: "15. Give Each Family Member a Section",
-        content: "If several people share the same bathroom, consider giving each person a designated basket or shelf section.\n\nThis prevents everyone's products from becoming mixed together and makes it much easier to keep the closet organized over time.",
-        image: "/assets/bathroom-closet-organization-15.webp"
+        content: "If several people share the same bathroom, consider giving each person a designated basket or shelf section.\n\nThis prevents everyone's products from becoming mixed together and makes it much easier to keep the closet organized over time."
       },
       {
         title: "16. Keep a Small Restock Basket",
-        content: "Create one dedicated basket for backup products that are waiting to be used. Store unopened shampoo, soap, toothpaste, tissues, and other extras inside it.\n\nWhen something runs out, you can quickly check the restock basket instead of searching through the entire closet.",
-        image: "/assets/bathroom-closet-organization-16.webp"
+        content: "Create one dedicated basket for backup products that are waiting to be used. Store unopened shampoo, soap, toothpaste, tissues, and other extras inside it.\n\nWhen something runs out, you can quickly check the restock basket instead of searching through the entire closet."
       },
       {
         title: "17. Leave Some Empty Space",
-        content: "An organized bathroom closet does not need to be packed from top to bottom. Leaving a little empty space makes it easier to put things away and prevents the closet from becoming cluttered again.\n\nKeep the items you use most often easy to reach and avoid buying more storage containers than you actually need.",
-        image: "/assets/bathroom-closet-organization-17.webp"
+        content: "An organized bathroom closet does not need to be packed from top to bottom. Leaving a little empty space makes it easier to put things away and prevents the closet from becoming cluttered again.\n\nKeep the items you use most often easy to reach and avoid buying more storage containers than you actually need."
       },
       {
         title: "Final Thoughts",
