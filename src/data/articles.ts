@@ -4392,5 +4392,226 @@ export const articles: Article[] = [
         answer: "Focus on a cohesive look rather than filling every surface. Use baskets to hide towels and toiletries, and keep decor to a few thoughtful pieces."
       }
     ]
+  },
+  {
+    id: "47",
+    slug: "cozy-living-room-ideas",
+    date: "2026-10-06",
+    title: "11 Cozy Living Room Ideas for a Warm and Inviting Home",
+    excerpt: "Eleven cozy living room ideas, from layered textures and warm lighting to natural wood, large rugs and personal decor.",
+    intro: "A cozy living room should feel comfortable, welcoming, and easy to relax in. The right combination of soft textures, warm lighting, natural materials, and thoughtful furniture can make even a simple space feel inviting.\nWhether you have a large family room or a small apartment, there are plenty of ways to create a warm atmosphere without completely redesigning your space. From layered textiles to soft lighting and natural wood accents, these cozy living room ideas can help you create a space that feels comfortable throughout the year.",
+    category: "Living Room",
+    image: "/assets/cozy-living-room-ideas-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Layer Soft Textures",
+        content: "One of the easiest ways to make a living room feel cozy is to introduce plenty of soft textures. Add a plush area rug, knitted throw blankets, linen cushions, and comfortable upholstered furniture.\n\nLayering different fabrics gives the room more visual depth while making the space feel warmer and more comfortable. Choose materials that look and feel soft rather than relying on decoration alone.",
+        image: "/assets/cozy-living-room-ideas-01.webp"
+      },
+      {
+        title: "2. Add a Large Area Rug",
+        content: "A large area rug can instantly make a living room feel more comfortable. It also helps define the seating area, especially in an open plan home.\n\nChoose a rug with a warm neutral color such as cream, beige, taupe, or soft brown. A subtle pattern can add interest without making the room feel busy. Make sure the rug is large enough for at least the front legs of your main seating pieces to sit on it.",
+        image: "/assets/cozy-living-room-ideas-02.webp"
+      },
+      {
+        title: "3. Use Warm Lighting",
+        content: "Lighting has a major effect on how cozy a living room feels. Instead of relying entirely on a bright ceiling light, combine several softer sources around the room.\n\nFloor lamps, table lamps, wall lights, and small accent lamps can create a warm glow during the evening. Choose warm white bulbs to create a relaxed atmosphere that feels more comfortable after sunset.",
+        image: "/assets/cozy-living-room-ideas-03.webp"
+      },
+      {
+        title: "4. Create a Comfortable Reading Corner",
+        content: "A small reading corner can make your living room feel more personal and inviting. Place a comfortable armchair beside a window, floor lamp, or bookshelf.\n\nAdd a small side table where you can keep a book, cup of tea, or decorative object. A soft throw and a cushion can make the chair even more inviting.",
+        image: "/assets/cozy-living-room-ideas-04.webp"
+      },
+      {
+        title: "5. Bring in Natural Wood",
+        content: "Natural wood adds warmth and character to a living room. You can introduce it through a coffee table, side tables, shelving, picture frames, or decorative accessories.\n\nLight and medium wood tones work especially well with neutral furniture. Pairing wood with soft fabrics and warm lighting creates a relaxed look that does not feel overly decorated.",
+        image: "/assets/cozy-living-room-ideas-05.webp"
+      },
+      {
+        title: "6. Choose Warm Neutral Colors",
+        content: "Warm neutral colors are ideal for creating a cozy living room. Shades such as beige, cream, warm white, camel, tan, and soft brown can make the space feel calm and comfortable.\n\nYou do not need to use the same shade throughout the room. Combine several related neutral tones through furniture, walls, curtains, rugs, and cushions to create a layered appearance.",
+        image: "/assets/cozy-living-room-ideas-06.webp"
+      },
+      {
+        title: "7. Add Plenty of Cushions",
+        content: "Cushions are a simple way to make a sofa look more comfortable. Mix different sizes, fabrics, and subtle patterns rather than choosing every cushion from the same collection.\n\nFor a warm living room, consider combinations of linen, cotton, boucle, knitted fabrics, and velvet. Keep the colors within a similar palette so the arrangement still feels cohesive.",
+        image: "/assets/cozy-living-room-ideas-07.webp"
+      },
+      {
+        title: "8. Decorate With Houseplants",
+        content: "Houseplants can bring life and softness into a living room. Place a larger plant beside the sofa or in an empty corner, then add smaller plants to shelves or side tables.\n\nGreen foliage works particularly well with warm wood, cream upholstery, and natural textures. Choose plants that suit the amount of natural light available in your room.",
+        image: "/assets/cozy-living-room-ideas-08.webp"
+      },
+      {
+        title: "9. Hang Curtains From Ceiling to Floor",
+        content: "Long curtains can make a living room feel softer and more finished. Hanging curtains closer to the ceiling and allowing them to reach the floor can also make the windows appear taller.\n\nChoose materials such as linen or textured cotton in warm neutral shades. During the evening, closed curtains can add another layer of softness and make the room feel more private and comfortable.",
+        image: "/assets/cozy-living-room-ideas-09.webp"
+      },
+      {
+        title: "10. Create a Cozy Fireplace Focal Point",
+        content: "A fireplace can become the natural focal point of a warm living room. If you have a traditional fireplace, decorate the mantel with simple artwork, candles, books, or natural materials.\n\nFor homes without a built in fireplace, an electric fireplace can create a similar visual effect. Arrange the sofa and chairs around it to create a comfortable space for conversation and relaxation.",
+        image: "/assets/cozy-living-room-ideas-10.webp"
+      },
+      {
+        title: "11. Add Personal Decor",
+        content: "A cozy living room should feel like it belongs to the people who live there. Personal photographs, favorite books, artwork, travel finds, ceramics, and meaningful objects can make the room feel more individual.\n\nAvoid filling every surface with decorations. Instead, choose a few pieces that you genuinely like and give them enough space to stand out. The result will feel more natural, comfortable, and lived in.",
+        image: "/assets/cozy-living-room-ideas-11.webp"
+      },
+      {
+        title: "Final Thoughts",
+        content: "Creating a cozy living room does not require expensive furniture or a complete makeover. Small changes such as adding soft textiles, improving the lighting, introducing natural wood, and using warm neutral colors can make a noticeable difference.\n\nThe best cozy living rooms combine comfort with personality. Choose pieces that make you want to sit down, relax, and spend time in the space."
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I make my living room feel cozy?",
+        answer: "Layer soft textures, use warm lighting from several sources, and add natural wood and warm neutral colors. Comfortable seating matters more than extra decoration."
+      },
+      {
+        question: "What size rug should I use in a living room?",
+        answer: "Large enough that at least the front legs of your main seating pieces sit on it. This also helps define the seating area in an open plan home."
+      },
+      {
+        question: "What colors work best for a cozy living room?",
+        answer: "Warm neutrals such as beige, cream, warm white, camel, tan and soft brown. Combine several related tones through furniture, walls, curtains, rugs and cushions."
+      },
+      {
+        question: "What lighting makes a living room cozy?",
+        answer: "Combine floor lamps, table lamps, wall lights and small accent lamps with warm white bulbs instead of relying on a bright ceiling light."
+      },
+      {
+        question: "How can I make a small living room cozy?",
+        answer: "Use soft textiles, a warm neutral palette, curtains hung close to the ceiling and a few personal pieces, without covering every surface."
+      },
+      {
+        question: "Can I get a fireplace look without a real fireplace?",
+        answer: "Yes. An electric fireplace creates a similar focal point. Arrange the sofa and chairs around it for conversation and relaxation."
+      }
+    ]
+  },
+  {
+    id: "48",
+    slug: "cozy-bedroom-ideas",
+    date: "2026-10-06",
+    title: "16 Cozy Bedroom Ideas for a Warm and Inviting Space",
+    excerpt: "Sixteen cozy bedroom ideas, from layered bedding and warm lighting to natural wood, soft textiles and a clutter-free layout.",
+    intro: "Creating a cozy bedroom is all about making the room feel comfortable, relaxing, and personal. Soft textures, warm lighting, natural materials, and thoughtful decor can completely change the atmosphere of a bedroom without requiring a major renovation.\nWhether you have a spacious master bedroom or a small room, there are plenty of simple ways to make your space feel warmer and more inviting. Here are 16 cozy bedroom ideas to inspire your next bedroom refresh.",
+    category: "Bedroom",
+    image: "/assets/cozy-bedroom-ideas-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Layer Soft Bedding",
+        content: "One of the easiest ways to make a bedroom feel cozy is to layer the bed with comfortable fabrics. Start with crisp sheets, then add a quilt, duvet, throw blanket, and several pillows. Combining different textures makes the bed look inviting while giving you plenty of options for relaxing.",
+        image: "/assets/cozy-bedroom-ideas-01.webp"
+      },
+      {
+        title: "2. Add Warm Ambient Lighting",
+        content: "Harsh overhead lighting can make a bedroom feel cold. Instead, use bedside lamps, wall sconces, table lamps, or warm LED bulbs to create a softer atmosphere. Several small sources of light can make the entire room feel more relaxing in the evening.",
+        image: "/assets/cozy-bedroom-ideas-02.webp"
+      },
+      {
+        title: "3. Choose Warm Neutral Colors",
+        content: "Warm neutrals can instantly make a bedroom feel calm and comfortable. Shades such as cream, beige, warm white, taupe, and soft brown work especially well when paired together. Add a few darker accents to give the room depth without making it feel heavy.",
+        image: "/assets/cozy-bedroom-ideas-03.webp"
+      },
+      {
+        title: "4. Create a Cozy Reading Corner",
+        content: "If you have an unused corner, turn it into a small reading area. A comfortable armchair, soft throw, floor lamp, and small side table can create a peaceful spot away from the bed. Even a compact corner can become a useful and attractive part of the bedroom.",
+        image: "/assets/cozy-bedroom-ideas-04.webp"
+      },
+      {
+        title: "5. Use Natural Wood Accents",
+        content: "Wood brings warmth and character to a bedroom. Consider a wooden headboard, bedside tables, shelving, bench, or decorative stool. Natural wood looks especially beautiful when combined with soft bedding and neutral walls.",
+        image: "/assets/cozy-bedroom-ideas-05.webp"
+      },
+      {
+        title: "6. Hang Curtains From Ceiling to Floor",
+        content: "Long curtains can make a bedroom feel softer and more finished. Choose linen, cotton, or another lightweight fabric in a warm neutral shade. Hanging curtains closer to the ceiling can also make the room appear taller and more spacious.",
+        image: "/assets/cozy-bedroom-ideas-06.webp"
+      },
+      {
+        title: "7. Add a Soft Area Rug",
+        content: "A rug can make a bedroom feel much more comfortable, especially when placed underneath or beside the bed. Choose a plush or textured design that complements the bedding and surrounding furniture. Stepping onto a soft rug in the morning also adds a small touch of comfort to the room.",
+        image: "/assets/cozy-bedroom-ideas-07.webp"
+      },
+      {
+        title: "8. Decorate With Plenty of Pillows",
+        content: "A few well chosen pillows can make a simple bed look much more inviting. Mix different sizes, fabrics, and subtle patterns while keeping the colors coordinated. Avoid overcrowding the bed so that it remains comfortable and practical.",
+        image: "/assets/cozy-bedroom-ideas-08.webp"
+      },
+      {
+        title: "9. Bring in Indoor Plants",
+        content: "Plants can add freshness and natural color to a bedroom. Place a leafy plant beside a window, on a nightstand, or in an empty corner. If the room receives limited natural light, choose varieties that can tolerate lower light conditions.",
+        image: "/assets/cozy-bedroom-ideas-09.webp"
+      },
+      {
+        title: "10. Create a Textured Accent Wall",
+        content: "A textured wall can add visual warmth without filling the room with decorations. Consider wood paneling, limewash, subtle wallpaper, or a softly textured paint finish behind the bed. Keep the rest of the room simple so the accent wall remains the focal point.",
+        image: "/assets/cozy-bedroom-ideas-10.webp"
+      },
+      {
+        title: "11. Add a Bench at the Foot of the Bed",
+        content: "A bedroom bench can make the space feel more complete while providing a useful place to sit or arrange blankets. Choose a padded bench in linen, boucle, velvet, or another soft material that works with the rest of the room.",
+        image: "/assets/cozy-bedroom-ideas-11.webp"
+      },
+      {
+        title: "12. Use Candles for a Relaxing Atmosphere",
+        content: "Candles can add a warm glow and create a relaxing evening atmosphere. Arrange a few candles on a bedside table, dresser, or small tray. For a safer everyday option, flameless candles can provide a similar visual effect.",
+        image: "/assets/cozy-bedroom-ideas-12.webp"
+      },
+      {
+        title: "13. Keep the Decor Personal",
+        content: "A cozy bedroom should feel like your own space rather than a showroom. Display a few meaningful photographs, books, artwork, or objects that you genuinely enjoy. Personal details make the room feel lived in and give it more character.",
+        image: "/assets/cozy-bedroom-ideas-13.webp"
+      },
+      {
+        title: "14. Choose Soft and Natural Fabrics",
+        content: "The fabrics you use can have a major effect on how comfortable a bedroom feels. Linen, cotton, wool, boucle, and knitted materials can add depth through their natural textures. Layering several fabrics in similar tones creates a relaxed and cohesive look.",
+        image: "/assets/cozy-bedroom-ideas-14.webp"
+      },
+      {
+        title: "15. Create a Small Bedside Styling Moment",
+        content: "Your nightstand does not need to be crowded to look beautiful. A small lamp, a book, a ceramic vase, and a simple decorative object can create an attractive arrangement. Keep some open space so the surface remains practical for everyday use.",
+        image: "/assets/cozy-bedroom-ideas-15.webp"
+      },
+      {
+        title: "16. Keep the Bedroom Clutter Free",
+        content: "A cozy bedroom does not have to be filled with decorations. Too many objects can make the space feel busy rather than relaxing. Use baskets, drawers, storage benches, and bedside cabinets to keep everyday items organized and maintain a peaceful atmosphere.",
+        image: "/assets/cozy-bedroom-ideas-16.webp"
+      },
+      {
+        title: "Final Thoughts",
+        content: "The best cozy bedroom ideas combine comfort with simplicity. Soft bedding, warm lighting, natural materials, textured fabrics, and personal decor can make even a simple bedroom feel inviting. Start with the elements that matter most to you and gradually add layers until the room feels comfortable, relaxing, and distinctly your own."
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I make my bedroom feel cozier?",
+        answer: "Layer soft bedding, switch to warm lighting, and add natural textures such as wood, linen and wool. These small changes make the biggest difference without a renovation."
+      },
+      {
+        question: "What colors make a bedroom feel cozy?",
+        answer: "Warm neutrals such as cream, beige, warm white, taupe and soft brown. Add a few darker accents to give the room depth without making it feel heavy."
+      },
+      {
+        question: "What kind of lighting is best for a cozy bedroom?",
+        answer: "Several soft sources rather than one harsh overhead light: bedside lamps, wall sconces, table lamps and warm LED bulbs."
+      },
+      {
+        question: "How can I make a small bedroom cozy?",
+        answer: "Hang curtains close to the ceiling, use a soft rug, keep decor simple and use baskets or storage benches to keep the room free of clutter."
+      },
+      {
+        question: "Which fabrics feel the most cozy?",
+        answer: "Linen, cotton, wool, boucle and knitted materials. Layering several fabrics in similar tones creates a relaxed, cohesive look."
+      },
+      {
+        question: "Are candles a good idea in a bedroom?",
+        answer: "They add a warm glow in the evening. Keep them on a tray and never leave them burning unattended; flameless candles give a similar look more safely."
+      }
+    ]
   }
 ];
