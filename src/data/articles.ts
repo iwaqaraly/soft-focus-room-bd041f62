@@ -4613,5 +4613,236 @@ export const articles: Article[] = [
         answer: "They add a warm glow in the evening. Keep them on a tray and never leave them burning unattended; flameless candles give a similar look more safely."
       }
     ]
+  },
+  {
+    id: "49",
+    slug: "kitchen-counter-styling-ideas",
+    date: "2026-10-07",
+    title: "12 Kitchen Counter Styling Ideas for a Clean and Beautiful Kitchen",
+    excerpt: "Twelve kitchen counter styling ideas, from wooden cutting boards and coffee stations to fresh greenery and a counter area left completely clear.",
+    intro: "A well styled kitchen counter can make the entire kitchen feel more organized, inviting, and polished. The key is to decorate with purpose while keeping enough open space for everyday cooking and food preparation.\n\nWhether you have a small kitchen or a spacious cooking area, a few thoughtful details can completely change the look of your counters. From wooden cutting boards and fresh greenery to coffee stations and decorative trays, there are plenty of simple ways to create a beautiful kitchen without making it feel cluttered.\n\nHere are 12 kitchen counter styling ideas to inspire your next kitchen refresh.",
+    category: "Kitchen",
+    image: "/assets/kitchen-counter-styling-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Add a Wooden Cutting Board",
+        content: "A wooden cutting board is one of the easiest ways to add warmth and texture to a kitchen counter. Lean one or two boards against the backsplash instead of storing them away. Choose boards in different sizes and shapes for a more relaxed look.\n\nPair them with a small bowl or ceramic vase to create a simple arrangement that feels decorative without taking up too much space.",
+        image: "/assets/kitchen-counter-styling-01.webp"
+      },
+      {
+        title: "2. Create a Small Coffee Station",
+        content: "Turn one section of your kitchen counter into a dedicated coffee station. Keep your coffee machine, favorite mugs, coffee beans, and a small container for essentials together in one area.\n\nA wooden tray can help keep everything organized while adding a decorative touch. This setup works especially well in both large kitchens and small apartments.",
+        image: "/assets/kitchen-counter-styling-02.webp"
+      },
+      {
+        title: "3. Use a Decorative Tray",
+        content: "A decorative tray is an excellent way to group everyday kitchen items together. Place olive oil, salt, pepper, a small jar, or a candle on the tray to create a neat arrangement.\n\nInstead of having several objects scattered across the counter, the tray gives them a defined space and makes the kitchen look more organized.",
+        image: "/assets/kitchen-counter-styling-03.webp"
+      },
+      {
+        title: "4. Bring in Fresh Greenery",
+        content: "Plants can instantly make a kitchen feel fresher and more welcoming. Place a small potted herb, leafy plant, or vase of fresh greenery near a window or on an open section of the counter.\n\nBasil, rosemary, and mint are especially useful because they can also be used while cooking. Choose simple ceramic or terracotta pots that complement your kitchen style.",
+        image: "/assets/kitchen-counter-styling-04.webp"
+      },
+      {
+        title: "5. Style a Fruit Bowl",
+        content: "A beautiful fruit bowl can become a natural focal point on your kitchen counter. Choose a bowl made from wood, ceramic, glass, or woven material depending on the style of your kitchen.\n\nFill it with apples, lemons, oranges, or seasonal fruit. Keep the arrangement relatively simple so the counter still feels clean and spacious.",
+        image: "/assets/kitchen-counter-styling-05.webp"
+      },
+      {
+        title: "6. Display Neutral Ceramic Pieces",
+        content: "Neutral ceramics are perfect for creating a calm and timeless kitchen. Place a ceramic vase, small bowl, utensil holder, or decorative pitcher together on one section of the counter.\n\nWhite, cream, beige, and soft gray pieces work particularly well because they add visual interest without making the kitchen feel busy.",
+        image: "/assets/kitchen-counter-styling-06.webp"
+      },
+      {
+        title: "7. Set Up an Organized Baking Corner",
+        content: "If you enjoy baking, dedicate a small counter area to your favorite baking essentials. A large ceramic container filled with wooden utensils, a few stacked mixing bowls, and a wooden board can create a charming baking corner.\n\nKeep the arrangement limited to items you actually use so the space remains functional rather than becoming cluttered.",
+        image: "/assets/kitchen-counter-styling-07.webp"
+      },
+      {
+        title: "8. Add a Marble or Stone Accent",
+        content: "A marble or natural stone board can give your kitchen counter an elegant appearance. Lean a large board against the backsplash or place a smaller one beneath a few decorative objects.\n\nThe natural patterns in stone add subtle texture while working beautifully with white, cream, wood, and neutral kitchen interiors.",
+        image: "/assets/kitchen-counter-styling-08.webp"
+      },
+      {
+        title: "9. Use Matching Storage Containers",
+        content: "Matching containers can make everyday kitchen ingredients look much more intentional. Transfer frequently used items such as coffee, sugar, flour, or pasta into simple glass or ceramic containers.\n\nKeep only a few containers on display and store the rest inside your cabinets. This creates a tidy countertop while keeping useful ingredients within easy reach.",
+        image: "/assets/kitchen-counter-styling-09.webp"
+      },
+      {
+        title: "10. Style an Olive Oil and Seasoning Corner",
+        content: "Keep your most frequently used cooking oils and seasonings together in one attractive arrangement. A small wooden tray or stone plate can hold an olive oil bottle, salt cellar, pepper grinder, and a small jar of herbs.\n\nThis is a practical kitchen counter styling idea because everything stays accessible while the arrangement still looks polished.",
+        image: "/assets/kitchen-counter-styling-10.webp"
+      },
+      {
+        title: "11. Add a Small Lamp",
+        content: "If your kitchen has enough counter space, consider adding a small table lamp to create a softer atmosphere in the evening. Choose a compact lamp with a simple shape that complements the rest of the kitchen.\n\nA warm light can make the kitchen feel more comfortable and lived in, especially in open plan homes where the kitchen is also used as a social space.",
+        image: "/assets/kitchen-counter-styling-11.webp"
+      },
+      {
+        title: "12. Keep One Counter Area Completely Clear",
+        content: "Sometimes the best kitchen counter styling idea is leaving part of the counter empty. An open workspace makes the entire kitchen feel cleaner and more spacious.\n\nChoose one section for decoration and keep another section completely clear for chopping, preparing meals, or placing groceries. This balance between decoration and function can make even a small kitchen feel much more organized.",
+        image: "/assets/kitchen-counter-styling-12.webp"
+      },
+      {
+        title: "Final Thoughts",
+        content: "Beautiful kitchen counter styling does not require a lot of decorations. A few carefully chosen pieces can add warmth and personality while keeping the space practical for everyday use.\n\nWooden boards, fresh greenery, decorative trays, ceramic pieces, and organized storage can all work together to create a kitchen that feels clean and inviting. The most important thing is to avoid filling every available surface. Leaving some counter space open will help your kitchen look polished while making it easier to use."
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I style a kitchen counter without making it look cluttered?",
+        answer: "Group items on a tray, keep only a few containers on display and leave one counter area completely clear for food preparation."
+      },
+      {
+        question: "What should I keep on my kitchen counter?",
+        answer: "Items you use every day, such as a coffee machine, olive oil, salt and pepper, and a few matching containers. Store the rest in cabinets."
+      },
+      {
+        question: "How can I add warmth to a kitchen counter?",
+        answer: "Lean a wooden cutting board against the backsplash, add a fruit bowl, or bring in fresh greenery in simple ceramic or terracotta pots."
+      },
+      {
+        question: "Which herbs work well on a kitchen counter?",
+        answer: "Basil, rosemary and mint are especially useful because you can also use them while cooking."
+      },
+      {
+        question: "What colors work best for counter decor?",
+        answer: "White, cream, beige and soft gray ceramics add visual interest without making the kitchen feel busy."
+      },
+      {
+        question: "How do I style a small kitchen counter?",
+        answer: "Choose one section for decoration, such as a coffee station or tray, and keep the rest open. Limiting the arrangement to items you actually use keeps it functional."
+      }
+    ]
+  },
+  {
+    id: "50",
+    slug: "entryway-table-decor-ideas",
+    date: "2026-10-07",
+    title: "17 Entryway Table Decor Ideas for a Stylish and Welcoming Home",
+    excerpt: "Seventeen entryway table decor ideas, from mirrors and table lamps to greenery, baskets and layered heights for a welcoming first impression.",
+    intro: "The entryway is one of the first areas people see when they walk into your home, so even a small amount of thoughtful styling can make a big difference. An entryway table gives you the perfect surface for adding personality, warmth, and practical storage without taking up much space.\n\nWhether you prefer a modern, traditional, farmhouse, minimalist, or cozy look, there are plenty of ways to decorate an entryway table. From simple greenery and table lamps to mirrors, baskets, books, and decorative bowls, small details can completely change the feel of your entrance.\n\nHere are 17 entryway table decor ideas to help you create a stylish and welcoming space.",
+    category: "Living Room",
+    image: "/assets/entryway-table-decor-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Add a Large Mirror",
+        content: "A large mirror is one of the easiest ways to make an entryway feel brighter and more spacious. Hang a round, rectangular, or arched mirror above the table and keep the rest of the styling simple. A mirror also gives you a convenient place to check your appearance before leaving the house.",
+        image: "/assets/entryway-table-decor-01.webp"
+      },
+      {
+        title: "2. Style It With a Table Lamp",
+        content: "A table lamp can instantly make an entryway feel warmer and more inviting. Choose a lamp that complements the style of your furniture and place it toward one side of the table. A warm light works especially well in the evening and creates a cozy first impression.",
+        image: "/assets/entryway-table-decor-02.webp"
+      },
+      {
+        title: "3. Use a Vase With Fresh Greenery",
+        content: "A simple vase filled with greenery can bring life to your entryway without making the surface look crowded. Try eucalyptus, olive branches, leafy stems, or seasonal flowers. A ceramic, glass, or stone vase can also add texture to the overall arrangement.",
+        image: "/assets/entryway-table-decor-03.webp"
+      },
+      {
+        title: "4. Create a Simple Neutral Display",
+        content: "For a calm and timeless entryway, stick with neutral colors such as cream, beige, white, brown, and soft gray. Combine a few carefully chosen pieces such as a ceramic vase, small bowl, candle, and framed artwork. Keeping the color palette consistent makes the arrangement look polished.",
+        image: "/assets/entryway-table-decor-04.webp"
+      },
+      {
+        title: "5. Add Stacked Coffee Table Books",
+        content: "Stack two or three coffee table books on your entryway table to create height and visual interest. Place a small decorative object or vase on top. Choose books with attractive covers that complement the colors already used in your space.",
+        image: "/assets/entryway-table-decor-05.webp"
+      },
+      {
+        title: "6. Decorate With a Decorative Bowl",
+        content: "A decorative bowl is both attractive and practical. Use it to hold keys, sunglasses, or other small items that you usually carry when leaving the house. A wooden, ceramic, marble, or woven bowl can add texture while keeping everyday items organized.",
+        image: "/assets/entryway-table-decor-06.webp"
+      },
+      {
+        title: "7. Place a Small Tray on the Table",
+        content: "A tray helps group smaller decorative pieces together and makes the table look more organized. Place a candle, small vase, bowl, or decorative object inside the tray. This is particularly useful for narrow entryway tables where you want everything to feel intentional.",
+        image: "/assets/entryway-table-decor-07.webp"
+      },
+      {
+        title: "8. Add Framed Artwork",
+        content: "A piece of framed artwork can give your entryway more personality. Lean a large artwork piece against the wall or combine two smaller frames for a layered look. Choose artwork that connects with the colors and style used throughout the rest of your home.",
+        image: "/assets/entryway-table-decor-08.webp"
+      },
+      {
+        title: "9. Bring in Natural Wood Accents",
+        content: "Wooden accessories can make an entryway feel warm and comfortable. Try a wooden bowl, small sculpture, picture frame, or decorative box. Natural wood works beautifully with neutral interiors and can soften spaces that contain a lot of white or modern furniture.",
+        image: "/assets/entryway-table-decor-09.webp"
+      },
+      {
+        title: "10. Try a Minimalist Entryway Table",
+        content: "You do not need many decorations to make an entryway table look beautiful. A simple lamp, one vase, and a small decorative object can be enough. Leaving some empty space around each piece keeps the arrangement clean and gives the furniture room to stand out.",
+        image: "/assets/entryway-table-decor-10.webp"
+      },
+      {
+        title: "11. Use a Basket for Extra Storage",
+        content: "If your entryway tends to collect clutter, place a basket underneath the table. It can hold shoes, scarves, bags, blankets, or other everyday items. A woven basket also adds natural texture and works well with both traditional and modern decor.",
+        image: "/assets/entryway-table-decor-11.webp"
+      },
+      {
+        title: "12. Add Candles for a Cozy Touch",
+        content: "Candles can make an entryway feel warm and inviting, especially when combined with other natural materials. Place one or two candles on a tray or beside a vase. Choose simple containers that match your decor rather than using too many different styles.",
+        image: "/assets/entryway-table-decor-12.webp"
+      },
+      {
+        title: "13. Create a Symmetrical Arrangement",
+        content: "Symmetry is an easy decorating trick when you want your entryway to look balanced. Place matching lamps, vases, or decorative objects on opposite sides of the table. A mirror or artwork in the center can complete the arrangement.",
+        image: "/assets/entryway-table-decor-13.webp"
+      },
+      {
+        title: "14. Mix Different Textures",
+        content: "Using different textures can make a simple entryway display much more interesting. Combine materials such as glass, ceramic, wood, linen, metal, and woven fibers. The key is to use a few complementary textures rather than filling the table with too many objects.",
+        image: "/assets/entryway-table-decor-14.webp"
+      },
+      {
+        title: "15. Add Seasonal Decorations",
+        content: "Change your entryway table decor throughout the year to keep the space feeling fresh. Add small pumpkins and warm tones in fall, greenery during winter, flowers in spring, and lighter accessories during summer. A few seasonal details are usually enough to create a noticeable change.",
+        image: "/assets/entryway-table-decor-15.webp"
+      },
+      {
+        title: "16. Layer Decor at Different Heights",
+        content: "A well styled entryway table usually looks better when the decorations are not all the same height. Place a tall vase or lamp beside shorter objects such as books, bowls, or candles. Layering different heights helps create a more balanced and interesting display.",
+        image: "/assets/entryway-table-decor-16.webp"
+      },
+      {
+        title: "17. Combine Style With Function",
+        content: "The best entryway table decor does more than look good. Use the surface for items you actually need, such as a key bowl, small tray, lamp, or decorative storage box. When practical pieces are chosen carefully, your entryway can stay organized without sacrificing style.",
+        image: "/assets/entryway-table-decor-17.webp"
+      },
+      {
+        title: "Final Thoughts",
+        content: "Decorating an entryway table does not require a large budget or a lot of accessories. A few well chosen pieces can create a warm and welcoming entrance while giving you useful storage for everyday items.\n\nStart with one main feature, such as a mirror, lamp, artwork, or large vase, and then build the arrangement around it. Keep the colors and materials connected to the rest of your home, and leave enough empty space so the table does not feel cluttered."
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I decorate an entryway table?",
+        answer: "Start with one main feature, such as a mirror, lamp, artwork or large vase, then build the arrangement around it and leave some empty space."
+      },
+      {
+        question: "What should I put on an entryway table?",
+        answer: "A lamp, a vase with greenery, a decorative bowl for keys, a tray, stacked books and a candle are all good choices."
+      },
+      {
+        question: "How can I make a narrow entryway table look organized?",
+        answer: "Use a tray to group smaller pieces such as a candle, small vase and bowl so the arrangement looks intentional."
+      },
+      {
+        question: "How do I add storage to an entryway?",
+        answer: "Place a woven basket under the table for shoes, scarves, bags or blankets, and use a decorative bowl or box on top for small items."
+      },
+      {
+        question: "How high should the decor be arranged?",
+        answer: "Layer different heights: a tall vase or lamp beside shorter objects such as books, bowls or candles."
+      },
+      {
+        question: "How often should I change entryway decor?",
+        answer: "Seasonal changes keep the space fresh. A few details, such as warm tones in fall or flowers in spring, are usually enough."
+      }
+    ]
   }
 ];
