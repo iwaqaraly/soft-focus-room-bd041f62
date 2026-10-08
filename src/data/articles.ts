@@ -2374,8 +2374,7 @@ export const articles: Article[] = [
         answer: "Use tall dried pampas grass or a feather hanging beside your frames for vertical movement, and add a thin wood shelf beneath a cluster for small plants, candles, or ceramics."
       }
     ]
-  }
-,
+  },
   {
     "id": "30",
     "slug": "home-office-ideas-stylish-productive-space",
@@ -4613,7 +4612,7 @@ export const articles: Article[] = [
         answer: "They add a warm glow in the evening. Keep them on a tray and never leave them burning unattended; flameless candles give a similar look more safely."
       }
     ]
-  },
+  },
   {
     id: "49",
     slug: "kitchen-counter-styling-ideas",
@@ -4842,6 +4841,272 @@ export const articles: Article[] = [
       {
         question: "How often should I change entryway decor?",
         answer: "Seasonal changes keep the space fresh. A few details, such as warm tones in fall or flowers in spring, are usually enough."
+      }
+    ]
+  },
+  {
+    id: "51",
+    slug: "cozy-minimalist-bedroom-ideas",
+    date: "2026-10-08",
+    title: "17 Cozy Minimalist Bedroom Ideas for a Calm and Beautiful Space",
+    excerpt: "Seventeen cozy minimalist bedroom ideas, from soft neutral palettes and layered bedding to warm lighting, natural wood and clear surfaces.",
+    intro: "A cozy minimalist bedroom can feel warm, inviting, and peaceful without being filled with unnecessary furniture or decorations. The key is to create a simple room where every piece has a purpose while still adding softness, texture, and personality.\n\nWhether you are decorating a small bedroom or refreshing a larger space, these cozy minimalist bedroom ideas can help you create a calm retreat that feels beautiful and comfortable.",
+    category: "Bedroom",
+    image: "/assets/cozy-minimalist-bedroom-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Choose a Soft Neutral Color Palette",
+        content: "Start with a gentle color palette made up of warm white, beige, cream, taupe, and light brown. Neutral colors make the bedroom feel spacious while creating a peaceful atmosphere.\n\nYou can introduce subtle variations through your bedding, walls, curtains, and furniture rather than using many different colors.",
+        image: "/assets/cozy-minimalist-bedroom-01.webp"
+      },
+      {
+        title: "2. Layer White and Cream Bedding",
+        content: "Simple bedding can become the focal point of a minimalist bedroom when you layer different textures. Combine white sheets with a cream duvet, a knitted throw, and a few soft pillows.\n\nThe result feels comfortable and luxurious without making the room look crowded.",
+        image: "/assets/cozy-minimalist-bedroom-02.webp"
+      },
+      {
+        title: "3. Add Warm Wood Furniture",
+        content: "Wood furniture instantly brings warmth to a minimalist bedroom. A simple wooden bed frame, nightstand, or dresser can add natural character while keeping the overall design understated.\n\nLight oak and natural wood tones work especially well with neutral walls and soft bedding.",
+        image: "/assets/cozy-minimalist-bedroom-03.webp"
+      },
+      {
+        title: "4. Create a Simple Bedroom Accent Wall",
+        content: "An accent wall does not need bold colors or complicated patterns. A warm beige, muted taupe, soft greige, or textured plaster finish can add depth while maintaining the minimalist style.\n\nKeep the rest of the room simple so the accent wall becomes a subtle feature rather than an overwhelming focal point.",
+        image: "/assets/cozy-minimalist-bedroom-04.webp"
+      },
+      {
+        title: "5. Use Soft Ambient Lighting",
+        content: "Lighting can completely change the mood of a bedroom. Replace harsh overhead lighting with warm bedside lamps, small wall lights, or soft floor lamps.\n\nChoose warm light that creates a gentle glow in the evening. This can make even a very simple bedroom feel cozy and relaxing.",
+        image: "/assets/cozy-minimalist-bedroom-05.webp"
+      },
+      {
+        title: "6. Add a Large Soft Area Rug",
+        content: "A large rug can make a minimalist bedroom feel warmer and more comfortable underfoot. Choose a neutral rug with a subtle texture rather than a busy pattern.\n\nPosition it beneath the bed so that it extends around the sides and creates a soft visual foundation for the room.",
+        image: "/assets/cozy-minimalist-bedroom-06.webp"
+      },
+      {
+        title: "7. Keep the Nightstand Simple",
+        content: "A cluttered nightstand can make an otherwise minimalist bedroom feel messy. Keep only a few useful or beautiful items on the surface.\n\nA small lamp, a book, a ceramic vase, or a single candle can be enough to create an attractive bedside arrangement.",
+        image: "/assets/cozy-minimalist-bedroom-07.webp"
+      },
+      {
+        title: "8. Bring in a Touch of Greenery",
+        content: "Plants add life and natural color without disrupting a minimalist aesthetic. A small olive tree, snake plant, eucalyptus arrangement, or simple potted plant can work beautifully.\n\nChoose one or two plants rather than filling every corner with greenery.",
+        image: "/assets/cozy-minimalist-bedroom-08.webp"
+      },
+      {
+        title: "9. Hang Linen Curtains",
+        content: "Linen curtains are perfect for a cozy minimalist bedroom because they add softness while allowing natural light to filter through.\n\nChoose white, ivory, beige, or oatmeal curtains for a relaxed look. Floor length curtains can also make the room appear taller and more elegant.",
+        image: "/assets/cozy-minimalist-bedroom-09.webp"
+      },
+      {
+        title: "10. Create a Cozy Reading Corner",
+        content: "If you have extra space, turn one corner of the bedroom into a small reading area. A comfortable chair, a simple floor lamp, and a small side table are all you need.\n\nKeep the colors and materials consistent with the rest of the bedroom so the corner feels like part of the overall design.",
+        image: "/assets/cozy-minimalist-bedroom-10.webp"
+      },
+      {
+        title: "11. Use Natural Textures",
+        content: "Minimalist bedrooms can sometimes feel too plain when everything has a smooth finish. Natural textures add warmth without adding visual clutter.\n\nTry woven baskets, linen bedding, a jute rug, wooden furniture, knitted throws, or textured ceramic accessories.",
+        image: "/assets/cozy-minimalist-bedroom-11.webp"
+      },
+      {
+        title: "12. Display One Large Piece of Wall Art",
+        content: "Instead of covering the walls with several small decorations, choose one large artwork that complements the bedroom.\n\nAn abstract neutral painting, simple botanical artwork, or understated landscape can create a focal point while keeping the room visually clean.",
+        image: "/assets/cozy-minimalist-bedroom-12.webp"
+      },
+      {
+        title: "13. Choose a Low Profile Bed",
+        content: "A low profile bed can give the bedroom a relaxed and modern appearance. Its simple shape works particularly well in minimalist interiors.\n\nPair it with neutral bedding and a few carefully chosen accessories to maintain a calm and uncluttered atmosphere.",
+        image: "/assets/cozy-minimalist-bedroom-13.webp"
+      },
+      {
+        title: "14. Add a Bench at the Foot of the Bed",
+        content: "A simple upholstered or wooden bench can make the bedroom feel more finished while also providing a useful place to sit or arrange blankets.\n\nChoose a bench with clean lines and a neutral finish so it blends naturally with the rest of the room.",
+        image: "/assets/cozy-minimalist-bedroom-14.webp"
+      },
+      {
+        title: "15. Create a Small Gallery Moment",
+        content: "If you prefer more personality, create a small arrangement of two or three coordinated prints above the bed or on an empty wall.\n\nKeep the artwork within a similar color palette so the display feels intentional rather than busy.",
+        image: "/assets/cozy-minimalist-bedroom-15.webp"
+      },
+      {
+        title: "16. Keep Surfaces Mostly Clear",
+        content: "One of the easiest ways to achieve a cozy minimalist bedroom is to reduce visible clutter. Keep dressers, nightstands, shelves, and other surfaces relatively clear.\n\nInstead of displaying everything you own, choose a few pieces that you genuinely enjoy looking at.",
+        image: "/assets/cozy-minimalist-bedroom-16.webp"
+      },
+      {
+        title: "17. Combine Cozy Textures With Clean Lines",
+        content: "The best cozy minimalist bedrooms balance simplicity with comfort. Pair clean furniture shapes with soft materials such as linen, cotton, wool, boucle, and knitted fabrics.\n\nThis combination keeps the room modern while preventing it from feeling cold or sterile.",
+        image: "/assets/cozy-minimalist-bedroom-17.webp"
+      },
+      {
+        title: "How to Make a Minimalist Bedroom Feel Cozy",
+        content: "Minimalism does not mean removing everything that makes a bedroom comfortable. The goal is to be selective.\n\nStart with a simple foundation of neutral colors and functional furniture. Then add warmth through natural wood, soft textiles, warm lighting, rugs, and a small amount of greenery. Keep decorative items intentional and avoid filling empty spaces simply because they are available.\n\nThe result should feel peaceful rather than empty."
+      },
+      {
+        title: "Final Thoughts",
+        content: "A cozy minimalist bedroom can be both simple and inviting. With the right balance of neutral colors, natural materials, soft lighting, comfortable bedding, and thoughtful decoration, you can create a room that feels calm without looking plain.\n\nThe most important thing is to choose pieces that make the space feel comfortable while keeping unnecessary clutter under control."
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I make a minimalist bedroom feel cozy?",
+        answer: "Start with neutral colors and functional furniture, then add warmth through layered bedding, natural wood, warm lighting, a large rug and a little greenery."
+      },
+      {
+        question: "What colors work best for a cozy minimalist bedroom?",
+        answer: "Warm white, beige, cream, taupe and light brown. Vary the shades through bedding, curtains and furniture rather than adding many different colors."
+      },
+      {
+        question: "What lighting is best for a minimalist bedroom?",
+        answer: "Warm, soft sources such as bedside lamps, small wall lights and floor lamps instead of harsh overhead lighting."
+      },
+      {
+        question: "How do I stop a minimalist bedroom from looking plain?",
+        answer: "Add natural textures like linen, wool, jute, boucle and wood, and display one large piece of wall art or a small, coordinated gallery."
+      },
+      {
+        question: "What should I keep on a minimalist nightstand?",
+        answer: "Just a few useful or beautiful items, such as a small lamp, a book, a ceramic vase or a single candle."
+      },
+      {
+        question: "How many plants should a minimalist bedroom have?",
+        answer: "One or two. A small olive tree, snake plant or eucalyptus arrangement adds life without cluttering the room."
+      }
+    ]
+  },
+  {
+    id: "52",
+    slug: "room-inspo-aesthetic-ideas",
+    date: "2026-10-08",
+    title: "19 Room Inspo Aesthetic Ideas for a Stylish and Cozy Home",
+    excerpt: "Nineteen room inspo aesthetic ideas, from soft neutral bedrooms and warm lighting to natural wood, mixed textures and a cozy evening atmosphere.",
+    intro: "Creating a beautiful home does not always mean buying new furniture or completely changing your space. Sometimes, a few thoughtful details can make a room feel warmer, more stylish, and more personal.\n\nWhether you love soft neutral interiors, modern decor, vintage touches, or cozy layered spaces, these room inspo aesthetic ideas can help you create a home that feels comfortable while still looking put together.",
+    category: "Living Room",
+    image: "/assets/room-inspo-aesthetic-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Create a Soft Neutral Bedroom",
+        content: "A neutral bedroom is one of the easiest ways to create a calm and cozy atmosphere. Use shades of cream, beige, warm white, and light brown throughout the space. Add textured bedding, soft curtains, and a simple wooden nightstand to keep the room inviting without making it feel crowded.",
+        image: "/assets/room-inspo-aesthetic-01.webp"
+      },
+      {
+        title: "2. Add Warm Ambient Lighting",
+        content: "Lighting can completely change the mood of a room. Replace harsh overhead lighting with table lamps, floor lamps, wall lights, and warm bulbs. A small lamp beside the bed or sofa can make the entire space feel more relaxed in the evening.",
+        image: "/assets/room-inspo-aesthetic-02.webp"
+      },
+      {
+        title: "3. Style a Cozy Reading Corner",
+        content: "Turn an unused corner into a comfortable reading spot with a soft armchair, a small side table, and a floor lamp. Add a throw blanket and a few books to make the area feel lived in. A nearby plant can bring a natural touch to the corner.",
+        image: "/assets/room-inspo-aesthetic-03.webp"
+      },
+      {
+        title: "4. Decorate With Natural Wood",
+        content: "Natural wood furniture works beautifully with many different interior styles. Choose a wooden coffee table, nightstand, shelving unit, or bench to introduce warmth. Pair it with neutral fabrics and simple decor for a balanced look.",
+        image: "/assets/room-inspo-aesthetic-04.webp"
+      },
+      {
+        title: "5. Create a Minimalist Gallery Wall",
+        content: "A gallery wall can make a plain wall feel much more interesting. Choose artwork that shares a similar color palette, then arrange the pieces with enough space between them. Black, white, beige, and muted earthy tones work especially well for a refined aesthetic.",
+        image: "/assets/room-inspo-aesthetic-05.webp"
+      },
+      {
+        title: "6. Layer Your Bedding",
+        content: "Layered bedding instantly makes a bedroom look more comfortable. Start with simple sheets, then add a duvet, folded blanket, decorative pillows, and a textured throw at the end of the bed. Keep the colors coordinated for a polished appearance.",
+        image: "/assets/room-inspo-aesthetic-06.webp"
+      },
+      {
+        title: "7. Bring in Plenty of Greenery",
+        content: "Plants can make an interior feel fresh and welcoming. Place larger plants beside furniture while using smaller plants on shelves, tables, or windowsills. Choose simple ceramic or woven planters that complement the rest of the room.",
+        image: "/assets/room-inspo-aesthetic-07.webp"
+      },
+      {
+        title: "8. Use a Statement Mirror",
+        content: "A large mirror can serve as both practical decor and a focal point. Try a rounded mirror above a console table or a tall floor mirror beside a dresser. Mirrors can also help reflect natural light and make smaller rooms feel more open.",
+        image: "/assets/room-inspo-aesthetic-08.webp"
+      },
+      {
+        title: "9. Try a Warm Earthy Color Palette",
+        content: "Terracotta, caramel, olive green, cream, and warm brown can create a cozy and sophisticated room. You do not need to repaint the entire space. Introduce these colors through cushions, rugs, artwork, curtains, and smaller decorative pieces.",
+        image: "/assets/room-inspo-aesthetic-09.webp"
+      },
+      {
+        title: "10. Make Your Sofa the Focal Point",
+        content: "A comfortable sofa can become the centerpiece of a living room. Choose a simple design in a neutral shade and style it with cushions in different textures. Add a soft rug and a coffee table to create a comfortable area for relaxing.",
+        image: "/assets/room-inspo-aesthetic-10.webp"
+      },
+      {
+        title: "11. Create a Cozy Bedside Setup",
+        content: "A well styled nightstand can make a bedroom feel much more intentional. Keep the essentials simple with a small lamp, a book, a candle, and a small decorative object. Avoid filling every inch of the surface so the arrangement still feels clean.",
+        image: "/assets/room-inspo-aesthetic-11.webp"
+      },
+      {
+        title: "12. Mix Textures for a Cozy Look",
+        content: "Using different textures can make a room feel much richer without adding lots of color. Combine linen curtains, knitted blankets, woven baskets, plush rugs, wooden furniture, and ceramic accessories. The contrast between these materials adds visual interest.",
+        image: "/assets/room-inspo-aesthetic-12.webp"
+      },
+      {
+        title: "13. Add a Vintage Touch",
+        content: "One or two vintage inspired pieces can give a room more character. Try an antique style mirror, an old wooden cabinet, vintage artwork, or a traditional lamp. Combine these pieces with modern furniture so the room feels collected rather than dated.",
+        image: "/assets/room-inspo-aesthetic-13.webp"
+      },
+      {
+        title: "14. Style Open Shelves",
+        content: "Open shelves are a great opportunity to display items you actually enjoy. Arrange books, framed artwork, ceramics, plants, candles, and small objects at different heights. Leave some empty space between groups of items to keep the shelves from looking cluttered.",
+        image: "/assets/room-inspo-aesthetic-14.webp"
+      },
+      {
+        title: "15. Create a Calm Home Office Corner",
+        content: "A small desk does not need an entire room. Choose a compact desk, comfortable chair, simple lamp, and a few useful accessories. Keep the colors soft and add a plant or framed print to make the workspace feel more inviting.",
+        image: "/assets/room-inspo-aesthetic-15.webp"
+      },
+      {
+        title: "16. Use Curtains to Soften the Room",
+        content: "Curtains can make a surprisingly big difference in an interior. Choose lightweight curtains in white, cream, beige, or another soft shade. Hanging them slightly higher and wider than the window can create a more spacious and elegant appearance.",
+        image: "/assets/room-inspo-aesthetic-16.webp"
+      },
+      {
+        title: "17. Add a Beautiful Area Rug",
+        content: "An area rug can help define the layout of a room while adding warmth underfoot. For a cozy aesthetic, look for rugs with subtle patterns, muted colors, or soft natural textures. Make sure the rug is large enough to visually connect the main furniture pieces.",
+        image: "/assets/room-inspo-aesthetic-17.webp"
+      },
+      {
+        title: "18. Keep Decor Simple and Personal",
+        content: "A stylish room should still feel like someone lives there. Display favorite books, photographs, travel finds, artwork, or objects that have personal meaning. A few carefully chosen pieces can make a room feel much more authentic than filling it with trendy decorations.",
+        image: "/assets/room-inspo-aesthetic-18.webp"
+      },
+      {
+        title: "19. Create a Cozy Evening Atmosphere",
+        content: "Think about how your room looks after sunset. Use warm lamps, candles, soft blankets, subtle lighting, and comfortable seating to create an inviting evening environment. This final layer can make even a simple room feel incredibly cozy.",
+        image: "/assets/room-inspo-aesthetic-19.webp"
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I get a cozy room aesthetic?",
+        answer: "Use warm lighting, layered textures, natural wood and a soft neutral or earthy palette, then add a few personal items."
+      },
+      {
+        question: "What colors suit a warm, earthy room?",
+        answer: "Terracotta, caramel, olive green, cream and warm brown. Introduce them through cushions, rugs, artwork and curtains instead of repainting."
+      },
+      {
+        question: "How can I make a room look stylish without buying new furniture?",
+        answer: "Change the lighting, layer bedding or cushions, add a rug, hang curtains higher and wider, and style shelves and surfaces with a few chosen pieces."
+      },
+      {
+        question: "How do I style open shelves?",
+        answer: "Arrange books, framed art, ceramics, plants and candles at different heights, and leave some empty space between groups."
+      },
+      {
+        question: "How do I mix vintage and modern decor?",
+        answer: "Add one or two vintage pieces, such as an antique-style mirror or old wooden cabinet, to modern furniture so the room feels collected rather than dated."
+      },
+      {
+        question: "How do I make a room feel personal?",
+        answer: "Display favorite books, photographs, travel finds and meaningful objects instead of filling the room with trendy decorations."
       }
     ]
   }
