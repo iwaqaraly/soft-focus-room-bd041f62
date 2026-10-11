@@ -84,6 +84,42 @@ const ArticlePage = () => {
               <div className="grid gap-8 md:gap-12">
                 {article.sections.map((section, index) => {
                   const isEven = index % 2 === 0;
+
+                  // Sections without an image (guides, final thoughts) span the full width
+                  if (!section.image) {
+                    const paragraphs = section.content
+                      .split(/\n\n+/)
+                      .map((p) => p.trim())
+                      .filter(Boolean);
+                    return (
+                      <section
+                        key={index}
+                        className="max-w-3xl w-full mx-auto rounded-2xl bg-muted/40 border border-border/60 p-6 md:p-10"
+                      >
+                        <h2 className="text-2xl md:text-3xl font-medium text-foreground leading-tight mb-6 text-center">
+                          {section.title.replace(/^\d+\.\s*/, "")}
+                        </h2>
+                        <div className="space-y-4">
+                          {paragraphs.map((paragraph, pIndex) => {
+                            const match = paragraph.match(/^([A-Z][^:.\n]{1,40}):\s+([\s\S]+)$/);
+                            return (
+                              <p key={pIndex} className="text-muted-foreground leading-relaxed">
+                                {match ? (
+                                  <>
+                                    <strong className="font-semibold text-foreground">{match[1]}:</strong>{" "}
+                                    {match[2]}
+                                  </>
+                                ) : (
+                                  paragraph
+                                )}
+                              </p>
+                            );
+                          })}
+                        </div>
+                      </section>
+                    );
+                  }
+
                   return (
                     <div
                       key={index}
