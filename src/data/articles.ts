@@ -6614,5 +6614,196 @@ export const articles: Article[] = [
     faqs: [
 
     ]
+  },
+  {
+    id: "67",
+    slug: "coffee-table-decor-ideas",
+    date: "2026-10-17",
+    title: "15 Simple Coffee Table Decor Ideas for an Elegant Look",
+    excerpt: "Fifteen simple coffee table decor ideas, from decorative trays and fresh flowers to stacked books, candles, natural wood and a single statement piece.",
+    intro: "A beautifully styled coffee table can make a living room feel more polished without requiring expensive furniture or elaborate decorations. With a few carefully chosen accessories, you can create a space that feels elegant, welcoming, and connected to the rest of your interior design. The secret is to balance decorative objects with practical items while leaving enough room for everyday use.\n\nWhether you prefer modern minimalism, classic interiors, warm neutral colors, or natural textures, there are plenty of simple coffee table decor ideas to suit your style. From fresh flowers and decorative trays to stacked books and sculptural accents, these ideas will help you create a coffee table that looks thoughtfully arranged and effortlessly stylish.",
+    category: "Living Room",
+    image: "/assets/coffee-table-decor-ideas-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Style Your Coffee Table With a Decorative Tray",
+        content: "A decorative tray is one of the easiest ways to make a coffee table look organized and elegant. It creates a defined area for smaller accessories, preventing the surface from feeling cluttered. Choose a tray in marble, wood, brass, or textured metal to complement your living room furniture.\n\nPlace a small vase, a scented candle, and one decorative object inside the tray. For a refined look, keep the arrangement simple and allow some empty space around the objects. A tray also makes it easy to move everything when you need extra room for drinks or snacks.",
+        image: "/assets/coffee-table-decor-ideas-01.webp"
+      },
+      {
+        title: "2. Add a Vase of Fresh Flowers",
+        content: "Fresh flowers bring color, texture, and natural beauty to a coffee table. A simple arrangement of white roses, tulips, hydrangeas, or seasonal flowers can make the entire living room feel more inviting.\n\nChoose a vase that complements the shape and material of your coffee table. A clear glass vase creates an airy appearance, while a ceramic or stone vase adds warmth and texture. Keep the arrangement proportional to the table so it does not obstruct conversation or dominate the seating area.",
+        image: "/assets/coffee-table-decor-ideas-02.webp"
+      },
+      {
+        title: "3. Display a Stack of Coffee Table Books",
+        content: "Coffee table books are both decorative and practical. Books about architecture, photography, fashion, art, or interior design can reflect your interests while adding height and structure to the table.\n\nStack two or three books horizontally, choosing covers that coordinate with your room's color palette. You can place a small ceramic bowl, a candle, or a sculptural object on top of the stack. Neutral covers work particularly well in understated interiors, while colorful books can introduce personality into a simple living room.",
+        image: "/assets/coffee-table-decor-ideas-03.webp"
+      },
+      {
+        title: "4. Use a Ceramic Vase for a Minimalist Look",
+        content: "A sculptural ceramic vase can make a striking statement without adding unnecessary clutter. Its shape, finish, and texture become the main decorative features, making it ideal for minimalist and contemporary living rooms.\n\nChoose a vase in cream, warm white, taupe, or soft gray for a subtle appearance. You can leave it empty to highlight its silhouette or add a few branches for a natural touch. A single well chosen piece often looks more sophisticated than several unrelated accessories placed together.",
+        image: "/assets/coffee-table-decor-ideas-04.webp"
+      },
+      {
+        title: "5. Incorporate Candles for a Warm Atmosphere",
+        content: "Candles add warmth and create a relaxing atmosphere, particularly in living rooms with soft lighting and comfortable seating. Arrange two or three candles of different heights to introduce variation without making the table feel crowded.\n\nChoose candleholders in brass, glass, ceramic, or stone, depending on your interior style. Unscented candles are a good option when you want a purely decorative arrangement, while lightly scented varieties can make the room feel more inviting. Keep candles away from flowers, books, and other flammable objects, and never leave a burning candle unattended.",
+        image: "/assets/coffee-table-decor-ideas-05.webp"
+      },
+      {
+        title: "6. Decorate With a Small Bowl",
+        content: "A decorative bowl is a simple accessory that brings shape and texture to a coffee table. Bowls made from marble, wood, ceramic, or handmade stoneware can complement a wide range of interiors.\n\nPlace a single bowl in the center of a tray or beside a stack of books. You can leave it empty for a clean, sculptural look or fill it with a few natural objects, such as polished stones or decorative wooden beads. Choose a bowl with an interesting finish to add visual depth without introducing too many colors.",
+        image: "/assets/coffee-table-decor-ideas-06.webp"
+      },
+      {
+        title: "7. Bring Nature Indoors With Greenery",
+        content: "Greenery adds a fresh, natural element to coffee table decor. A small potted plant, a compact fern, or a simple arrangement of leafy branches can soften the appearance of hard surfaces and neutral furniture.\n\nFor a contemporary living room, choose a plant with a clean silhouette and place it in a ceramic or stone planter. If your coffee table receives limited natural light, select a plant suited to those conditions or use realistic artificial greenery. Keep the arrangement low enough to preserve clear sightlines across the seating area.",
+        image: "/assets/coffee-table-decor-ideas-07.webp"
+      },
+      {
+        title: "8. Create an Elegant Marble and Gold Arrangement",
+        content: "Marble and gold accents work beautifully together when you want a refined coffee table arrangement. The natural veining of marble adds visual interest, while gold introduces a subtle touch of warmth.\n\nCombine a small marble tray with a brass candleholder and a compact decorative object. This combination works especially well on black, white, glass, or dark wood coffee tables. To maintain an elegant appearance, use only a few metallic accents and avoid mixing too many competing finishes.",
+        image: "/assets/coffee-table-decor-ideas-08.webp"
+      },
+      {
+        title: "9. Use a Sculptural Decorative Object",
+        content: "A sculptural object can give your coffee table the appearance of a carefully curated interior. Look for abstract forms, rounded stone figures, geometric designs, or artistic pieces made from wood, ceramic, or metal.\n\nPlace the object where it can be appreciated from different angles, leaving enough room around it to emphasize its shape. Sculptural decor works particularly well when the rest of the living room has a restrained color palette. One distinctive piece can provide all the visual interest the table needs.",
+        image: "/assets/coffee-table-decor-ideas-09.webp"
+      },
+      {
+        title: "10. Arrange Decor on a Round Tray",
+        content: "A round tray introduces soft curves that can balance the straight lines of a rectangular coffee table. It also provides a natural boundary for grouping several small accessories into one cohesive arrangement.\n\nChoose a wooden tray for a warm, relaxed interior, or opt for a marble or metallic finish for a more polished look. Place a small vase, a candle, and a decorative bowl inside it. Keep the objects varied in height and shape to create a balanced arrangement without making it look overly symmetrical.",
+        image: "/assets/coffee-table-decor-ideas-10.webp"
+      },
+      {
+        title: "11. Choose a Neutral Color Palette",
+        content: "A neutral color palette is ideal for creating a calm and elegant coffee table display. Shades of ivory, beige, cream, taupe, and soft gray work well together because they create subtle contrast without overwhelming the room.\n\nCombine accessories made from different materials, such as a linen covered book, a matte ceramic vase, a stone bowl, and a natural wood tray. The differences in texture prevent the arrangement from appearing flat. This approach works particularly well in Scandinavian, contemporary, and modern organic interiors.",
+        image: "/assets/coffee-table-decor-ideas-11.webp"
+      },
+      {
+        title: "12. Decorate With Natural Wood Accents",
+        content: "Natural wood adds warmth and character to a coffee table, especially in living rooms with white walls, neutral upholstery, or stone surfaces. Wooden bowls, small carved objects, and decorative trays introduce organic texture without making the arrangement feel formal.\n\nChoose wood tones that complement your existing furniture rather than matching every piece exactly. A light oak accessory can brighten a darker room, while walnut accents can bring depth to a neutral space. Pair wood with ceramic or linen textures for a balanced and inviting display.",
+        image: "/assets/coffee-table-decor-ideas-12.webp"
+      },
+      {
+        title: "13. Add a Glass Vase With Decorative Branches",
+        content: "Decorative branches offer a simple way to create height and movement on a coffee table. Their natural lines make the arrangement feel artistic, while a transparent glass vase keeps the overall look light.\n\nChoose delicate branches, eucalyptus stems, or seasonal foliage that suits your interior. Use a relatively narrow vase and keep the arrangement open rather than tightly packed. This idea works especially well on larger coffee tables, where a taller centerpiece can add interest without requiring several separate accessories.",
+        image: "/assets/coffee-table-decor-ideas-13.webp"
+      },
+      {
+        title: "14. Create a Cozy Coffee Table With Textured Accessories",
+        content: "Texture can make a coffee table feel warm and inviting even when the color palette is simple. Consider combining a woven tray, a matte ceramic vase, a soft neutral book cover, and a small wooden object.\n\nThe key is to vary the materials while keeping the overall arrangement coordinated. Linen, rattan, stone, wood, and handmade ceramics work particularly well together. This style suits relaxed contemporary homes, farmhouse interiors, and rooms inspired by natural materials.",
+        image: "/assets/coffee-table-decor-ideas-14.webp"
+      },
+      {
+        title: "15. Keep It Simple With One Statement Piece",
+        content: "Sometimes the most elegant coffee table decor consists of just one beautiful object. A large sculptural vase, an unusual ceramic bowl, or an artistic centerpiece can create a strong visual impact without filling the entire surface.\n\nThis approach is especially effective on small coffee tables or in minimalist living rooms where negative space is an important part of the design. Choose an object with an interesting silhouette or finish, then leave the surrounding surface clear. The simplicity allows the piece to stand out while keeping the room practical and uncluttered.",
+        image: "/assets/coffee-table-decor-ideas-15.webp"
+      }
+    ],
+    faqs: [
+
+    ]
+  },
+  {
+    id: "68",
+    slug: "wall-decor-ideas",
+    date: "2026-10-17",
+    title: "16 Wall Decor Ideas for a Stylish and Cozy Home",
+    excerpt: "Sixteen wall decor ideas, from gallery walls and statement mirrors to floating shelves, textured panels, macrame and floating plant walls.",
+    intro: "Wall decor can change the entire feel of a room without requiring a major renovation. The right artwork, mirrors, shelves, or decorative accents can make an empty wall feel warm, give a small room more character, and bring together the colors and textures of your interior. Whether you prefer modern minimalism, rustic charm, vintage details, or a relaxed bohemian look, there are plenty of ways to decorate your walls to suit your style.\n\nIf you are looking for inspiration, these 16 wall decor ideas will help you create a home that feels stylish, comfortable, and personal. From gallery walls to textured finishes, each idea offers a practical way to make your living room, bedroom, hallway, or dining area feel more inviting.",
+    category: "Living Room",
+    image: "/assets/wall-decor-ideas-01.webp",
+    imageAspectRatio: "1:1",
+    sections: [
+      {
+        title: "1. Create a Beautiful Gallery Wall",
+        content: "A gallery wall is an excellent way to give a blank wall personality and visual interest. Combine framed art prints, photographs, illustrations, and small decorative pieces to create a collection that reflects your taste. For a cohesive look, choose frames in similar finishes or artwork that shares a consistent color palette.\n\nYou can arrange the frames in a symmetrical grid for a clean appearance or use an organic layout for a more relaxed feel. Gallery walls work particularly well above sofas, beds, console tables, and staircases. Before hanging anything, arrange the pieces on the floor to find a composition that feels balanced.",
+        image: "/assets/wall-decor-ideas-01.webp"
+      },
+      {
+        title: "2. Add a Large Statement Mirror",
+        content: "A large statement mirror can make a room feel brighter, more open, and more polished. Mirrors reflect natural light and create a sense of depth, making them especially useful in smaller living rooms, narrow hallways, and compact bedrooms.\n\nChoose an oversized round mirror for a softer look, an arched mirror for an elegant touch, or a rectangular design for a modern interior. Position it where it can reflect a window, an attractive light fixture, or another appealing part of the room. A mirror above a console table also creates an easy focal point that requires very little additional decoration.",
+        image: "/assets/wall-decor-ideas-02.webp"
+      },
+      {
+        title: "3. Decorate with Floating Shelves",
+        content: "Floating shelves combine practical storage with attractive wall decoration. They provide space to display books, small plants, ceramic vases, framed photographs, and collected objects without taking up valuable floor space.\n\nFor a balanced arrangement, mix items of different heights and shapes while leaving some open space between them. Wooden shelves bring warmth to neutral interiors, while black or white shelves suit contemporary spaces. You can install two or three shelves in a vertical arrangement or stagger them for a more casual appearance.\n\nFloating shelves are particularly useful in apartments, home offices, and living rooms where you want to display personal belongings without creating clutter.",
+        image: "/assets/wall-decor-ideas-03.webp"
+      },
+      {
+        title: "4. Bring Nature Indoors with Botanical Wall Art",
+        content: "Botanical wall art adds a fresh, calming element to interior spaces. Prints featuring leaves, flowers, ferns, and delicate plant illustrations work beautifully in rooms decorated with natural materials and soft colors.\n\nFor a classic look, arrange several botanical prints in matching frames. If you prefer a contemporary style, choose oversized botanical artwork with simple compositions and muted green tones. Wooden frames complement the natural theme, while thin black frames create a sharper contrast.\n\nThis style of wall decor is well suited to bedrooms, dining rooms, kitchens, and living areas. Pair it with real indoor plants, linen fabrics, and wooden furniture to create a relaxed atmosphere.",
+        image: "/assets/wall-decor-ideas-04.webp"
+      },
+      {
+        title: "5. Install Decorative Wall Sconces",
+        content: "Wall sconces offer both functional lighting and decorative appeal. They add depth to a wall while creating a softer atmosphere than relying entirely on overhead lights. Depending on the design, sconces can make a room feel traditional, contemporary, industrial, or romantic.\n\nPlace a matching pair on either side of a large artwork, above bedside tables, or along a hallway. Brass finishes suit warm, classic interiors, while matte black fixtures work well in modern spaces. Fabric shades create a gentle glow, whereas sculptural metal designs provide a more architectural appearance.\n\nIf electrical installation is not practical, consider rechargeable or battery operated wall lights for a similar decorative effect.",
+        image: "/assets/wall-decor-ideas-05.webp"
+      },
+      {
+        title: "6. Use Textured Wall Panels",
+        content: "Textured wall panels add dimension and sophistication to plain walls. Vertical wood slats, fluted panels, and geometric wall treatments can turn a simple surface into a striking architectural feature.\n\nWood panels are especially effective behind a sofa, television unit, or bed. Light oak creates an airy Scandinavian look, while darker wood adds richness and contrast. Painted fluted panels can also introduce texture without making the room feel visually heavy.\n\nTo keep the space balanced, let the textured wall serve as the main feature and use simpler furniture and accessories around it. This approach works particularly well in contemporary homes where subtle materials make a strong impression.",
+        image: "/assets/wall-decor-ideas-06.webp"
+      },
+      {
+        title: "7. Display Oversized Abstract Art",
+        content: "Oversized abstract art is a simple way to create a focal point without filling an entire wall with smaller decorations. A single large canvas can bring color, movement, and personality to an otherwise understated room.\n\nChoose artwork that complements your existing furnishings. Beige, cream, and soft brown compositions suit warm neutral interiors, while deep blue, terracotta, or olive green can introduce a stronger accent. Abstract paintings also work well when their colors echo details in cushions, rugs, or curtains.\n\nHang the artwork above a sofa, dining table, or bed, keeping its proportions appropriate for the furniture below it. A large piece usually looks more intentional when it has enough surrounding space to stand out.",
+        image: "/assets/wall-decor-ideas-07.webp"
+      },
+      {
+        title: "8. Try a Rustic Wooden Wall Accent",
+        content: "Rustic wooden wall decor brings natural warmth and texture into a home. Reclaimed wood panels, carved wooden decorations, and simple timber signs can add character to interiors inspired by farmhouse, cottage, or country styles.\n\nFor a refined result, look for wood with visible grain and subtle variations in tone. Pair it with woven baskets, linen textiles, ceramic accessories, and warm lighting to create a welcoming atmosphere.\n\nIf you prefer a lighter look, use a small wooden wall accent rather than covering an entire wall. This allows the natural material to stand out without overwhelming the rest of the room.",
+        image: "/assets/wall-decor-ideas-08.webp"
+      },
+      {
+        title: "9. Make a Statement with Decorative Wall Plates",
+        content: "Decorative wall plates offer an alternative to traditional framed artwork. Their different shapes, patterns, and finishes can bring a collected, personal quality to dining rooms, kitchens, and breakfast areas.\n\nChoose plates that share a common detail, such as a similar color palette, floral motif, or ceramic finish. You can arrange them in a neat cluster for a formal appearance or create an asymmetrical display for a more relaxed style.\n\nBlue and white ceramics create a classic look, while earthy pottery adds warmth to rustic interiors. Use appropriate wall plate hangers or secure mounting systems to keep each piece firmly in place.",
+        image: "/assets/wall-decor-ideas-09.webp"
+      },
+      {
+        title: "10. Hang Woven Wall Baskets",
+        content: "Woven wall baskets add natural texture and an inviting handmade quality to interior spaces. Their varied patterns and circular shapes create visual interest without the formality of framed artwork.\n\nFor an attractive arrangement, combine baskets of different sizes while keeping their colors within a similar range. Natural rattan, seagrass, and wicker work particularly well with cream walls, wooden furniture, and soft neutral textiles.\n\nA basket wall can look beautiful above a sofa, console table, or bed. If the room already contains patterned rugs or colorful furnishings, choose simpler baskets to maintain balance. In a minimal space, more intricate weaving can provide a welcome decorative detail.",
+        image: "/assets/wall-decor-ideas-10.webp"
+      },
+      {
+        title: "11. Create a Cozy Bedroom Accent Wall",
+        content: "The wall behind your bed is one of the best places to introduce decorative detail. An accent wall can make the bedroom feel more complete while giving the bed a clear visual focus.\n\nConsider soft painted colors, upholstered wall panels, subtle wallpaper, or a carefully arranged collection of framed prints. Warm beige, muted sage, dusty rose, and soft taupe are all suitable choices for a relaxing bedroom.\n\nKeep the scale of the decoration in proportion to the bed. One large artwork or a pair of matching prints can create a balanced appearance, while a textured panel behind the headboard offers a more architectural finish. Add warm bedside lighting to make the entire arrangement feel comfortable in the evening.",
+        image: "/assets/wall-decor-ideas-11.webp"
+      },
+      {
+        title: "12. Use Peel and Stick Wallpaper",
+        content: "Peel and stick wallpaper is a convenient way to introduce pattern and color without committing to a permanent wall treatment. It comes in a wide variety of designs, including botanical prints, geometric patterns, delicate florals, and textured finishes.\n\nUse it on a single wall to create a feature without making the room feel busy. Small floral patterns can suit cottage inspired interiors, while understated geometric designs work well in contemporary homes. For a calm atmosphere, choose patterns that incorporate colors already present in your furniture or textiles.\n\nBefore installation, make sure the wall surface is suitable for the product and follow the manufacturer's instructions. Testing a small area first can help you assess adhesion and removal.",
+        image: "/assets/wall-decor-ideas-12.webp"
+      },
+      {
+        title: "13. Display Personal Photographs",
+        content: "Personal photographs make wall decor meaningful by bringing favorite memories into everyday spaces. Family portraits, travel photographs, wedding pictures, and candid moments can all become part of an attractive display.\n\nTo create a coordinated look, use frames in the same finish or print photographs in a consistent color treatment. Black and white images offer a timeless appearance, while colorful photographs can make a neutral wall feel more lively.\n\nArrange the frames above a console table, along a staircase, or on a living room wall. Leave even spacing between the frames for a structured layout, or combine different sizes for a more informal collection. Choose images that feel personal rather than filling the wall simply to cover empty space.",
+        image: "/assets/wall-decor-ideas-13.webp"
+      },
+      {
+        title: "14. Add a Decorative Wall Clock",
+        content: "A decorative wall clock combines everyday usefulness with visual appeal. Depending on its design, it can become a subtle accent or the main feature of an otherwise simple wall.\n\nLarge wooden clocks complement rustic and Scandinavian interiors, while metal clocks suit industrial or contemporary spaces. Rounded designs with clean faces work well in minimalist rooms, and vintage inspired clocks add character to traditional homes.\n\nHang the clock where it can be seen easily without competing with other major decorative pieces. A clock above a console table or on an open kitchen wall can create a practical and attractive arrangement. Keep surrounding decorations relatively simple if the clock has a bold shape or oversized frame.",
+        image: "/assets/wall-decor-ideas-14.webp"
+      },
+      {
+        title: "15. Bring Warmth with Macrame Wall Hangings",
+        content: "Macrame wall hangings introduce softness and handcrafted texture to a room. Made from knotted cotton cord or similar fibers, these decorative pieces work particularly well in bohemian, coastal, and relaxed contemporary interiors.\n\nA large macrame hanging can create a focal point above a bed or sofa, while smaller pieces are suitable for narrow walls and reading corners. Natural cream and ivory tones keep the look understated, while colored fibers can add a more distinctive accent.\n\nPair macrame with woven rugs, linen curtains, wooden furniture, and soft lighting to build a cohesive look. Because these hangings already have plenty of texture, they often look best against a simple painted wall.",
+        image: "/assets/wall-decor-ideas-15.webp"
+      },
+      {
+        title: "16. Create a Wall of Floating Plants",
+        content: "A wall of floating plants brings greenery into your home while turning an empty surface into a living display. Trailing pothos, heartleaf philodendron, and other suitable indoor plants can create a layered effect as their foliage grows over time.\n\nInstall sturdy shelves at varying heights to give the plants room to spread. Mix trailing varieties with compact upright plants and use pots in complementary finishes, such as terracotta, ceramic, or woven covers.\n\nLight is an important consideration when planning a plant display. Choose species that suit the natural light available in the room, and make sure the shelves can support the weight of the pots and moist soil. Position the display where watering and maintenance will be easy.",
+        image: "/assets/wall-decor-ideas-16.webp"
+      },
+      {
+        title: "Final Thoughts",
+        content: "The best wall decor ideas balance personal style with the practical needs of your home. A gallery wall can showcase meaningful artwork, mirrors can make a room feel brighter, and textured panels can add depth to a simple interior. Natural materials, decorative lighting, and indoor plants can also make everyday spaces feel warmer and more inviting.\n\nYou do not need to decorate every wall to create a finished look. Start with one area that feels empty, choose a focal point, and build around it using colors, materials, and accessories that complement the rest of your home. With thoughtful choices, even a small wall can become a beautiful part of your interior design."
+      }
+    ],
+    faqs: [
+
+    ]
   }
 ];
