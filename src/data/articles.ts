@@ -31,7 +31,7 @@ export const articles: Article[] = [
     title: "King Size Bed Guide: 21 Dimensions & Benefits",
     excerpt: "Explore the complete guide to king size beds including standard, California, split, European, and custom options for every bedroom.",
     category: "Bedroom",
-    image: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
+    image: "/assets/king-bed-01.webp",
     sections: [
       {
         title: "1. Standard King Bed",
@@ -189,7 +189,7 @@ export const articles: Article[] = [
     title: "Best Jacuzzi Ideas for Your Backyard: 24 Ways",
     excerpt: "Transform your outdoor space into a luxurious retreat with these inspiring jacuzzi designs, from modern minimalist to tropical paradise.",
     category: "Garden",
-    image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+    image: "/assets/jacuzzi-01.webp",
     sections: [
       {
         title: "1. Modern Minimalist Jacuzzi",
@@ -362,7 +362,7 @@ export const articles: Article[] = [
     title: "Bedroom Earth Tones: 22 Cozy Neutral Ideas",
     excerpt: "Discover warm, grounding color palettes that transform your bedroom into a peaceful retreat with timeless earth-inspired neutrals.",
     category: "Bedroom",
-    image: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80",
+    image: "/assets/earth-tone-01.webp",
     sections: [
       {
         title: "1. Warm Beige Bedroom Base",
@@ -525,7 +525,7 @@ export const articles: Article[] = [
     title: "Romantic Moody Bedroom Tips: 25 Design Ideas",
     excerpt: "Create an intimate and cozy retreat with deep tones, soft textures, and warm lighting for the ultimate romantic bedroom atmosphere.",
     category: "Bedroom",
-    image: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&q=80",
+    image: "/assets/moody-bedroom-01.webp",
     sections: [
       {
         title: "1. Deep Charcoal Wall Color",
@@ -703,7 +703,7 @@ export const articles: Article[] = [
     title: "Modern Living Room Ideas 2026: 21 Trends",
     excerpt: "Discover the top living room trends for 2026, from warm neutrals and curved furniture to layered textures and timeless modern comfort.",
     category: "Living Room",
-    image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
+    image: "/assets/living-room-2026-01.webp",
     sections: [
       {
         title: "1. Warm Modern Neutrals",
@@ -861,7 +861,7 @@ export const articles: Article[] = [
     title: "Small Room Bedroom Ideas: 23 Easy Tips",
     excerpt: "Discover 23 practical tips to maximize space, style, and functionality in small bedrooms without sacrificing comfort.",
     category: "Bedroom",
-    image: "/assets/placeholder.svg",
+    image: "/assets/small-room-bedroom-01.webp",
     imageAspectRatio: "1:1",
     sections: [
       {
@@ -1014,7 +1014,7 @@ export const articles: Article[] = [
     title: "DIY Wall Decor: 23 Easy Budget Projects",
     excerpt: "Discover 23 affordable and creative DIY wall décor ideas to transform blank walls without breaking the bank.",
     category: "Living Room",
-    image: "/assets/placeholder.svg",
+    image: "/assets/diy-wall-decor-01.webp",
     imageAspectRatio: "1:1",
     sections: [
       {
@@ -1167,7 +1167,7 @@ export const articles: Article[] = [
     title: "Home Gym Inspiration: 24 Easy Space Ideas",
     excerpt: "Discover 24 smart ideas to create an efficient home gym in any space, from compact corners to multi-purpose rooms.",
     category: "Living Room",
-    image: "/assets/placeholder.svg",
+    image: "/assets/home-gym-01.webp",
     imageAspectRatio: "1:1",
     sections: [
       {
@@ -1325,7 +1325,7 @@ export const articles: Article[] = [
     title: "Room Decor DIY: 20 Easy Project Ideas",
     excerpt: "Discover 20 creative and budget-friendly DIY décor projects to personalize any room with style and charm.",
     category: "Living Room",
-    image: "/assets/placeholder.svg",
+    image: "/assets/room-decor-diy-01.webp",
     imageAspectRatio: "1:1",
     sections: [
       {
@@ -1463,7 +1463,7 @@ export const articles: Article[] = [
     title: "Kitchen Counter Decor: 21 Ideas to Transform Your Space",
     excerpt: "Discover 21 stylish and functional ideas to elevate your kitchen countertops with décor that balances beauty and practicality.",
     category: "Kitchen",
-    image: "/assets/placeholder.svg",
+    image: "/assets/kitchen-counter-01.webp",
     imageAspectRatio: "1:1",
     sections: [
       {
@@ -1606,7 +1606,7 @@ export const articles: Article[] = [
     title: "Modern Farmhouse Kitchen 2026: 23 Ideas",
     excerpt: "Discover 23 inspiring ideas to create a modern farmhouse kitchen that blends rustic charm with contemporary functionality.",
     category: "Kitchen",
-    image: "/assets/placeholder.svg",
+    image: "/assets/modern-farmhouse-kitchen-01.webp",
     imageAspectRatio: "1:1",
     sections: [
       {
@@ -1759,7 +1759,7 @@ export const articles: Article[] = [
     title: "Small Kitchen Decor: 20 Ways to Maximize Space",
     excerpt: "Discover 20 smart décor ideas to make the most of your small kitchen with style, organization, and efficiency.",
     category: "Kitchen",
-    image: "/assets/placeholder.svg",
+    image: "/assets/small-kitchen-01.webp",
     sections: [
       {
         title: "1. Open Shelving",
@@ -1896,7 +1896,7 @@ export const articles: Article[] = [
     title: "Finished Basement Ideas: 18 Add Style & Value",
     excerpt: "Transform your basement into a stylish and functional space that adds real value to your home with these 18 inspiring design ideas.",
     category: "Basement",
-    image: "/assets/placeholder.svg",
+    image: "/assets/basement-01.webp",
     imageAspectRatio: "1:1",
     sections: [
       {
@@ -2020,7 +2020,7 @@ export const articles: Article[] = [
     title: "Luxury Master Bathroom: 17 Spa-Like Ideas",
     excerpt: "Transform your master bathroom into a personal spa retreat with these 17 luxurious design ideas that blend comfort, elegance, and timeless style.",
     category: "Bathroom",
-    image: "/assets/placeholder.svg",
+    image: "/assets/luxury-master-bathroom-01.webp",
     imageAspectRatio: "1:1",
     sections: [
       {
