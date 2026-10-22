@@ -7,8 +7,8 @@ interface ArticleCardProps {
 }
 
 const ArticleCard = forwardRef<HTMLAnchorElement, ArticleCardProps>(({ article }, ref) => {
-  // Use the first section image if available, otherwise fall back to the main article image
-  const coverImage = article.sections?.[0]?.image || article.image;
+  // `image` is already resolved to the cover at the data layer
+  const coverImage = article.image;
   const categoryPath = article.category.toLowerCase().replace(/ /g, "-");
 
   return (

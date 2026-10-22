@@ -1,6 +1,7 @@
 import { useParams, Link } from "react-router-dom";
 import PageLayout from "@/components/PageLayout";
-import { articles } from "@/data/articles";
+import { useQuery } from "@tanstack/react-query";
+import { articles, loadArticleContent } from "@/data/articles";
 import { ArrowLeft, Check } from "lucide-react";
 import {
   Accordion,
@@ -21,9 +22,15 @@ const formatDate = (iso: string) =>
 
 const ArticlePage = () => {
   const { slug } = useParams<{ slug: string }>();
-  const article = articles.find((a) => a.slug === slug);
+  const meta = articles.find((a) => a.slug === slug);
+  const { data: content } = useQuery({
+    queryKey: ["article-content", slug],
+    queryFn: () => loadArticleContent(slug!),
+    enabled: !!meta,
+    staleTime: Infinity,
+  });
 
-  if (!article) {
+  if (!meta) {
     return (
       <PageLayout>
         <section className="container mx-auto px-6 py-12">
@@ -36,6 +43,7 @@ const ArticlePage = () => {
     );
   }
 
+  const article = { ...meta, ...content };
   const isSquareLayout = article.imageAspectRatio === "1:1";
 
   return (

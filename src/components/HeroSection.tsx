@@ -6,7 +6,7 @@ import { articles, Article } from "@/data/articles";
 const articlePath = (article: Article) =>
   `/${article.category.toLowerCase().replace(/ /g, "-")}/${article.slug}`;
 
-const coverOf = (article: Article) => article.sections?.[0]?.image || article.image;
+const coverOf = (article: Article) => article.image;
 
 interface FeatureCardProps {
   article: Article;
