@@ -734,5 +734,45 @@ export const articles: Article[] = [
     category: "Apartment",
     image: "/assets/new-year-home-organization-ideas-01.webp",
     imageAspectRatio: "1:1"
+  },
+  {
+    id: "85",
+    slug: "vertical-storage-ideas-for-small-apartments",
+    date: "2026-10-25",
+    title: "15 Vertical Storage Ideas for Small Apartments That Look Expensive",
+    excerpt: "Fifteen vertical storage ideas for small apartments that use every foot of wall height, from floor-to-ceiling shelving to over-door racks, without making your home feel cluttered.",
+    category: "Apartment",
+    image: "/assets/vertical-storage-ideas-for-small-apartments-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "86",
+    slug: "ikea-hacks-for-small-apartments",
+    date: "2026-10-25",
+    title: "17 IKEA Hacks for Small Apartments That Look Custom",
+    excerpt: "Seventeen IKEA hacks for small apartments that turn familiar pieces like KALLAX, BILLY, MALM and PAX into built-in-looking storage, seating, desks and workspaces, mostly with simple, renter-friendly changes.",
+    category: "Apartment",
+    image: "/assets/ikea-hacks-for-small-apartments-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "87",
+    slug: "dollar-tree-kitchen-organization-ideas",
+    date: "2026-10-25",
+    title: "15 Dollar Tree Kitchen Organization Ideas on a Budget",
+    excerpt: "Fifteen dollar-store kitchen organization ideas that use cheap, easy-to-find bins, baskets, racks and hooks to bring order to cabinets, drawers, the pantry and the fridge.",
+    category: "Kitchen",
+    image: "/assets/dollar-tree-kitchen-organization-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "88",
+    slug: "rental-entryway-ideas-for-apartments",
+    date: "2026-10-25",
+    title: "17 Rental Entryway Ideas for Apartments That Make a Great First Impression",
+    excerpt: "Seventeen rental entryway ideas for apartments that make a great first impression without a single hole in the wall, from leaning mirrors to freestanding benches and peel-and-stick style.",
+    category: "Living Room",
+    image: "/assets/rental-entryway-ideas-for-apartments-01.webp",
+    imageAspectRatio: "1:1"
   }
 ];
