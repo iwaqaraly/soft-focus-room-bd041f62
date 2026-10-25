@@ -674,5 +674,65 @@ export const articles: Article[] = [
     category: "Apartment",
     image: "/assets/narrow-laundry-room-ideas-01.webp",
     imageAspectRatio: "1:1"
+  },
+  {
+    id: "79",
+    slug: "small-kitchen-layout-ideas",
+    date: "2026-10-25",
+    title: "18 Small Kitchen Layout Ideas That Make Cooking Easier",
+    excerpt: "Eighteen small kitchen layout ideas covering work triangles, galley and L-shaped plans, island clearance and appliance placement to make cooking in a tight space easier.",
+    category: "Kitchen",
+    image: "/assets/small-kitchen-layout-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "80",
+    slug: "small-home-office-in-living-room-ideas",
+    date: "2026-10-25",
+    title: "17 Small Home Office Ideas for a Living Room Corner",
+    excerpt: "Seventeen small home office ideas for a living room corner, from wall-mounted desks and closet nooks to behind-sofa setups that disappear after work.",
+    category: "Home Office",
+    image: "/assets/small-home-office-in-living-room-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "81",
+    slug: "small-bathroom-storage-ideas",
+    date: "2026-10-25",
+    title: "16 Small Bathroom Storage Ideas for a Tidy and Stylish Space",
+    excerpt: "Sixteen small bathroom storage ideas — from over-toilet shelving and recessed niches to slim rolling carts — that give every bottle, towel, and toiletry a proper home.",
+    category: "Bathroom",
+    image: "/assets/small-bathroom-storage-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "82",
+    slug: "mudroom-ideas-for-small-homes",
+    date: "2026-10-25",
+    title: "19 Mudroom Ideas for Small Homes and Apartments",
+    excerpt: "Nineteen practical mudroom ideas for small homes and apartments, from hallway nooks and closet conversions to benches with shoe storage, hooks, and cubbies that keep every coat and pair of shoes in its place.",
+    category: "Living Room",
+    image: "/assets/mudroom-ideas-for-small-homes-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "83",
+    slug: "kitchen-cabinet-organization-ideas",
+    date: "2026-10-25",
+    title: "19 Kitchen Cabinet Organization Ideas for a More Functional Kitchen",
+    excerpt: "Nineteen cabinet-by-cabinet organization systems for base, upper, corner, drawer, pantry, and under-sink cabinets — with pull-outs, risers, dividers, and zones that make every inch work harder.",
+    category: "Kitchen",
+    image: "/assets/kitchen-cabinet-organization-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "84",
+    slug: "new-year-home-organization-ideas",
+    date: "2026-10-25",
+    title: "18 Home Organization Ideas to Start the New Year Fresh",
+    excerpt: "Eighteen practical home organization ideas, from a 15-minute daily reset to a room-by-room declutter plan, to help you start the new year with a calmer, tidier home.",
+    category: "Apartment",
+    image: "/assets/new-year-home-organization-ideas-01.webp",
+    imageAspectRatio: "1:1"
   }
 ];
