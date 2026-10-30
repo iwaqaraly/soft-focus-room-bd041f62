@@ -774,5 +774,25 @@ export const articles: Article[] = [
     category: "Living Room",
     image: "/assets/rental-entryway-ideas-for-apartments-01.webp",
     imageAspectRatio: "1:1"
+  },
+  {
+    id: "89",
+    slug: "peel-and-stick-wallpaper-ideas",
+    date: "2026-10-30",
+    title: "21 Peel-and-Stick Wallpaper Ideas for Renters and Beginners",
+    excerpt: "Twenty-one peel-and-stick wallpaper ideas for renters and beginners, from botanical accent walls and tile-look bathrooms to stair risers, closets and even the ceiling, with tips for a clean, removable finish.",
+    category: "Apartment",
+    image: "/assets/peel-and-stick-wallpaper-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "90",
+    slug: "guest-bathroom-ideas",
+    date: "2026-10-30",
+    title: "19 Guest Bathroom Ideas for a Warm and Welcoming Stay",
+    excerpt: "Nineteen guest bathroom ideas that make visitors feel at home, from boutique-style towels and essentials baskets to soft lighting, calming scents and smart small-space tricks.",
+    category: "Bathroom",
+    image: "/assets/guest-bathroom-ideas-01.webp",
+    imageAspectRatio: "1:1"
   }
 ];
