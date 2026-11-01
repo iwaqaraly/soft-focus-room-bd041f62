@@ -794,5 +794,25 @@ export const articles: Article[] = [
     category: "Bathroom",
     image: "/assets/guest-bathroom-ideas-01.webp",
     imageAspectRatio: "1:1"
+  },
+  {
+    id: "91",
+    slug: "small-garden-ideas",
+    date: "2026-11-01",
+    title: "20 Small Garden Ideas for Tiny Yards and Outdoor Spaces",
+    excerpt: "Turn a tiny yard into a beautiful outdoor room with smart layouts, budget paths, raised beds, and planting ideas that make every square foot work harder.",
+    category: "Garden",
+    image: "/assets/small-garden-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "92",
+    slug: "balcony-garden-ideas",
+    date: "2026-11-01",
+    title: "21 Balcony Garden Ideas for Tiny Spaces and Apartments",
+    excerpt: "Turn even the tiniest apartment balcony into a lush garden with vertical planters, railing pots, herbs, vegetables, and cozy seating nooks, all renter-friendly and easy to start.",
+    category: "Garden",
+    image: "/assets/balcony-garden-ideas-01.webp",
+    imageAspectRatio: "1:1"
   }
 ];
