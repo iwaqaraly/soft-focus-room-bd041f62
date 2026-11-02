@@ -814,5 +814,65 @@ export const articles: Article[] = [
     category: "Garden",
     image: "/assets/balcony-garden-ideas-01.webp",
     imageAspectRatio: "1:1"
+  },
+  {
+    id: "95",
+    slug: "kitchen-wall-decor-ideas",
+    date: "2026-11-02",
+    title: "21 Kitchen Wall Decor Ideas for a Stylish and Personal Kitchen",
+    excerpt: "From oversized art and open shelves to herb walls and plate displays, these 21 kitchen wall decor ideas will turn blank walls into the most personal and stylish part of your kitchen.",
+    category: "Kitchen",
+    image: "/assets/kitchen-wall-decor-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "96",
+    slug: "living-room-layout-ideas",
+    date: "2026-11-02",
+    title: "21 Living Room Layout Ideas for Every Room Shape and Size",
+    excerpt: "Struggling with an awkward, narrow, or open living room? These 21 layout ideas show exactly where to place your sofa, chairs, and tables for every room shape.",
+    category: "Living Room",
+    image: "/assets/living-room-layout-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "97",
+    slug: "white-kitchen-ideas",
+    date: "2026-11-02",
+    title: "21 White Kitchen Ideas for a Bright and Timeless Space",
+    excerpt: "Discover 21 white kitchen ideas, from classic Shaker cabinets and marble counters to bold black accents and warm wood touches, for a bright kitchen that never goes out of style.",
+    category: "Kitchen",
+    image: "/assets/white-kitchen-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "98",
+    slug: "kitchen-island-decor-ideas",
+    date: "2026-11-02",
+    title: "20 Kitchen Island Decor Ideas for a Stylish and Functional Kitchen",
+    excerpt: "From simple vases and trays to smart styling for large and small islands, these kitchen island decor ideas will help you create a beautiful, functional centerpiece you will love every day.",
+    category: "Kitchen",
+    image: "/assets/kitchen-island-decor-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "99",
+    slug: "bathroom-shelf-decor-ideas",
+    date: "2026-11-02",
+    title: "21 Bathroom Shelf Decor Ideas for a Pretty and Organized Bathroom",
+    excerpt: "Turn bare bathroom walls into beautiful, hardworking storage with these 21 shelf decor ideas, from floating shelves and spa touches to budget styling for small spaces.",
+    category: "Bathroom",
+    image: "/assets/bathroom-shelf-decor-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "100",
+    slug: "open-shelving-kitchen-ideas",
+    date: "2026-11-02",
+    title: "20 Open Shelving Kitchen Ideas for a Bright and Airy Kitchen",
+    excerpt: "Open shelves can make a kitchen feel brighter, bigger, and more personal — if they are styled with care. These 20 ideas show how to display dishes, glassware, plants, and cookbooks beautifully.",
+    category: "Kitchen",
+    image: "/assets/open-shelving-kitchen-ideas-01.webp",
+    imageAspectRatio: "1:1"
   }
 ];
