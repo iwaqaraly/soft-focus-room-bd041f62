@@ -874,5 +874,215 @@ export const articles: Article[] = [
     category: "Kitchen",
     image: "/assets/open-shelving-kitchen-ideas-01.webp",
     imageAspectRatio: "1:1"
+  },
+  {
+    id: "101",
+    slug: "basement-bar-ideas",
+    date: "2026-11-05",
+    title: "18 Basement Bar Ideas for a Stylish Home Hangout",
+    excerpt: "From rustic wood counters and moody dark cabinets to wet bars, wine storage, and smart small-space layouts, these basement bar ideas will help you build a stylish home hangout for every kind of gathering.",
+    category: "Basement",
+    image: "/assets/basement-bar-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "102",
+    slug: "basement-bedroom-ideas",
+    date: "2026-11-05",
+    title: "24 Basement Bedroom Ideas That Feel Like Upstairs",
+    excerpt: "Turn a lower-level room into a warm, bright retreat with layered light, soft bedding, and smart storage. These basement bedroom ideas make the space feel comfortable, inviting, and truly upstairs.",
+    category: "Basement",
+    image: "/assets/basement-bedroom-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "103",
+    slug: "small-basement-ideas",
+    date: "2026-11-05",
+    title: "23 Small Basement Ideas for a Functional and Inviting Space",
+    excerpt: "A small basement can still feel open and welcoming. These twenty compact ideas use smart layouts, layered light, and clever storage to turn limited space into a room you will love using daily.",
+    category: "Basement",
+    image: "/assets/small-basement-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "104",
+    slug: "basement-bathroom-ideas",
+    date: "2026-11-05",
+    title: "15 Basement Bathroom Ideas for a Bright and Stylish Space",
+    excerpt: "Turn a dark, low-ceilinged basement corner into a bright, stylish bathroom with moisture-smart finishes, space-saving fixtures, and clever lighting ideas made for below-grade rooms that feel fresh, open, and welcoming every day.",
+    category: "Basement",
+    image: "/assets/basement-bathroom-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "105",
+    slug: "home-office-organization-ideas",
+    date: "2026-11-05",
+    title: "23 Home Office Organization Ideas for a Tidy, Productive Space",
+    excerpt: "A tidy home office starts with systems, not willpower. These 23 organization ideas cover paper flow, supplies, cables, and daily routines so your workspace stays clear and productive.",
+    category: "Home Office",
+    image: "/assets/home-office-organization-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "106",
+    slug: "home-office-wall-decor-ideas",
+    date: "2026-11-05",
+    title: "17 Home Office Wall Decor Ideas to Inspire Your Workday",
+    excerpt: "Turn blank walls into a workspace that helps you focus, stay organized, and enjoy your workday with these practical and stylish home office wall decor ideas.",
+    category: "Home Office",
+    image: "/assets/home-office-wall-decor-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "107",
+    slug: "home-office-shelving-ideas",
+    date: "2026-11-05",
+    title: "25 Home Office Shelving Ideas for Storage and Style",
+    excerpt: "Turn blank office walls into hardworking storage with 25 shelving ideas for books, files, and supplies — from built-ins and floating shelves to smart corners and cord-hiding designs.",
+    category: "Home Office",
+    image: "/assets/home-office-shelving-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "108",
+    slug: "home-office-desk-decor-ideas",
+    date: "2026-11-05",
+    title: "17 Home Office Desk Decor Ideas for a Beautiful Workspace",
+    excerpt: "Turn a plain work surface into a workspace you love with twenty simple desk decor ideas, from trays and lamps to plants, organizers, and small personal touches.",
+    category: "Home Office",
+    image: "/assets/home-office-desk-decor-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "109",
+    slug: "outdoor-lighting-ideas",
+    date: "2026-11-05",
+    title: "25 Outdoor Lighting Ideas to Brighten Your Backyard and Patio",
+    excerpt: "Brighten your backyard and patio with warm, practical outdoor lighting. These 25 solar, string, path, and entrance ideas add glow, safety, and evening charm without complicated wiring.",
+    category: "Garden",
+    image: "/assets/outdoor-lighting-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "110",
+    slug: "container-garden-ideas",
+    date: "2026-11-05",
+    title: "20 Container Garden Ideas for Small Spaces and Patios",
+    excerpt: "Turn a tiny patio, balcony, or sunny doorstep into a lush garden with pots alone. These twenty container ideas bring herbs, flowers, vegetables, and greenery to even the smallest outdoor space.",
+    category: "Garden",
+    image: "/assets/container-garden-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "111",
+    slug: "raised-bed-garden-ideas",
+    date: "2026-11-05",
+    title: "23 Raised Bed Garden Ideas for a Beautiful, Productive Garden",
+    excerpt: "Build a garden that looks beautiful and grows plenty, with twenty raised bed ideas for vegetables, herbs, flowers, and fruit, plus simple layout and planting tips for any yard size.",
+    category: "Garden",
+    image: "/assets/raised-bed-garden-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "112",
+    slug: "patio-ideas",
+    date: "2026-11-05",
+    title: "24 Patio Ideas for a Relaxing Outdoor Escape",
+    excerpt: "From shaded lounge corners to family-friendly layouts, these twenty patio ideas will help you design an outdoor space that feels comfortable, inviting, and easy to enjoy every day.",
+    category: "Garden",
+    image: "/assets/patio-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "113",
+    slug: "bathroom-mirror-ideas",
+    date: "2026-11-05",
+    title: "17 Bathroom Mirror Ideas for a Brighter, More Stylish Bathroom",
+    excerpt: "From arched and round shapes to backlit designs and smart storage mirrors, these twenty bathroom mirror ideas will brighten your space, add style, and make your daily routine feel easier.",
+    category: "Bathroom",
+    image: "/assets/bathroom-mirror-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "114",
+    slug: "walk-in-shower-ideas",
+    date: "2026-11-05",
+    title: "19 Walk-In Shower Ideas for a Sleek and Modern Bathroom",
+    excerpt: "From curbless entries to frameless glass and bold tile, these twenty walk-in shower ideas show how to make your bathroom feel open, modern, and easy to use every day.",
+    category: "Bathroom",
+    image: "/assets/walk-in-shower-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "115",
+    slug: "renter-friendly-bathroom-ideas",
+    date: "2026-11-05",
+    title: "23 Renter Friendly Bathroom Ideas That Won't Cost Your Deposit",
+    excerpt: "Twenty renter friendly bathroom ideas that refresh your space without drilling, painting, or permanent changes, using removable, freestanding, and take-with-you upgrades that protect your deposit.",
+    category: "Bathroom",
+    image: "/assets/renter-friendly-bathroom-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "116",
+    slug: "bathroom-vanity-ideas",
+    date: "2026-11-05",
+    title: "22 Bathroom Vanity Ideas for a Stylish and Functional Bathroom",
+    excerpt: "From floating designs to double vanities and warm wood finishes, these bathroom vanity ideas help you choose a stylish, practical centerpiece that suits your space and daily routine.",
+    category: "Bathroom",
+    image: "/assets/bathroom-vanity-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "117",
+    slug: "kitchen-backsplash-ideas",
+    date: "2026-11-05",
+    title: "17 Kitchen Backsplash Ideas for a Fresh, Modern Kitchen",
+    excerpt: "From classic subway tile to bold patterned cement, these 17 kitchen backsplash ideas bring color, texture, and personality to your walls. Find a fresh, modern look that suits your kitchen perfectly.",
+    category: "Kitchen",
+    image: "/assets/kitchen-backsplash-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "118",
+    slug: "kitchen-runner-rug-ideas",
+    date: "2026-11-05",
+    title: "17 Kitchen Runner Rug Ideas for a Warm and Practical Kitchen",
+    excerpt: "Find kitchen runner rug ideas that stand up to spills, cooking and daily foot traffic. These washable, durable picks add warmth and comfort exactly where you stand, cook and clean.",
+    category: "Kitchen",
+    image: "/assets/kitchen-runner-rug-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "119",
+    slug: "master-bedroom-decor-ideas",
+    date: "2026-11-05",
+    title: "24 Master Bedroom Decor Ideas for a Cozy and Elegant Retreat",
+    excerpt: "Transform your primary bedroom into a calm, elegant retreat with layered bedding, warm lighting, plush textures, and thoughtful furniture choices that make the space feel both luxurious and deeply comfortable.",
+    category: "Bedroom",
+    image: "/assets/master-bedroom-decor-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "120",
+    slug: "blue-bedroom-ideas",
+    date: "2026-11-05",
+    title: "19 Blue Bedroom Ideas for a Serene and Stylish Retreat",
+    excerpt: "From deep navy walls to soft sky blue bedding, these 19 blue bedroom ideas show how to layer shades for a calm, stylish retreat that feels restful, fresh, and easy to live with every day.",
+    category: "Bedroom",
+    image: "/assets/blue-bedroom-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "121",
+    slug: "kids-bedroom-ideas",
+    date: "2026-11-05",
+    title: "22 Kids Bedroom Ideas for a Fun and Playful Space",
+    excerpt: "Turn a plain kids room into a place made for play, rest, and imagination. These twenty cheerful ideas add color, storage, and cozy corners without a full remodel.",
+    category: "Bedroom",
+    image: "/assets/kids-bedroom-ideas-01.webp",
+    imageAspectRatio: "1:1"
   }
 ];
