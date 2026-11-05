@@ -1074,5 +1074,15 @@ export const articles: Article[] = [
     category: "Bedroom",
     image: "/assets/kids-bedroom-ideas-01.webp",
     imageAspectRatio: "1:1"
+  },
+  {
+    id: "122",
+    slug: "vision-board-wall-ideas",
+    date: "2026-11-05",
+    title: "19 Vision Board Wall Ideas to Inspire Your Best Year",
+    excerpt: "Turn a blank wall into a daily dose of motivation with these 19 vision board wall ideas, from classic cork boards to dreamy clip displays, all styled for a calm and beautiful bedroom.",
+    category: "Bedroom",
+    image: "/assets/vision-board-wall-ideas-01.webp",
+    imageAspectRatio: "1:1"
   }
 ];
