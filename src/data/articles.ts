@@ -876,16 +876,6 @@ export const articles: Article[] = [
     imageAspectRatio: "1:1"
   },
   {
-    id: "101",
-    slug: "basement-bar-ideas",
-    date: "2026-11-05",
-    title: "18 Basement Bar Ideas for a Stylish Home Hangout",
-    excerpt: "From rustic wood counters and moody dark cabinets to wet bars, wine storage, and smart small-space layouts, these basement bar ideas will help you build a stylish home hangout for every kind of gathering.",
-    category: "Basement",
-    image: "/assets/basement-bar-ideas-01.webp",
-    imageAspectRatio: "1:1"
-  },
-  {
     id: "102",
     slug: "basement-bedroom-ideas",
     date: "2026-11-05",
