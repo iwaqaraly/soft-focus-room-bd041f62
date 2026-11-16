@@ -1084,5 +1084,25 @@ export const articles: Article[] = [
     category: "Bedroom",
     image: "/assets/vision-board-wall-ideas-01.webp",
     imageAspectRatio: "1:1"
+  },
+  {
+    id: "123",
+    slug: "guest-bedroom-ideas",
+    date: "2026-11-16",
+    title: "18 Guest Bedroom Ideas to Make Visitors Feel at Home",
+    excerpt: "Make every guest feel truly welcome with these 18 guest bedroom ideas — from layered bedding and fresh towels to thoughtful touches like a charging station, a snack basket, and a quiet corner to read.",
+    category: "Bedroom",
+    image: "/assets/guest-bedroom-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "124",
+    slug: "black-kitchen-ideas",
+    date: "2026-11-16",
+    title: "22 Black Kitchen Ideas That Prove Dark Can Be Warm",
+    excerpt: "Black kitchens can feel cold, but they don't have to. These 22 ideas show how warm wood, brass, soft lighting, and rich textures turn a dark kitchen into a cozy, welcoming space you'll love.",
+    category: "Kitchen",
+    image: "/assets/black-kitchen-ideas-01.webp",
+    imageAspectRatio: "1:1"
   }
 ];
