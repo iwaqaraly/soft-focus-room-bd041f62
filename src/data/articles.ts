@@ -1104,5 +1104,125 @@ export const articles: Article[] = [
     category: "Kitchen",
     image: "/assets/black-kitchen-ideas-01.webp",
     imageAspectRatio: "1:1"
+  },
+  {
+    id: "125",
+    slug: "basement-gym-ideas",
+    date: "2026-11-17",
+    title: "22 Basement Gym Ideas for a Practical Home Workout Space",
+    excerpt: "Turn an underused basement into a home gym you will actually love using. These 22 practical ideas cover flooring, lighting, storage, and smart layouts for every size and budget.",
+    category: "Basement",
+    image: "/assets/basement-gym-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "126",
+    slug: "basement-laundry-room-ideas",
+    date: "2026-11-17",
+    title: "16 Basement Laundry Room Ideas for a Bright and Organized Space",
+    excerpt: "Turn your basement laundry room into a bright, organized space with smart storage, moisture-proof flooring, layered lighting, and clever folding and drying stations that make wash day easier.",
+    category: "Basement",
+    image: "/assets/basement-laundry-room-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "127",
+    slug: "basement-playroom-ideas",
+    date: "2026-11-17",
+    title: "18 Basement Playroom Ideas for Fun and Safe Play",
+    excerpt: "Turn an unused basement into a joyful playroom with soft floors, smart toy storage, cozy reading corners, and safe climbing zones your children will love every day.",
+    category: "Basement",
+    image: "/assets/basement-playroom-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "128",
+    slug: "bedroom-wall-decor-ideas",
+    date: "2026-11-17",
+    title: "24 Bedroom Wall Decor Ideas to Make Your Room Feel Finished",
+    excerpt: "Give your bedroom walls the attention they deserve with these 24 decor ideas — from oversized art and gallery walls to mirrors, tapestries, shelves, and warm lighting that make the whole room feel complete.",
+    category: "Bedroom",
+    image: "/assets/bedroom-wall-decor-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "129",
+    slug: "front-porch-decor-ideas",
+    date: "2026-11-17",
+    title: "19 Front Porch Decor Ideas for a Welcoming First Impression",
+    excerpt: "Make your front porch warm and inviting with these 19 decor ideas, from rocking chairs and porch swings to layered doormats, glowing lanterns, and planters full of greenery.",
+    category: "Garden",
+    image: "/assets/front-porch-decor-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "130",
+    slug: "living-room-lighting-ideas",
+    date: "2026-11-17",
+    title: "23 Living Room Lighting Ideas for a Warm and Inviting Glow",
+    excerpt: "Discover 23 living room lighting ideas that turn a plain space into a warm, welcoming retreat. From layered lamps to dimmers and statement fixtures, find simple ways to brighten every corner beautifully.",
+    category: "Living Room",
+    image: "/assets/living-room-lighting-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "131",
+    slug: "living-room-paint-color-ideas",
+    date: "2026-11-17",
+    title: "17 Living Room Paint Colors for a Fresh and Beautiful Space",
+    excerpt: "Discover 17 living room paint colors that feel fresh, warm, and timeless — from soft sage and warm white to bold navy and terracotta — with tips for choosing the right shade for your space.",
+    category: "Living Room",
+    image: "/assets/living-room-paint-color-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "132",
+    slug: "living-room-shelf-decor-ideas",
+    date: "2026-11-17",
+    title: "19 Living Room Shelf Decor Ideas for a Stylish and Personal Touch",
+    excerpt: "Turn bare walls into a warm, personal display with these 19 living room shelf decor ideas, from floating shelves and built-ins to plants, books, and thoughtful collections.",
+    category: "Living Room",
+    image: "/assets/living-room-shelf-decor-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "133",
+    slug: "new-year-bedroom-refresh-ideas",
+    date: "2026-11-17",
+    title: "15 New Year Bedroom Refresh Ideas for a Fresh Start",
+    excerpt: "Start the year with a calmer, brighter bedroom. These 15 fresh-start ideas cover new bedding, softer light, a better layout, and small upgrades that help you sleep well and wake up rested.",
+    category: "Bedroom",
+    image: "/assets/new-year-bedroom-refresh-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "134",
+    slug: "sectional-sofa-ideas",
+    date: "2026-11-17",
+    title: "16 Sectional Sofa Ideas for a Comfortable and Stylish Living Room",
+    excerpt: "A sectional sofa can anchor your whole living room. These sixteen ideas cover shapes, fabrics, colors, and layouts to help you find one that fits your space and your life.",
+    category: "Living Room",
+    image: "/assets/sectional-sofa-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "135",
+    slug: "small-backyard-ideas",
+    date: "2026-11-17",
+    title: "25 Small Backyard Ideas to Make the Most of Your Outdoor Space",
+    excerpt: "Turn a tiny yard into a place you actually love with clever zones, cozy seating, smart storage, and shade that fits. These twenty-five ideas help every square foot work harder without a big remodel.",
+    category: "Garden",
+    image: "/assets/small-backyard-ideas-01.webp",
+    imageAspectRatio: "1:1"
+  },
+  {
+    id: "136",
+    slug: "thrifted-home-decor-ideas",
+    date: "2026-11-17",
+    title: "21 Thrifted Home Decor Ideas for a Beautiful Home on a Budget",
+    excerpt: "Discover 21 thrifted home decor ideas that turn secondhand finds into a warm, collected home. From vintage furniture to woven baskets, these easy styling tips prove beautiful decorating does not need a big budget.",
+    category: "Apartment",
+    image: "/assets/thrifted-home-decor-ideas-01.webp",
+    imageAspectRatio: "1:1"
   }
 ];
